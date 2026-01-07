@@ -770,7 +770,7 @@
     html += `<div class="mcq-options">`;
 
     mcq.options.forEach(opt => {
-      const m = opt.match(/^([A-D])\.\\s*(.*)$/);
+      const m = opt.match(/^([A-D])\.\s*(.*)$/);
       if (!m) return;
       const letter = m[1];
       const text = m[2];
