@@ -15,18 +15,25 @@
 
 ## TOPIC 1: Payments Regulatory Board (PRB)
 
-- Amended **Payment and Settlement Systems Act, 2007** ke तहत  
-  RBI ke अंदर **Payments Regulatory Board (PRB)** बनायी गयी,  
-  jisne पुरानी body **BPSS** ko replace kiya.  
-- Chairperson: **RBI Governor**.  
-- Role:  
-  - payment & settlement systems ka regulation,  
-  - UPI, NEFT, RTGS, cards, wallets etc. ke लिये overall policy oversight.
+### Kya hua?
 
-**SSC exam points:**
+- 2025 me Parliament ne **Payment and Settlement Systems Act, 2007** me संशोधन karke  
+  RBI ke अंदर ek नयी नियामक body **Payments Regulatory Board (PRB)** बनाने ka प्रावधान किया.  
+- यह संशोधन **9 May 2025** se लागू हुआ aur PRB ne पुरानी body  
+  **BPSS – Board for Regulation and Supervision of Payment and Settlement Systems** ko replace kar diya.  
+- इसके बाद **5 January 2026** ko Mumbai me PRB ki **पहली meeting** hui:  
+  - बैठक की अध्यक्षता RBI Governor ne की.  
+  - Board ne RBI ke **Department of Payment & Settlement Systems (DPSS)** ke काम,  
+    चल रही payment schemes (UPI, NEFT/RTGS, card networks, PPIs) aur risk areas ka review किया.  
+  - Draft **“Payments Vision 2028”** par चर्चा hui – kis तरह se digital payments ko  
+    और सुरक्षित, तेज़ aur inclusive banaya जाए.  
+  - RBI ke हाल ke **Survey on Digital Payments** ke मुख्य findings भी members ke साथ share kiya गया.
 
-- PRB – किसको replace kiya? → **BPSS.**  
-- PRB किस Act se जुड़ी hai? → **PSS Act, 2007.**
+### SSC exam points:
+
+- PRB किसको replace karta hai? → **BPSS.**  
+- PRB किस Act से जुड़ा hai? → **Payment and Settlement Systems Act, 2007 (amended).**  
+- First meeting कब hui? → **5 January 2026, Mumbai** (RBI HQ context).
 
 **Memory Trick – “PRB – Payments Rules Board”**
 
