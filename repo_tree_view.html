@@ -643,43 +643,89 @@
     strongColorIndex = 0;
 
     let currentMcq = null;
+    let inMcqSection = false;
 
     for (const line of lines) {
+      const trimmed = line.trim();
+
+      // MCQ section headings
+      if (line.startsWith("## ") && /MCQ/i.test(line)) {
+        if (currentMcq) {
+          html += renderMcq(currentMcq);
+          currentMcq = null;
+        }
+        inMcqSection = true;
+        html += `<div class="h2">${applyInlineStyles(line.replace(/^##\s*/, ""))}</div>`;
+        continue;
+      }
+
+      // Other H2 headings end MCQ section
+      if (line.startsWith("## ") && !/MCQ/i.test(line)) {
+        if (currentMcq) {
+          html += renderMcq(currentMcq);
+          currentMcq = null;
+        }
+        inMcqSection = false;
+        html += `<div class="h2">${applyInlineStyles(line.replace(/^##\s*/, ""))}</div>`;
+        continue;
+      }
+
+      // MCQ question (Bank style: ### Q...)
       if (line.startsWith("### Q")) {
         if (currentMcq) {
           html += renderMcq(currentMcq);
           currentMcq = null;
         }
+        inMcqSection = true;
         currentMcq = {
           question: line.replace(/^###\s*/, ""),
           options: [],
           answer: null
         };
-      } else if (currentMcq && /^[A-D]\.\s+/.test(line.trim())) {
-        currentMcq.options.push(line.trim());
-      } else if (currentMcq && line.startsWith("**Answer:**")) {
-        const match = line.match(/\*\*Answer:\*\*\s*([A-D])/i);
+        continue;
+      }
+
+      // MCQ question (SSC style: "1. ...") inside MCQ section
+      if (inMcqSection && !currentMcq && /^\d+\.\s+/.test(trimmed)) {
+        currentMcq = {
+          question: trimmed,
+          options: [],
+          answer: null
+        };
+        continue;
+      }
+
+      // MCQ options A–D
+      if (currentMcq && /^[A-D]\.\s+/.test(trimmed)) {
+        currentMcq.options.push(trimmed);
+        continue;
+      }
+
+      // MCQ Answer line
+      if (currentMcq && trimmed.startsWith("**Answer:**")) {
+        const match = trimmed.match(/\*\*Answer:\*\*\s*([A-D])/i);
         if (match) currentMcq.answer = match[1].toUpperCase();
         html += renderMcq(currentMcq);
         currentMcq = null;
-      } else {
-        if (currentMcq && line.trim() === "") {
-          // MCQ block ke andar aane wale blank lines ko ignore karo
-          continue;
-        }
-        if (line.startsWith("# ")) {
-          html += `<div class="h1">${applyInlineStyles(line.replace(/^#\s*/, ""))}</div>`;
-        } else if (line.startsWith("## ")) {
-          html += `<div class="h2">${applyInlineStyles(line.replace(/^##\s*/, ""))}</div>`;
-        } else if (line.startsWith("### ")) {
-          html += `<div class="h3">${applyInlineStyles(line.replace(/^###\s*/, ""))}</div>`;
-        } else if (line.startsWith("- ") || line.startsWith("* ")) {
-          html += `<div class="bullet">${applyInlineStyles(line.replace(/^[-*]\s*/, ""))}</div>`;
-        } else if (line.trim() === "") {
-          html += "<br>";
-        } else if (!line.startsWith("**Answer:**")) {
-          html += applyInlineStyles(line) + "\n";
-        }
+        continue;
+      }
+
+      // Inside MCQ block, ignore pure blank lines
+      if (currentMcq && trimmed === "") {
+        continue;
+      }
+
+      // Normal markdown rendering
+      if (line.startsWith("# ")) {
+        html += `<div class="h1">${applyInlineStyles(line.replace(/^#\s*/, ""))}</div>`;
+      } else if (line.startsWith("### ")) {
+        html += `<div class="h3">${applyInlineStyles(line.replace(/^###\s*/, ""))}</div>`;
+      } else if (line.startsWith("- ") || line.startsWith("* ")) {
+        html += `<div class="bullet">${applyInlineStyles(line.replace(/^[-*]\s*/, ""))}</div>`;
+      } else if (trimmed === "") {
+        html += "<br>";
+      } else if (!trimmed.startsWith("**Answer:**")) {
+        html += applyInlineStyles(line) + "\n";
       }
     }
 
