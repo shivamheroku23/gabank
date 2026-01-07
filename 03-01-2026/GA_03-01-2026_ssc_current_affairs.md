@@ -1,0 +1,182 @@
+# Date: 03-01-2026  
+**Exam Focus:** SSC (CGL/CHSL/CPO/State Exams – GA + Sci/Tech + Governance)
+
+---
+
+## Aaj ke TOP SSC Current Affairs Topics (3 Jan 2026)
+
+1. Rashtrapati Bhavan me **SOAR – Skilling for AI Readiness** programme  
+2. Centre ka **Integrated e‑Bill System** – fertiliser subsidy ke bills ko पूरी तरह digital karna  
+3. Tobacco/pan masala ke liye **Health & National Security Cess** (sin goods tax)  
+4. **Land Stack** – Digital India Land Records Modernisation (DILRMP) ka हिस्सा  
+5. RBI ka **Financial Stability Report & Capital Conservation Buffer (CCB)**
+
+---
+
+## TOPIC 1: SOAR – Skilling for AI Readiness (Rashtrapati Bhavan Event)
+
+- **1 January 2026**, Rashtrapati Bhavan Cultural Centre, New Delhi:  
+  - President **Droupadi Murmu** ne **SOAR – Skilling for AI Readiness** ke तहत  
+    कई AI‑skilling initiatives launch kiye (PIB press releases).  
+- Ministry: **Ministry of Skill Development & Entrepreneurship (MSDE)**.  
+- Highlights:  
+  - **#SkillTheNation Challenge** – AI awareness campaign,  
+  - “AI for Beginners” interactive session (Google ke सहयोग से),  
+  - IGNOU Regional Centre & Skill Centre (Rairangpur, Odisha) ka virtual inauguration.
+
+**SSC exam points:**
+
+- SOAR – किस क्षेत्र se जुड़ा है? → **AI skilling / emerging tech skills.**  
+- किसने launch किया? → **President Droupadi Murmu** (event में मुख्य guest).  
+- Ministry? → **MSDE (Skill Development).**
+
+**Memory Trick – “SOAR = Skill Our AI Rashtra”**
+
+> SOAR ko याद रखो: **Skill Our AI Rashtra** –  
+> मतलब पूरा देश AI ready workforce बने।
+
+---
+
+## TOPIC 2: Integrated e‑Bill System – Fertiliser Subsidies
+
+- **1 Jan 2026**, Kartavya Bhawan, New Delhi:  
+  - Union Minister **J.P. Nadda** (Chemicals & Fertilisers) ne  
+    **Integrated e‑Bill System for Fertiliser Subsidies** launch किया।  
+- Purpose:  
+  - लगभग **₹2 lakh crore** ki annual fertiliser subsidy ke सारे bills  
+    अब पूरी तरह online, paperless, end‑to‑end digital ho jayenge।  
+- Features:  
+  - Companies online claim submit करेंगे,  
+  - iFMS + PFMS integration se **real‑time tracking**,  
+  - FIFO processing, digital audit trail, less fraud / delay।
+
+**SSC exam points:**
+
+- e‑Bill System किस ministry से जुड़ा है? → **Ministry of Chemicals & Fertilisers.**  
+- किस sector ke bills ke liye? → **Fertiliser subsidies.**
+
+**Memory Trick – “फर्टिलाइज़र ke बिल bhi अब e‑mail type”**
+
+> Line: **“Fertiliser ke bill – अब file nahi, mile e‑Bill.”**
+
+---
+
+## TOPIC 3: Health & National Security Cess – Sin Goods Par Naya भार
+
+- Government ne decide किया ki  
+  tobacco products, pan masala, gutkha jaise **sin goods** par  
+  existing **GST Compensation Cess** को धीरे‑धीरे replace karke  
+  **Additional Excise Duty + Health & National Security Cess** लगाया जाए।  
+- उद्देश्य:  
+  - Health‑related नुक़सान ka कुछ हिस्सा वसूलना,  
+  - National security / health schemes ke लिये specific fund.
+
+**SSC exam points:**
+
+- Health & National Security Cess किस par lagta hai? → **Tobacco/pan masala etc.**  
+- यह किस type ka tax hai? → **Indirect tax + cess (GST/Excise ke ऊपर).**
+
+**Memory Trick – “HN = Health & Nation”**
+
+> पहले “Compensation Cess”, ab “HN Cess” – **Health & Nation** ke नाम par extra tax.
+
+---
+
+## TOPIC 4: Land Stack – Digital Land Records (DILRMP)
+
+- Digital India Land Records Modernisation Programme (DILRMP) ke तहत  
+  सरकार ने **Land Stack** concept adopt किया –  
+  land records, maps, encumbrances ko ek जगह digital integrate karne ke लिये।  
+- Pilot: **Chandigarh** aur **Tamil Nadu** jaise राज्यों me  
+  GIS‑based land डेटा को एक platform पर लाया जा रहा है।
+
+**SSC exam points:**
+
+- DILRMP किससे संबंधित है? → **Land record modernisation / computerisation.**  
+- Land Stack – land data ko **digital “stack” / layer** ke रूप me integrate karta है।
+
+**Memory Trick – “Land Stack = जमीन ka Digi‑Folder”**
+
+> जम़ीन ke sab documents ek digital folder me – बस यही **Land Stack**.
+
+---
+
+## TOPIC 5: RBI Financial Stability Report & Capital Conservation Buffer (CCB)
+
+- RBI की **Financial Stability Report (FSR)** me bataya gaya:  
+  - Baseline / moderate stress scenario me kuch banks ko  
+    अपने **Capital Conservation Buffer (CCB)** tak capital use karna पड़ सकता है,  
+  - लेकिन system‑wide capital adequacy comfortable hai.  
+- CCB = Basel‑III ka extra capital layer – approx **2.5% of Risk‑Weighted Assets**.
+
+**SSC exam points:**
+
+- CCB किसका हिस्सा है? → **Basel‑III capital norms.**  
+- Role: **“extra cushion”** – downturn me losses absorb karne ke लिये.
+
+**Memory Trick – “CCB = Cushion Capital Buffer”**
+
+> बस याद रखो: **CCB = Cushion Capital Buffer** –  
+> bank गिरने लगे to थोड़ा cushion बचा रहे।
+
+---
+
+## Super Short 1-Liner Revision – SSC (03-01-2026)
+
+1. **SOAR** – Skill India ka AI skilling programme, Rashtrapati Bhavan event, MSDE ministry.  
+2. **Integrated e‑Bill** – fertiliser subsidy ke bills ke लिये fully digital system (J.P. Nadda).  
+3. **Health & National Security Cess** – tobacco/pan masala jaise sin goods par.  
+4. **Land Stack** – Digital India land records modernisation, secured lending me मदद.  
+5. **CCB** – Basel‑III ka extra capital cushion.
+
+---
+
+## MCQs – SSC (03-01-2026)
+
+1. SOAR programme मुख्यतः किससे सम्बंधित है?  
+   A. Space exploration  
+   B. Artificial Intelligence skilling  
+   C. Rural housing  
+   D. Oceanography  
+
+   **Answer:** B  
+
+---
+
+2. Integrated e‑Bill System (1 Jan 2026) किस प्रकार ki subsidies ke bills ke लिये है?  
+   A. Food subsidy (PDS)  
+   B. Fertiliser subsidy  
+   C. LPG subsidy  
+   D. Scholarship schemes  
+
+   **Answer:** B  
+
+---
+
+3. Health & National Security Cess किस प्रकार ke products par लगाया गया है?  
+   A. Wheat & rice  
+   B. School uniforms  
+   C. Tobacco, pan masala आदि sin goods  
+   D. Solar panels  
+
+   **Answer:** C  
+
+---
+
+4. Digital India Land Records Modernisation Programme (DILRMP) ka मुख्य purpose kya hai?  
+   A. Health records digitisation  
+   B. Land records computerisation and modernisation  
+   C. School attendance tracking  
+   D. Railway ticketing  
+
+   **Answer:** B  
+
+---
+
+5. Capital Conservation Buffer (CCB) किस international regulatory framework ka हिस्सा hai?  
+   A. Basel‑III capital norms  
+   B. Kyoto Protocol  
+   C. Paris Agreement  
+   D. SAARC Charter  
+
+   **Answer:** A
