@@ -183,13 +183,103 @@
     .content {
       flex: 1 1 auto;
       padding: 16px 18px 18px;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      gap: 16px;
+    }
+
+    .tree-container {
+      min-width: 420px;
+      max-width: 520px;
+      padding-bottom: 40px;
+      overflow: auto;
+    }
+
+    .preview {
+      flex: 1 1 auto;
+      border-radius: 18px;
+      border: 1px solid rgba(31,41,55,0.9);
+      background: radial-gradient(circle at top, rgba(15,23,42,0.98), rgba(15,23,42,1));
+      box-shadow:
+        0 22px 60px rgba(15,23,42,0.9),
+        0 0 0 1px rgba(15,23,42,0.9);
+      padding: 14px 18px 14px;
       overflow: auto;
       position: relative;
     }
 
-    .tree-container {
-      min-width: 880px;
-      padding-bottom: 40px;
+    .preview-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .preview-title {
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: #38bdf8;
+    }
+
+    .preview-path {
+      font-size: 11px;
+      color: #9ca3af;
+    }
+
+    .preview-body {
+      font-size: 13px;
+      line-height: 1.6;
+      color: #e5e7eb;
+      white-space: pre-wrap;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    .preview-body .h1 {
+      font-size: 22px;
+      font-weight: 900;
+      color: #f97316;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin: 10px 0 4px;
+    }
+
+    .preview-body .h2 {
+      font-size: 18px;
+      font-weight: 800;
+      color: #22c55e;
+      margin: 10px 0 4px;
+    }
+
+    .preview-body .h3 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #38bdf8;
+      margin: 8px 0 4px;
+    }
+
+    .preview-body .bullet {
+      padding-left: 14px;
+      position: relative;
+    }
+
+    .preview-body .bullet::before {
+      content: "• ";
+      color: #eab308;
+      position: absolute;
+      left: 0;
+    }
+
+    .preview-empty {
+      font-size: 13px;
+      color: #9ca3af;
+    }
+
+    .preview-loading {
+      font-size: 13px;
+      color: #e5e7eb;
     }
 
     .level-row {
@@ -418,10 +508,16 @@
         <span>GitHub से डेटा लोड हो रहा है…</span>
       </div>
       <div id="tree" class="tree-container" style="display:none;"></div>
+      <div id="preview" class="preview" style="display:none;">
+        <div class="preview-header">
+          <div class="preview-title">PREVIEW</div>
+          <div class="preview-path" id="preview-path"></div>
+        </div>
+        <div id="preview-body" class="preview-body"></div>
+      </div>
     </section>
   </main>
 </div>
-
 <script>
   const OWNER = "shivamheroku23";
   const REPO = "gabank";
@@ -429,6 +525,9 @@
 
   const statusEl = document.getElementById("status");
   const treeEl = document.getElementById("tree");
+  const previewEl = document.getElementById("preview");
+  const previewPathEl = document.getElementById("preview-path");
+  const previewBodyEl = document.getElementById("preview-body");
   const toggleButtons = document.querySelectorAll(".toggle-btn");
 
   let cachedTree = null;
@@ -477,7 +576,7 @@
           name: item.name,
           path: item.path,
           type: "file",
-          download_url: item.html_url || item.download_url
+          download_url: item.download_url
         });
       }
     }
@@ -485,7 +584,6 @@
   }
 
   function isDateFolder(name) {
-    // expect patterns like 01-01-2026
     return /^\d{2}-\d{2}-\d{4}$/.test(name);
   }
 
@@ -500,6 +598,10 @@
 
     statusEl.style.display = "none";
     treeEl.style.display = "block";
+    previewEl.style.display = "block";
+    if (!previewBodyEl.textContent.trim()) {
+      previewBodyEl.innerHTML = "<div class='preview-empty'>कोई .md फाइल चुनें – उसकी सामग्री यहां बड़े, colourfull format में दिखाई देगी।</div>";
+    }
   }
 
   function createNodeCard(node) {
@@ -545,29 +647,15 @@
     }
     card.appendChild(sub);
 
-    if (node.type === "file") {
-      const link = document.createElement("a");
-      link.className = "node-link";
-      link.href = `https://github.com/${OWNER}/${REPO}/blob/main/${node.path}`;
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      link.textContent = "Open on GitHub";
-      card.appendChild(link);
-    } else if (node.path !== "") {
-      const link = document.createElement("a");
-      link.className = "node-link";
-      link.href = `https://github.com/${OWNER}/${REPO}/tree/main/${node.path}`;
-      link.target = "_blank";
-      link.rel = "noopener noreferrer";
-      link.textContent = "Open folder on GitHub";
-      card.appendChild(link);
+    if (node.type === "file" && isMd) {
+      card.style.cursor = "pointer";
+      card.addEventListener("click", () => loadMdPreview(node));
     }
 
     return card;
   }
 
   function renderGrouped(root) {
-    // root level: group date folders vs others
     const topDates = [];
     const topOthers = [];
 
@@ -581,7 +669,6 @@
 
     const levels = [];
 
-    // Level 1: date folders row
     if (topDates.length) {
       levels.push({
         label: "DATE FOLDERS",
@@ -589,7 +676,6 @@
       });
     }
 
-    // Level 2+: for each date folder – its files
     topDates.forEach(dateDir => {
       if (dateDir.children && dateDir.children.length) {
         levels.push({
@@ -599,7 +685,6 @@
       }
     });
 
-    // Root others (gabank.txt etc.)
     if (topOthers.length) {
       levels.push({
         label: "ROOT FILES / OTHER FOLDERS",
@@ -662,6 +747,53 @@
     treeEl.appendChild(row);
   }
 
+  async function loadMdPreview(node) {
+    try {
+      previewBodyEl.innerHTML = "<div class='preview-loading'>फाइल लोड हो रही है…</div>";
+      previewPathEl.textContent = node.path;
+
+      const res = await fetch(node.download_url);
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}`);
+      }
+      const text = await res.text();
+      previewBodyEl.innerHTML = highlightMarkdown(text);
+    } catch (err) {
+      console.error(err);
+      previewBodyEl.innerHTML = "<div class='preview-empty'>फाइल लोड नहीं हो पाई। बाद में try करो।</div>";
+    }
+  }
+
+  function highlightMarkdown(raw) {
+    const lines = raw.split(/\r?\n/);
+    let html = "";
+
+    for (const line of lines) {
+      if (line.startsWith("# ")) {
+        html += `<div class="h1">${escapeHtml(line.replace(/^#\s*/, ""))}</div>`;
+      } else if (line.startsWith("## ")) {
+        html += `<div class="h2">${escapeHtml(line.replace(/^##\s*/, ""))}</div>`;
+      } else if (line.startsWith("### ")) {
+        html += `<div class="h3">${escapeHtml(line.replace(/^###\s*/, ""))}</div>`;
+      } else if (line.startsWith("- ") || line.startsWith("* ")) {
+        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\s*/, ""))}</div>`;
+      } else if (line.trim() === "") {
+        html += "<br>";
+      } else {
+        html += `${escapeHtml(line)}\n`;
+      }
+    }
+
+    return html;
+  }
+
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+
   (async function init() {
     try {
       const tree = await buildTree("");
@@ -676,6 +808,6 @@
       `;
     }
   })();
-</script>
+  </script>
 </body>
 </html>
