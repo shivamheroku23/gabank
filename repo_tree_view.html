@@ -181,30 +181,61 @@
       flex: 1 1 auto;
       border-radius: 18px;
       border: 1px solid var(--panel-border);
-      background: #050816;
+      background: #020a1a;
       box-shadow:
-        0 18px 44px rgba(0,0,0,0.9),
+        0 22px 50px rgba(0,0,0,0.95),
         0 0 0 1px #020617;
       padding: 10px 18px 14px;
       overflow: auto;
+      position: relative;
+    }
+
+    .preview.fullscreen {
+      position: fixed;
+      inset: 0;
+      margin: 0;
+      border-radius: 0;
+      z-index: 40;
+      border: none;
     }
 
     .preview-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px;
       font-size: 11px;
       color: var(--text-muted);
       margin-bottom: 6px;
     }
 
+    .preview-header-left {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
     .preview-header .file-name {
       font-size: 14px;
       font-weight: 700;
-      color: #facc15;
+      color: #ffe08a;
+    }
+
+    .fullscreen-btn {
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      background: #020617;
+      color: #e5e7eb;
+      font-size: 11px;
+      padding: 3px 8px;
+      cursor: pointer;
+      white-space: nowrap;
     }
 
     .preview-body {
       font-size: 13px;
-      line-height: 1.7;
-      color: #f9fafb;
+      line-height: 1.8;
+      color: #e6f1ff;
       white-space: pre-wrap;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
@@ -228,7 +259,7 @@
     .preview-body .h3 {
       font-size: 15px;
       font-weight: 700;
-      color: #38bdf8;
+      color: #2dd4ff;
       margin: 8px 0 4px;
     }
 
@@ -316,10 +347,13 @@
         <div id="node-list" class="node-list" style="display:none;"></div>
       </div>
 
-      <div class="preview">
+      <div class="preview" id="preview-panel">
         <div class="preview-header">
-          <span class="file-name" id="preview-name">कोई .md फाइल चुनें</span>
-          <span id="preview-path"></span>
+          <div class="preview-header-left">
+            <span class="file-name" id="preview-name">कोई .md फाइल चुनें</span>
+            <span id="preview-path"></span>
+          </div>
+          <button id="fullscreen-btn" class="fullscreen-btn">Full screen</button>
         </div>
         <div id="preview-body" class="preview-body">
           <div class="preview-empty">
@@ -343,16 +377,32 @@
   const treePanelEl = document.getElementById("tree-panel");
   const toggleTreeBtn = document.getElementById("toggle-tree");
 
+  const previewPanelEl = document.getElementById("preview-panel");
+  const fullscreenBtn = document.getElementById("fullscreen-btn");
   const previewNameEl = document.getElementById("preview-name");
   const previewPathEl = document.getElementById("preview-path");
   const previewBodyEl = document.getElementById("preview-body");
 
   let cache = {};
   let currentPath = "";
+  let isFullscreen = false;
 
   toggleTreeBtn.addEventListener("click", () => {
     const hidden = treePanelEl.classList.toggle("hidden");
     toggleTreeBtn.textContent = hidden ? "Show Folders" : "Folders";
+  });
+
+  fullscreenBtn.addEventListener("click", () => {
+    isFullscreen = !isFullscreen;
+    if (isFullscreen) {
+      previewPanelEl.classList.add("fullscreen");
+      treePanelEl.style.display = "none";
+      fullscreenBtn.textContent = "Exit full screen";
+    } else {
+      previewPanelEl.classList.remove("fullscreen");
+      treePanelEl.style.display = "";
+      fullscreenBtn.textContent = "Full screen";
+    }
   });
 
   async function fetchDirectory(path = "") {
@@ -367,7 +417,7 @@
   }
 
   function isDateFolder(name) {
-    return /^\\d{2}-\\d{2}-\\d{4}$/.test(name);
+    return /^\d{2}-\d{2}-\d{4}$/.test(name);
   }
 
   function renderList(items, path) {
@@ -465,22 +515,22 @@
   }
 
   function highlightMarkdown(raw) {
-    const lines = raw.split(/\\r?\\n/);
+    const lines = raw.split(/\r?\n/);
     let html = "";
 
     for (const line of lines) {
       if (line.startsWith("# ")) {
-        html += `<div class="h1">${escapeHtml(line.replace(/^#\\s*/, ""))}</div>`;
+        html += `<div class="h1">${escapeHtml(line.replace(/^#\s*/, ""))}</div>`;
       } else if (line.startsWith("## ")) {
-        html += `<div class="h2">${escapeHtml(line.replace(/^##\\s*/, ""))}</div>`;
+        html += `<div class="h2">${escapeHtml(line.replace(/^##\s*/, ""))}</div>`;
       } else if (line.startsWith("### ")) {
-        html += `<div class="h3">${escapeHtml(line.replace(/^###\\s*/, ""))}</div>`;
+        html += `<div class="h3">${escapeHtml(line.replace(/^###\s*/, ""))}</div>`;
       } else if (line.startsWith("- ") || line.startsWith("* ")) {
-        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\\s*/, ""))}</div>`;
+        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\s*/, ""))}</div>`;
       } else if (line.trim() === "") {
         html += "<br>";
       } else {
-        html += escapeHtml(line) + "\\n";
+        html += escapeHtml(line) + "\n";
       }
     }
 
