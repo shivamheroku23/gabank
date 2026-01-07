@@ -2,24 +2,20 @@
 <html lang="hi">
 <head>
   <meta charset="UTF-8">
-  <title>gabank – GitHub Folder Tree (Fullscreen View)</title>
+  <title>Daily Current Affairs by Shivam</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     :root {
       --bg: #020617;
-      --bg-alt: #020617;
       --card-bg: #020617;
       --accent-folder: #38bdf8;
       --accent-file: #a855f7;
       --accent-md: #22c55e;
-      --accent-border: #4b5563;
       --text-main: #e5e7eb;
       --text-muted: #9ca3af;
     }
 
-    * {
-      box-sizing: border-box;
-    }
+    * { box-sizing: border-box; }
 
     html, body {
       margin: 0;
@@ -27,8 +23,7 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background:
-        radial-gradient(circle at top left, #0f172a 0, #020617 40%, #000 100%);
+      background: radial-gradient(circle at top left, #0f172a 0, #020617 40%, #000 100%);
       color: var(--text-main);
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
@@ -47,48 +42,25 @@
 
     header {
       flex: 0 0 auto;
-      padding: 14px 22px 10px;
-      display: flex;
-      align-items: baseline;
-      gap: 18px;
+      padding: 12px 22px 10px;
       border-bottom: 1px solid rgba(31,41,55,0.9);
-      background: linear-gradient(90deg, rgba(15,23,42,1), rgba(17,24,39,0.95));
+      background: linear-gradient(90deg, rgba(15,23,42,1), rgba(30,64,175,0.95));
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
 
     .title-main {
       font-size: 24px;
-      font-weight: 800;
-      letter-spacing: 0.1em;
+      font-weight: 900;
+      letter-spacing: 0.18em;
       text-transform: uppercase;
+      text-align: center;
       color: #f9fafb;
-      display: flex;
-      align-items: baseline;
-      gap: 8px;
     }
 
-    .title-main span.repo {
-      color: #38bdf8;
-    }
-
-    .badge {
-      padding: 5px 12px;
-      border-radius: 999px;
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      border: 1px solid rgba(148,163,184,0.8);
-      color: #e5e7eb;
-      background: radial-gradient(circle at top left, rgba(59,130,246,0.3), transparent 55%);
-      white-space: nowrap;
-    }
-
-    .note {
-      margin-left: auto;
-      font-size: 11px;
-      color: var(--text-muted);
-      max-width: 360px;
-      text-align: right;
-      line-height: 1.5;
+    .title-main span.highlight {
+      color: #f97316;
     }
 
     main {
@@ -97,103 +69,86 @@
       overflow: hidden;
     }
 
-    .sidebar {
-      flex: 0 0 260px;
-      border-right: 1px solid rgba(31,41,55,0.9);
-      padding: 14px 14px 14px 18px;
-      background: radial-gradient(circle at top left, #020617, #020617 55%, #000 100%);
-      display: flex;
-      flex-direction: column;
-      gap: 12px;
-    }
-
-    .legend-title {
-      font-size: 12px;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #9ca3af;
-      margin-bottom: 4px;
-    }
-
-    .legend-item {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      font-size: 12px;
-      color: #d1d5db;
-      margin-bottom: 4px;
-    }
-
-    .legend-dot {
-      width: 10px;
-      height: 10px;
-      border-radius: 999px;
-    }
-
-    .dot-folder {
-      background: #38bdf8;
-      box-shadow: 0 0 10px rgba(56,189,248,0.8);
-    }
-
-    .dot-file {
-      background: #a855f7;
-      box-shadow: 0 0 10px rgba(168,85,247,0.8);
-    }
-
-    .dot-md {
-      background: #22c55e;
-      box-shadow: 0 0 10px rgba(34,197,94,0.8);
-    }
-
-    .dot-date {
-      background: #f97316;
-      box-shadow: 0 0 10px rgba(249,115,22,0.7);
-    }
-
-    .help-text {
-      font-size: 11px;
-      color: var(--text-muted);
-      line-height: 1.6;
-      margin-top: 6px;
-    }
-
-    .view-toggle {
-      margin-top: 8px;
-      display: flex;
-      gap: 6px;
-      flex-wrap: wrap;
-    }
-
-    .toggle-btn {
-      border-radius: 999px;
-      border: 1px solid rgba(75,85,99,0.9);
-      padding: 4px 10px;
-      font-size: 11px;
-      background: rgba(15,23,42,0.9);
-      color: #e5e7eb;
-      cursor: pointer;
-    }
-
-    .toggle-btn.active {
-      border-color: #f97316;
-      background: radial-gradient(circle at top left, rgba(249,115,22,0.4), rgba(15,23,42,0.9));
-      color: #fff7ed;
-    }
-
     .content {
       flex: 1 1 auto;
-      padding: 16px 18px 18px;
-      overflow: hidden;
-      position: relative;
       display: flex;
+      padding: 14px 18px 18px;
       gap: 16px;
+      overflow: hidden;
     }
 
-    .tree-container {
-      min-width: 420px;
-      max-width: 520px;
-      padding-bottom: 40px;
+    .tree-panel {
+      flex: 0 0 320px;
+      max-width: 360px;
+      border-radius: 18px;
+      border: 1px solid rgba(31,41,55,0.9);
+      background: radial-gradient(circle at top, rgba(15,23,42,0.98), rgba(15,23,42,1));
+      box-shadow:
+        0 20px 50px rgba(15,23,42,0.9),
+        0 0 0 1px rgba(15,23,42,0.9);
+      padding: 10px 12px 12px;
       overflow: auto;
+    }
+
+    .tree-heading {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: #9ca3af;
+      margin-bottom: 6px;
+    }
+
+    .path-line {
+      font-size: 11px;
+      color: #9ca3af;
+      margin-bottom: 8px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .node-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .node-item {
+      border-radius: 12px;
+      padding: 8px 10px;
+      cursor: pointer;
+      background: radial-gradient(circle at top, rgba(15,23,42,0.96), rgba(15,23,42,0.99));
+      border: 1px solid rgba(55,65,81,0.9);
+      box-shadow: 0 14px 30px rgba(15,23,42,0.9);
+      transition: transform 0.08s ease-out, box-shadow 0.08s ease-out, border-color 0.08s;
+    }
+
+    .node-item.folder {
+      border-color: rgba(56,189,248,0.9);
+      box-shadow: 0 0 16px rgba(56,189,248,0.5), 0 14px 30px rgba(15,23,42,0.9);
+    }
+
+    .node-item.md-file {
+      border-color: rgba(34,197,94,0.9);
+      box-shadow: 0 0 18px rgba(34,197,94,0.55), 0 14px 30px rgba(15,23,42,0.9);
+    }
+
+    .node-item:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 18px 40px rgba(15,23,42,0.95);
+    }
+
+    .node-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: #e5e7eb;
+      word-break: break-word;
+    }
+
+    .node-sub {
+      font-size: 11px;
+      color: #9ca3af;
+      margin-top: 2px;
     }
 
     .preview {
@@ -202,31 +157,22 @@
       border: 1px solid rgba(31,41,55,0.9);
       background: radial-gradient(circle at top, rgba(15,23,42,0.98), rgba(15,23,42,1));
       box-shadow:
-        0 22px 60px rgba(15,23,42,0.9),
+        0 20px 50px rgba(15,23,42,0.9),
         0 0 0 1px rgba(15,23,42,0.9);
-      padding: 14px 18px 14px;
+      padding: 12px 18px 14px;
       overflow: auto;
-      position: relative;
     }
 
     .preview-header {
-      display: flex;
-      align-items: baseline;
-      gap: 10px;
+      font-size: 11px;
+      color: #9ca3af;
       margin-bottom: 8px;
     }
 
-    .preview-title {
-      font-size: 18px;
-      font-weight: 800;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: #38bdf8;
-    }
-
-    .preview-path {
-      font-size: 11px;
-      color: #9ca3af;
+    .preview-header .file-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: #fbbf24;
     }
 
     .preview-body {
@@ -238,16 +184,16 @@
     }
 
     .preview-body .h1 {
-      font-size: 22px;
+      font-size: 24px;
       font-weight: 900;
       color: #f97316;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin: 10px 0 4px;
+      letter-spacing: 0.10em;
+      margin: 10px 0 6px;
     }
 
     .preview-body .h2 {
-      font-size: 18px;
+      font-size: 19px;
       font-weight: 800;
       color: #22c55e;
       margin: 10px 0 4px;
@@ -272,129 +218,24 @@
       left: 0;
     }
 
-    .preview-empty {
-      font-size: 13px;
-      color: #9ca3af;
-    }
-
+    .preview-empty,
     .preview-loading {
       font-size: 13px;
-      color: #e5e7eb;
-    }
-
-    .level-row {
-      display: flex;
-      align-items: flex-start;
-      gap: 28px;
-      margin-bottom: 24px;
-      position: relative;
-    }
-
-    .level-label {
-      flex: 0 0 110px;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 0.14em;
       color: #9ca3af;
-      padding-top: 8px;
-    }
-
-    .nodes-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      flex: 1 1 auto;
-      position: relative;
-    }
-
-    .node-card {
-      position: relative;
-      min-width: 180px;
-      max-width: 240px;
-      padding: 10px 12px 10px;
-      border-radius: 16px;
-      background: radial-gradient(circle at top, rgba(15,23,42,0.96), rgba(15,23,42,0.98));
-      border: 1px solid rgba(55,65,81,0.9);
-      box-shadow:
-        0 18px 40px rgba(15,23,42,0.9),
-        0 0 0 1px rgba(15,23,42,0.9);
-    }
-
-    .node-card.folder {
-      border-color: rgba(56,189,248,0.9);
-      box-shadow:
-        0 0 20px rgba(56,189,248,0.45),
-        0 18px 40px rgba(15,23,42,0.85);
-    }
-
-    .node-card.date-folder {
-      border-color: rgba(249,115,22,0.9);
-      box-shadow:
-        0 0 22px rgba(249,115,22,0.55),
-        0 18px 40px rgba(15,23,42,0.85);
-    }
-
-    .node-card.file {
-      border-color: rgba(168,85,247,0.85);
-      box-shadow:
-        0 0 18px rgba(168,85,247,0.4),
-        0 18px 40px rgba(15,23,42,0.85);
-    }
-
-    .node-card.md-file {
-      border-color: rgba(34,197,94,0.9);
-      box-shadow:
-        0 0 22px rgba(34,197,94,0.6),
-        0 18px 40px rgba(15,23,42,0.85);
-    }
-
-    .node-chip {
-      font-size: 10px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      margin-bottom: 4px;
-      color: #9ca3af;
-    }
-
-    .node-name {
-      font-size: 14px;
-      font-weight: 700;
-      color: #e5e7eb;
-      word-break: break-word;
-    }
-
-    .node-sub {
-      font-size: 11px;
-      color: #9ca3af;
-      margin-top: 3px;
-    }
-
-    .node-link {
-      font-size: 11px;
-      margin-top: 6px;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-      color: #38bdf8;
-      text-decoration: none;
-    }
-
-    .node-link:hover {
-      text-decoration: underline;
     }
 
     .loading,
     .error {
-      font-size: 14px;
+      font-size: 13px;
       color: #e5e7eb;
-      padding: 12px 14px;
+      padding: 10px 12px;
       border-radius: 12px;
       background: rgba(15,23,42,0.96);
       border: 1px solid rgba(75,85,99,0.9);
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      margin-top: 12px;
+      margin-top: 8px;
     }
 
     .loading-dot {
@@ -407,47 +248,20 @@
     }
 
     @keyframes pulse {
-      0%, 100% {
-        transform: scale(1);
-        opacity: 0.7;
-      }
-      50% {
-        transform: scale(1.3);
-        opacity: 1;
-      }
+      0%, 100% { transform: scale(1); opacity: 0.7; }
+      50% { transform: scale(1.3); opacity: 1; }
     }
 
-    .error {
-      border-color: #ef4444;
-      color: #fecaca;
-    }
+    .error { border-color: #ef4444; color: #fecaca; }
+    .error strong { color: #f87171; }
 
-    .error strong {
-      color: #f87171;
-    }
-
-    @media (max-width: 900px) {
-      .sidebar {
-        display: none;
-      }
-
+    @media (max-width: 880px) {
       .content {
-        padding: 12px 10px 14px;
+        flex-direction: column;
       }
-
-      .tree-container {
-        min-width: auto;
-      }
-
-      header {
-        flex-wrap: wrap;
-      }
-
-      .note {
-        flex-basis: 100%;
-        margin-left: 0;
-        margin-top: 6px;
-        text-align: left;
+      .tree-panel {
+        max-width: none;
+        flex: 0 0 auto;
       }
     }
   </style>
@@ -456,331 +270,181 @@
 <div class="page">
   <header>
     <div class="title-main">
-      <span>GABANK</span>
-      <span class="repo">/ GITHUB TREE</span>
-    </div>
-    <div class="badge">LIVE VIEW • PUBLIC REPO • FULLSCREEN READY</div>
-    <div class="note">
-      यह पेज सीधे GitHub के public API से
-      <strong>shivamheroku23/gabank</strong>
-      की folder/file list लोड करता है और उसे रंगीन, बड़े tree के रूप में दिखाता है।
+      DAILY CURRENT AFFAIRS BY <span class="highlight">SHIVAM</span>
     </div>
   </header>
 
   <main>
-    <aside class="sidebar">
-      <div>
-        <div class="legend-title">Legend</div>
-        <div class="legend-item">
-          <span class="legend-dot dot-folder"></span> Folder
-        </div>
-        <div class="legend-item">
-          <span class="legend-dot dot-md"></span> <code>.md</code> file (Current Affairs Notes)
-        </div>
-        <div class="legend-item">
-          <span class="legend-dot dot-file"></span> Other files
-        </div>
-        <div class="legend-item">
-          <span class="legend-dot dot-date"></span> Date folders (01‑01‑2026 etc.)
-        </div>
-        <p class="help-text">
-          स्क्रीन को पूरा देखने के लिए ब्राउज़र में <strong>F11</strong> दबाओ।<br>
-          यह HTML file locally open होगी, पर data GitHub से live आएगा।
-        </p>
-      </div>
-
-      <div>
-        <div class="legend-title">View Options</div>
-        <div class="view-toggle">
-          <button class="toggle-btn active" data-view="group-dates">
-            Date folders on top
-          </button>
-          <button class="toggle-btn" data-view="flat">
-            Simple list view
-          </button>
-        </div>
-      </div>
-    </aside>
-
     <section class="content">
-      <div id="status" class="loading">
-        <span class="loading-dot"></span>
-        <span>GitHub से डेटा लोड हो रहा है…</span>
-      </div>
-      <div id="tree" class="tree-container" style="display:none;"></div>
-      <div id="preview" class="preview" style="display:none;">
-        <div class="preview-header">
-          <div class="preview-title">PREVIEW</div>
-          <div class="preview-path" id="preview-path"></div>
+      <div class="tree-panel">
+        <div class="tree-heading">FOLDERS / FILES</div>
+        <div class="path-line" id="current-path">Path: /</div>
+        <div id="status" class="loading">
+          <span class="loading-dot"></span>
+          <span>GitHub से डेटा लोड हो रहा है…</span>
         </div>
-        <div id="preview-body" class="preview-body"></div>
+        <div id="node-list" class="node-list" style="display:none;"></div>
+      </div>
+
+      <div class="preview">
+        <div class="preview-header">
+          <span class="file-name" id="preview-name">कोई .md फाइल चुनें</span>
+          <span id="preview-path"></span>
+        </div>
+        <div id="preview-body" class="preview-body">
+          <div class="preview-empty">
+            Left side se किसी date folder पर click करो, फिर उसके अंदर की .md file चुनो –
+            यहाँ उसी का colourful view दिखेगा।
+          </div>
+        </div>
       </div>
     </section>
   </main>
 </div>
+
 <script>
   const OWNER = "shivamheroku23";
   const REPO = "gabank";
   const API_ROOT = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
 
   const statusEl = document.getElementById("status");
-  const treeEl = document.getElementById("tree");
-  const previewEl = document.getElementById("preview");
+  const nodeListEl = document.getElementById("node-list");
+  const pathEl = document.getElementById("current-path");
+
+  const previewNameEl = document.getElementById("preview-name");
   const previewPathEl = document.getElementById("preview-path");
   const previewBodyEl = document.getElementById("preview-body");
-  const toggleButtons = document.querySelectorAll(".toggle-btn");
 
-  let cachedTree = null;
-  let currentView = "group-dates";
-
-  toggleButtons.forEach(btn => {
-    btn.addEventListener("click", () => {
-      toggleButtons.forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-      currentView = btn.dataset.view;
-      if (cachedTree) {
-        renderTree(cachedTree);
-      }
-    });
-  });
+  let cache = {};
+  let currentPath = "";
 
   async function fetchDirectory(path = "") {
+    if (cache[path]) return cache[path];
+
     const url = path ? `${API_ROOT}/${encodeURIComponent(path)}` : API_ROOT;
     const res = await fetch(url);
-    if (!res.ok) {
-      throw new Error(`HTTP ${res.status}`);
-    }
-    return await res.json();
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+    cache[path] = json;
+    return json;
   }
 
-  async function buildTree(path = "") {
-    const items = await fetchDirectory(path);
-    const node = {
-      name: path || REPO,
-      path: path,
-      type: "dir",
-      children: []
-    };
+  function isDateFolder(name) {
+    return /^\\d{2}-\\d{2}-\\d{4}$/.test(name);
+  }
 
+  function renderList(items, path) {
+    nodeListEl.innerHTML = "";
     const sorted = items.slice().sort((a, b) => {
       if (a.type === b.type) return a.name.localeCompare(b.name);
       return a.type === "dir" ? -1 : 1;
     });
 
-    for (const item of sorted) {
-      if (item.type === "dir") {
-        const child = await buildTree(item.path);
-        node.children.push(child);
-      } else {
-        node.children.push({
-          name: item.name,
-          path: item.path,
-          type: "file",
-          download_url: item.download_url
-        });
-      }
+    // up one level
+    if (path) {
+      const upItem = document.createElement("div");
+      upItem.className = "node-item";
+      upItem.innerHTML = '<div class="node-name">⬆ .. (back)</div>';
+      upItem.onclick = () => {
+        const parts = path.split("/");
+        parts.pop();
+        loadPath(parts.join("/"));
+      };
+      nodeListEl.appendChild(upItem);
     }
-    return node;
-  }
 
-  function isDateFolder(name) {
-    return /^\d{2}-\d{2}-\d{4}$/.test(name);
-  }
+    for (const item of sorted) {
+      const div = document.createElement("div");
+      const isFolder = item.type === "dir";
+      const isMd = item.type === "file" && item.name.toLowerCase().endsWith(".md");
 
-  function renderTree(root) {
-    treeEl.innerHTML = "";
+      div.classList.add("node-item");
+      if (isFolder) div.classList.add("folder");
+      if (isMd) div.classList.add("md-file");
 
-    if (currentView === "flat") {
-      renderFlat(root);
-    } else {
-      renderGrouped(root);
+      const name = document.createElement("div");
+      name.className = "node-name";
+      name.textContent = item.name;
+      div.appendChild(name);
+
+      const sub = document.createElement("div");
+      sub.className = "node-sub";
+      if (isFolder) {
+        sub.textContent = isDateFolder(item.name) ? "Date folder" : "Folder";
+      } else if (isMd) {
+        sub.textContent = ".md – current affairs notes";
+      } else {
+        sub.textContent = "File";
+      }
+      div.appendChild(sub);
+
+      if (isFolder) {
+        div.onclick = () => loadPath(item.path);
+      } else if (isMd) {
+        div.onclick = () => loadMd(item.path);
+      }
+
+      nodeListEl.appendChild(div);
     }
 
     statusEl.style.display = "none";
-    treeEl.style.display = "block";
-    previewEl.style.display = "block";
-    if (!previewBodyEl.textContent.trim()) {
-      previewBodyEl.innerHTML = "<div class='preview-empty'>कोई .md फाइल चुनें – उसकी सामग्री यहां बड़े, colourfull format में दिखाई देगी।</div>";
-    }
+    nodeListEl.style.display = "flex";
   }
 
-  function createNodeCard(node) {
-    const isMd = node.type === "file" && node.name.toLowerCase().endsWith(".md");
-    const isDate = node.type === "dir" && isDateFolder(node.name);
-
-    const card = document.createElement("div");
-    card.classList.add("node-card");
-    if (node.type === "dir") {
-      card.classList.add("folder");
-      if (isDate) card.classList.add("date-folder");
-    } else {
-      card.classList.add("file");
-      if (isMd) card.classList.add("md-file");
-    }
-
-    const chip = document.createElement("div");
-    chip.className = "node-chip";
-    chip.textContent = node.type === "dir" ? (isDate ? "Date Folder" : "Folder") : (isMd ? "Markdown File" : "File");
-    card.appendChild(chip);
-
-    const name = document.createElement("div");
-    name.className = "node-name";
-    name.textContent = node.name;
-    card.appendChild(name);
-
-    const sub = document.createElement("div");
-    sub.className = "node-sub";
-    if (node.type === "dir") {
-      if (node.path === "") {
-        sub.textContent = "GitHub root of repository";
-      } else if (isDate) {
-        sub.textContent = "Daily Current Affairs (" + node.name + ")";
-      } else {
-        sub.textContent = "Folder – " + node.path;
-      }
-    } else {
-      if (isMd) {
-        sub.textContent = "Current affairs / notes file (" + node.path + ")";
-      } else {
-        sub.textContent = "File – " + node.path;
-      }
-    }
-    card.appendChild(sub);
-
-    if (node.type === "file" && isMd) {
-      card.style.cursor = "pointer";
-      card.addEventListener("click", () => loadMdPreview(node));
-    }
-
-    return card;
-  }
-
-  function renderGrouped(root) {
-    const topDates = [];
-    const topOthers = [];
-
-    root.children.forEach(child => {
-      if (child.type === "dir" && isDateFolder(child.name)) {
-        topDates.push(child);
-      } else {
-        topOthers.push(child);
-      }
-    });
-
-    const levels = [];
-
-    if (topDates.length) {
-      levels.push({
-        label: "DATE FOLDERS",
-        nodes: topDates
-      });
-    }
-
-    topDates.forEach(dateDir => {
-      if (dateDir.children && dateDir.children.length) {
-        levels.push({
-          label: dateDir.name,
-          nodes: dateDir.children
-        });
-      }
-    });
-
-    if (topOthers.length) {
-      levels.push({
-        label: "ROOT FILES / OTHER FOLDERS",
-        nodes: topOthers
-      });
-    }
-
-    levels.forEach(level => {
-      const row = document.createElement("div");
-      row.className = "level-row";
-
-      const label = document.createElement("div");
-      label.className = "level-label";
-      label.textContent = level.label;
-      row.appendChild(label);
-
-      const nodesRow = document.createElement("div");
-      nodesRow.className = "nodes-row";
-
-      level.nodes.forEach(n => {
-        nodesRow.appendChild(createNodeCard(n));
-      });
-
-      row.appendChild(nodesRow);
-      treeEl.appendChild(row);
-    });
-  }
-
-  function renderFlat(root) {
-    const allNodes = [];
-
-    function collect(node, depth = 0) {
-      if (node.path !== "") {
-        allNodes.push({node, depth});
-      }
-      if (node.children) {
-        node.children.forEach(ch => collect(ch, depth + 1));
-      }
-    }
-    collect(root, 0);
-
-    const row = document.createElement("div");
-    row.className = "level-row";
-
-    const label = document.createElement("div");
-    label.className = "level-label";
-    label.textContent = "FLAT LIST";
-    row.appendChild(label);
-
-    const nodesRow = document.createElement("div");
-    nodesRow.className = "nodes-row";
-
-    allNodes.forEach(item => {
-      const card = createNodeCard(item.node);
-      card.style.minWidth = "220px";
-      nodesRow.appendChild(card);
-    });
-
-    row.appendChild(nodesRow);
-    treeEl.appendChild(row);
-  }
-
-  async function loadMdPreview(node) {
+  async function loadPath(path) {
     try {
-      previewBodyEl.innerHTML = "<div class='preview-loading'>फाइल लोड हो रही है…</div>";
-      previewPathEl.textContent = node.path;
+      statusEl.style.display = "inline-flex";
+      nodeListEl.style.display = "none";
+      pathEl.textContent = "Path: /" + (path || "");
+      currentPath = path || "";
+      const items = await fetchDirectory(path || "");
+      renderList(items, path || "");
+    } catch (err) {
+      console.error(err);
+      statusEl.className = "error";
+      statusEl.innerHTML = "<strong>Error:</strong> GitHub data load nahi ho paya.";
+    }
+  }
 
-      const res = await fetch(node.download_url);
-      if (!res.ok) {
-        throw new Error(`HTTP ${res.status}`);
-      }
+  async function loadMd(path) {
+    try {
+      previewNameEl.textContent = path.split("/").pop();
+      previewPathEl.textContent = " – /" + path;
+      previewBodyEl.innerHTML = "<div class='preview-loading'>फाइल लोड हो रही है…</div>";
+
+      const url = `${API_ROOT}/${encodeURIComponent(path)}`;
+      const resMeta = await fetch(url);
+      if (!resMeta.ok) throw new Error("meta " + resMeta.status);
+      const meta = await resMeta.json();
+
+      const res = await fetch(meta.download_url);
+      if (!res.ok) throw new Error("file " + res.status);
       const text = await res.text();
+
       previewBodyEl.innerHTML = highlightMarkdown(text);
     } catch (err) {
       console.error(err);
-      previewBodyEl.innerHTML = "<div class='preview-empty'>फाइल लोड नहीं हो पाई। बाद में try करो।</div>";
+      previewBodyEl.innerHTML = "<div class='preview-empty'>फाइल लोड नहीं हो पाई।</div>";
     }
   }
 
   function highlightMarkdown(raw) {
-    const lines = raw.split(/\r?\n/);
+    const lines = raw.split(/\\r?\\n/);
     let html = "";
 
     for (const line of lines) {
       if (line.startsWith("# ")) {
-        html += `<div class="h1">${escapeHtml(line.replace(/^#\s*/, ""))}</div>`;
+        html += `<div class="h1">${escapeHtml(line.replace(/^#\\s*/, ""))}</div>`;
       } else if (line.startsWith("## ")) {
-        html += `<div class="h2">${escapeHtml(line.replace(/^##\s*/, ""))}</div>`;
+        html += `<div class="h2">${escapeHtml(line.replace(/^##\\s*/, ""))}</div>`;
       } else if (line.startsWith("### ")) {
-        html += `<div class="h3">${escapeHtml(line.replace(/^###\s*/, ""))}</div>`;
+        html += `<div class="h3">${escapeHtml(line.replace(/^###\\s*/, ""))}</div>`;
       } else if (line.startsWith("- ") || line.startsWith("* ")) {
-        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\s*/, ""))}</div>`;
+        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\\s*/, ""))}</div>`;
       } else if (line.trim() === "") {
         html += "<br>";
       } else {
-        html += `${escapeHtml(line)}\n`;
+        html += escapeHtml(line) + "\\n";
       }
     }
 
@@ -795,19 +459,8 @@
   }
 
   (async function init() {
-    try {
-      const tree = await buildTree("");
-      cachedTree = tree;
-      renderTree(tree);
-    } catch (err) {
-      console.error(err);
-      statusEl.className = "error";
-      statusEl.innerHTML = `
-        <strong>GitHub error:</strong>
-        <span>डेटा लोड नहीं हो पाया (शायद rate‑limit या नेटवर्क issue)। थोड़ी देर बाद दुबारा try करो।</span>
-      `;
-    }
+    await loadPath("");
   })();
-  </script>
+</script>
 </body>
 </html>
