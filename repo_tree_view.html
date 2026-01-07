@@ -281,6 +281,82 @@
       left: 0;
     }
 
+    .md-strong {
+      font-weight: 700;
+    }
+
+    .md-strong.c1 {
+      color: #f97316;
+    }
+
+    .md-strong.c2 {
+      color: #22c55e;
+    }
+
+    .md-strong.c3 {
+      color: #38bdf8;
+    }
+
+    .md-strong.c4 {
+      color: #eab308;
+    }
+
+    .mcq-block {
+      margin-top: 18px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(15,23,42,0.96);
+      border: 1px solid #1f2937;
+    }
+
+    .mcq-question {
+      font-size: 14px;
+      font-weight: 700;
+      color: #facc15;
+      margin-bottom: 6px;
+    }
+
+    .mcq-options {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .mcq-option {
+      border-radius: 999px;
+      border: 1px solid #4b5563;
+      background: #020617;
+      color: #e5e7eb;
+      padding: 6px 12px;
+      font-size: 13px;
+      text-align: left;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .mcq-option.correct {
+      border-color: #22c55e;
+      background: rgba(34,197,94,0.22);
+    }
+
+    .mcq-option.incorrect {
+      border-color: #ef4444;
+      background: rgba(239,68,68,0.18);
+    }
+
+    .mcq-letter {
+      font-weight: 700;
+      color: #e5e7eb;
+    }
+
+    .mcq-answer {
+      margin-top: 6px;
+      font-size: 12px;
+      color: #bbf7d0;
+    }
+
     .preview-empty,
     .preview-loading {
       font-size: 13px;
@@ -520,27 +596,137 @@
     }
   }
 
+  let strongColorIndex = 0;
+  const strongColorClasses = ["c1", "c2", "c3", "c4"];
+
   function highlightMarkdown(raw) {
     const lines = raw.split(/\r?\n/);
     let html = "";
+    strongColorIndex = 0;
+
+    let currentMcq = null;
 
     for (const line of lines) {
-      if (line.startsWith("# ")) {
-        html += `<div class="h1">${escapeHtml(line.replace(/^#\s*/, ""))}</div>`;
-      } else if (line.startsWith("## ")) {
-        html += `<div class="h2">${escapeHtml(line.replace(/^##\s*/, ""))}</div>`;
-      } else if (line.startsWith("### ")) {
-        html += `<div class="h3">${escapeHtml(line.replace(/^###\s*/, ""))}</div>`;
-      } else if (line.startsWith("- ") || line.startsWith("* ")) {
-        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\s*/, ""))}</div>`;
-      } else if (line.trim() === "") {
-        html += "<br>";
+      if (line.startsWith("### Q")) {
+        if (currentMcq) {
+          html += renderMcq(currentMcq);
+          currentMcq = null;
+        }
+        currentMcq = {
+          question: line.replace(/^###\s*/, ""),
+          options: [],
+          answer: null
+        };
+      } else if (currentMcq && /^[A-D]\.\s+/.test(line.trim())) {
+        currentMcq.options.push(line.trim());
+      } else if (currentMcq && line.startsWith("**Answer:**")) {
+        const match = line.match(/\*\*Answer:\*\*\s*([A-D])/i);
+        if (match) currentMcq.answer = match[1].toUpperCase();
+        html += renderMcq(currentMcq);
+        currentMcq = null;
       } else {
-        html += escapeHtml(line) + "\n";
+        if (currentMcq && line.trim() === "") {
+          html += renderMcq(currentMcq);
+          currentMcq = null;
+        }
+        if (line.startsWith("# ")) {
+          html += `<div class="h1">${applyInlineStyles(line.replace(/^#\s*/, ""))}</div>`;
+        } else if (line.startsWith("## ")) {
+          html += `<div class="h2">${applyInlineStyles(line.replace(/^##\s*/, ""))}</div>`;
+        } else if (line.startsWith("### ")) {
+          html += `<div class="h3">${applyInlineStyles(line.replace(/^###\s*/, ""))}</div>`;
+        } else if (line.startsWith("- ") || line.startsWith("* ")) {
+          html += `<div class="bullet">${applyInlineStyles(line.replace(/^[-*]\s*/, ""))}</div>`;
+        } else if (line.trim() === "") {
+          html += "<br>";
+        } else if (!line.startsWith("**Answer:**")) {
+          html += applyInlineStyles(line) + "\n";
+        }
       }
     }
 
+    if (currentMcq) {
+      html += renderMcq(currentMcq);
+    }
+
+    setTimeout(attachMcqHandlers, 0);
     return html;
+  }
+
+  function applyInlineStyles(text) {
+    const parts = [];
+    let lastIndex = 0;
+    const strongRegex = /\*\*(.+?)\*\*/g;
+    let match;
+
+    while ((match = strongRegex.exec(text)) !== null) {
+      if (match.index > lastIndex) {
+        parts.push(escapeHtml(text.slice(lastIndex, match.index)));
+      }
+      const inner = escapeHtml(match[1]);
+      const colorClass = strongColorClasses[strongColorIndex++ % strongColorClasses.length];
+      parts.push(`<span class="md-strong ${colorClass}">${inner}</span>`);
+      lastIndex = match.index + match[0].length;
+    }
+
+    if (lastIndex < text.length) {
+      parts.push(escapeHtml(text.slice(lastIndex)));
+    }
+
+    return parts.join("");
+  }
+
+  function renderMcq(mcq) {
+    if (!mcq || !mcq.question || !mcq.options.length || !mcq.answer) {
+      return "";
+    }
+
+    let html = `<div class="mcq-block" data-answer="${mcq.answer}">`;
+    html += `<div class="mcq-question">${applyInlineStyles(mcq.question)}</div>`;
+    html += `<div class="mcq-options">`;
+
+    mcq.options.forEach(opt => {
+      const m = opt.match(/^([A-D])\.\s*(.*)$/);
+      if (!m) return;
+      const letter = m[1];
+      const text = m[2];
+      html += `<button class="mcq-option" data-option="${letter}"><span class="mcq-letter">${letter}.</span><span class="mcq-text">${applyInlineStyles(text)}</span></button>`;
+    });
+
+    html += `</div>`;
+    html += `<div class="mcq-answer" style="display:none;">Correct answer: <span class="mcq-answer-letter">${mcq.answer}</span></div>`;
+    html += `</div>`;
+    return html;
+  }
+
+  function attachMcqHandlers() {
+    const blocks = previewBodyEl.querySelectorAll(".mcq-block");
+    blocks.forEach(block => {
+      const correct = block.getAttribute("data-answer");
+      const options = block.querySelectorAll(".mcq-option");
+      const answerLine = block.querySelector(".mcq-answer");
+
+      options.forEach(btn => {
+        btn.addEventListener("click", () => {
+          if (block.dataset.done === "1") return;
+          const chosen = btn.getAttribute("data-option");
+          options.forEach(o => o.classList.remove("correct", "incorrect"));
+
+          if (chosen === correct) {
+            btn.classList.add("correct");
+          } else {
+            btn.classList.add("incorrect");
+            options.forEach(o => {
+              if (o.getAttribute("data-option") === correct) {
+                o.classList.add("correct");
+              }
+            });
+          }
+          if (answerLine) answerLine.style.display = "block";
+          block.dataset.done = "1";
+        });
+      });
+    });
   }
 
   function escapeHtml(str) {
