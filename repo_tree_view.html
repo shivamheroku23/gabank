@@ -7,10 +7,12 @@
   <style>
     :root {
       --bg: #020617;
-      --card-bg: #020617;
-      --accent-folder: #38bdf8;
-      --accent-file: #a855f7;
-      --accent-md: #22c55e;
+      --panel-bg: #050b1e;
+      --panel-border: #0f172a;
+      --folder-border: #38bdf8;
+      --md-border: #22c55e;
+      --heading-orange: #ff8a1f;
+      --heading-green: #22c55e;
       --text-main: #e5e7eb;
       --text-muted: #9ca3af;
     }
@@ -23,7 +25,7 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background: radial-gradient(circle at top left, #0f172a 0, #020617 40%, #000 100%);
+      background: radial-gradient(circle at top, #0b1024 0, #020617 50%, #000 100%);
       color: var(--text-main);
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
@@ -42,25 +44,39 @@
 
     header {
       flex: 0 0 auto;
-      padding: 12px 22px 10px;
-      border-bottom: 1px solid rgba(31,41,55,0.9);
-      background: linear-gradient(90deg, rgba(15,23,42,1), rgba(30,64,175,0.95));
+      padding: 10px 16px 8px;
+      border-bottom: 1px solid #111827;
+      background: linear-gradient(180deg, #10296b, #081329);
       display: flex;
       align-items: center;
       justify-content: center;
+      position: relative;
     }
 
     .title-main {
-      font-size: 24px;
+      font-size: 22px;
       font-weight: 900;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      text-align: center;
       color: #f9fafb;
     }
 
     .title-main span.highlight {
-      color: #f97316;
+      color: var(--heading-orange);
+    }
+
+    .toggle-btn {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      padding: 4px 10px;
+      font-size: 11px;
+      background: #020617;
+      color: #e5e7eb;
+      cursor: pointer;
     }
 
     main {
@@ -72,35 +88,45 @@
     .content {
       flex: 1 1 auto;
       display: flex;
-      padding: 14px 18px 18px;
-      gap: 16px;
+      padding: 12px 14px 14px;
+      gap: 14px;
       overflow: hidden;
     }
 
     .tree-panel {
-      flex: 0 0 320px;
-      max-width: 360px;
+      flex: 0 0 280px;
+      max-width: 320px;
       border-radius: 18px;
-      border: 1px solid rgba(31,41,55,0.9);
-      background: radial-gradient(circle at top, rgba(15,23,42,0.98), rgba(15,23,42,1));
+      border: 1px solid var(--panel-border);
+      background: radial-gradient(circle at top left, #050b1e 0, #020617 70%);
       box-shadow:
-        0 20px 50px rgba(15,23,42,0.9),
-        0 0 0 1px rgba(15,23,42,0.9);
-      padding: 10px 12px 12px;
+        0 14px 40px rgba(0,0,0,0.9),
+        0 0 0 1px #020617;
+      padding: 10px 11px 12px;
       overflow: auto;
+      transition: transform 0.15s ease-out, opacity 0.15s ease-out, width 0.15s ease-out;
+    }
+
+    .tree-panel.hidden {
+      width: 0;
+      padding: 0;
+      margin-right: 0;
+      opacity: 0;
+      transform: translateX(-12px);
+      pointer-events: none;
     }
 
     .tree-heading {
       font-size: 12px;
       text-transform: uppercase;
       letter-spacing: 0.16em;
-      color: #9ca3af;
-      margin-bottom: 6px;
+      color: #d1d5db;
+      margin-bottom: 4px;
     }
 
     .path-line {
       font-size: 11px;
-      color: #9ca3af;
+      color: var(--text-muted);
       margin-bottom: 8px;
       white-space: nowrap;
       overflow: hidden;
@@ -114,28 +140,28 @@
     }
 
     .node-item {
-      border-radius: 12px;
+      border-radius: 14px;
       padding: 8px 10px;
       cursor: pointer;
-      background: radial-gradient(circle at top, rgba(15,23,42,0.96), rgba(15,23,42,0.99));
-      border: 1px solid rgba(55,65,81,0.9);
-      box-shadow: 0 14px 30px rgba(15,23,42,0.9);
+      background: radial-gradient(circle at top, #020617 0, #020617 60%, #000 100%);
+      border: 1px solid #1f2933;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.9);
       transition: transform 0.08s ease-out, box-shadow 0.08s ease-out, border-color 0.08s;
     }
 
     .node-item.folder {
-      border-color: rgba(56,189,248,0.9);
-      box-shadow: 0 0 16px rgba(56,189,248,0.5), 0 14px 30px rgba(15,23,42,0.9);
+      border-color: var(--folder-border);
+      box-shadow: 0 0 18px rgba(56,189,248,0.7), 0 12px 28px rgba(0,0,0,0.9);
     }
 
     .node-item.md-file {
-      border-color: rgba(34,197,94,0.9);
-      box-shadow: 0 0 18px rgba(34,197,94,0.55), 0 14px 30px rgba(15,23,42,0.9);
+      border-color: var(--md-border);
+      box-shadow: 0 0 18px rgba(34,197,94,0.7), 0 12px 28px rgba(0,0,0,0.9);
     }
 
     .node-item:hover {
       transform: translateY(-1px);
-      box-shadow: 0 18px 40px rgba(15,23,42,0.95);
+      box-shadow: 0 16px 34px rgba(0,0,0,0.95);
     }
 
     .node-name {
@@ -147,38 +173,38 @@
 
     .node-sub {
       font-size: 11px;
-      color: #9ca3af;
+      color: var(--text-muted);
       margin-top: 2px;
     }
 
     .preview {
       flex: 1 1 auto;
       border-radius: 18px;
-      border: 1px solid rgba(31,41,55,0.9);
-      background: radial-gradient(circle at top, rgba(15,23,42,0.98), rgba(15,23,42,1));
+      border: 1px solid var(--panel-border);
+      background: #050816;
       box-shadow:
-        0 20px 50px rgba(15,23,42,0.9),
-        0 0 0 1px rgba(15,23,42,0.9);
-      padding: 12px 18px 14px;
+        0 18px 44px rgba(0,0,0,0.9),
+        0 0 0 1px #020617;
+      padding: 10px 18px 14px;
       overflow: auto;
     }
 
     .preview-header {
       font-size: 11px;
-      color: #9ca3af;
-      margin-bottom: 8px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
     }
 
     .preview-header .file-name {
       font-size: 14px;
       font-weight: 700;
-      color: #fbbf24;
+      color: #facc15;
     }
 
     .preview-body {
       font-size: 13px;
-      line-height: 1.6;
-      color: #e5e7eb;
+      line-height: 1.7;
+      color: #f9fafb;
       white-space: pre-wrap;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
@@ -186,7 +212,7 @@
     .preview-body .h1 {
       font-size: 24px;
       font-weight: 900;
-      color: #f97316;
+      color: var(--heading-orange);
       text-transform: uppercase;
       letter-spacing: 0.10em;
       margin: 10px 0 6px;
@@ -195,7 +221,7 @@
     .preview-body .h2 {
       font-size: 19px;
       font-weight: 800;
-      color: #22c55e;
+      color: var(--heading-green);
       margin: 10px 0 4px;
     }
 
@@ -213,7 +239,7 @@
 
     .preview-body .bullet::before {
       content: "• ";
-      color: #eab308;
+      color: #facc15;
       position: absolute;
       left: 0;
     }
@@ -221,21 +247,21 @@
     .preview-empty,
     .preview-loading {
       font-size: 13px;
-      color: #9ca3af;
+      color: var(--text-muted);
     }
 
     .loading,
     .error {
       font-size: 13px;
       color: #e5e7eb;
-      padding: 10px 12px;
-      border-radius: 12px;
-      background: rgba(15,23,42,0.96);
-      border: 1px solid rgba(75,85,99,0.9);
+      padding: 8px 10px;
+      border-radius: 10px;
+      background: #020617;
+      border: 1px solid #374151;
       display: inline-flex;
       align-items: center;
       gap: 8px;
-      margin-top: 8px;
+      margin-top: 6px;
     }
 
     .loading-dot {
@@ -263,12 +289,16 @@
         max-width: none;
         flex: 0 0 auto;
       }
+      header .toggle-btn {
+        left: 8px;
+      }
     }
   </style>
 </head>
 <body>
 <div class="page">
   <header>
+    <button id="toggle-tree" class="toggle-btn">Folders</button>
     <div class="title-main">
       DAILY CURRENT AFFAIRS BY <span class="highlight">SHIVAM</span>
     </div>
@@ -276,7 +306,7 @@
 
   <main>
     <section class="content">
-      <div class="tree-panel">
+      <div class="tree-panel" id="tree-panel">
         <div class="tree-heading">FOLDERS / FILES</div>
         <div class="path-line" id="current-path">Path: /</div>
         <div id="status" class="loading">
@@ -293,8 +323,8 @@
         </div>
         <div id="preview-body" class="preview-body">
           <div class="preview-empty">
-            Left side se किसी date folder पर click करो, फिर उसके अंदर की .md file चुनो –
-            यहाँ उसी का colourful view दिखेगा।
+            बाएं तरफ किसी date folder पर click करो, फिर उसके अंदर की .md file चुनो –
+            यहाँ उसी का colourful view दिखेगा (orange heading + green points).
           </div>
         </div>
       </div>
@@ -310,6 +340,8 @@
   const statusEl = document.getElementById("status");
   const nodeListEl = document.getElementById("node-list");
   const pathEl = document.getElementById("current-path");
+  const treePanelEl = document.getElementById("tree-panel");
+  const toggleTreeBtn = document.getElementById("toggle-tree");
 
   const previewNameEl = document.getElementById("preview-name");
   const previewPathEl = document.getElementById("preview-path");
@@ -317,6 +349,11 @@
 
   let cache = {};
   let currentPath = "";
+
+  toggleTreeBtn.addEventListener("click", () => {
+    const hidden = treePanelEl.classList.toggle("hidden");
+    toggleTreeBtn.textContent = hidden ? "Show Folders" : "Folders";
+  });
 
   async function fetchDirectory(path = "") {
     if (cache[path]) return cache[path];
@@ -340,7 +377,6 @@
       return a.type === "dir" ? -1 : 1;
     });
 
-    // up one level
     if (path) {
       const upItem = document.createElement("div");
       upItem.className = "node-item";
