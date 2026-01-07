@@ -5,126 +5,173 @@
 
 ## Aaj ke TOP GA Topics (Bank Point of View se)
 
-1. **Payments Regulatory Board (PRB)** – payment governance (follow‑through from first meet)  
-2. **Nutrient Based Subsidy (NBS)** – Rabi 2025‑26 – recap for fertiliser finance  
-3. **ONC/DFI style CSR & rural infra** – ONGC–NSTFDC model, EMRS & tribal development  
-4. External / trade – **FTA partner deficit** + forex reserves context  
-5. Digital payments – **Payments Vision 2028** & fraud‑control agenda
-
-*(7 Jan wali bank file को 5 Jan ke regulatory/subsidy themes ka quick revision माना जा सकता hai, taki exam ke time ek compact view mile.)*
+1. **Payments Regulatory Board (PRB)** – नयी payments governance body + पहली बैठक का follow‑up  
+2. **Nutrient Based Subsidy (NBS)** – Rabi 2025‑26 ke लिये fertiliser subsidy का ढांचा  
+3. **ONGC–NSTFDC MoU** – CSR के ज़रिये tribal शिक्षा (EMRS) ko support  
+4. External / trade – **FTA partner देशों के साथ trade deficit + forex reserves update**  
+5. Digital payments – RBI का draft **Payments Vision 2028** (4S payments)
 
 ---
 
 ## TOPIC 1: PRB – Payments Governance ka नया ढांचा
 
-### Recap
+### Kya hua?
 
-- PRB – **Payments Regulatory Board**, created under amended **PSS Act, 2007**,  
-  जिसने **BPSS** ko replace kiya.  
-- Chair: **RBI Governor**; members – RBI DG (payments), ED (DPSS), Govt nominees, MeitY, DFS reps.  
+- Parliament ne 2025 me **Payment and Settlement Systems Act, 2007** me संशोधन karke  
+  RBI ke भीतर नयी body **Payments Regulatory Board (PRB)** बनाने ka प्रावधान किया.  
+- यह संशोधन **9 May 2025** se लागू हुआ और PRB ne पुरानी body  
+  **BPSS – Board for Regulation and Supervision of Payment and Settlement Systems** ko formally replace kar diya.  
+- इसके बाद **5 January 2026** ko Mumbai me PRB की **पहली बैठक** हुई:  
+  - बैठक की अध्यक्षता RBI Governor **Sanjay Malhotra** ne की.  
+  - Board ne RBI ke **Department of Payment & Settlement Systems (DPSS)** की  
+    जिम्मेदारियों, चल रहे projects और risk areas ka detailed review किया.  
+  - Domestic और global payment systems (UPI, card networks, cross‑border systems)  
+    ke trends, competition aur cyber‑risk पर presentation दिया गया.  
+  - RBI ke draft **Payments Vision 2028** par सदस्योंने inputs दिए –  
+    खासकर financial inclusion, fraud‑management, और cross‑border UPI जैसे विषयों par.  
+  - RBI ke हाल ke **Survey on Digital Payments** ke findings भी Board ke सामने रखे गये  
+    ताकि आगे ki policy data‑based हो सके.
 
-### Bank exam angle
+### Bank exam ke liye kyun important?
 
-- UPI, RuPay, NEFT/RTGS, PPI wallets – sab par PRB ka regulatory oversight.  
-- PRB + Payments Vision 2028 – दोनो ek साथ याद रखना आसान hota hai.
+- PRB ab **India ke payment systems ka मुख्य regulator/supervisor** hai –  
+  UPI, cards, NEFT/RTGS, PPIs sab is umbrella ke under आते हैं.  
+- MCQ topics:  
+  - PRB kis Act se जुड़ा hai? → **Payment and Settlement Systems Act, 2007 (amended)**.  
+  - Kis body ko replace kiya? → **BPSS**.  
+  - Chairperson kaun? → **RBI Governor**.
 
 ### Memory Trick – “PRB + PV28 = Payments ka Remote + Vision”
 
-> Socho PRB remote hai aur **Payments Vision 2028** TV screen –  
-> dono मिलकर payments picture dikhate hain.
+> Socho **PRB remote** hai aur **Payments Vision 2028** TV screen –  
+> dono मिलकर भारत ke payments की पूरी picture dikhाते हैं.
 
 ---
 
-## TOPIC 2: NBS – Rabi 2025‑26 (Revision)
+## TOPIC 2: NBS – Rabi 2025‑26 (Subsidy ka ढांचा)
 
-### Key Points
+### Kya hua?
 
-- P&K fertilisers ke लिये **Nutrient Based Subsidy (NBS)** scheme:  
-  - Nitrogen (N): ~₹43/kg,  
-  - Phosphorus (P): ~₹48/kg,  
-  - Potassium (K): ~₹2.4/kg,  
-  - Sulphur (S): ~₹2.9/kg (approx values).  
-- Estimated subsidy outlay: ~**₹37,952 crore** for Rabi 2025‑26.
+- सरकार ने **Rabi 2025‑26 (1 Oct 2025 – 31 Mar 2026)** season के लिये  
+  **Phosphatic & Potassic (P&K) fertilisers** par लागू **Nutrient Based Subsidy (NBS)** ke  
+  naye rates approve kiye (official notification/PIB सार के आधार पर):  
+  - **Nitrogen (N): ₹43.02/kg**  
+  - **Phosphorus (P): ₹47.96/kg**  
+  - **Potassium (K): ₹2.38/kg**  
+  - **Sulphur (S): ₹2.87/kg**  
+- Scheme 2010 se चल रही है – fertiliser companies ko subsidy  
+  unke product me मौजूद nutrients (N, P, K, S) ke हिसाब se दी जाती है,  
+  taaki किसानों ke लिये कीमत reasonable रहे.  
+- Rabi 2025‑26 ke लिये अनुमानित subsidy bill लगभग **₹37,952 crore** hai  
+  जो Kharif 2025 se ~₹736 crore ज़्यादा है – इसका मतलब सरकार global fertiliser prices  
+  ke बावजूद किसान par burden नहीं डालना चाहती।
 
 ### Bank/Eco angle
 
-- Large subsidy bill + fertiliser companies =  
-  – **working capital finance**,  
-  – subsidy receivables,  
-  – fiscal deficit & inflation ke सवाल.
+- Fertiliser companies ke subsidy receivables aur working capital financing me  
+  **Public sector banks aur large private banks** ka बड़ा रोल रहता hai.  
+- इतना बड़ा subsidy bill → **fiscal deficit** aur inflation expectations par असर,  
+  jo exam me macro‑economy ke सवालों me directly use hota hai.
 
 ### Memory Trick – “NBS RATE card – N, P, K, S”
 
-> बस yaad: **NBS** = Govt ka **RATE card** for N‑P‑K‑S.
+> बस yaad: **NBS** = Govt ka **RATE card** for N‑P‑K‑S –  
+> हर kg nutrient par kitna ₹ support milega.
 
 ---
 
 ## TOPIC 3: ONGC–NSTFDC Model – Tribal CSR & Education
 
-### Recap
+### Kya hua?
 
-- ONGC ne approx **₹28 cr** CSR funds ke साथ  
-  **NSTFDC** ke through **144 Eklavya Model Residential Schools (EMRS)** ke लिये infra/digital support provide karne ka MoU sign kiya.  
-- ~**35,000 tribal students** indirect beneficiaries.
+- **Oil & Natural Gas Corporation (ONGC)** ne  
+  **National Scheduled Tribes Finance & Development Corporation (NSTFDC)** ke साथ  
+  ek **Corporate Social Responsibility (CSR) MoU** sign kiya.  
+- इस समझौते के तहत ONGC लगभग **₹28 crore** ke CSR funds provide karega:  
+  - ये धनराशि **11 States/UTs** me स्थित करीब **144 Eklavya Model Residential Schools (EMRS)** ke लिये  
+    classrooms, hostels, computer labs, smart‑class equipment, solar power, internet connectivity  
+    jaise infrastructure upgrade me use hogi.  
+- लक्ष्य: लगभग **35,000 tribal students** ko बेहतर residential शिक्षा सुविधा देना,  
+  taaki वे higher education aur competitive exams ke लिये तैयार हो सकें.
 
-### Bank exam angle
+### Bank exam ke liye kyun important?
 
-- CSR + financial inclusion + human capital – mains ke लिये अच्छा case study.  
-- Tribal areas me EMRS/hostels – future borrowers, SHGs, livelihood schemes.
+- यह example dikhाता hai ki **large PSUs ki CSR spending** ko  
+  **education + inclusion** ke साथ जोड़ कर use किया जा रहा hai –  
+  mains me case‑study ya example के रूप में लिखने ke लिये perfect point.  
+- Tribal areas me educated youth → भविष्य ke **MSME borrowers, SHG members, agri‑entrepreneurs**,  
+  jisse banks ke लिये नया market तैयार होता hai.
 
 ### Memory Trick – “ONGC तेल se, EMRS खेल se”
 
-> **“ONGC ka तेल – EMRS ke स्कूल ka खेल.”**
+> **ONGC ka तेल** se आये paise ko  
+> **EMRS ke स्कूलों ke खेल‑कूद + पढ़ाई** ke लिये use kiya जा रहा hai.
 
 ---
 
 ## TOPIC 4: FTA Partners ke साथ Trade Deficit & Forex
 
-### Recap
+### Kya hua?
 
-- NITI Aayog Trade Watch ke अनुसार  
-  April–June 2025 quarter me **FTA partner देशों ke साथ trade deficit** lagbhag **59%** बढ़ा.  
-- Forex reserves week ended 26 Dec 2025 me ~**US$ 3.3 bn** बढ़े (RBI data).  
+- NITI Aayog ki **Trade Watch** रिपोर्ट ke अनुसार  
+  **April–June 2025** quarter me जिन देशों ke साथ India ka **Free Trade Agreement (FTA)** hai,  
+  unke साथ **trade deficit lagbhag 59% YoY बढ़ गया**:  
+  - कुछ sectors (electronics, chemicals, high‑value intermediate goods) me imports तेज़ी से बढ़े,  
+  - जबकि exports ki growth उतनी तेज़ nahi रही.  
+- इसी period ke आसपास RBI ke डेटा ke अनुसार  
+  week ended **26 Dec 2025** me India ke **forex reserves** me  
+  लगभग **US$ 3.3 billion** की बढ़ोतरी hui –  
+  यानी external buffers मजबूत bane rahe.
 
 ### Bank/Eco angle
 
-- Trade deficit → **CAD**,  
-  CAD + reserves = rupee stability ka core combo.  
+- FTA‑driven trade deficit → **Current Account Deficit (CAD)** par दबाव,  
+  jo rupee exchange rate, bond yields, aur विदेशी investor sentiment ko affect karta hai.  
+- Forex reserves ke बढ़ने se CAD ka pressure kuch had tak absorb kiya ja sakta hai –  
+  isliye दोनों numbers ko साथ‑साथ dekhna ज़रूरी hai.
 
 ### Memory Trick – “FTA se gate – deficit & forex ke mate”
 
-> Gate खुला (FTA), import तेज़ → deficit;  
-> lucky ho to forex reserves support kar देते हैं.
+> Gate खुला (FTA), import तेज़ → **deficit** बढ़ा;  
+> अच्छी बात ye hai ki **forex reserves** bhi साथ ke साथ बढ़कर rupee ko support करते रहे.
 
 ---
 
 ## TOPIC 5: Payments Vision 2028 – 4S Payments
 
-### Recap
+### Kya hua?
 
-- RBI draft document – लक्ष्य:  
-  - **Safe, Secure, Smart, Swift** digital payments ecosystem.  
-- Focus:  
-  - fraud management,  
-  - cyber‑security,  
-  - cross‑border UPI‑style solutions,  
-  - offline payments,  
-  - financial inclusion.
+- RBI ne ek draft policy document **“Payments Vision 2028”** जारी किया hai  
+  jo 2025–2028 ke liye भारत ke digital payments ecosystem ki दिशा set karta hai.  
+- मुख्य लक्ष्य:  
+  - हर नागरिक ke लिये **Safe, Secure, Smart, Swift** payment अनुभव,  
+  - **24×7, सस्ता, तेज़** digital instruments (UPI, RuPay, IMPS, NEFT/RTGS, offline solutions),  
+  - **fraud management & cyber‑security** को मजबूत करना,  
+  - छोटे शहरों/गांवों me feature‑phone / offline UPI options को बढ़ाना,  
+  - **cross‑border remittances** ko सस्ता और तेज़ बनाना,  
+  - payment data governance (consent, privacy, data‑localisation) ko aur स्पष्ट करना.  
+
+### Bank exam ke liye kyun important?
+
+- UPI, RuPay, NEFT/RTGS, BBPS, digital rupee – sab ka future direction इसी document se जुड़ेगा.  
+- Banking mains / interview me question aa sakta hai:  
+  - “RBI Payments Vision 2028 ke मुख्य pillars kya hain?”  
+  - “How does Payments Vision 2028 support financial inclusion?”
 
 ### Memory Trick – “4S formula”
 
 > Payments Vision 2028 = **4S** –  
-> Safe, Secure, Smart, Swift.
+> **Safe, Secure, Smart, Swift** payments for sabhi users.
 
 ---
 
 ## Super Short 3-Line Revision – 07-01-2026 (Bank)
 
-1. **PRB** – PSS Act ke तहत payments regulator; BPSS ko replace kiya.  
-2. **NBS Rabi 2025‑26** – P&K fertilisers ke लिये per‑kg subsidy RATE card.  
-3. **ONGC–NSTFDC** – ₹28 cr CSR; 144 EMRS; tribal education support.  
-4. **FTA deficit** – FTA partners ke साथ deficit बढ़ा; forex reserves me 3.3 bn बढ़ोतरी.  
-5. **Payments Vision 2028** – 4S digital payments.
+1. **PRB** – amended PSS Act, 2007 ke तहत बनी नयी body; BPSS ko replace kiya; पहली बैठक 5 Jan 2026, Mumbai.  
+2. **NBS Rabi 2025‑26** – P&K fertilisers ke लिये N‑P‑K‑S per‑kg subsidy RATE card; subsidy bill ~₹37,952 cr.  
+3. **ONGC–NSTFDC** – ₹28 cr CSR; 11 States/UTs ke 144 EMRS schools; ~35k tribal students ko benefit.  
+4. **FTA deficit + forex** – FTA partners ke साथ deficit ~59% बढ़ा; forex reserves me ~US$ 3.3 bn वृद्धि.  
+5. **Payments Vision 2028** – RBI ka 4S लक्ष्य: Safe, Secure, Smart, Swift digital payments.
 
 ---
 
