@@ -626,8 +626,8 @@
         currentMcq = null;
       } else {
         if (currentMcq && line.trim() === "") {
-          html += renderMcq(currentMcq);
-          currentMcq = null;
+          // MCQ block ke andar aane wale blank lines ko ignore karo
+          continue;
         }
         if (line.startsWith("# ")) {
           html += `<div class="h1">${applyInlineStyles(line.replace(/^#\s*/, ""))}</div>`;
