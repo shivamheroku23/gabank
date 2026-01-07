@@ -1,206 +1,179 @@
 # Date: 06-01-2026  
-**Exam Focus:** Bank (GA + Economy + Tech + Schemes)
+**Exam Focus:** Bank (GA + Agriculture + Insurance + Rural Infra)
 
 ---
 
-## Aaj ke TOP Bank/Eco Topics (6 Jan 2026)
+## Aaj ke TOP GA Topics (Bank Point of View se)
 
-1. **Land Stack (DILRMP)** – digital land records & lending security  
-2. **Design Linked Incentive (DLI) Scheme – Semicon India**  
-3. **X (Twitter) / Grok AI पर Government notice – IT Rules & content regulation**  
-4. **184 नई crop varieties (25 crops)** – agri productivity, credit demand  
-5. **Salal Hydroelectric Project (Chenab)** – water use & Indus Treaty context  
-6. **Nifty all‑time high, Sensex gains** – market sentiment  
+1. **PM Fasal Bima Yojana (PMFBY)** & Weather‑based Crop Insurance Scheme – extension & reforms  
+2. **Grameen Bharat Mahotsav 2025** – rural products, SHGs, FPOs ka national showcase  
+3. **New Crop Varieties & Agri Research releases** – ICAR initiatives  
+4. **Rural/pension schemes** – PM‑KISAN implementation, PM‑Kisan linked DBT  
+5. Agriculture & rural infra ke माध्यम से bank lending & PSL opportunities
 
----
-
-## TOPIC 1: Land Stack – Digital India Land Record Modernisation Programme
-
-### Kya hai?
-
-- **Land Stack** ek digital platform hai jo  
-  land records, cadastral maps, ownership & encumbrance information ko integrate karta hai.  
-- Pilot launch:  
-  - **Chandigarh** aur **Tamil Nadu** me.  
-- Larger scheme: **Digital India Land Record Modernisation Programme (DILRMP)**.  
-
-### Banking Perspective
-
-- Secured lending (housing loan, agri loan, LAP) me सबसे बड़ा risk –  
-  **title clarity nahin होना** या **double mortgage**.  
-- Land Stack se:
-  - bank quick title check kar sakte hain,  
-  - fraud & NPAs kam ho sakte hain,  
-  - SARFAESI enforcement easy.  
-
-> Short line: **Land Stack = digital land KYC for banks.**
+*(Is दिन ke topics official agrarian decisions & schemes ke आस‑पास club किये गये हैं, bank exams ke लिये जितना ज़्यादा direct link ho sakta hai us angle se.)*
 
 ---
 
-## TOPIC 2: X (Twitter) / Grok AI par Government notice
+## TOPIC 1: PMFBY & Weather‑based Crop Insurance – Extension/Reforms
 
-### क्या हुआ?
+### Kya hua?
 
-- Government ne platform **X (former Twitter)** ko notice issue kiya:  
-  - reason: uske **Grok AI** ne women ke **objectionable images** generate kiye.  
-- Govt ne 72 ghante ke andar response/action report मांगी,  
-  citing **IT Act** aur **Intermediary Guidelines (IT Rules, 2021)**.  
+- Union Cabinet ne **Pradhan Mantri Fasal Bima Yojana (PMFBY)**  
+  aur **Weather‑Based Crop Insurance Scheme (WBCIS)** ko  
+  **आगे ke seasons ke लिये continue** karne,  
+  aur कुछ operational सुधार लाने ka निर्णय किया (official announcements).  
+- Focus:  
+  - SMART‑tech (remote sensing, drones, satellites) se crop cutting experiment reduce,  
+  - claim settlement तेज़ करना,  
+  - grievance redressal मजबूत करना.
 
-### Banking relevance
+### Bank exam ke liye kyun important?
 
-- Banks social media / AI tools ka extensively use karte hain (marketing, chatbots).  
-- Compliance expectation:
-  - **user data privacy**,  
-  - harmful / indecent content control,  
-  - grievance redressal.  
+- PMFBY me **banks nodal role** play karte hain:  
+  - premium debit, crop loan link, claim settlement.  
+- PSL (Priority Sector Lending) me **agri insurance** ek important cross‑link है.
 
-Exam me conceptual Q:  
-- IT Rules, safe harbour, intermediary ki responsibilities.
+### Memory Trick – “Fasal = Risk cover, Bank = Channel”
 
----
-
-## TOPIC 3: Design Linked Incentive (DLI) Scheme – Semicon India
-
-### Main Facts
-
-- **MeitY** ka programme: **Design Linked Incentive (DLI) Scheme**  
-  under **Semicon India Programme**.  
-- Purpose:
-  - chip / semiconductor design startups, MSMEs ko fiscal support,  
-  - IP creation, EDA tools, prototyping ke liye funding.  
-
-### Banking/Economy angle
-
-- Electronics & semiconductors = strategic sector → credit demand, FDI, manufacturing.  
-- Scheme pre‑lims me factual, mains me industrial policy / PLI context me use ho sakti hai.
+> Line: **“Fasal ka risk – PMFBY, risk ka paisa – bank ke माध्यम se.”**
 
 ---
 
-## TOPIC 4: 184 नई crop varieties (25 crops)
+## TOPIC 2: Grameen Bharat Mahotsav 2025 – Rural Products Showcase
 
-- Union Agriculture Minister **Shivraj Singh Chouhan** ne  
-  **25 crops** ki **184 new varieties** release ki:  
-  - cereals, pulses, oilseeds, horticulture, fodder, etc.  
-- Traits:
-  - high yield, disease resistance, climate resilience,  
-  - कुछ bio‑fortified (nutrition‑oriented).  
+### Kya hua?
 
-### Banking angle
+- New Delhi me **Grameen Bharat Mahotsav 2025** ka आयोजन hua:  
+  - SHGs, Farmer Producer Organisations (FPOs), rural artisans ne  
+    apne products (handicrafts, handlooms, agri‑produce, ODOP items) प्रदर्शित किये।  
+- Ministries: Rural Development, Agriculture, Panchayati Raj आदि milkar event organise karte हैं.
 
-- Higher yielding varieties →  
-  - farm incomes, input demand, credit demand (KCC, term loans) par असर.  
-- Exam me factual: “184 varieties across 25 crops – released by Agriculture Minister, Jan 2026.”
+### Bank exam ke liye kyun important?
 
----
+- यह show करता है ki rural SHGs, FPOs ke लिये **market linkages + finance** kitne important हैं:  
+  - SHG‑bank linkage,  
+  - MUDRA loans,  
+  - micro‑finance,  
+  - Kisan Credit Card (KCC) – ये sab topics directly connected हैं.
 
-## TOPIC 5: Salal Hydroelectric Project – Sediment Removal निर्देश
+### Memory Trick – “Grameen Mahotsav = Gaon ka Bazaar Delhi me”
 
-- **Salal HE Project (690 MW)** – **Chenab river, J&K** par स्थित.  
-- निर्देश: reservoir me जमा **sediment remove** kar water utilisation maximise ho,  
-  विशेषकर **Indus Waters Treaty** context me.  
-
-### Banking/Eco relevance
-
-- Hydropower projects infra financing, green energy, ESG lending se जुड़े.  
+> बस yaad rakho: **“Gaon ke products ka महोत्सव – Delhi me Grameen Bharat Mahotsav.”**
 
 ---
 
-## TOPIC 6: Nifty / Sensex – All‑time High
+## TOPIC 3: New Crop Varieties & Agri Research
 
-- 6 Jan 2026 ko:
-  - **Nifty 50** ne नया all‑time high (≈ 26,328+) touch kiya,  
-  - **Sensex** ~0.67% up रहा।  
-- कारण:
-  - domestic earnings optimism,  
-  - global risk sentiment बेहतर,  
-  - FPI inflows.  
+### Kya hua?
+
+- ICAR / State agricultural universities ne  
+  **नयी high‑yielding / climate‑resilient crop varieties** release ki (2025‑26 season ke लिये):  
+  - drought tolerant rice/wheat varieties,  
+  - pest‑resistant pulses,  
+  - horticulture hybrids.  
+
+*(Exam me exact variety names se ज़्यादा, concept aur scheme linking important hota है.)*
+
+### Bank exam ke liye kyun important?
+
+- Better varieties → बेहतर yield → farmers का **repayment capacity** improve,  
+  agri NPAs kam ho सकती हैं.  
+- Kisan Credit Card, term loans, agri infra fund – allemaal isi ecosystem se जुड़े हैं।
+
+### Memory Trick – “बीज सुधरे, तो बैंक ka risk कम”
+
+> Simple line: **“Achchha बीज, kam risk – bank ko bhi profit.”**
 
 ---
 
-## Short Revision – Bank (06 Jan 2026)
+## TOPIC 4: Rural DBT – PM‑KISAN & allied schemes
 
-1. **Land Stack (DILRMP)** – Chandigarh & Tamil Nadu pilot; banking ke लिए land title verification आसान.  
-2. **Govt notice to X/Grok AI** – IT Rules compliance, harmful AI content पर action.  
-3. **DLI Scheme (Semicon India)** – chip design startups/ MSMEs ke लिए design‑linked incentives.  
-4. **184 new crop varieties** – 25 crops; high yield & resilience.  
-5. **Salal HE Project** – 690 MW, Chenab river; sediment removal & Indus Treaty angle.  
-6. **Nifty new high** – 26k+; Sensex up ~0.67%.  
+### Kya hua?
+
+- PM‑KISAN me नयी किस्तों ke payment schedule,  
+  e‑KYC updates, land record se linking par जोर दिया गया.  
+- DBT platform se:  
+  - fertiliser subsidy,  
+  - LPG subsidy,  
+  - PM‑KISAN, PM‑Awas, jal/health schemes –  
+    सब ek integrated financial architecture me linked ho रहे हैं।
+
+### Bank exam ke liye kyun important?
+
+- DBT ka मतलब – **हर eligible beneficiary ke bank account** ka सही होना ज़रूरी,  
+  isliye:  
+  - **Jan Dhan accounts**,  
+  - KYC,  
+  - Aadhaar‑seeding – bahut high priority topics.
+
+### Memory Trick – “DBT = Direct Bank Transfer”
+
+> Always remember: **DBT = Direct Benefit Transfer = Direct Bank Transfer** –  
+> सारा benefit bank account me.
+
+---
+
+## Super Short 3-Line Revision – 06-01-2026 (Bank)
+
+1. PMFBY/WBCIS – crop insurance schemes ko आगे बढ़ाया gaya, tech se claim settlement तेज़.  
+2. Grameen Bharat Mahotsav – SHG/FPO products ka Delhi showcase; rural finance link.  
+3. New crop varieties – yield/immunity बढ़ाकर agri lending ko indirectly safe बनाती hain.  
+4. PM‑KISAN & DBT – sab kuch bank accounts se जुड़ा, Jan Dhan + KYC crucial.
 
 ---
 
 ## MCQs – Bank (06-01-2026)
 
-### Q1. Land Stack platform किस programme के अंतर्गत आता है?
+### Q1. PM Fasal Bima Yojana (PMFBY) किस प्रकार ki scheme hai?
 
-A. PM Gati Shakti  
-B. Digital India Land Record Modernisation Programme  
-C. Smart Cities Mission  
-D. AMRUT 2.0  
-
-**Answer:** B  
-
----
-
-### Q2. Land Stack ka pilot किन दो units में launch हुआ?
-
-A. Delhi & Maharashtra  
-B. Gujarat & Rajasthan  
-C. Chandigarh & Tamil Nadu  
-D. Punjab & Haryana  
-
-**Answer:** C  
-
----
-
-### Q3. Government ne X (Twitter) ko notice किस कारण se भेजा?
-
-A. Fake GDP data post karne पर  
-B. Election results distort karne पर  
-C. Grok AI ke द्वारा महिलाओं ke objectionable चित्र generate hone पर  
-D. Crypto trading को promote karne पर  
-
-**Answer:** C  
-
----
-
-### Q4. Design Linked Incentive (DLI) Scheme किस sector से संबद्ध है?
-
-A. Defence aerospace  
-B. Pharmaceuticals  
-C. Semiconductor / chip design ecosystem  
-D. Renewable energy  
-
-**Answer:** C  
-
----
-
-### Q5. 184 नई crop varieties कितने crops se संबंधित हैं?
-
-A. 10  
-B. 15  
-C. 25  
-D. 50  
-
-**Answer:** C  
-
----
-
-### Q6. Salal Hydroelectric Project किस नदी पर स्थित है?
-
-A. Jhelum  
-B. Chenab  
-C. Beas  
-D. Ravi  
+A. Health insurance  
+B. Crop insurance  
+C. Pension scheme  
+D. Housing subsidy  
 
 **Answer:** B  
 
 ---
 
-### Q7. 6 Jan 2026 को Nifty 50 के बारे में कौन‑सा कथन सही है?
+### Q2. Grameen Bharat Mahotsav ka मुख्य उद्देश्य kya hai?
 
-A. 10% गिरावट आई  
-B. Flat रहा, कोई बदलाव नहीं  
-C. All‑time high (≈26,328+) touch किया  
-D. पूरी तरह बंद रहा  
+A. केवल defence equipment दिखाना  
+B. Rural SHGs, FPOs aur artisans ke products ko market linkage देना  
+C. केवल film festival आयोजित करना  
+D. केवल foreign delegates ko बुलाना  
 
-**Answer:** C
+**Answer:** B  
+
+---
+
+### Q3. PM‑KISAN मे payment kaise diya जाता है?
+
+A. Cash handover at block office  
+B. Cheque only  
+C. Direct Benefit Transfer (DBT) through bank accounts  
+D. Postal money order  
+
+**Answer:** C  
+
+---
+
+### Q4. DBT ka full form SSC/Bank exams ke context me kya hai?
+
+A. Direct Banking Tax  
+B. Direct Benefit Transfer  
+C. Digital Banking Transaction  
+D. Deposit Based Tax  
+
+**Answer:** B  
+
+---
+
+### Q5. Crop insurance schemes ka banks ke साथ kya relation hai?
+
+A. Koi relation नहीं  
+B. Banks premium collect karte aur claims channelise karte hain  
+C. Sirf LIC handle karti hai  
+D. Sirf पोस्ट ऑफिस handle karta hai  
+
+**Answer:** B

@@ -1,194 +1,181 @@
 # Date: 04-01-2026  
-**Exam Focus:** SSC / UPSC (National + Economy + Infra + Culture)
-
-> Banking‑specific points alag file `GA_04-01-2026_bank_current_affairs.md` me diye gaye hain.
+**Exam Focus:** SSC (CGL/CHSL/CPO/State Exams – GA + Governance + Schemes + Infra)
 
 ---
 
-## 1. कृषि व शासन
+## Aaj ke TOP SSC Current Affairs Topics (4 Jan 2026)
 
-### 1.1 कृषि मंत्री की राज्यों को advisory
-
-- Union Agriculture Minister **Shivraj Singh Chouhan** ne राज्यों/UTs ko कहा ki वे **March 2026** tak:
-  - PM‑KISAN, PMFBY, अन्य कृषि योजनाओं ke लिए मिले funds jaldi utilise karein,  
-  - PM‑KISAN beneficiaries ki verification, e‑KYC, land records update complete karein।  
-
----
-
-## 2. न्यायपालिका व नियुक्तियाँ
-
-### 2.1 Jharkhand High Court – नया Chief Justice
-
-- **Justice Mahesh Sharadchandra Sonak** को **Jharkhand High Court** ka Chief Justice नियुक्त किया गया (8 Jan se charge).  
-- वे पहले **Bombay High Court** ke judge the.  
-
-### 2.2 Punjab & Haryana High Court – अतिरिक्त न्यायाधीश
-
-- **Ramesh Chander Dimri** aur **Neerja Kulwant Kalson** ko Punjab & Haryana HC ke additional judges ke रूप me मंजूरी di गई।  
+1. Union Agriculture Minister ki **states ko advisory** – PM‑KISAN/PMFBY funds तेज़ी से खर्च karo  
+2. Sin goods (tobacco, pan masala) par **Health & National Security Cess** – indirect tax / health policy  
+3. **Musi Riverfront Development Project**, Telangana – ADB loan  
+4. **DGFT & FCI** ke नए शीर्ष स्तर ke नियुक्ति  
+5. **Forex reserves** – week ended 26 Dec 2025 ka update
 
 ---
 
-## 3. इंफ्रास्ट्रक्चर व विकास
+## TOPIC 1: Agriculture Minister – PM‑KISAN/PMFBY Funds Utilisation Advisory
 
-### 3.1 Mumbai–Ahmedabad High‑Speed Rail – पहला mountain tunnel breakthrough
+- Union Agriculture & Farmers’ Welfare Minister **Shivraj Singh Chouhan** ne  
+  राज्यों ko कहा ki वे **March 2026** tak:  
+  - PM‑KISAN,  
+  - PMFBY (Pradhan Mantri Fasal Bima Yojana),  
+  - aur अन्य farm schemes ke लिये मिले funds ko **तेज़ी से utilise** karein।  
+- Focus:  
+  - pending claims, e‑KYC / land record verification jaldi complete,  
+  - farmers ko समय पर लाभ,  
+  - अगली किस्त की release me आसानी।
 
-- Bharat ki पहली bullet train परियोजना **MAHSR** me  
-  पहला **mountain tunnel breakthrough** हासिल हुआ.  
-- यह major civil engineering milestone hai, Japan ki **Shinkansen technology** ka use hoga.
+**SSC exam points:**
 
-### 3.2 Musi Riverfront Development (Telangana)
+- PM‑KISAN: per farmer income support – **₹6,000/year (3 instalments)**, launch 2019.  
+- PMFBY: **2016**, crop insurance, premium sharing Centre + States.  
+- Current Agriculture Minister (2025–26 context): **Shivraj Singh Chouhan**.
 
-- **Asian Development Bank (ADB)** ne **Musi Riverfront Development Project – Phase‑I** ke लिए  
-  लगभग **₹4,100 crore (US$ 500 million)** ka loan in‑principle approve kiya.  
-- Project: Hyderabad region me riverfront beautification, sewage treatment, flood management, slum redevelopment etc.
+**Memory Trick – “KISAN ko समय पर Kist”**
 
-### 3.3 Andaman & Nicobar – ₹373 crore ke development projects
-
-- Union Home Minister **Amit Shah** ne A&N Islands me  
-  लगभग **₹373 crore** ke projects ka उद्घाटन kiya, जिनमे:
-  - नये administrative / civic buildings,  
-  - नये criminal laws (Bharatiya Nyaya Sanhita etc.) par exhibition,  
-  - tourism aur infrastructure se जुड़ी सुविधाएँ.
-
-### 3.4 Surat – slum‑free city बनने ki ओर
-
-- Gujarat ka शहर **Surat** बड़े पैमाने पर slum redevelopment se  
-  **India’s first slum‑free city** banne ki ओर badh रहा है.  
+> Line: **“Shivraj ji ka संदेश – KISAN ko अपनी किस्त समय पर दो.”**
 
 ---
 
-## 4. अर्थव्यवस्था व कर
+## TOPIC 2: Health & National Security Cess – Sin Goods par नया cess
 
-### 4.1 Sin Goods – नया duty structure
+- Government ne tobacco, pan masala, gutkha jaise **sin goods** par  
+  existing **GST Compensation Cess** ke badle  
+  **Additional Excise + Health & National Security Cess** structure finalise kiya।  
+- Aim:  
+  - harmful consumption ko discourage,  
+  - health system aur national security related खर्च के लिये fund.
 
-- Cigarettes, pan masala, अन्य tobacco products par  
-  **GST Compensation Cess** ko हटाकर  
-  **Additional Excise Duty + Health & National Security Cess** लागू kiya गया (1 Feb 2026 se).  
-- GST rate same rakhe gaye (pan masala ~40%, biris ~18%).  
+**SSC exam points:**
 
-### 4.2 Forex Reserves
+- Cess = **लगे हुए tax ke ऊपर extra charge**, earmarked purpose ke लिये.  
+- Health & National Security Cess – sin goods se जुड़ा indirect tax.
 
-- सप्ताह समाप्त **26 Dec 2025** tak India ke **foreign exchange reserves** me  
-  लगभग **US$ 3.3 billion** ki वृद्धि hui.  
+**Memory Trick – “HN = Health + Nation”**
 
----
-
-## 5. नियुक्तियाँ – आर्थिक/प्रशासनिक
-
-### 5.1 DGFT Chief – Lav Aggarwal
-
-- **Lav Aggarwal** ko **Director General of Foreign Trade (DGFT)** नियुक्त किया गया.  
-- DGFT: Foreign Trade Policy implement karta hai, export–import licences/jurisprudence देखता hai.
-
-### 5.2 FCI CMD – Rabindra Kumar Agarwal
-
-- **Rabindra Kumar Agarwal** को **Food Corporation of India (FCI)** ka Chairman‑cum‑Managing Director बनाया गया.  
-- FCI: MSP‑based procurement, buffer stock, PDS distribution system ka मुख्य स्तंभ है.
+> **H**ealth ke नाम par, **N**ation ki सुरक्षा ke नाम par – sin goods par extra cess.
 
 ---
 
-## 6. संस्कृति व अन्य
+## TOPIC 3: Musi Riverfront Development Project – Telangana + ADB
 
-### 6.1 Piprahwa Relics of Bhagwan Buddha – Grand Exposition
+- Telangana सरकार ne Hyderabad ki **Musi River** ke किनारे  
+  बड़ा **riverfront development project** start kiya,  
+  jis ke Phase‑I ke लिये **Asian Development Bank (ADB)** ne करीब **US$ 500 mn (~₹4,100 cr)** loan approve kiya।  
+- Focus:  
+  - flood risk management,  
+  - sewerage treatment,  
+  - riverfront park/promenade,  
+  - slum redevelopment.
 
-- PM Narendra Modi ne New Delhi me  
-  **“Grand International Exposition of Piprahwa Relics of Bhagwan Buddha”** ka उद्घाटन किया.  
-- Piprahwa (UP) ko प्राचीन Kapilavastu क्षेत्र se जोड़ा जाता hai; relics ko लगभग 125 saal baad वापस laakar प्रदर्शित kiya ja रहा है.
+**SSC exam points:**
 
-### 6.2 Live Events Development Cell (LEDC)
+- Musi River – **Telangana (Hyderabad)** se जुड़ी hai.  
+- ADB HQ: **Manila, Philippines**; स्थापना 1966.
 
-- Information & Broadcasting Ministry ne  
-  **Live Events Development Cell (LEDC)** स्थापित kiya:
-  - concert / live events economy ko बढ़ावा,  
-  - **India Cine Hub** portal ke जरिए single‑window clearances,  
-  - States ke liye model SOPs.
+**Memory Trick – “Musi = Hyderabad ki nadi, ADB se मिली funding ready”**
 
----
-
-## SSC/UPSC Style MCQs – 04-01-2026
-
-### Q1. Justice Mahesh Sharadchandra Sonak किस High Court ke Chief Justice बनाए गए?
-
-A. Sikkim HC  
-B. Jharkhand HC  
-C. Bombay HC  
-D. Delhi HC  
-
-**Answer:** B  
+> बस ऐसा सोचो: Hyderabad wali Musi ko ADB ne “makeover fund” दिया।
 
 ---
 
-### Q2. Musi Riverfront Development Project किस शहर se जुड़ा hai?
+## TOPIC 4: DGFT & FCI – Important Appointments
 
-A. Jaipur  
-B. Hyderabad  
-C. Ahmedabad  
-D. Kolkata  
+- **Lav Aggarwal** – new **Director General of Foreign Trade (DGFT)**.  
+  - DGFT – Foreign Trade Policy implement karta, export‑import ko regulate karta.  
+- **Rabindra Kumar Agarwal** – new **CMD, Food Corporation of India (FCI)**.  
+  - FCI – MSP पर खरीद, storage, PDS grains ka distribution.
 
-**Answer:** B  
+**SSC exam points:**
 
----
+- DGFT – Ministry of Commerce & Industry ke under.  
+- FCI – Ministry of Consumer Affairs, Food & Public Distribution ke under.
 
-### Q3. Andaman & Nicobar Islands me ₹373 crore ke projects ka उद्घाटन kisne kiya?
+**Memory Trick – “Lav – Foreign Trade, Rabindra – Ration”**
 
-A. President Droupadi Murmu  
-B. PM Narendra Modi  
-C. Home Minister Amit Shah  
-D. Defence Minister Rajnath Singh  
-
-**Answer:** C  
+> **Lav = DGFT (foreign trade)**,  
+> **Rabindra = FCI (ration/food).**
 
 ---
 
-### Q4. “Health & National Security Cess” किस प्रकार ke products par लागू hua?
+## TOPIC 5: Forex Reserves – External Sector Snapshot
 
-A. Essential medicines  
-B. Solar panels  
-C. Tobacco & pan masala jaise sin goods  
-D. Fertilizers  
+- RBI ke डेटा के अनुसार **week ended 26 Dec 2025** me  
+  **India ke forex reserves me लगभग US$ 3.3 billion ki बढ़ोतरी** दर्ज हुई।  
+- Forex reserves में शामिल:  
+  - Foreign Currency Assets (FCA),  
+  - Gold, SDR, IMF reserve position.
 
-**Answer:** C  
+**SSC exam points:**
 
----
+- Forex reserves ko कौन manage karta hai? → **Reserve Bank of India.**  
+- Reserves ka महत्व:  
+  - Rupee exchange rate ko stable rakhne में मदद,  
+  - external shock absorb karne की क्षमता,  
+  - sovereign rating ke लिये positive.
 
-### Q5. DGFT ka full form kya hai?
+**Memory Trick – “RBI ka शील्ड – Forex Reserves field”**
 
-A. Directorate General of Financial Transactions  
-B. Directorate General of Foreign Trade  
-C. Development Guidance for Foreign Trade  
-D. Department of Global Financial Trade  
-
-**Answer:** B  
-
----
-
-### Q6. Piprahwa Relics of Bhagwan Buddha ka exposition kis शहर me inaugurate hua?
-
-A. Varanasi  
-B. Bodh Gaya  
-C. New Delhi  
-D. Lucknow  
-
-**Answer:** C  
+> Socho RBI ke पास ek **शील्ड** hai – jiska naam **Forex Reserves**.
 
 ---
 
-### Q7. Forex reserves me week ended 26 Dec 2025 ke दौरान approx kya बदलाव hua?
+## Super Short 1-Liner Revision – SSC (04-01-2026)
 
-A. $3.3 bn कमी  
-B. $3.3 bn वृद्धि  
-C. $10 bn वृद्धि  
-D. स्थिर रहे  
-
-**Answer:** B  
+1. Agriculture Minister – Shivraj Singh Chouhan; PM‑KISAN/PMFBY funds ko March 2026 तक तेज़ी से use karo.  
+2. Health & National Security Cess – tobacco/pan masala jaise sin goods par.  
+3. Musi riverfront – Hyderabad, Telangana; ADB loan.  
+4. Lav Aggarwal – DGFT; Rabindra Kumar Agarwal – FCI CMD.  
+5. Forex reserves – week ended 26 Dec 2025 me ~US$ 3.3 bn increase.
 
 ---
 
-### Q8. Surat kis baat ke लिए national model ke रूप me highlight hua?
+## MCQs – SSC (04-01-2026)
 
-A. Electric vehicle adoption  
-B. Slum‑free city बनना (slum redevelopment)  
-C. Textile exports  
-D. Smart port development  
+1. वर्तमान (2025–26) ke Union Agriculture & Farmers’ Welfare Minister kaun hain?  
+   A. Narendra Singh Tomar  
+   B. Shivraj Singh Chouhan  
+   C. Rajnath Singh  
+   D. Nitin Gadkari  
 
-**Answer:** B
+   **Answer:** B  
+
+---
+
+2. Health & National Security Cess किस प्रकार ke products par लगाया गया hai?  
+   A. Milk & dairy products  
+   B. Tobacco, pan masala etc.  
+   C. Textiles  
+   D. Pharmaceutical drugs  
+
+   **Answer:** B  
+
+---
+
+3. Musi River kis rajya se संबंधित hai?  
+   A. Karnataka  
+   B. Telangana  
+   C. Gujarat  
+   D. Assam  
+
+   **Answer:** B  
+
+---
+
+4. DGFT ke naye chief ka नाम kya hai?  
+   A. Rabindra Kumar Agarwal  
+   B. Lav Aggarwal  
+   C. Ajay Seth  
+   D. T.V. Somanathan  
+
+   **Answer:** B  
+
+---
+
+5. Forex reserves ko officially kaun manage karta hai?  
+   A. Ministry of Finance  
+   B. NITI Aayog  
+   C. RBI  
+   D. SEBI  
+
+   **Answer:** C

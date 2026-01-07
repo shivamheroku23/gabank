@@ -1,151 +1,169 @@
 # Date: 05-01-2026  
-**Exam Focus:** SSC / UPSC (Defence + Infra + Health + Misc)
-
-> Banking‑oriented summary अलग file `GA_05-01-2026_bank_current_affairs.md` me hai; yahan broad SSC/UPSC GA cover hai।
+**Exam Focus:** SSC (CGL/CHSL/CPO – Defence + Economy + Schemes)
 
 ---
 
-## 1. रक्षा व सुरक्षा
+## Aaj ke TOP SSC Current Affairs Topics (5 Jan 2026)
 
-### 1.1 Indian Army – “Year of Networking & Data Centricity” (2026)
-
-- Indian Army ने वर्ष **2026** को  
-  **“Year of Networking & Data Centricity”** घोषित किया।  
-- Focus:
-  - network‑centric warfare,  
-  - secure communication systems,  
-  - data‑driven decision making, AI, analytics.
+1. **Payments Regulatory Board (PRB)** – पहली बैठक (payment regulation)  
+2. **Nutrient Based Subsidy (NBS)** – Rabi 2025‑26 ke लिये नए rates  
+3. **ONGC–NSTFDC MoU** – tribal EMRS schools ke लिये CSR  
+4. NITI Aayog ka **Trade Watch** – FTA partners ke साथ trade deficit बढ़ना  
+5. Digital payments future – **Payments Vision 2028** ka outline
 
 ---
 
-### 1.2 Community Radio Station – “Radio Sangam”
+## TOPIC 1: Payments Regulatory Board (PRB) – First Meeting
 
-- 2 Jan 2026 (CA 5 Jan me cover):  
-  Indian Army ने पहला community radio station  
-  **“Radio Sangam”** Keri village, Doongi block, **Rajouri (J&K)** me launch किया।  
-- Location: **Line of Control (LoC)** ke निकट।  
-- उद्देश्य:
-  - border communities ke साथ information outreach,  
-  - schemes, weather, education, culture, emergency messages ka प्रसारण।
+- **5 January 2026**, Mumbai – **Payments Regulatory Board (PRB)** ki पहली बैठक हुई.  
+- PRB बना किससे?  
+  - **Payment and Settlement Systems Act, 2007** me amendment (May 2025) ke बाद  
+    पुराना **BPSS** (Board for Regulation and Supervision of Payment and Settlement Systems) ko replace kiya गया.  
+- Chairperson: **RBI Governor** (Sanjay Malhotra, 2026 context).  
 
----
+**SSC exam points:**
 
-## 2. इंफ्रास्ट्रक्चर, शहरी विकास व साइबर सुरक्षा
+- PRB – payment & settlement systems ke regulation/supervision ke लिये नया board.  
+- Act: PSS Act, 2007.  
+- BPSS ko replace kiya.
 
-### 2.1 Musi Riverfront Development – ADB Loan (recap)
+**Memory Trick – “PRB = Payments Rule Board”**
 
-- Asian Development Bank (ADB) ne Telangana ke  
-  **Musi Riverfront Development Project – Phase‑I** ke लिए  
-  लगभग **₹4,100 crore** ka loan approve किया (4–5 Jan combined CA).  
-
-### 2.2 Surat – Slum‑free Model
-
-- Surat को **India’s first slum‑free city** बनने ke model ke रूप me highlight किया गया:  
-  - in‑situ slum redevelopment,  
-  - multi‑storey housing, basic amenities.  
-
-### 2.3 Gujarat – Energy Sector Cyber‑security Panels
-
-- Gujarat सरकार ने energy infrastructure (power, oil & gas) ke लिए:  
-  - **11‑member Core Committee**,  
-  - **19‑member Task Force** cyber‑security ke लिए बनाये।  
+> बस yaad rakho: **PRB = Payments Rule Board** – jo UPI/NEFT/cards ke rules par नज़र rakhta hai.
 
 ---
 
-## 3. स्वास्थ्य व पर्यावरण
+## TOPIC 2: Nutrient Based Subsidy (NBS) – Rabi 2025‑26
 
-### 3.1 Gandhinagar me Typhoid ke cases
+- Cabinet ne **Rabi 2025‑26** (Oct 2025–Mar 2026) ke लिये  
+  **Nutrient Based Subsidy (NBS)** rates approve kiye – P&K fertilisers ke लिये.  
+- Per kg subsidy (approx):  
+  - N – ₹43.02, P – ₹47.96, K – ₹2.38, S – ₹2.87.  
 
-- Gandhinagar (Gujarat) me **typhoid** cases me तेज़ increase report hua,  
-  मुख्य रूप से नए water supply system me **contaminated drinking water** ke कारण.  
-- Highlight:
-  - urban water governance, public health infra ki कमियाँ।
+**SSC exam points:**
 
----
+- NBS scheme kab se? → **1 April 2010** (P&K fertilisers).  
+- Aim: **balanced fertiliser use** – urea पर over‑dependence reduce.  
 
-## 4. अंतरराष्ट्रीय / geopolitical संदर्भ
+**Memory Trick – “NBS = Nutrient ka Budget System”**
 
-### 4.1 US Strikes on Venezuela
-
-- कुछ CA sources ne **US military action in Venezuela** ka जिक्र किया:  
-  - Venezuela ki sovereignty, international law ke संदर्भ me debate,  
-  - oil market, West‑Asia politics (Iran) par impact ke point of view se UPSC mains ke लिए example।
+> NBS = सरकार ka **Nutrient ka Budget System** – har kg N, P, K, S par kitna ₹ milega.
 
 ---
 
-## SSC/UPSC Style MCQs – 05-01-2026
+## TOPIC 3: ONGC–NSTFDC MoU – Tribal Education Support
 
-### Q1. Indian Army ne 2026 ko किस नाम से घोषित किया?
+- **ONGC** (Maharatna PSU) ne  
+  **NSTFDC (National Scheduled Tribes Finance and Development Corporation)** ke साथ  
+  ek **CSR MoU** sign kiya.  
+- Approx **₹28 crore** CSR funds:  
+  - **Eklavya Model Residential Schools (EMRS)** ke लिये  
+    infrastructure & digital facilities develop karne me use होंगे.  
 
-A. Year of Make in India  
-B. Year of Networking & Data Centricity  
-C. Year of Joint Exercises  
-D. Year of Logistics Improvement  
+**SSC exam points:**
 
-**Answer:** B  
+- NSTFDC – Ministry of Tribal Affairs ke under PSU; STs ke लिये finance & development.  
+- EMRS – आवासीय school system for tribal students (Ministry of Tribal Affairs).
 
----
+**Memory Trick – “ONGC ka तेल – EMRS ka स्कूल”**
 
-### Q2. Community Radio “Radio Sangam” कहाँ स्थापित किया गया?
-
-A. Ladakh, LAC ke पास  
-B. Rajouri district, J&K – Keri village, LoC ke पास  
-C. Rajasthan border, Jaisalmer  
-D. Sikkim, Nathu La  
-
-**Answer:** B  
+> ONGC – petrol/diesel se कमाए paise,  
+> **EMRS schools** par खर्च – yehi MoU ka gist.
 
 ---
 
-### Q3. Radio Sangam का मुख्य उद्देश्य क्या है?
+## TOPIC 4: NITI Trade Watch – FTA Partners ke साथ Deficit
 
-A. केवल film songs चलाना  
-B. Border communities के साथ सूचना और संवाद बढ़ाना  
-C. Army internal communication  
-D. केवल sports commentary  
+- NITI Aayog ki **Trade Watch report** ke अनुसार  
+  **April–June 2025** me FTA partner देशों ke साथ  
+  India ka trade deficit lagbhag **59%** तक बढ़ गया (YoY).  
 
-**Answer:** B  
+**SSC exam points:**
 
----
+- FTA – Free Trade Agreement;  
+- Trade deficit बढ़ने ka मतलब – imports zyada, exports कम (value terms).
 
-### Q4. Gujarat me ऊर्जा क्षेत्र की cyber‑security ke लिए बनी नई bodies का focus क्या है?
+**Memory Trick – “FTA se gate khula, deficit bhi ghus aaya”**
 
-A. School curriculum reform  
-B. Energy infrastructure (power, oil & gas) ko cyber‑attacks से protect karna  
-C. Labour law reform  
-D. Tourism policy  
-
-**Answer:** B  
+> Free trade se gate खुलता hai, agar exports weak hon to **deficit** अंदर aa जाता hai.
 
 ---
 
-### Q5. Gandhinagar me typhoid के cases किस कारण से खबर में रहे?
+## TOPIC 5: Payments Vision 2028 – 4S Formula
 
-A. Air pollution  
-B. Contaminated drinking water from new supply network  
-C. Food poisoning in school mid‑day meals  
-D. Vector‑borne disease (mosquito)  
+- RBI ka draft **Payments Vision 2028**  
+  भारत ke digital payment ecosystem ke लिये लक्ष्य set karta hai:  
+  - fraud control, cyber security, cross‑border payments,  
+  - offline solutions, financial inclusion.  
 
-**Answer:** B  
+**SSC exam points:**
 
----
+- Vision 2028 – digital payment policy document;  
+- Link: UPI, RuPay, IMPS, NEFT/RTGS.
 
-### Q6. Musi Riverfront Development Project किस नदी पर आधारित है?
+**Memory Trick – “4S: Safe, Secure, Smart, Swift”**
 
-A. Ganga  
-B. Godavari  
-C. Musi  
-D. Narmada  
-
-**Answer:** C  
+> Payments Vision 2028 = **4S**  
+> – Safe, Secure, Smart, Swift payments.
 
 ---
 
-### Q7. SSC/UPSC मुख्य परीक्षा के लिए US–Venezuela घटना किस विषय में example बन सकती है?
+## Super Short 1-Liner Revision – SSC (05-01-2026)
 
-A. Cooperative federalism  
-B. International law & sovereignty / energy geopolitics  
-C. Panchayati Raj  
-D. Local governance reforms  
+1. PRB – नया payments regulator board (BPSS ko replace kiya).  
+2. NBS – fertiliser subsidy per kg NPKS rate card.  
+3. ONGC–NSTFDC – ₹28 cr CSR for EMRS schools.  
+4. NITI Trade Watch – FTA partners ke साथ deficit बढ़ा.  
+5. Payments Vision 2028 – digital payments ke लिये 4S target.
 
-**Answer:** B
+---
+
+## MCQs – SSC (05-01-2026)
+
+1. Payments Regulatory Board (PRB) किस Act se जुड़ा hai?  
+   A. RBI Act, 1934  
+   B. Payment and Settlement Systems Act, 2007  
+   C. Banking Regulation Act, 1949  
+   D. SARFAESI Act  
+
+   **Answer:** B  
+
+---
+
+2. PRB ne किस body ko replace kiya?  
+   A. FSDC  
+   B. BPSS  
+   C. SEBI Board  
+   D. TRAI  
+
+   **Answer:** B  
+
+---
+
+3. NBS kis fertiliser पर लागू hoti hai?  
+   A. केवल urea  
+   B. केवल organic manure  
+   C. P&K (Phosphatic & Potassic) fertilisers  
+   D. केवल gypsum  
+
+   **Answer:** C  
+
+---
+
+4. NSTFDC किस वर्ग की आर्थिक प्रगति ke लिये काम karta hai?  
+   A. SCs  
+   B. STs  
+   C. OBCs  
+   D. Minorities  
+
+   **Answer:** B  
+
+---
+
+5. Payments Vision 2028 का मुख्य सम्बन्ध किस क्षेत्र se hai?  
+   A. School education  
+   B. Digital payment systems  
+   C. Railways  
+   D. Agriculture  
+
+   **Answer:** B

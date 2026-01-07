@@ -1,194 +1,167 @@
 # Date: 07-01-2026  
-**Exam Focus:** SSC / UPSC (Defence + S&T + Economy + Tribal Development)
-
-> Topics को जहाँ संभव हो **PIB / official releases** से cross‑check किया गया है; बाकी reputed CA compilations से लिए गये हैं।
+**Exam Focus:** SSC (CGL/CHSL/CPO – Mixed GA + Economy + Governance)
 
 ---
 
-## 1. रक्षा व आधुनिक युद्ध क्षमता
+## Aaj ke TOP SSC Current Affairs Topics (7 Jan 2026)
 
-### 1.1 Indian Army – ‘Bhairav’ आधुनिक युद्ध बल
-
-- Indian Army ने एक नया modern warfare force announce किया – **“Bhairav”**.  
-- उद्देश्य:
-  - **Drone technology integration**, swarm drones, loitering munitions,  
-  - real‑time surveillance, precision strikes ke ज़रिए combat capability बढ़ाना.  
-- Report के अनुसार:
-  - Army ने **1 लाख से अधिक प्रशिक्षित drone operatives** की pool तैयार करने का लक्ष्य रखा है.  
-
-**Exam Angle (SSC/UPSC):**
-
-- Modern warfare, drones, man‑machine teaming – defence ke current trends.  
-- Likely question: “Bhairav force किससे संबंधित है?” → Indian Army का modern warfare / drone‑centric formation.
+1. **Payments Regulatory Board (PRB)** – नयी payments नियामक body  
+2. **NBS Rabi 2025‑26** – fertiliser subsidy per‑kg rates  
+3. **ONGC–NSTFDC CSR MoU** – EMRS schools ke लिये support  
+4. **FTA trade deficit & forex reserves** – external sector snapshot  
+5. **Payments Vision 2028** – digital payment policy दिशा
 
 ---
 
-### 1.2 Indigenous Multi‑Calibre Rocket Launcher – Suryastra
+## TOPIC 1: Payments Regulatory Board (PRB)
 
-- Army ने Indian company **NIBE Limited** (Israel collaboration) ke साथ  
-  लगभग **₹293 crore** ka contract sign किया  
-  **“Suryastra” universal multi‑calibre rocket launcher system** ke लिए.  
-- यह system:
-  - अलग‑अलग calibre ke rockets को launch कर सकता है,  
-  - **indigenous** design ka हिस्सा hai, Atmanirbhar Bharat ko support karta hai.  
+- Amended **Payment and Settlement Systems Act, 2007** ke तहत  
+  RBI ke अंदर **Payments Regulatory Board (PRB)** बनायी गयी,  
+  jisne पुरानी body **BPSS** ko replace kiya.  
+- Chairperson: **RBI Governor**.  
+- Role:  
+  - payment & settlement systems ka regulation,  
+  - UPI, NEFT, RTGS, cards, wallets etc. ke लिये overall policy oversight.
 
----
+**SSC exam points:**
 
-## 2. विज्ञान एवं प्रौद्योगिकी
+- PRB – किसको replace kiya? → **BPSS.**  
+- PRB किस Act se जुड़ी hai? → **PSS Act, 2007.**
 
-### 2.1 ISRO – Aditya‑L1 Mission Data को खोला गया
+**Memory Trick – “PRB – Payments Rules Board”**
 
-- ISRO ne अपने **Aditya‑L1 (solar mission)** ka scientific data  
-  भारतीय वैज्ञानिकों के लिए open कर दिया:  
-  - “Aditya‑L1 AO Data Call” के ज़रिए researchers ground‑based analysis ke लिए data access कर सकते हैं.  
-- यह transparency और वैज्ञानिक community ke साथ collaboration को बढ़ाता है.  
-
----
-
-### 2.2 CSIR‑NPL में दो world‑class प्रयोगशालाएँ
-
-- Union MoS **Dr. Jitendra Singh** ne **CSIR‑National Physical Laboratory, New Delhi** me  
-  दो नई world‑class labs ka उद्घाटन किया (event 5 Jan ko hua, 7 Jan CA में cover).  
-- Focus areas:
-  - high‑precision measurements,  
-  - national standards, metrology, advanced materials.
+> बस याद: **“PRB = Payments Rules Board”** – jo सारे digital payments ke rules देखता hai.
 
 ---
 
-## 3. Tribal Education & CSR
+## TOPIC 2: Nutrient Based Subsidy (NBS) – Rabi 2025‑26
 
-### 3.1 ONGC – NSTFDC MoU (Eklavya Model Residential Schools)
+- Government ne **Rabi 2025‑26** (Oct–Mar) ke लिये  
+  P&K fertilisers ke लिये **Nutrient Based Subsidy (NBS)** rates approve kiye:  
+  - N – ₹43.02/kg, P – ₹47.96/kg, K – ₹2.38/kg, S – ₹2.87/kg (approx).  
+- Scheme 2010 se लागू – fertiliser companies ko subsidy nutrient content ke हिसाब se दी जाती है.
+
+**SSC exam points:**
+
+- NBS – किसके लिये? → **Phosphatic & Potassic (P&K) fertilisers.**  
+- Aim – **balanced fertiliser use**, urea पर निर्भरता कम.
+
+**Memory Trick – “NBS = Nutrient Budgeting System”**
+
+> Naam याद: **“Nutrient Budgeting System”** – सरकार हर kg N‑P‑K‑S ka budget तय karti hai.
+
+---
+
+## TOPIC 3: ONGC–NSTFDC CSR MoU – EMRS Support
 
 - **ONGC** ne **NSTFDC (National Scheduled Tribes Finance & Development Corporation)** ke साथ  
-  CSR project ke लिए MoU sign किया.  
-- Key points:
-  - approx **₹28 crore CSR fund**,  
-  - **144 Eklavya Model Residential Schools (EMRS)**, 11 states/UTs,  
-  - ~**35,000 tribal students** ke लिए digital classrooms, IT infra, health interventions.  
+  approx **₹28 crore** ka CSR MoU sign kiya:  
+  - 11 States/UTs ke **144 Eklavya Model Residential Schools (EMRS)** ke लिये  
+    infrastructure & digital facilities improve karne ke लिये.  
 
-**Exam Use:**
+**SSC exam points:**
 
-- Tribal education, CSR, EMRS – UPSC GS1/GS2, SSC GA me fact + example dono ke तौर पर useful.
+- NSTFDC – Ministry of Tribal Affairs ke अंतर्गत PSU – STs ke लिये financial support.  
+- EMRS – tribal students ke लिये residential school system.
 
----
+**Memory Trick – “ONGC ka तेल – EMRS ka मेल”**
 
-## 4. अर्थव्यवस्था एवं व्यापार
-
-### 4.1 NITI Aayog – Trade Watch Quarterly Report
-
-- **NITI Aayog** ki **Trade Watch** quarterly report ke अनुसार:
-  - India ka **trade deficit FTA partner देशों के साथ April–June 2025 me ~59.2% बढ़ गया**  
-    (previous year ke same period se तुलना).  
-- Electronics exports strong रहे, लेकिन imports jyada होने se overall deficit बढ़ा.  
-
-**Significance:**
-
-- FTAs ka impact हमेशा केवल export boost nahi –  
-  kuch sectors me imports bhi तेज़ बढ़ सकते हैं.  
-- UPSC mains में trade policy / FTAs पर सवाल आते रहते हैं, यह fresh data point है.
+> ONGC ke तेल se कमाए पैसे ka **मेल** EMRS schools ke साथ – NSTFDC ke माध्यम se.
 
 ---
 
-## 5. कृषि एवं उर्वरक
+## TOPIC 4: Trade Deficit with FTA Partners & Forex Reserves
 
-### 5.1 Nutrient Based Subsidy (NBS) – Rabi 2025‑26 (Recap)
+- NITI Aayog ki **Trade Watch** रिपोर्ट के अनुसार  
+  **April–June 2025** me **FTA partner देशों** ke साथ  
+  India ka trade deficit approx **59%** बढ़ा (YoY).  
+- RBI ke अनुसार week ended **26 Dec 2025** me  
+  forex reserves me ~**US$ 3.3 bn** ka increase.
 
-- GoI ne **Rabi 2025‑26 (Oct 2025 – Mar 2026)** ke लिए  
-  **NBS rates** approve किए:  
-  - N, P, K, S per‑kg subsidy निर्धारित,  
-  - Subsidy outlay ~**₹37,952 crore**.  
-- यह जानकारी October 2025 notifications se aayi, lekin 2026 ke CA में भी revise हुई.  
+**SSC exam points:**
 
----
+- Trade deficit = imports > exports (value terms).  
+- Forex reserves – RBI manage karta hai.
 
-## 6. भुगतान प्रणाली शासन (Payments Governance)
+**Memory Trick – “FTA se gate, deficit bhi साथ me”**
 
-### 6.1 Payments Regulatory Board (PRB) – पहली बैठक
-
-- Payment and Settlement Systems Act, 2007 ki amendments ke बाद bani  
-  **Payments Regulatory Board (PRB)** ne अपनी **पहली बैठक 5 Jan 2026 ko Mumbai me** की  
-  (7 Jan ke CA me cover).  
-- Chairperson: **RBI Governor** (Sanjay Malhotra).  
-- Agenda:
-  - Domestic & global payment systems ka review,  
-  - Draft **Payments Vision 2028** par चर्चा,  
-  - RBI ke **Survey on Digital Payments** ki findings.
+> Free trade agreements se gate खुलता hai –  
+> agar exports कमजोर हों to **deficit** saath me aa jata hai.
 
 ---
 
-## SSC/UPSC Style MCQs – 07-01-2026
+## TOPIC 5: Payments Vision 2028 – 4S Payments
 
-### Q1. ‘Bhairav’ किससे संबंधित है?
+- RBI ka **Payments Vision 2028** document digital payments ecosystem ke लिये दिशा तय karta है.  
+- Goal: **4S** – **Safe, Secure, Smart, Swift** payments.  
 
-A. ISRO का Chandrayaan mission  
-B. Indian Army ka modern warfare / drone‑centric force  
-C. BSF का नया border outpost  
-D. DRDO ka missile programme  
+**SSC exam points:**
 
-**Answer:** B  
+- UPI, RuPay, IMPS, NEFT/RTGS, offline payment आदि is vision framework se जुड़े हैं।
 
----
+**Memory Trick – “4S – चार S ka संकल्प”**
 
-### Q2. “Suryastra” क्या है?
-
-A. Solar power satellite  
-B. Multi‑calibre rocket launcher system for Indian Army  
-C. Anti‑tank guided missile  
-D. New PSLV variant  
-
-**Answer:** B  
+> Safe, Secure, Smart, Swift –  
+> चार S = Bharat ke digital payments ka संकल्प.
 
 ---
 
-### Q3. Aditya‑L1 मिशन किस celestial body का अध्ययन करता है?
+## Super Short 1-Liner Revision – SSC (07-01-2026)
 
-A. Moon  
-B. Mars  
-C. Sun  
-D. Jupiter  
-
-**Answer:** C  
-
----
-
-### Q4. ONGC–NSTFDC MoU का मुख्य उद्‍देश्य क्या है?
-
-A. Offshore drilling बढ़ाना  
-B. Tribal छात्रों के लिए Eklavya Model Residential Schools का infrastructure और digital upgradation  
-C. Oil pipeline security  
-D. Electric vehicle charging network  
-
-**Answer:** B  
+1. PRB – new payments regulatory board under PSS Act, 2007; BPSS replace.  
+2. NBS – P&K fertilisers के लिये per‑kg subsidy; balanced fertiliser use.  
+3. ONGC–NSTFDC – ₹28 cr CSR for 144 EMRS schools.  
+4. FTA partners ke साथ trade deficit बढ़ा; forex reserves me 3.3 bn increase.  
+5. Payments Vision 2028 – 4S digital payments goal.
 
 ---
 
-### Q5. NITI Aayog ke Trade Watch report ke अनुसार किसके साथ trade deficit me ~59% की बढ़ोतरी हुई?
+## MCQs – SSC (07-01-2026)
 
-A. केवल USA  
-B. Non‑FTA देशों के साथ  
-C. FTA partner देशों के साथ  
-D. केवल EU देशों के साथ  
+1. PRB ने किस body ko replace kiya?  
+   A. FSDC  
+   B. BPSS  
+   C. SEBI Board  
+   D. IBA  
 
-**Answer:** C  
-
----
-
-### Q6. Payments Regulatory Board (PRB) का chairperson कौन होता है?
-
-A. Finance Minister  
-B. NITI Aayog Vice‑Chairman  
-C. RBI Governor  
-D. SEBI Chairman  
-
-**Answer:** C  
+   **Answer:** B  
 
 ---
 
-### Q7. CSIR‑NPL में हाल की दो world‑class प्रयोगशालाएँ किस क्षेत्र से अधिक जुड़ी होंगी?
+2. NBS mainly kis प्रकार ke fertilisers ke लिये लागू hai?  
+   A. Urea  
+   B. Phosphatic & Potassic (P&K)  
+   C. Organic manure  
+   D. Micronutrients  
 
-A. Agriculture research  
-B. Metrology और precision measurement standards  
-C. Social sciences  
-D. Linguistics  
+   **Answer:** B  
 
-**Answer:** B
+---
+
+3. NSTFDC किस वर्ग के लिये काम karta hai?  
+   A. SCs  
+   B. STs  
+   C. OBCs  
+   D. Minorities  
+
+   **Answer:** B  
+
+---
+
+4. Forex reserves ko कौन manage karta hai?  
+   A. Ministry of Commerce  
+   B. SEBI  
+   C. RBI  
+   D. NABARD  
+
+   **Answer:** C  
+
+---
+
+5. Payments Vision 2028 ka 4S formula kya hai?  
+   A. Safe, Secure, Smart, Swift  
+   B. Simple, Short, Straight, Strong  
+   C. Small, Soft, Slow, Silent  
+   D. Steel, Sugar, Salt, Spice  
+
+   **Answer:** A

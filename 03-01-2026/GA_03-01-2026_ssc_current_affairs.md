@@ -1,257 +1,182 @@
 # Date: 03-01-2026  
-**Exam Focus:** SSC / UPSC (Polity + National + Defence + Misc + Economy mix)
-
-> Ye file SSC / UPSC style **General Awareness + Current Affairs** ke liye hai. Banking‑specific points ko अलग से `GA_03-01-2026_bank_current_affairs.md` me cover kiya gaya hai.
+**Exam Focus:** SSC (CGL/CHSL/CPO/State Exams – GA + Sci/Tech + Governance)
 
 ---
 
-## 1. प्रमुख राष्ट्रीय पहलें
+## Aaj ke TOP SSC Current Affairs Topics (3 Jan 2026)
 
-### 1.1 Skilling for AI Readiness (SOAR)
-
-- राष्ट्रपति **द्रौपदी मुर्मू** ने नई दिल्ली के  
-  **Rashtrapati Bhavan Cultural Centre** में  
-  **1 जनवरी 2026** को **“Skilling for AI Readiness (SOAR)”** programme ke अंतर्गत कई initiatives launch kiye  
-  (3 Jan ke CA compilations me isi event ko cover kiya गया, लेकिन **official date 1 Jan 2026** hai)।  
-- Organised by: **Ministry of Skill Development & Entrepreneurship (MSDE)**.  
-- उद्देश्य:
-  - युवाओं को **Artificial Intelligence, Machine Learning, Data Science** आदि में skilling,  
-  - IndiaAI Mission को manpower support देना।
+1. Rashtrapati Bhavan me **SOAR – Skilling for AI Readiness** programme  
+2. Centre ka **Integrated e‑Bill System** – fertiliser subsidy ke bills ko पूरी तरह digital karna  
+3. Tobacco/pan masala ke liye **Health & National Security Cess** (sin goods tax)  
+4. **Land Stack** – Digital India Land Records Modernisation (DILRMP) ka हिस्सा  
+5. RBI ka **Financial Stability Report & Capital Conservation Buffer (CCB)**
 
 ---
 
-### 1.2 50वीं PRAGATI बैठक
+## TOPIC 1: SOAR – Skilling for AI Readiness (Rashtrapati Bhavan Event)
 
-- प्रधानमंत्री **नरेंद्र मोदी** ने **50th PRAGATI meeting** की अध्यक्षता की।  
-- PRAGATI = *Pro‑Active Governance and Timely Implementation*.  
-- Function:
-  - बड़े **infrastructure projects** (सड़क, रेल, urban development) की प्रगति की समीक्षा,  
-  - विभिन्न राज्यों/जिलों की grievances पर चर्चा।  
+- **1 January 2026**, Rashtrapati Bhavan Cultural Centre, New Delhi:  
+  - President **Droupadi Murmu** ne **SOAR – Skilling for AI Readiness** ke तहत  
+    कई AI‑skilling initiatives launch kiye (PIB press releases).  
+- Ministry: **Ministry of Skill Development & Entrepreneurship (MSDE)**.  
+- Highlights:  
+  - **#SkillTheNation Challenge** – AI awareness campaign,  
+  - “AI for Beginners” interactive session (Google ke सहयोग से),  
+  - IGNOU Regional Centre & Skill Centre (Rairangpur, Odisha) ka virtual inauguration.
 
----
+**SSC exam points:**
 
-## 2. अर्थव्यवस्था और नीतियाँ
+- SOAR – किस क्षेत्र se जुड़ा है? → **AI skilling / emerging tech skills.**  
+- किसने launch किया? → **President Droupadi Murmu** (event में मुख्य guest).  
+- Ministry? → **MSDE (Skill Development).**
 
-### 2.1 Sin Goods – नया Tax Structure
+**Memory Trick – “SOAR = Skill Our AI Rashtra”**
 
-- सरकार ने **tobacco products, pan masala** आदि पर नया tax structure notify किया:  
-  - **GST Compensation Cess** हटाकर  
-  - **Additional Excise Duty + Health & National Security Cess** लागू (1 Feb 2026 से)।  
-- GST rates में कोई बदलाव नहीं (pan masala / cigarettes ~40%, biris 18%)।  
-
----
-
-### 2.2 NBFC Infra Loan Risk‑Weight Framework (overview)
-
-- RBI ने **NBFCs की infrastructure loan exposure** के लिए  
-  नया **risk‑weighting framework** जारी किया।  
-- Exam ke liye concept:
-  - Risk‑weight ↑ ⇒ capital requirement ↑,  
-  - Financial stability ke लिए जरूरी।
+> SOAR ko याद रखो: **Skill Our AI Rashtra** –  
+> मतलब पूरा देश AI ready workforce बने।
 
 ---
 
-### 2.3 Low‑ash Metallurgical Coke Import Restrictions
+## TOPIC 2: Integrated e‑Bill System – Fertiliser Subsidies
 
-- सरकार ने **low‑ash metallurgical coke** पर import restrictions  
-  **1 Jan – 30 Jun 2026** तक extend किए।  
-- Reason:
-  - Domestic producers ko protection,  
-  - Critical input ke strategic control ke liye।
+- **1 Jan 2026**, Kartavya Bhawan, New Delhi:  
+  - Union Minister **J.P. Nadda** (Chemicals & Fertilisers) ne  
+    **Integrated e‑Bill System for Fertiliser Subsidies** launch किया।  
+- Purpose:  
+  - लगभग **₹2 lakh crore** ki annual fertiliser subsidy ke सारे bills  
+    अब पूरी तरह online, paperless, end‑to‑end digital ho jayenge।  
+- Features:  
+  - Companies online claim submit करेंगे,  
+  - iFMS + PFMS integration se **real‑time tracking**,  
+  - FIFO processing, digital audit trail, less fraud / delay।
 
----
+**SSC exam points:**
 
-## 3. विज्ञान, टेक्नोलॉजी व डिजिटल गवर्नेंस
+- e‑Bill System किस ministry से जुड़ा है? → **Ministry of Chemicals & Fertilisers.**  
+- किस sector ke bills ke liye? → **Fertiliser subsidies.**
 
-### 3.1 Indian AI Research Organisation (IAIRO) – GIFT City
+**Memory Trick – “फर्टिलाइज़र ke बिल bhi अब e‑mail type”**
 
-- **IAIRO** की स्थापना **GIFT City, Gandhinagar (Gujarat)** में।  
-- Supported by:
-  - **IndiaAI Mission**,  
-  - **Gujarat AI Action Plan**.  
-- Focus:
-  - Cutting‑edge AI research,  
-  - academia‑industry‑startups collaboration।
-
----
-
-### 3.2 Land Stack – Digital Land Records
-
-- **Land Stack** नामक प्लेटफॉर्म का pilot launch:  
-  - **Chandigarh** और **Tamil Nadu** में।  
-- Programme: **Digital India Land Record Modernisation Programme (DILRMP)**.  
-- Features:
-  - GIS‑based land records + maps + ownership/encumbrance data integration,  
-  - e‑governance, property verification, planning ke liye helpful।
+> Line: **“Fertiliser ke bill – अब file nahi, mile e‑Bill.”**
 
 ---
 
-### 3.3 Integrated e‑Bill System – Fertilizer Subsidy
+## TOPIC 3: Health & National Security Cess – Sin Goods Par Naya भार
 
-- Union Minister **JP Nadda** ne fertilizer sector ke लिए  
-  **Integrated e‑Bill System** launch kiya।  
-- उद्देश्य:
-  - Fertilizer subsidy claims ko पूरी तरह **digital & paperless** banana,  
-  - transparency aur processing speed बढ़ाना।  
+- Government ne decide किया ki  
+  tobacco products, pan masala, gutkha jaise **sin goods** par  
+  existing **GST Compensation Cess** को धीरे‑धीरे replace karke  
+  **Additional Excise Duty + Health & National Security Cess** लगाया जाए।  
+- उद्देश्य:  
+  - Health‑related नुक़सान ka कुछ हिस्सा वसूलना,  
+  - National security / health schemes ke लिये specific fund.
 
----
+**SSC exam points:**
 
-### 3.4 MoSPI ka naya Logo aur Mascot “Sankhyiki”
+- Health & National Security Cess किस par lagta hai? → **Tobacco/pan masala etc.**  
+- यह किस type ka tax hai? → **Indirect tax + cess (GST/Excise ke ऊपर).**
 
-- **Ministry of Statistics and Programme Implementation (MoSPI)** ne  
-  नया logo & mascot **“Sankhyiki”** launch kiya।  
-- उद्देश्य:
-  - Official statistics ko modern identity देना,  
-  - आम जनता, खासकर youth, me data awareness बढ़ाना।  
+**Memory Trick – “HN = Health & Nation”**
 
----
-
-## 4. राज्‍य व शासन
-
-### 4.1 Assam – 8th State Pay Commission
-
-- **Assam** ने current pay commission ke समाप्त होने से पहले ही  
-  **8th State Pay Commission** गठित किया।  
-- Chairperson: पूर्व Chief Secretary **Subhas Das**।  
-- Mandate:
-  - State government employees ki pay structure ka पुनरीक्षण।  
+> पहले “Compensation Cess”, ab “HN Cess” – **Health & Nation** ke नाम par extra tax.
 
 ---
 
-## 5. रक्षा, पर्यावरण व विविध
+## TOPIC 4: Land Stack – Digital Land Records (DILRMP)
 
-### 5.1 Defence Contracts (CQB Carbines & Torpedoes)
+- Digital India Land Records Modernisation Programme (DILRMP) ke तहत  
+  सरकार ने **Land Stack** concept adopt किया –  
+  land records, maps, encumbrances ko ek जगह digital integrate karne ke लिये।  
+- Pilot: **Chandigarh** aur **Tamil Nadu** jaise राज्यों me  
+  GIS‑based land डेटा को एक platform पर लाया जा रहा है।
 
-- **Ministry of Defence** ne लगभग **₹4,666 crore** ke defence contracts sign kiye:  
-  - Army & Navy ke लिए **Close Quarter Battle (CQB) Carbines**  
-    - Design: **DRDO**, Manufacture: **Bharat Forge**.  
-  - Navy ke लिए **Heavyweight Torpedoes**.  
-- Linked to: *Atmanirbhar Bharat in Defence*.
+**SSC exam points:**
 
----
+- DILRMP किससे संबंधित है? → **Land record modernisation / computerisation.**  
+- Land Stack – land data ko **digital “stack” / layer** ke रूप me integrate karta है।
 
-### 5.2 Youngest Indian to Ski to South Pole – Kamya Karthikeyan
+**Memory Trick – “Land Stack = जमीन ka Digi‑Folder”**
 
-- **Kamya Karthikeyan** South Pole तक ski करने वाली  
-  **सबसे कम उम्र की भारतीय** बनीं।  
-- Exam me महज़ एक line ka factual question आ सकता है।
-
----
-
-### 5.3 Buddhist Site in Zehanpora (Baramulla, Kashmir)
-
-- J&K ke **Baramulla (Zehanpora)** क्षेत्र me  
-  नया **Buddhist archaeological site** मिला,  
-  jo संभवतः **Kushan period** से जुड़ा माना जा रहा है।  
+> जम़ीन ke sab documents ek digital folder me – बस यही **Land Stack**.
 
 ---
 
-## SSC/UPSC Style MCQs – 03-01-2026
+## TOPIC 5: RBI Financial Stability Report & Capital Conservation Buffer (CCB)
 
-### Q1. Skilling for AI Readiness (SOAR) programme किस Ministry द्वारा चलाया जा रहा है?
+- RBI की **Financial Stability Report (FSR)** me bataya gaya:  
+  - Baseline / moderate stress scenario me kuch banks ko  
+    अपने **Capital Conservation Buffer (CCB)** tak capital use karna पड़ सकता है,  
+  - लेकिन system‑wide capital adequacy comfortable hai.  
+- CCB = Basel‑III ka extra capital layer – approx **2.5% of Risk‑Weighted Assets**.
 
-A. Ministry of Education  
-B. Ministry of Skill Development & Entrepreneurship  
-C. Ministry of Electronics & IT  
-D. NITI Aayog  
+**SSC exam points:**
 
-**Answer:** B  
+- CCB किसका हिस्सा है? → **Basel‑III capital norms.**  
+- Role: **“extra cushion”** – downturn me losses absorb karne ke लिये.
 
----
+**Memory Trick – “CCB = Cushion Capital Buffer”**
 
-### Q2. PRAGATI platform का मुख्य उद्देश्य क्या है?
-
-A. केवल rural employment monitor करना  
-B. केवल health schemes को review करना  
-C. Infrastructure projects और grievances की real‑time monitoring  
-D. केवल foreign policy decisions पर चर्चा  
-
-**Answer:** C  
+> बस याद रखो: **CCB = Cushion Capital Buffer** –  
+> bank गिरने लगे to थोड़ा cushion बचा रहे।
 
 ---
 
-### Q3. Indian AI Research Organisation (IAIRO) कहाँ स्थापित है?
+## Super Short 1-Liner Revision – SSC (03-01-2026)
 
-A. Hyderabad  
-B. Mumbai  
-C. Bengaluru  
-D. GIFT City, Gandhinagar  
-
-**Answer:** D  
-
----
-
-### Q4. Land Stack pilot किस दो जगहों पर शुरू किया गया?
-
-A. Delhi & Maharashtra  
-B. Chandigarh & Tamil Nadu  
-C. Gujarat & Rajasthan  
-D. Punjab & Haryana  
-
-**Answer:** B  
+1. **SOAR** – Skill India ka AI skilling programme, Rashtrapati Bhavan event, MSDE ministry.  
+2. **Integrated e‑Bill** – fertiliser subsidy ke bills ke लिये fully digital system (J.P. Nadda).  
+3. **Health & National Security Cess** – tobacco/pan masala jaise sin goods par.  
+4. **Land Stack** – Digital India land records modernisation, secured lending me मदद.  
+5. **CCB** – Basel‑III ka extra capital cushion.
 
 ---
 
-### Q5. MoSPI द्वारा जारी किया गया नया mascot क्या कहलाता है?
+## MCQs – SSC (03-01-2026)
 
-A. DataDev  
-B. Sankhyiki  
-C. StatsBuddy  
-D. BharatData  
+1. SOAR programme मुख्यतः किससे सम्बंधित है?  
+   A. Space exploration  
+   B. Artificial Intelligence skilling  
+   C. Rural housing  
+   D. Oceanography  
 
-**Answer:** B  
-
----
-
-### Q6. Assam ने किस संबंध में 8th State Pay Commission गठित किया?
-
-A. किसानों की MSP नीति  
-B. सरकारी कर्मचारियों का वेतन और भत्ते  
-C. पुलिस सुधार  
-D. Panchayat reforms  
-
-**Answer:** B  
+   **Answer:** B  
 
 ---
 
-### Q7. Defence contracts (₹4,600+ crore) किन उपकरणों से जुड़े थे?
+2. Integrated e‑Bill System (1 Jan 2026) किस प्रकार ki subsidies ke bills ke लिये है?  
+   A. Food subsidy (PDS)  
+   B. Fertiliser subsidy  
+   C. LPG subsidy  
+   D. Scholarship schemes  
 
-A. Fighter jets & helicopters  
-B. Submarines & frigates  
-C. CQB Carbines & Heavyweight Torpedoes  
-D. Tanks & artillery guns  
-
-**Answer:** C  
-
----
-
-### Q8. Kamya Karthikeyan किस उपलब्धि के लिए जानी जाती हैं (Jan 2026 CA context)?
-
-A. Youngest Indian to summit K2  
-B. Youngest Indian to ski to South Pole  
-C. Youngest Indian to cross English Channel  
-D. Youngest IAS topper  
-
-**Answer:** B  
+   **Answer:** B  
 
 ---
 
-### Q9. Zehanpora, Baramulla (Kashmir) में नई पुरातात्विक खोज किस धर्म/काल से जुड़ी मानी जाती है?
+3. Health & National Security Cess किस प्रकार ke products par लगाया गया है?  
+   A. Wheat & rice  
+   B. School uniforms  
+   C. Tobacco, pan masala आदि sin goods  
+   D. Solar panels  
 
-A. Jain, Gupta period  
-B. Buddhist, Kushan period  
-C. Hindu, Maurya period  
-D. Islamic, Mughal period  
-
-**Answer:** B  
+   **Answer:** C  
 
 ---
 
-### Q10. Low‑ash metallurgical coke पर import restrictions किन महीनों के लिए बढ़ाये गए?
+4. Digital India Land Records Modernisation Programme (DILRMP) ka मुख्य purpose kya hai?  
+   A. Health records digitisation  
+   B. Land records computerisation and modernisation  
+   C. School attendance tracking  
+   D. Railway ticketing  
 
-A. Jan–Mar 2026  
-B. Jan–Jun 2026  
-C. Apr–Sep 2026  
-D. Jul–Dec 2026  
+   **Answer:** B  
 
-**Answer:** B
+---
+
+5. Capital Conservation Buffer (CCB) किस international regulatory framework ka हिस्सा hai?  
+   A. Basel‑III capital norms  
+   B. Kyoto Protocol  
+   C. Paris Agreement  
+   D. SAARC Charter  
+
+   **Answer:** A

@@ -1,282 +1,214 @@
 # Date: 03-01-2026  
-**Exam Focus:** Bank (GA + Economy + Regulatory + Tech)
+**Exam Focus:** Bank (GA + Economy + Digital + Regulation)
 
 ---
 
-## Aaj ke TOP Bank/Economy Topics (3 Jan 2026)
+## Aaj ke TOP GA Topics (Bank Point of View se)
 
-1. **SOAR – Skilling for AI Readiness (Skill India + Fintech/AI jobs)**  
-2. **RBI: NBFC Infra Loans ke liye naya Risk‑Weight Framework**  
-3. **Sin Goods (tobacco/pan masala) Tax Structure – Health & National Security Cess**  
-4. **Indian AI Research Organisation (IAIRO) – GIFT City (Fintech/AI Hub)**  
-5. **Land Stack – DILRMP (Digital Land Records, Secured Lending base)**  
-6. **Integrated e‑Bill System – Fertilizer Subsidy ke liye digital bills**  
-7. **RBI Stress Test – Capital Conservation Buffer (CCB) findings**  
+1. **SOAR – Skilling for AI Readiness** (AI + fintech workforce)  
+2. **Integrated e‑Bill System** – fertiliser subsidy ke liye fully digital bills  
+3. **Sin Goods (tobacco, pan masala)** – Health & National Security Cess structure  
+4. **Land Stack (DILRMP)** – digital land records for secured lending  
+5. **RBI Stress Test & Capital Conservation Buffer (CCB)** – banks’ capital safety
+
+*(Event dates ko जहाँ ज़रूरी था वहाँ note किया गया है – कई topics 1 Jan ko launch हुए लेकिन कई CA websites ne 3 Jan ke digest me cover kiya; मैंने यहां exam point of view se group karke डाला है.)*
 
 ---
 
-## TOPIC 1: SOAR – Skilling for AI Readiness (Bank/Fintech Angle)
+## TOPIC 1: SOAR – Skilling for AI Readiness (Fintech/Banking ke liye)
 
-### Kya hai?
+### Kya hua?
 
-- **1 Jan 2026**: Rashtrapati Bhavan Cultural Centre, New Delhi me  
-  राष्ट्रपति **द्रौपदी मुर्मू** ne **Skilling for AI Readiness (SOAR)** ke तहत AI‑skilling initiatives launch kiye  
-  (अधिकतर CA websites ne ise 3 Jan ke digest me cover kiya, लेकिन आधिकारिक event date 1 Jan hai)।  
+- **1 Jan 2026** – Rashtrapati Bhavan Cultural Centre, New Delhi:  
+  - President **Droupadi Murmu** ne **Skilling for AI Readiness (SOAR)** कार्यक्रम ke तहत  
+    AI‑skilling initiatives launch kiye (PIB press releases).  
 - Ministry: **Ministry of Skill Development & Entrepreneurship (MSDE)** – Skill India Mission.  
+- Highlights:  
+  - “**Skill the Nation Challenge**” awareness campaign,  
+  - AI fundamentals + data science ke course modules,  
+  - IGNOU Regional Centre & Skill Centre ka inauguration (Rairangpur).
 
-### Bank exam ke liye kyun?
+### Bank exam ke liye kyun important?
 
-- Banks/Fintechs ko **AI, ML, Data Analytics** me skilled workforce chahiye – fraud detection, credit scoring, chatbots.  
-- Question aa sakta hai:  
-  - SOAR ka full form?  
-  - Kis ministry ke under?  
+- Banks / NBFC / Fintech companies ko **AI, ML, Data Analytics** professionals की ज़रूरत है:  
+  - fraud detection, credit scoring, chatbots, risk modelling, reg‑tech, आदि ke लिए.  
+- SOAR indirectly **banking jobs** + digital ecosystem ko support karta hai.
 
-### Short Note
+### Memory Trick – “SOAR = Skill Our AI Resources”
 
-> **SOAR = Skilling for AI Readiness – Skill India ka AI upskilling mission (MSDE + IndiaAI).**
-
----
-
-## TOPIC 2: RBI – NBFC Infra Loan Exposure ka Risk‑Weight Framework
-
-### Kya बदला?
-
-- RBI ne **NBFCs** ke **infrastructure project loans** par  
-  **naya risk‑weighting framework** notify kiya.  
-- Capital requirement ab depend karegi:  
-  - project risk profile,  
-  - cash‑flow stability,  
-  - borrower rating,  
-  - security/guarantee structure.  
-
-### Bank/Regulatory angle
-
-- Risk‑weight = **CRAR / capital adequacy** ki calculation ka base.  
-- Objective:
-  - Infra lending me **systemic risk** control,  
-  - NBFCs ki excessive leverage rokna,  
-  - lekin productive infra ko finance continue.  
-
-### Yaad rakho
-
-> **NBFC + Infra Loans → RBI risk‑weight rules tighten, capital safety badha.**
+> **S O A R – Skill Our AI Resources**  
+> – देश bhar ke युवाओं ko AI ready workforce banाना.
 
 ---
 
-## TOPIC 3: Sin Goods – नया Tax Structure (tobacco, pan masala etc.)
+## TOPIC 2: Integrated e‑Bill System – Fertiliser Subsidies ke liye
 
-### Kya hai?
+### Kya hua?
 
-- Finance Ministry ne notify kiya:  
-  - Tobacco products, pan masala, gutkha etc. par  
-    **GST Compensation Cess** ki jagah  
-    **Additional Excise Duty + Health & National Security Cess** lagega  
-    (effective **1 Feb 2026**).  
-- GST rates **same** rahte hain:
-  - pan masala/cigarettes ke around **40%**,  
-  - biris ~18%.  
+- **1 Jan 2026**, Kartavya Bhawan, New Delhi:  
+  - Union Minister **Jagat Prakash (J.P.) Nadda** (Minister of Chemicals & Fertilisers) ne  
+    **Integrated e‑Bill System for Fertiliser Subsidies** launch किया (media reports + official coverage).  
+- Annual volume:  
+  - लगभग **₹2 लाख करोड़** ki fertiliser subsidy अब पूरी तरह **digital workflow** se process होगी।  
+- Features:  
+  - Companies online bills submit करेंगी,  
+  - Department ka **iFMS** system **PFMS** se integrated,  
+  - FIFO processing, real‑time tracking, digital audit trail, fraud risk reduce.
 
-### Bank/Eco Exams me kya puch sakte hain?
+### Bank exam ke liye kyun important?
 
-- “Health & National Security Cess” kis category ke goods par?  
-- Conceptual: **Sin tax** = harmful products par high indirect tax → revenue + health disincentive.
+- Subsidy payments mostly **banks ke माध्यम से** beneficiaries / companies तक जाते हैं;  
+  digitalisation se:  
+  - reconciliation आसान,  
+  - working‑capital risk kam,  
+  - government dues ka timeline clearer.  
 
----
+### Memory Trick – “e‑Bill = ‘Fertiliser ke Bill bhi FinTech’ ”
 
-## TOPIC 4: Indian AI Research Organisation (IAIRO) – GIFT City
-
-### Main points
-
-- **IAIRO** establish hua **GIFT City, Gandhinagar (Gujarat)** me.  
-- Linked with:
-  - **IndiaAI Mission**  
-  - **Gujarat AI Action Plan**.  
-
-### Bank/Fintech relevance
-
-- GIFT City already IFSC/fintech hub;  
-- AI research yahan se **fintech, algorithmic trading, reg‑tech, fraud analytics** ko support karega.  
-
-> Short line:  
-> **IAIRO @ GIFT City → national AI research hub for finance + other sectors.**
+> Socho: पहले कागज़ी bill truck se aate थे,  
+> ab **“fertiliser ke bill bhi FinTech”** –  
+> e‑Bill system se पूरा डिजिटल.
 
 ---
 
-## TOPIC 5: Land Stack – Digital India Land Records (DILRMP)
+## TOPIC 3: Sin Goods – Health & National Security Cess
 
-### Kya hai?
+### Kya hua?
 
-- Digital India Land Record Modernisation Programme (DILRMP) ke under  
-  **Land Stack** नाम ka platform pilot launch hua:  
-  - **Chandigarh** aur **Tamil Nadu** me.  
-- Features:
-  - GIS‑based platform jo **land records, cadastral maps, ownership, encumbrances** ko integrate karta hai.  
+- Govt ne decide किया ki tobacco, pan masala, gutkha jaise **“sin goods”** par:  
+  - पहले lagne wala **GST Compensation Cess** धीरे‑धीरे replace ho kar  
+  - **Additional Excise Duty + Health & National Security Cess** me convert hoga  
+    (effect 2026 se – Finance Ministry notifications के अनुसार)।  
+- GST base rate (cigarettes/pan masala ke liye ~40%, biris ke liye ~18%) broadly same रहते हैं;  
+  नया cess unke ऊपर add hota hai।
 
-### Banking se kya link?
+### Bank exam ke liye kyun important?
 
-- Secured lending (housing loan, agri loan) me sabse बड़ा risk –  
-  गलत title / double mortgage / benami assets.  
-- Land Stack → better title verification → NPAs aur frauds kam.  
+- Indirect tax structure, **“sin tax” concept** – Economy / GST wale MCQ me favourite.  
+- Health & National Security Cess ke नाम se ही main purpose clear:  
+  - health cost + national security spend ke लिए अतिरिक्त revenue collect करना।
 
----
+### Memory Trick – “OLD CC → new HN”
 
-## TOPIC 6: Integrated e‑Bill System – Fertilizer Subsidy
-
-### Kya है?
-
-- **Ministry of Chemicals & Fertilizers** ke Union Minister **Jagat Prakash (J.P.) Nadda** ne  
-  **1 January 2026** ko Kartavya Bhawan, New Delhi me  
-  **Integrated e‑Bill System for Fertiliser Subsidies** launch kiya (PIB ke अनुसार)।  
-- Purpose:
-  - Subsidy claims ko **end‑to‑end digital** banana,  
-  - Department ke iFMS ko **PFMS** se integrate karke real‑time tracking,  
-  - manual bills / delay ko कम करना,  
-  - FIFO processing, transparency और tamper‑proof audit trail सुनिश्चित करना।  
-
-### Exam angle
-
-- e‑governance, **subsidy leakage control**, DBT ecosystem से जुड़ा सवाल aa sakta hai.  
-- Banking linkage:  
-  - Government subsidy → banks ke through किसानों ke account me;  
-  - digital verification se reconciliation आसान।
+> पहले: **C C – Compensation Cess**  
+> अब: **H N – Health & National (Security) Cess**  
+> Code line: **“CC gaya, HN aaya – sin goods par naya bhar aaya.”**
 
 ---
 
-## TOPIC 7: RBI Stress‑Test – Capital Conservation Buffer (CCB)
+## TOPIC 4: Land Stack (DILRMP) – Secured Lending Support
 
-### Kya बताया गया?
+### Kya hua?
 
-- RBI ke **Financial Stability Report** ke hisaab se:  
-  - **Moderate stress** scenario me **2 Scheduled Commercial Banks** ko  
-    apni **Capital Conservation Buffer (CCB)** तक जाना पड़ सकता hai.  
-  - **Severe stress** me **4 banks** tak CCB touch kar sakte hain (agar fresh capital na laaye).  
+- **Digital India Land Records Modernisation Programme (DILRMP)** के तहत  
+  सरकार ने **“Land Stack”** नाम की digital platform initiative शुरू की (pilot – Chandigarh & Tamil Nadu) –  
+  official दस्तावेज़ों me GIS‑based land data integration का जिक्र है।  
+- Land Stack kya karta hai?  
+  - **Land records, cadastral maps, ownership, encumbrances** ko ek जगह integrate,  
+  - APIs ke through banks / institutions ko verified land information उपलब्ध कराना।
 
-### Bank Exams me kyun?
+### Bank exam ke liye kyun important?
 
-- Basel norms, CCB concept, capital adequacy हमेशा hot topic.  
-- याद:  
-  - CCB = extra capital layer **2.5% of RWA** (Basel III) ke around.  
+- Collateral based lending (housing / agri / mortgage) me biggest risk:  
+  - गलत title, double mortgage, benami लोन.  
+- Land Stack se:  
+  - title verification आसान,  
+  - NPA aur fraud ke chances kam,  
+  - “digital land KYC” जैसा फायदा।
+
+### Memory Trick – “Land Stack = Land ka Digi‑Folder”
+
+> Socho har जमीन ka ek **“digital file‑stack”** ban gaya –  
+> यही Land Stack – bank ko secure lending में मदद।
 
 ---
 
-## Super Short Revision – 03-01-2026 (Bank)
+## TOPIC 5: RBI Stress Test & Capital Conservation Buffer (CCB)
 
-1. **SOAR (MSDE)** – Skilling for AI Readiness; AI jobs incl. fintech.  
-2. **RBI – NBFC Infra Loans** – नया risk‑weight framework → capital safety.  
-3. **Sin goods tax** – GST Compensation Cess की जगह **Addl. Excise + Health & National Security Cess**.  
-4. **IAIRO @ GIFT City** – national AI research hub, finance/fintech relevant.  
-5. **Land Stack (DILRMP)** – land records + maps integration → secured lending में help.  
-6. **Integrated e‑Bill (fertilizer subsidy)** – full digital bills → transparency, timely subsidy.  
-7. **RBI Stress Test** – moderate stress: 2 SCB use CCB; severe stress: up to 4 banks.
+### Kya hua?
+
+- RBI ke **Financial Stability Report** (FSR) ke अनुसार:  
+  - **Moderate stress** scenario me kuch गिने‑चुने scheduled commercial banks ko  
+    apni **Capital Conservation Buffer (CCB)** तक जाना पड़ सकता है,  
+  - **Severe stress** scenario me और ज़्यादा banks ko fresh capital raise करना पड़ेगा.  
+- Overall, system‑level capital ratio comfortable batाया गया,  
+  लेकिन high‑risk NBFC / sectoral exposures पर सतर्क रहने ki सलाह.
+
+### Bank exam ke liye kyun important?
+
+- CCB – Basel‑III framework ka ज़रूरी हिस्सा:  
+  - Risk‑Weighted Assets (RWA) ka **2.5%** extra capital buffer.  
+- Exam me बार‑बार poochा जाता है:  
+  - CCB ka उद्देश्य? → **bad times me losses absorb karne ke लिए अतिरिक्त capital cushion**।  
+
+### Memory Trick – “CCB = Cushion Capital Buffer”
+
+> CCB yaad rakho – **Cushion Capital Buffer** –  
+> जब economy hile, to यह cushion bank ko झटका absorb करने में help kare।
+
+---
+
+## Super Short 3-Line Revision – 03-01-2026 (Bank)
+
+1. **SOAR (MSDE + Rashtrapati Bhavan)** – AI skilling mission, fintech/bank jobs ke लिए skilled youth.  
+2. **Integrated e‑Bill (fertiliser subsidy)** – ₹2 lakh crore के करीब subsidies अब पूरी तरह digital bills se process.  
+3. **Sin goods tax** – Compensation Cess की जगह Additional Excise + Health & National Security Cess.  
+4. **Land Stack** – digital land records stack, secured lending में मदद.  
+5. **RBI FSR & CCB** – stress test me CCB ka concept highlight; बेसल‑III का cushion.
 
 ---
 
 ## MCQs – Bank (03-01-2026)
 
-### Q1. SOAR (Skilling for AI Readiness) किस ministry का कार्यक्रम है?
+### Q1. SOAR (Skilling for AI Readiness) किस ministry का programme hai?
 
-A. MeitY  
-B. Ministry of Skill Development & Entrepreneurship  
+A. Ministry of Electronics & IT (MeitY)  
+B. Ministry of Skill Development & Entrepreneurship (MSDE)  
 C. Ministry of Education  
-D. NITI Aayog  
+D. Ministry of Finance  
 
 **Answer:** B  
 
 ---
 
-### Q2. RBI का नया risk‑weighting framework किस exposure category पर लागू है?
+### Q2. Integrated e‑Bill System मुख्यतः किस क्षेत्र से जुड़ी subsidies ke liye है?
 
-A. Housing loans of SCBs  
-B. Infrastructure loans of NBFCs  
-C. Gold loans of Co‑operative Banks  
-D. Credit card portfolios  
+A. Food subsidy (PDS)  
+B. Fertiliser subsidy  
+C. LPG subsidy  
+D. Export subsidy  
 
 **Answer:** B  
 
 ---
 
-### Q3. Health & National Security Cess किस प्रकार के goods पर लगाया जा रहा है?
+### Q3. Health & National Security Cess किस प्रकार ke goods par लागू hai?
 
-A. Essential food grains  
-B. Renewable energy equipment  
-C. Tobacco, pan masala, अन्य sin goods (existing GST के ऊपर)  
-D. Education services  
+A. Essential medicines  
+B. School books  
+C. Tobacco, pan masala jaise sin goods (existing GST ke ऊपर)  
+D. Agricultural seeds  
 
 **Answer:** C  
 
 ---
 
-### Q4. Indian AI Research Organisation (IAIRO) कहाँ स्थित है?
+### Q4. Land Stack initiative ka मुख्य उद्देश्य kya hai?
 
-A. Bengaluru  
-B. Hyderabad  
-C. GIFT City, Gandhinagar  
-D. Mumbai  
-
-**Answer:** C  
-
----
-
-### Q5. Land Stack किस larger programme का हिस्सा है?
-
-A. PM Gati Shakti  
-B. Digital India Land Record Modernisation Programme  
-C. Smart Cities Mission  
-D. BharatNet  
+A. केवल property tax collection बढ़ाना  
+B. Digital land records, maps & encumbrances ko integrate karna, secured lending ke liye  
+C. Tourism sites ki mapping  
+D. Railway timetables manage karna  
 
 **Answer:** B  
 
 ---
 
-### Q6. Land Stack का pilot किन दो जगहों पर शुरू किया गया?
-
-A. Delhi & Maharashtra  
-B. Chandigarh & Tamil Nadu  
-C. Gujarat & Rajasthan  
-D. Punjab & Haryana  
-
-**Answer:** B  
-
----
-
-### Q7. Integrated e‑Bill System का मुख्य उपयोग किस क्षेत्र में है?
-
-A. Railway freight billing  
-B. Defence procurement  
-C. Fertilizer subsidy claims processing  
-D. Income tax refunds  
-
-**Answer:** C  
-
----
-
-### Q8. RBI के stress test के अनुसार moderate stress scenario में कितने SCBs को CCB का उपयोग करना पड़ सकता है?
-
-A. 1  
-B. 2  
-C. 3  
-D. 4  
-
-**Answer:** B  
-
----
-
-### Q9. Capital Conservation Buffer (CCB) किस regulatory framework से संबंधित term है?
+### Q5. Capital Conservation Buffer (CCB) किस regulatory framework ka हिस्सा hai?
 
 A. FEMA  
-B. Basel III capital norms  
+B. Basel‑III capital norms  
 C. SARFAESI Act  
-D. IBC  
-
-**Answer:** B  
-
----
-
-### Q10. नीचे में से कौन‑सा जोड़ा सही है?
-
-A. SOAR – Housing subsidy  
-B. Land Stack – Digital land records for secured lending  
-C. IAIRO – Agriculture subsidies monitoring body  
-D. Health & National Security Cess – only on essential medicines  
+D. Companies Act  
 
 **Answer:** B

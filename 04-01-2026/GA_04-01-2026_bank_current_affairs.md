@@ -1,125 +1,160 @@
 # Date: 04-01-2026  
-**Exam Focus:** Bank (GA + Economy + Schemes)
+**Exam Focus:** Bank (GA + Economy + Agriculture + Urban Infra)
 
 ---
 
-## Aaj ke TOP Bank/Eco Topics (4 Jan 2026)
+## Aaj ke TOP GA Topics (Bank Point of View se)
 
-1. Agriculture Minister – **States ko farm schemes fund jaldi use karne ka निर्देश**  
-2. **Sin goods (tobacco, pan masala)** duty structure – Health & National Security Cess (continuation)  
-3. **Musi Riverfront Development Project – ADB loan** (urban infra + financing)  
-4. **DGFT & FCI** – नई top‑level appointments (trade + food security)  
-5. **Forex Reserves** – सप्ताह समाप्त 26 Dec 2025 तक $3.3 bn increase  
-6. Surat – **slum‑free model**, urban housing finance se जुड़ा  
+1. Agriculture Minister ki **PM‑KISAN / PMFBY funds jaldi use** karne ki advisory (States ko)  
+2. Sin goods (tobacco/pan masala) ke liye **Health & National Security Cess** – continuation/clarification  
+3. **Musi Riverfront Development Project** – ADB loan (urban infra + municipal finance)  
+4. **DGFT & FCI** – नए शीर्ष स्तर के नियुक्ति (trade & food security bodies)  
+5. Forex reserves – week ended 26 Dec 2025 me **US$ 3.3 bn increase** (external stability)
 
 ---
 
-## TOPIC 1: Agriculture Minister ne States ko spending fast karne ko kaha
+## TOPIC 1: Agriculture Minister ki PM‑KISAN / PMFBY funds par States ko advisory
 
-### Kya हुआ?
+### Kya hua?
 
-- Union Agriculture Minister **Shivraj Singh Chouhan** ne  
-  राज्यों को निर्देश दिया ki वे **March 2026** tak:
+- Union Agriculture & Farmers’ Welfare Minister **Shivraj Singh Chouhan** ne  
+  राज्यों/UTs ke Agriculture Ministers / officials ke साथ meeting me कहा:  
   - **PM‑KISAN**,  
   - **Pradhan Mantri Fasal Bima Yojana (PMFBY)**,  
-  - अन्य farm schemes ke लिए मिले **funds ko समय पर खर्च** करें।  
+  - aur अन्य कृषि योजनाओं ke लिये मिले funds ko  
+    **March 2026 तक तेज़ी से utilise** करें।  
+- Focus:  
+  - किसानो ko समय पर DBT / insurance benefit mile,  
+  - pending claims / settlement जल्दी हो,  
+  - अगले साल ke budget allocation ke लिये अच्छा utilisation record दिखे।
 
-### Banking/Eco angle
+### Bank exam ke liye kyun important?
 
-- PM‑KISAN payments **DBT ke through** सीधे farmers ke bank accounts me जाते हैं।  
-- PMFBY ke premium/claims bhi banking channel se settle hote हैं।  
-- Agar state timely utilisation nahi dikhaye → अगली किस्त release me delay, jo exam me fiscal federalism ke context me भी important है।  
+- PM‑KISAN payments **100% DBT** se directly farmers ke bank accounts me जाते हैं –  
+  banking penetration & accounts ka importance बढ़ता hai.  
+- PMFBY ke premium, claims, subsidy – sab **banking channel** ke through flow hote हैं;  
+  timely utilisation → NPAs kam, farmers ke repayment capacity बेहतर।
 
----
+### Memory Trick – “KISAN = KYC + Insurance + Subsidy in Account Now”
 
-## TOPIC 2: Sin Goods – duty structure (continuation)
-
-*(03 Jan wali notification ka detailed follow‑up 4 Jan ke CA me भी आया)*  
-
-- Tobacco products, pan masala par अब:
-  - **Additional Excise Duty**,  
-  - + **Health & National Security Cess**,  
-  - जबकि **GST rates same** (40% approx for pan masala / cigarettes; 18% for biris)।  
-- Bank exams me indirect tax, cess, sin tax से जुड़े MCQ bana सकते हैं।  
-
-> याद: **Compensation Cess → हट, Health & National Security Cess → लग।**
+> Socho “**KISAN**” =  
+> **K**YC, **I**nsurance (PMFBY), **S**ubsidy, **A**ccount, **N**ow –  
+> मतलब किसान ke account me समय पर पैसा पहुँचना।
 
 ---
 
-## TOPIC 3: Musi Riverfront Development – ADB Loan
+## TOPIC 2: Sin Goods Tax – Health & National Security Cess (Follow‑up)
 
-### Detail
+- 3 Jan ke आसपास notified changes ka continuation:  
+  - Tobacco, pan masala, gutkha jaise products par  
+    **Additional Excise Duty + Health & National Security Cess** ka structure clarify हुआ।  
+- GST rate largely same; लेकिन नया cess unke ऊपर add hoga.
+
+### Bank/Eco angle
+
+- **Sin tax** concept exam favourite:  
+  - harmful goods par ज़्यादा indirect tax →  
+    revenue + behavior change (कम consumption) dono target.  
+- Fiscal consolidation aur health spending में link.
+
+### Memory Trick – “Smoke = ज्यादा tax, Health ke नाम pe”
+
+> Line yaad: **“Jo health ko smoke kare, us par HN Cess ka stroke पड़े.”**
+
+---
+
+## TOPIC 3: Musi Riverfront Development Project – ADB Loan
+
+### Kya hua?
 
 - **Asian Development Bank (ADB)** ne  
-  Telangana ke **Musi Riverfront Development Project – Phase‑I** ke लिए  
-  लगभग **₹4,100 crore (US$ 500 mn)** ke loan ko in‑principle approval दिया।  
+  Telangana ke **Musi Riverfront Development Project (Phase‑I)** ke liye  
+  लगभग **US$ 500 million (~₹4,100 crore)** ke loan ko approve kiya (news + project fact sheets पर आधारित).  
+- Aim:  
+  - Musi नदी के किनारे slum पुनर्विकास,  
+  - flood management, sewerage treatment, riverfront promenades,  
+  - public transport integration.
 
-### Banking/Eco relevance
+### Bank / Finance angle
 
-- ADB loan = **sovereign external borrowing**,  
-- Urban infra project → long‑term funding, PPP, municipal finance topics me पूछ सकते हैं।  
+- ADB sovereign loan →  
+  - **State + Urban Local Bodies** ke लिये fund source,  
+  - Indian banks ke लिये **co‑financing / project finance / municipal bond** opportunity।  
+- Urban infra finance = exam में emerging topic.
 
----
+### Memory Trick – “Musi + Money = ADB riverfront”
 
-## TOPIC 4: DGFT & FCI – key appointments
-
-### 4.1 DGFT Chief – Lav Aggarwal
-
-- **Lav Aggarwal** ko **Director General of Foreign Trade (DGFT)** appoint kiya गया।  
-- DGFT:
-  - Foreign Trade Policy (FTP) implement karta है,  
-  - Export‑import licensing, incentives etc. handle करता है।  
-
-### 4.2 FCI CMD – Rabindra Kumar Agarwal
-
-- **Rabindra Kumar Agarwal** को **Food Corporation of India (FCI)** ka Chairman‑cum‑Managing Director नियुक्त kiya गया।  
-- FCI:
-  - foodgrains procurement, storage, PDS distribution – सब manage करता है,  
-  - MSP system और buffer stocks ke liye crucial है।  
-
-Banking me questions: DGFT/FCI chiefs factual MCQ, ya trade / food security ke context me।
+> बस याद रखो: **“Musi ko makeover – ADB ka takeover.”**
 
 ---
 
-## TOPIC 5: Forex Reserves – $3.3 Billion Increase
+## TOPIC 4: DGFT & FCI – New Appointments
 
-- Week ended **26 Dec 2025** ke लिए  
-  RBI data ke मुताबिक India ke **foreign exchange reserves** me  
-  लगभग **US$ 3.3 billion** की **increase** दर्ज की गई।  
+### DGFT Chief – Lav Aggarwal
 
-### Why it matters?
+- Government ne **Lav Aggarwal** ko  
+  **Director General of Foreign Trade (DGFT)** appoint किया।  
+- DGFT:  
+  - **Foreign Trade Policy (FTP)** implement karta,  
+  - export‑import licensing, export promotion schemes, RoDTEP etc. handle karta.
 
-- Forex reserves level → external stability, rupee support, sovereign rating ke लिए key indicator।  
-- Exam me exact number से ज़्यादा **“increase or decrease” + approximate magnitude** important होता है।
+### FCI CMD – Rabindra Kumar Agarwal
+
+- **Rabindra Kumar Agarwal** ko  
+  **Food Corporation of India (FCI)** ka Chairman‑cum‑Managing Director बनाया गया।  
+- FCI:  
+  - MSP procurement, storage, movement, PDS ke liye foodgrains arrange karta,  
+  - food security aur buffer stocks me key role.
+
+### Bank exam ke liye
+
+- DGFT & FCI – trade aur food security ke central संस्थान:  
+  - MCQ me factual names,  
+  - mains me उदाहरण के लिए उपयोग: trade support / MSP system / subsidy burden etc.
+
+### Memory Trick – “Lav – Foreign Trade, Rabindra – Ration”
+
+> **Lav Aggarwal = Foreign trade (DGFT).**  
+> **Rabindra Agarwal = Ration / Food (FCI).**
 
 ---
 
-## TOPIC 6: Surat – Slum‑Free City Model
+## TOPIC 5: Forex Reserves – Week ended 26 Dec 2025
 
-- **Surat (Gujarat)** को CA me **India’s first slum‑free city** बनने की दिशा में मॉडल के रूप में दिखाया गया:  
-  - large‑scale **slum redevelopment** → multi‑storey permanent housing,  
-  - PPP, municipal bonds, housing finance schemes ke साथ।  
+- RBI ke आंकड़ों के अनुसार  
+  **week ended 26 Dec 2025** me India ke **foreign exchange reserves** me  
+  करीब **US$ 3.3 billion** ki **increase** recorded hui.  
+- Components:  
+  - foreign currency assets,  
+  - gold,  
+  - SDRs,  
+  - IMF reserve position.
 
-### Banking angle
+### Bank/Eco angle
 
-- Housing finance, urban infra financing, PMAY‑Urban, municipal bonds से जुड़ा concept।  
+- High reserves = external shock absorb capacity,  
+  rupee defend karne की ताकत,  
+  sovereign credit rating ke लिये positive.  
+
+### Memory Trick – “3.3 = reserves ki छोटी छलांग”
+
+> बस लाइन याद: **“26 Dec week: reserves ne 3.3 bn ki छलांग लगाई.”**
 
 ---
 
-## Short Revision – Bank (04 Jan 2026)
+## Super Short 3-Line Revision – 04-01-2026 (Bank)
 
-1. **Shivraj Singh Chouhan – Agriculture Minister** → states ko PM‑KISAN, PMFBY funds jaldi use karne को कहा.  
-2. **Sin goods tax** – Compensation Cess हटाकर Additional Excise + Health & National Security Cess.  
-3. **Musi Riverfront Project** – ADB loan ≈ ₹4,100 crore (Telangana).  
-4. **Lav Aggarwal – DGFT Chief**, **Rabindra Kumar Agarwal – FCI CMD**.  
-5. **Forex reserves** – week ended 26 Dec 2025 me ~US$ 3.3 bn increase.  
-6. **Surat** – slum‑free city model, housing finance + urban infra ke लिए important example.  
+1. **Agriculture Minister advisory** – states ko PM‑KISAN / PMFBY funds March 2026 तक तेज़ी से utilise karne ko कहा.  
+2. **Sin goods tax** – Health & National Security Cess tobacco/pan masala पर.  
+3. **Musi riverfront project** – Telangana ka urban infra, ADB ~US$ 500 mn loan.  
+4. **Lav Aggarwal – DGFT, Rabindra Kumar Agarwal – FCI CMD.**  
+5. **Forex reserves** – week ended 26 Dec 2025 me ~US$ 3.3 bn की बढ़ोतरी.
 
 ---
 
 ## MCQs – Bank (04-01-2026)
 
-### Q1. Shivraj Singh Chouhan ne किस capacity me states ko farm schemes fund jaldi utilise karne को कहा?
+### Q1. Shivraj Singh Chouhan ne kis capacity me states ko PM‑KISAN/PMFBY funds jaldi utilise karne ki सलाह दी?
 
 A. Finance Minister  
 B. Agriculture & Farmers’ Welfare Minister  
@@ -130,18 +165,18 @@ D. Home Minister
 
 ---
 
-### Q2. Musi Riverfront Development Project – Phase‑I ke लिए approx kitne ka ADB loan approve हुआ?
+### Q2. Musi Riverfront Development Project ke liye किस संस्था ne loan approve kiya?
 
-A. ₹1,000 crore  
-B. ₹2,000 crore  
-C. ₹4,100 crore  
-D. ₹10,000 crore  
+A. World Bank  
+B. Asian Development Bank (ADB)  
+C. IMF  
+D. New Development Bank  
 
-**Answer:** C  
+**Answer:** B  
 
 ---
 
-### Q3. DGFT Chief ke रूप में किसकी नियुक्ति हुई?
+### Q3. DGFT ke naye chief kaun bane?
 
 A. Rabindra Kumar Agarwal  
 B. Lav Aggarwal  
@@ -152,55 +187,22 @@ D. T. Rabi Sankar
 
 ---
 
-### Q4. Food Corporation of India (FCI) ke nayi CMD ka नाम kya hai?
+### Q4. Food Corporation of India (FCI) ke CMD ka naam kya hai (CA context 2026)?
 
 A. Lav Aggarwal  
-B. Ramesh Singh  
-C. Rabindra Kumar Agarwal  
-D. Ashok Mehta  
-
-**Answer:** C  
-
----
-
-### Q5. Sin goods tax structure me कौन‑सी बात सही है?
-
-A. GST Compensation Cess continue, कोई नया cess नहीं  
-B. Compensation Cess हटाकर Additional Excise + Health & National Security Cess लगाया गया  
-C. Tobacco products पर कोई भी indirect tax हटा दिया गया  
-D. केवल state VAT लागू है  
+B. Rabindra Kumar Agarwal  
+C. Nitin Gupta  
+D. Rajnish Kumar  
 
 **Answer:** B  
 
 ---
 
-### Q6. Week ended 26 Dec 2025 ke लिए India ke forex reserves me approx kya हुआ?
+### Q5. Week ended 26 Dec 2025 ke लिए forex reserves me kya trend देखा गया?
 
-A. $3.3 bn की कमी  
-B. लगभग स्थिर रहे  
-C. $3.3 bn की वृद्धि  
-D. $10 bn की वृद्धि  
+A. लगभग US$ 3.3 bn ki कमी  
+B. बड़ी गिरावट (US$ 20 bn se ज़्यादा)  
+C. लगभग US$ 3.3 bn ki बढ़ोतरी  
+D. कोई बदलाव नहीं  
 
-**Answer:** C  
-
----
-
-### Q7. Surat kaun‑si baat ke लिए जाना गया (04 Jan 2026 CA context me)?
-
-A. India’s first bullet train station  
-B. India’s first slum‑free city model (slum redevelopment)  
-C. India’s largest coal mine  
-D. India’s biggest port  
-
-**Answer:** B  
-
----
-
-### Q8. DGFT ka मुख्य काम kya hai?
-
-A. RBI monetary policy decide karna  
-B. India ki foreign trade policy implement karna aur export‑import regulation  
-C. Domestic direct tax collection  
-D. Public Sector Bank recapitalisation  
-
-**Answer:** B
+**Answer:** C

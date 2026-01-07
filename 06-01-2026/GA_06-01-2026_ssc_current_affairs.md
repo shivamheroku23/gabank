@@ -1,223 +1,152 @@
 # Date: 06-01-2026  
-**Exam Focus:** SSC / UPSC (National + Economy + Tech + Schemes)
-
-> Banking‑specific topics अलग file `GA_06-01-2026_bank_current_affairs.md` में हैं। यहाँ SSC/UPSC style mixed GA दिया है।
+**Exam Focus:** SSC (CGL/CHSL/CPO – Agriculture, Rural, Schemes)
 
 ---
 
-## 1. न्यायपालिका व आंतरिक सुरक्षा
+## Aaj ke TOP SSC Current Affairs Topics (6 Jan 2026)
 
-### 1.1 NE Delhi Riots Case – Umar Khalid & Sharjeel Imam ko bail नहीं
-
-- **Supreme Court** ने 2020 के **उत्तर‑पूर्वी दिल्ली दंगों और alleged conspiracy** से जुड़े मामलों में  
-  **Umar Khalid** और **Sharjeel Imam** की **bail applications खारिज** कर दीं।  
-- Court ने कहा:
-  - वे alleged conspiracy में “**higher footing in the hierarchy of participation**” पर दिखते हैं.  
-
----
-
-## 2. अर्थव्यवस्था व उद्योग
-
-### 2.1 Mumbai–Ahmedabad High‑Speed Rail (MAHSR) – लागत में वृद्धि
-
-- Bullet train MAHSR project ki लागत  
-  media reports ke अनुसार बढ़कर लगभग **₹1.98 lakh crore** tak pahunch गई।  
-- कारण:
-  - Rupee–Yen exchange rate changes,  
-  - construction material cost,  
-  - land acquisition / alignment issues.  
-
-### 2.2 Share Market
-
-- **Nifty 50** ne नया **all‑time high (~26,328+)** touch किया.  
-- **Sensex** ~0.67% बढ़ा.  
+1. **PMFBY & WBCIS** – crop insurance schemes ka extension / सुधार  
+2. **Grameen Bharat Mahotsav 2025** – SHGs, FPOs, rural artisans ka national मेळा  
+3. **नई crop varieties** – ICAR & agri universities ke releases  
+4. **PM‑KISAN & DBT architecture** – किसान खातों me direct पैसा  
+5. Rural infra & agriculture se जुड़ी static + schemes
 
 ---
 
-## 3. डिजिटल इंडिया, टेक्नोलॉजी और नियमन
+## TOPIC 1: PMFBY (Pradhan Mantri Fasal Bima Yojana) & WBCIS
 
-### 3.1 Land Stack – DILRMP
+- Cabinet ने crop insurance schemes ko continue & improve karne ka फैसला किया:  
+  - **PMFBY** – 2016 se चल रही flagship crop insurance scheme,  
+  - **Weather‑Based Crop Insurance Scheme (WBCIS)** – weather indices par आधारित.  
+- Focus:  
+  - smart technology, remote sensing, drones se damage assessment,  
+  - claim settlement तेज़ करना,  
+  - farmer awareness बढ़ाना.
 
-- **Land Stack** – Digital India Land Record Modernisation Programme (DILRMP) ka हिस्सा:  
-  - land records, maps, ownership, encumbrances ek hi digital stack par.  
-- Pilot launch: **Chandigarh** और **Tamil Nadu**.  
+**SSC exam points:**
 
-### 3.2 Government notice to X (Twitter) – Grok AI
+- PMFBY launch: **2016**, Ministry of Agriculture & Farmers’ Welfare.  
+- Premium share: farmers का हिस्सा limited, बाकी Centre + State.  
+- WBCIS – rainfall/temperature jaise parameters par आधारित.
 
-- Govt ne social media platform **X** ko notice भेजा,  
-  क्योंकि **Grok AI** ने women ke objectionable images generate kiye थे.  
-- 72 ghante me response माँगा गया – **IT Act** aur **Intermediary Rules 2021** ke तहत.  
+**Memory Trick – “Fasal ka Farishtaa – PMFBY”**
 
-### 3.3 Semicon India – Design Linked Incentive (DLI) Scheme
-
-- **MeitY** ka **DLI Scheme** Semicon India Programme ke तहत:  
-  - chip/semiconductor design startups, MSMEs ko financial support,  
-  - IP creation, EDA tools, design infrastructure ke लिए।  
-
-### 3.4 DSIR – Deep‑tech startups ke लिए relaxation
-
-- **Department of Scientific & Industrial Research (DSIR)** ne deep‑tech startups ke लिए  
-  R&D recognition ke liye 3‑year existence condition relax ki,  
-  ताकि नई कंपनियों ko भी benefit mil सके.  
+> Yaad line: **“बारिश ya सूखा – Fasal ka farishtaa PMFBY.”**
 
 ---
 
-## 4. कृषि व rural
+## TOPIC 2: Grameen Bharat Mahotsav 2025 – Rural Products ka Mahamela
 
-### 4.1 184 नई फसल varieties (25 crops)
+- New Delhi me **Grameen Bharat Mahotsav 2025** आयोजित हुआ:  
+  - Self Help Groups (SHGs), Farmer Producer Organisations (FPOs), artisans, weavers ne  
+    apne products (handicrafts, ODOP items, millets, processed food) दिखाए.  
+- संलग्न ministries:  
+  - Rural Development, Agriculture, Panchayati Raj, MSME आदि.
 
-- Agriculture Minister **Shivraj Singh Chouhan** ने  
-  **25 crops** ki **184 new varieties** release kiं।  
-- लक्ष्‍य: high yield, disease resistance, climate resilience, nutrition enhancement.  
+**SSC exam points:**
 
----
+- SHGs – **NRLM / DAY‑NRLM** ke तहत women SHGs important.  
+- FPO – किसान producer company, collective marketing.
 
-## 5. जल, स्वच्छता व स्वास्थ्य
+**Memory Trick – “Gaon ka Mall – Grameen Mahotsav”**
 
-### 5.1 Salal Hydroelectric Project – sediment removal
-
-- **Salal HE Project (690 MW)** Jammu & Kashmir में **Chenab river** par स्थित.  
-- निर्देश: reservoir में जमा sediment हटाकर पानी का अधिकतम उपयोग सुनिश्चित किया जाए,  
-  विशेषकर **Indus Waters Treaty** ke संदर्भ में.  
-
-### 5.2 Delhi – Rabies ko notifiable disease banane ki योजना
-
-- Delhi सरकार rabies को **Epidemic Diseases Act, 1897** के तहत  
-  **notifiable disease** घोषित करने की तैयारी कर रही है,  
-  ताकि सभी cases का systematic reporting व surveillance हो सके.  
+> Socho Delhi me ek बड़ा **“Gaon ka Mall”** लगा hai – yehi Grameen Bharat Mahotsav.
 
 ---
 
-## 6. सामाजिक सुरक्षा, राज्य योजनाएँ व अंतरराष्ट्रीय संबंध
+## TOPIC 3: नई Crop Varieties – ICAR initiatives
 
-### 6.1 Tamil Nadu Assured Pension Scheme
+- ICAR & state agricultural universities ne 2025‑26 ke लिये  
+  कई नई **high‑yielding / disease‑resistant** varieties release ki:  
+  - drought tolerant rice/wheat,  
+  - pest‑resistant pulses,  
+  - improved oilseeds/horticulture.  
 
-- TN CM **M.K. Stalin** ne **“Tamil Nadu Assured Pension Scheme”** की घोषणा की –  
-  मुख्य रूप से state government employees के pension framework ke लिए.  
+**SSC exam points:**
 
-### 6.2 Assam – Udasin Bhakats ke लिए आर्थिक सहायता
+- ICAR – Indian Council of Agricultural Research, HQ New Delhi.  
+- Krishi Vigyan Kendras (KVKs) farmer training & demo ke लिये.
 
-- Assam सरकार ne **“Udasin Bhakats”** नामक धार्मिक community ke लिए  
-  विशेष financial assistance scheme launch की.  
+**Memory Trick – “ICAR = India ka Crop Research”**
 
-### 6.3 AYUSH की अंतरराष्ट्रीय मान्यता
-
-- Bharat ka **AYUSH system (Ayurveda, Yoga, Unani, Siddha, Homeopathy)**  
-  **Oman** और **New Zealand** ke साथ bilateral agreements me officially recognize किया गया.  
-
-### 6.4 Sikkim High Court – नया Chief Justice
-
-- President Droupadi Murmu ne **Article 217(1)** ke तहत  
-  **Justice Mustaque** ko **Sikkim High Court** ka Chief Justice नियुक्त किया.  
+> ICAR = **India Crop And Research** (yaad rakhne ke लिये fake expansion).
 
 ---
 
-## SSC / UPSC Style MCQs – 06-01-2026
+## TOPIC 4: PM‑KISAN & DBT Architecture
 
-### Q1. Mumbai–Ahmedabad High‑Speed Rail (MAHSR) project ki updated estimated cost approx kitni बताई गई?
+- PM‑KISAN:  
+  - 2019 me launch,  
+  - हर eligible किसान ko **₹6,000/year** (3 instalments).  
+- Payments **Direct Benefit Transfer (DBT)** through bank accounts se होते हैं.  
+- e‑KYC, land record verification, Aadhaar seeding – सब mandatory steps.
 
-A. ₹80,000 crore  
-B. ₹1.0 lakh crore  
-C. ₹1.5 lakh crore  
-D. ₹1.98 lakh crore  
+**SSC exam points:**
 
-**Answer:** D  
+- PM‑KISAN – Ministry of Agriculture & Farmers’ Welfare.  
+- DBT – Direct Benefit Transfer (jan‑dhan, Aadhaar, mobile – JAM trinity se link).
 
----
+**Memory Trick – “3K = 3 किस्त, 2K + 2K + 2K”**
 
-### Q2. Land Stack platform kis programme ka हिस्सा है?
-
-A. PM Gati Shakti  
-B. Digital India Land Record Modernisation Programme  
-C. AMRUT  
-D. Smart Cities Mission  
-
-**Answer:** B  
+> PM‑KISAN: 3 किस्त × ₹2,000 = ₹6,000.
 
 ---
 
-### Q3. Land Stack ka pilot किन दो स्थानों पर शुरू हुआ?
+## Super Short 1-Liner Revision – SSC (06-01-2026)
 
-A. Delhi & Maharashtra  
-B. Chandigarh & Tamil Nadu  
-C. Gujarat & Rajasthan  
-D. Punjab & Haryana  
-
-**Answer:** B  
+1. PMFBY – 2016 crop insurance; WBCIS – weather indices par.  
+2. Grameen Bharat Mahotsav – Delhi me rural SHG/FPO products ka मेळा.  
+3. ICAR – crop research, नई varieties; KVK – farmer training.  
+4. PM‑KISAN – ₹6,000/year DBT; DBT = Direct Benefit Transfer.
 
 ---
 
-### Q4. Government ne X (Twitter) ko notice किस कारण se दिया?
+## MCQs – SSC (06-01-2026)
 
-A. Fake GDP numbers share karne par  
-B. Election symbols misuse karne par  
-C. Grok AI ke माध्यम se महिलाओं ke objectionable images generate hone par  
-D. Crypto ads allow karne par  
+1. PM Fasal Bima Yojana (PMFBY) kis varsh launch hui?  
+   A. 2014  
+   B. 2015  
+   C. 2016  
+   D. 2018  
 
-**Answer:** C  
-
----
-
-### Q5. Design Linked Incentive (DLI) Scheme किस क्षेत्र को support karti hai?
-
-A. Fertilizer उद्योग  
-B. Semiconductor / chip design  
-C. Textile exports  
-D. Tourism infrastructure  
-
-**Answer:** B  
+   **Answer:** C  
 
 ---
 
-### Q6. Salal Hydroelectric Project किस नदी par hai?
+2. WBCIS kis आधार पर insurance देती hai?  
+   A. केवल market price  
+   B. Weather parameters (rainfall, temp etc.)  
+   C. Land revenue  
+   D. GST rates  
 
-A. Jhelum  
-B. Chenab  
-C. Ravi  
-D. Beas  
-
-**Answer:** B  
-
----
-
-### Q7. Rabies ko notifiable disease declare karne ke लिए kaun‑sa कानून use ho रहा hai?
-
-A. Disaster Management Act, 2005  
-B. Epidemic Diseases Act, 1897  
-C. Indian Penal Code, 1860  
-D. Wildlife Protection Act, 1972  
-
-**Answer:** B  
+   **Answer:** B  
 
 ---
 
-### Q8. Tamil Nadu Assured Pension Scheme मुख्य रूप से किसके लिए है?
+3. Grameen Bharat Mahotsav 2025 ka मुख्य focus kya hai?  
+   A. Urban IT services  
+   B. Rural SHGs, FPOs ke products ka प्रदर्शन और marketing  
+   C. केवल defence expo  
+   D. केवल film festival  
 
-A. Farmers  
-B. Senior citizens in private sector  
-C. State government employees  
-D. Unorganised workers  
-
-**Answer:** C  
-
----
-
-### Q9. AYUSH ke संबंध me kis joड़े ki मान्यता news me थी?
-
-A. USA & Japan  
-B. Oman & New Zealand ke साथ agreements  
-C. UK & France  
-D. UAE & Qatar  
-
-**Answer:** B  
+   **Answer:** B  
 
 ---
 
-### Q10. Sikkim High Court ke naye Chief Justice kaun बने?
+4. PM‑KISAN me किसान ko saal bhar me kitna benefit मिलता hai?  
+   A. ₹2,000  
+   B. ₹3,000  
+   C. ₹6,000  
+   D. ₹10,000  
 
-A. Justice Mahesh Sharadchandra Sonak  
-B. Justice Mustaque  
-C. Justice N.V. Ramana  
-D. Justice Indira Banerjee  
+   **Answer:** C  
 
-**Answer:** B
+---
+
+5. DBT ka full form kya hai?  
+   A. Direct Banking Tax  
+   B. Direct Benefit Transfer  
+   C. Digital Banks & Technology  
+   D. Depositor Benefit Trust  
+
+   **Answer:** B

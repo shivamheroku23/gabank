@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Current Affairs by Shivam</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root {
+      --bg: #020617;
+      --panel-bg: #050b1e;
+      --panel-border: #0f172a;
+      --folder-border: #38bdf8;
+      --md-border: #22c55e;
+      --heading-orange: #ff8a1f;
+      --heading-green: #22c55e;
+      --text-main: #e5e7eb;
+      --text-muted: #9ca3af;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: radial-gradient(circle at top, #0b1024 0, #020617 50%, #000 100%);
+      color: var(--text-main);
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .page {
+      display: flex;
+      flex-direction: column;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    header {
+      flex: 0 0 auto;
+      padding: 10px 16px 8px;
+      border-bottom: 1px solid #111827;
+      background: linear-gradient(180deg, #10296b, #081329);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .title-main {
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #f9fafb;
+    }
+
+    .title-main span.highlight {
+      color: var(--heading-orange);
+    }
+
+    .toggle-btn {
+      position: absolute;
+      left: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      padding: 4px 10px;
+      font-size: 11px;
+      background: #020617;
+      color: #e5e7eb;
+      cursor: pointer;
+    }
+
+    main {
+      flex: 1 1 auto;
+      display: flex;
+      overflow: hidden;
+    }
+
+    .content {
+      flex: 1 1 auto;
+      display: flex;
+      padding: 12px 14px 14px;
+      gap: 14px;
+      overflow: hidden;
+    }
+
+    .tree-panel {
+      flex: 0 0 280px;
+      max-width: 320px;
+      border-radius: 18px;
+      border: 1px solid var(--panel-border);
+      background: radial-gradient(circle at top left, #050b1e 0, #020617 70%);
+      box-shadow:
+        0 14px 40px rgba(0,0,0,0.9),
+        0 0 0 1px #020617;
+      padding: 10px 11px 12px;
+      overflow: auto;
+      transition: transform 0.15s ease-out, opacity 0.15s ease-out, width 0.15s ease-out;
+    }
+
+    .tree-panel.hidden {
+      width: 0;
+      padding: 0;
+      margin-right: 0;
+      opacity: 0;
+      transform: translateX(-12px);
+      pointer-events: none;
+    }
+
+    .tree-heading {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: #d1d5db;
+      margin-bottom: 4px;
+    }
+
+    .path-line {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 8px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .node-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .node-item {
+      border-radius: 14px;
+      padding: 8px 10px;
+      cursor: pointer;
+      background: radial-gradient(circle at top, #020617 0, #020617 60%, #000 100%);
+      border: 1px solid #1f2933;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.9);
+      transition: transform 0.08s ease-out, box-shadow 0.08s ease-out, border-color 0.08s;
+    }
+
+    .node-item.folder {
+      border-color: var(--folder-border);
+      box-shadow: 0 0 18px rgba(56,189,248,0.7), 0 12px 28px rgba(0,0,0,0.9);
+    }
+
+    .node-item.md-file {
+      border-color: var(--md-border);
+      box-shadow: 0 0 18px rgba(34,197,94,0.7), 0 12px 28px rgba(0,0,0,0.9);
+    }
+
+    .node-item:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 16px 34px rgba(0,0,0,0.95);
+    }
+
+    .node-name {
+      font-size: 13px;
+      font-weight: 700;
+      color: #e5e7eb;
+      word-break: break-word;
+    }
+
+    .node-sub {
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-top: 2px;
+    }
+
+    .preview {
+      flex: 1 1 auto;
+      border-radius: 18px;
+      border: 1px solid var(--panel-border);
+      background: #020a1a;
+      box-shadow:
+        0 22px 50px rgba(0,0,0,0.95),
+        0 0 0 1px #020617;
+      padding: 10px 18px 14px;
+      overflow: auto;
+      position: relative;
+    }
+
+    .preview.fullscreen {
+      position: fixed;
+      inset: 0;
+      margin: 0;
+      border-radius: 0;
+      z-index: 40;
+      border: none;
+    }
+
+    .preview-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px;
+      font-size: 11px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .preview-header-left {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .preview-header .file-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: #ffe08a;
+    }
+
+    .fullscreen-btn {
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      background: #020617;
+      color: #e5e7eb;
+      font-size: 11px;
+      padding: 3px 8px;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .preview-body {
+      font-size: 15px;
+      line-height: 1.9;
+      color: #e6f1ff;
+      white-space: pre-wrap;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 6px 24px 24px;
+    }
+
+    .preview-body .h1 {
+      font-size: 30px;
+      font-weight: 900;
+      color: var(--heading-orange);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin: 14px 0 10px;
+      border-bottom: 1px solid rgba(248,250,252,0.12);
+      padding-bottom: 6px;
+    }
+
+    .preview-body .h2 {
+      font-size: 24px;
+      font-weight: 900;
+      color: var(--heading-green);
+      margin: 16px 0 10px;
+      text-align: center;
+    }
+
+    .preview-body .h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #2dd4ff;
+      margin: 10px 0 6px;
+    }
+
+    .preview-body .bullet {
+      padding-left: 14px;
+      position: relative;
+    }
+
+    .preview-body .bullet::before {
+      content: "• ";
+      color: #facc15;
+      position: absolute;
+      left: 0;
+    }
+
+    .preview-empty,
+    .preview-loading {
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .loading,
+    .error {
+      font-size: 13px;
+      color: #e5e7eb;
+      padding: 8px 10px;
+      border-radius: 10px;
+      background: #020617;
+      border: 1px solid #374151;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 6px;
+    }
+
+    .loading-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: #38bdf8;
+      box-shadow: 0 0 14px rgba(56,189,248,0.9);
+      animation: pulse 1.2s infinite ease-in-out;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.7; }
+      50% { transform: scale(1.3); opacity: 1; }
+    }
+
+    .error { border-color: #ef4444; color: #fecaca; }
+    .error strong { color: #f87171; }
+
+    @media (max-width: 880px) {
+      .content {
+        flex-direction: column;
+      }
+      .tree-panel {
+        max-width: none;
+        flex: 0 0 auto;
+      }
+      header .toggle-btn {
+        left: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <button id="toggle-tree" class="toggle-btn">Folders</button>
+    <div class="title-main">
+      DAILY CURRENT AFFAIRS BY <span class="highlight">SHIVAM</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="content">
+      <div class="tree-panel" id="tree-panel">
+        <div class="tree-heading">FOLDERS / FILES</div>
+        <div class="path-line" id="current-path">Path: /</div>
+        <div id="status" class="loading">
+          <span class="loading-dot"></span>
+          <span>GitHub से डेटा लोड हो रहा है…</span>
+        </div>
+        <div id="node-list" class="node-list" style="display:none;"></div>
+      </div>
+
+      <div class="preview" id="preview-panel">
+        <div class="preview-header">
+          <div class="preview-header-left">
+            <span class="file-name" id="preview-name">कोई .md फाइल चुनें</span>
+            <span id="preview-path"></span>
+          </div>
+          <button id="fullscreen-btn" class="fullscreen-btn">Full screen</button>
+        </div>
+        <div id="preview-body" class="preview-body">
+          <div class="preview-empty">
+            बाएं तरफ किसी date folder पर click करो, फिर उसके अंदर की .md file चुनो –
+            यहाँ उसी का colourful view दिखेगा (orange heading + green points).
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<script>
+  const OWNER = "shivamheroku23";
+  const REPO = "gabank";
+  const API_ROOT = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
+
+  const statusEl = document.getElementById("status");
+  const nodeListEl = document.getElementById("node-list");
+  const pathEl = document.getElementById("current-path");
+  const treePanelEl = document.getElementById("tree-panel");
+  const toggleTreeBtn = document.getElementById("toggle-tree");
+
+  const previewPanelEl = document.getElementById("preview-panel");
+  const fullscreenBtn = document.getElementById("fullscreen-btn");
+  const previewNameEl = document.getElementById("preview-name");
+  const previewPathEl = document.getElementById("preview-path");
+  const previewBodyEl = document.getElementById("preview-body");
+
+  let cache = {};
+  let currentPath = "";
+  let isFullscreen = false;
+
+  toggleTreeBtn.addEventListener("click", () => {
+    const hidden = treePanelEl.classList.toggle("hidden");
+    toggleTreeBtn.textContent = hidden ? "Show Folders" : "Folders";
+  });
+
+  fullscreenBtn.addEventListener("click", () => {
+    isFullscreen = !isFullscreen;
+    if (isFullscreen) {
+      previewPanelEl.classList.add("fullscreen");
+      treePanelEl.style.display = "none";
+      fullscreenBtn.textContent = "Exit full screen";
+    } else {
+      previewPanelEl.classList.remove("fullscreen");
+      treePanelEl.style.display = "";
+      fullscreenBtn.textContent = "Full screen";
+    }
+  });
+
+  async function fetchDirectory(path = "") {
+    if (cache[path]) return cache[path];
+
+    const url = path ? `${API_ROOT}/${encodeURIComponent(path)}` : API_ROOT;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+    cache[path] = json;
+    return json;
+  }
+
+  function isDateFolder(name) {
+    return /^\d{2}-\d{2}-\d{4}$/.test(name);
+  }
+
+  function renderList(items, path) {
+    nodeListEl.innerHTML = "";
+    const sorted = items.slice().sort((a, b) => {
+      if (a.type === b.type) return a.name.localeCompare(b.name);
+      return a.type === "dir" ? -1 : 1;
+    });
+
+    if (path) {
+      const upItem = document.createElement("div");
+      upItem.className = "node-item";
+      upItem.innerHTML = '<div class="node-name">⬆ .. (back)</div>';
+      upItem.onclick = () => {
+        const parts = path.split("/");
+        parts.pop();
+        loadPath(parts.join("/"));
+      };
+      nodeListEl.appendChild(upItem);
+    }
+
+    for (const item of sorted) {
+      const div = document.createElement("div");
+      const isFolder = item.type === "dir";
+      const isMd = item.type === "file" && item.name.toLowerCase().endsWith(".md");
+
+      div.classList.add("node-item");
+      if (isFolder) div.classList.add("folder");
+      if (isMd) div.classList.add("md-file");
+
+      const name = document.createElement("div");
+      name.className = "node-name";
+      name.textContent = item.name;
+      div.appendChild(name);
+
+      const sub = document.createElement("div");
+      sub.className = "node-sub";
+      if (isFolder) {
+        sub.textContent = isDateFolder(item.name) ? "Date folder" : "Folder";
+      } else if (isMd) {
+        sub.textContent = ".md – current affairs notes";
+      } else {
+        sub.textContent = "File";
+      }
+      div.appendChild(sub);
+
+      if (isFolder) {
+        div.onclick = () => loadPath(item.path);
+      } else if (isMd) {
+        div.onclick = () => loadMd(item.path);
+      }
+
+      nodeListEl.appendChild(div);
+    }
+
+    statusEl.style.display = "none";
+    nodeListEl.style.display = "flex";
+  }
+
+  async function loadPath(path) {
+    try {
+      statusEl.style.display = "inline-flex";
+      nodeListEl.style.display = "none";
+      pathEl.textContent = "Path: /" + (path || "");
+      currentPath = path || "";
+      const items = await fetchDirectory(path || "");
+      renderList(items, path || "");
+    } catch (err) {
+      console.error(err);
+      statusEl.className = "error";
+      statusEl.innerHTML = "<strong>Error:</strong> GitHub data load nahi ho paya.";
+    }
+  }
+
+  async function loadMd(path) {
+    try {
+      previewNameEl.textContent = path.split("/").pop();
+      previewPathEl.textContent = " – /" + path;
+      previewBodyEl.innerHTML = "<div class='preview-loading'>फाइल लोड हो रही है…</div>";
+
+      const url = `${API_ROOT}/${encodeURIComponent(path)}`;
+      const resMeta = await fetch(url);
+      if (!resMeta.ok) throw new Error("meta " + resMeta.status);
+      const meta = await resMeta.json();
+
+      const res = await fetch(meta.download_url);
+      if (!res.ok) throw new Error("file " + res.status);
+      const text = await res.text();
+
+      previewBodyEl.innerHTML = highlightMarkdown(text);
+    } catch (err) {
+      console.error(err);
+      previewBodyEl.innerHTML = "<div class='preview-empty'>फाइल लोड नहीं हो पाई।</div>";
+    }
+  }
+
+  function highlightMarkdown(raw) {
+    const lines = raw.split(/\r?\n/);
+    let html = "";
+
+    for (const line of lines) {
+      if (line.startsWith("# ")) {
+        html += `<div class="h1">${escapeHtml(line.replace(/^#\s*/, ""))}</div>`;
+      } else if (line.startsWith("## ")) {
+        html += `<div class="h2">${escapeHtml(line.replace(/^##\s*/, ""))}</div>`;
+      } else if (line.startsWith("### ")) {
+        html += `<div class="h3">${escapeHtml(line.replace(/^###\s*/, ""))}</div>`;
+      } else if (line.startsWith("- ") || line.startsWith("* ")) {
+        html += `<div class="bullet">${escapeHtml(line.replace(/^[-*]\s*/, ""))}</div>`;
+      } else if (line.trim() === "") {
+        html += "<br>";
+      } else {
+        html += escapeHtml(line) + "\n";
+      }
+    }
+
+    return html;
+  }
+
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+
+  (async function init() {
+    await loadPath("");
+  })();
+</script>
+</body>
+</html>
