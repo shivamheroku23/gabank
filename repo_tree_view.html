@@ -79,6 +79,53 @@
       cursor: pointer;
     }
 
+    .telegram-btn {
+      position: absolute;
+      right: 14px;
+      top: 50%;
+      transform: translateY(-50%);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      background: #020617;
+      color: #e5e7eb;
+      font-size: 11px;
+      text-decoration: none;
+    }
+
+    .telegram-icon {
+      width: 16px;
+      height: 16px;
+      border-radius: 999px;
+      border: 1px solid #38bdf8;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      color: #38bdf8;
+    }
+
+    .telegram-text {
+      letter-spacing: 0.05em;
+    }
+
+    .tg-banner {
+      font-size: 11px;
+      margin-bottom: 6px;
+    }
+
+    .tg-banner a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+
+    .tg-banner a:hover {
+      text-decoration: underline;
+    }
+
     main {
       flex: 1 1 auto;
       display: flex;
@@ -453,11 +500,18 @@
     <div class="title-main">
       DAILY CURRENT AFFAIRS BY <span class="highlight">SHIVAM</span>
     </div>
+    <a href="https://t.me/QuizChannelrajasthan" target="_blank" rel="noopener noreferrer" class="telegram-btn" title="Join Telegram Channel">
+      <span class="telegram-icon">TG</span>
+      <span class="telegram-text">Join Telegram</span>
+    </a>
   </header>
 
   <main>
     <section class="content">
       <div class="tree-panel" id="tree-panel">
+        <div class="tg-banner">
+          Telegram channel: <a href="https://t.me/QuizChannelrajasthan" target="_blank" rel="noopener noreferrer">t.me/QuizChannelrajasthan</a>
+        </div>
         <div class="tree-heading">FOLDERS / FILES</div>
         <div class="path-line" id="current-path">Path: /</div>
         <div id="status" class="loading">
