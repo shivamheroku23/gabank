@@ -397,62 +397,90 @@ Bas yaad: 6.48% GS 2035 + **multiple price + non‑competitive 5% + E‑Kuber + 
 
 ---
 
-## MCQs (for Practice)
+## MCQs – Bank (01-01-2026)
 
-1. From which date did the new RBI digital banking framework (covering internet, mobile, UPI, etc.) come into effect?  
-   A. 1 Jan 2024  
-   B. 1 Jan 2025  
-   C. 1 Jan 2026  
-   D. 1 April 2026  
+### Q1. From which date did the new RBI digital banking framework (covering internet, mobile, UPI, etc.) come into effect?
 
-2. Under the new digital banking framework, which of the following is covered under CAAL?  
-   A. Credit growth target  
-   B. Branch expansion policy  
-   C. Consent, Alerts, Access control, Liability  
-   D. Cash reserve ratio  
+A. 1 Jan 2024  
+B. 1 Jan 2025  
+C. 1 Jan 2026  
+D. 1 April 2026  
 
-3. For BSBD accounts under the new norms, which statement is correct?  
-   A. BSBD par minimum balance maintain karna compulsory hai  
-   B. BSBD accounts cannot get digital banking  
-   C. BSBD accounts will get full digital banking and free deposits with no minimum balance  
-   D. BSBD accounts are only for NRI customers  
+**Answer:** C  
 
-4. From Jan 1, 2026, PAN–Aadhaar link na hone ka ek major impact kya hai?  
-   A. Aadhaar cancel ho jata hai  
-   B. PAN inoperative treat ho sakta hai, tax & banking me problem  
-   C. Voter ID cancel ho jata hai  
-   D. Driving licence suspend ho jata hai  
+---
 
-5. From Jan 1, 2026, credit scores must be updated:  
-   A. Daily  
-   B. Weekly  
-   C. Monthly  
-   D. Yearly  
+### Q2. Under the new digital banking framework, which of the following is covered under CAAL?
 
-6. Faster weekly credit score updates ka benefit kya hai?  
-   A. Loan decisions ancient data par based  
-   B. EMI behavior ka effect score me late aata hai  
-   C. Recent repayment/default behavior jaldi reflect hota hai, risk assessment better  
-   D. Credit score system band ho jata hai  
+A. Credit growth target  
+B. Branch expansion policy  
+C. Consent, Alerts, Access control, Liability  
+D. Cash reserve ratio  
 
-7. Card rules ke changes ke context me kaun sa statement sahi hai?  
-   A. Lounge access sab ke liye lifetime free ho gaya  
-   B. Lounge access ab spend condition se linked ho sakta hai  
-   C. Online gaming par koi impact nahi  
-   D. Reward points sab cards par double ho gaye  
+**Answer:** C  
 
-8. BSBD accounts ke liye 4F trick me “Free from minimum balance” ka kya matlab hai?  
-   A. Minimum balance bahut high kar diya  
-   B. No minimum balance requirement  
-   C. Penalty double kar di  
-   D. BSBD ban kar diye gaye  
+---
 
-**Answer Key:**  
-1 – C  
-2 – C  
-3 – C  
-4 – B  
-5 – B  
-6 – C  
-7 – B  
-8 – B
+### Q3. For BSBD accounts under the new norms, which statement is correct?
+
+A. BSBD par minimum balance maintain karna compulsory hai  
+B. BSBD accounts cannot get digital banking  
+C. BSBD accounts will get full digital banking and free deposits with no minimum balance  
+D. BSBD accounts are only for NRI customers  
+
+**Answer:** C  
+
+---
+
+### Q4. From Jan 1, 2026, PAN–Aadhaar link na hone ka ek major impact kya hai?
+
+A. Aadhaar cancel ho jata hai  
+B. PAN inoperative treat ho sakta hai, tax &amp; banking me problem  
+C. Voter ID cancel ho jata hai  
+D. Driving licence suspend ho jata hai  
+
+**Answer:** B  
+
+---
+
+### Q5. From Jan 1, 2026, credit scores must be updated:
+
+A. Daily  
+B. Weekly  
+C. Monthly  
+D. Yearly  
+
+**Answer:** B  
+
+---
+
+### Q6. Faster weekly credit score updates ka benefit kya hai?
+
+A. Loan decisions ancient data par based  
+B. EMI behavior ka effect score me late aata hai  
+C. Recent repayment/default behavior jaldi reflect hota hai, risk assessment better  
+D. Credit score system band ho jata hai  
+
+**Answer:** C  
+
+---
+
+### Q7. Card rules ke changes ke context me kaun sa statement sahi hai?
+
+A. Lounge access sab ke liye lifetime free ho gaya  
+B. Lounge access ab spend condition se linked ho sakta hai  
+C. Online gaming par koi impact nahi  
+D. Reward points sab cards par double ho gaye  
+
+**Answer:** B  
+
+---
+
+### Q8. BSBD accounts ke liye 4F trick me “Free from minimum balance” ka kya matlab hai?
+
+A. Minimum balance bahut high kar diya  
+B. No minimum balance requirement  
+C. Penalty double kar di  
+D. BSBD ban kar diye gaye  
+
+**Answer:** B

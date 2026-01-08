@@ -170,7 +170,7 @@
 ### Q1. RBI ke latest data ke mutabik scheduled commercial banks ka gross NPA ratio approx kis range me aa gaya hai (multi‑year low)?
 
 A. 0.5–0.7%  
-B. 1.0–1.2%  
+B. 1.0–1.2%   
 C. 2.1–2.2%  
 D. 5.0–6.0%  
 
