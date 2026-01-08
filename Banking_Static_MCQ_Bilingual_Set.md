@@ -654,4 +654,3 @@ D. CASA – term deposits
 
 ---
 
-*(Questions 51–200 continue in the same bilingual format, covering PSL, Basel III, SARFAESI, DRT, IBC, co‑operative banking, NBFCs, digital payments, UPI, NPCI, important schemes, committees, ratios, terms etc.)*
