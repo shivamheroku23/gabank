@@ -4,1006 +4,656 @@
 ---
 
 ## MCQs – Bank (Jan 2025 Practice Set)  
-*(Har prashn pehle Hindi/Hinglish, uske turant niche English line; options bhi dono bhasha me. Har MCQ ke baad ek short explanation di gayi hai.)*
+*(Har prashn me pehle poori English line, fir Hindi line; options ek hi line par “English / Hindi”; har MCQ ke baad short explanation di gayi hai.)*
 
 ---
 
-### Q1. RBI ke latest data ke mutabik scheduled commercial banks ka gross NPA ratio approx kis range me aa gaya hai (multi‑year low)?  
-### Q1. According to RBI’s latest data, the gross NPA ratio of scheduled commercial banks has fallen to approximately which range (a multi‑year low)?
+### Q1. According to RBI’s latest data, the gross NPA ratio of scheduled commercial banks has fallen to approximately which range (a multi‑year low)?  
+### Q1. RBI के नवीनतम आंकड़ों के अनुसार, अनुसूचित वाणिज्यिक बैंकों का सकल NPA अनुपात लगभग किस दायरे में आ गया है (कई वर्षों का सबसे कम स्तर)?
 
-A. 0.5–0.7%  
-   A. 0.5–0.7%  
-
-B. 1.0–1.2%  
-   B. 1.0–1.2%  
-
-C. 2.1–2.2%  
-   C. 2.1–2.2%  
-
-D. 5.0–6.0%  
-   D. 5.0–6.0%  
+A. 0.5–0.7% / 0.5–0.7%  
+B. 1.0–1.2% / 1.0–1.2%  
+C. 2.1–2.2% / 2.1–2.2%  
+D. 5.0–6.0% / 5.0–6.0%  
 
 **Answer:** C  
-**Explanation:** RBI FSR ke hisaab se SCBs ka gross NPA ratio ab lagbhag 2.1–2.2% range me aa gaya hai, jo pichhle kai saalon ka sabse kam level hai.  
+**Explanation:** RBI Financial Stability Report ke mutabik SCBs ka gross NPA ratio lagbhag 2.1–2.2% tak gir gaya hai, jo multi‑year low hai.  
 
 ---
 
-### Q2. RBI ke report ke mutabik NPAs ka sabse bada share ab kis sector se aa raha hai?  
-### Q2. As per RBI’s report, which sector now contributes the largest share of NPAs?
+### Q2. As per RBI’s report, which sector now contributes the largest share of NPAs?  
+### Q2. RBI की रिपोर्ट के अनुसार, वर्तमान में NPA का सबसे बड़ा हिस्सा किस सेक्टर से आ रहा है?
 
-A. Large corporates (infrastructure)  
-   A. Large corporates (infrastructure)  
-
-B. Agriculture sector  
-   B. Agriculture sector  
-
-C. Foreign currency loans  
-   C. Foreign currency loans  
-
-D. Housing loans  
-   D. Housing loans  
+A. Large corporates (infrastructure) / बड़े कॉरपोरेट (इन्फ्रास्ट्रक्चर)  
+B. Agriculture sector / कृषि क्षेत्र  
+C. Foreign currency loans / विदेशी मुद्रा ऋण  
+D. Housing loans / आवास ऋण  
 
 **Answer:** B  
-**Explanation:** Report ke mutabik ab NPA composition shift ho kar agriculture sector ka share sabse bada ho gaya hai, jabki pehle major stress large corporates me tha.  
+**Explanation:** Report batati hai ki ab NPA composition me sabse bada hissa agriculture loans ka hai, pehle jaise large corporates ka nahi.  
 
 ---
 
-### Q3. Recent Insurance Act amendments ke baad insurers ki investment norms ke baare me kaun sa statement sahi hai?  
-### Q3. After the recent Insurance Act amendments, which statement about insurers’ investment norms is correct?
+### Q3. After the recent Insurance Act amendments, which statement about insurers’ investment norms is correct?  
+### Q3. हाल के बीमा अधिनियम संशोधनों के बाद, बीमा कंपनियों के निवेश मानदंडों के बारे में कौन‑सा कथन सही है?
 
-A. Private limited companies me investment par ab bhi blanket ban hai  
-   A. There is still a blanket ban on investments in private limited companies  
-
-B. Repo / reverse‑repo transactions assets backing policyholders’ liabilities par allowed nahi hain  
-   B. Repo / reverse‑repo transactions are not allowed on assets backing policyholders’ liabilities  
-
-C. Section 27 ke through IRDAI ko Act ke bahar regulations se norms change karne ki zyaada flexibility mili hai  
-   C. Through the new Section 27, IRDAI has greater flexibility to change investment norms via regulations outside the Act  
-
-D. Insurers sirf government securities me hi invest kar sakte hain  
-   D. Insurers can invest only in government securities  
+A. Investments in private limited companies are still under a complete blanket ban / प्राइवेट लिमिटेड कंपनियों में निवेश पर अभी भी पूरी तरह प्रतिबंध है  
+B. Repo/reverse‑repo transactions are not allowed on assets backing policyholders’ liabilities / पॉलिसीधारकों को सपोर्ट करने वाले एसेट्स पर रेपो/रिवर्स‑रेपो की अनुमति नहीं है  
+C. Through the new Section 27, IRDAI has greater flexibility to change norms via regulations outside the Act / नए सेक्शन 27 के तहत IRDAI को अधिनियम से बाहर रेगुलेशन के ज़रिए नियम बदलने की अधिक लचीलापन मिली है  
+D. Insurers can invest only in government securities / बीमा कंपनियाँ केवल सरकारी प्रतिभूतियों में ही निवेश कर सकती हैं  
 
 **Answer:** C  
-**Explanation:** Amendments ne Section 27 ko unify karke detailed norms ko IRDAI regulations par shift kar diya hai, jisse regulator ko investment framework me jaldi aur flexible changes karne ki power milti hai.  
+**Explanation:** 27A–27D ko merge karke ek unified Section 27 banaya gaya, jisme detailed investment norms ko IRDAI regulations par shift kiya gaya hai.  
 
 ---
 
-### Q4. Budget 2026 ke context me “insurance premium financing” ka kya matlab hai?  
-### Q4. In the context of Budget 2026, what does “insurance premium financing” mean?
+### Q4. In the context of Budget 2026, what does “insurance premium financing” mean?  
+### Q4. बजट 2026 के संदर्भ में “इंश्योरेंस प्रीमियम फाइनेंसिंग” का क्या अर्थ है?
 
-A. Government premium ko directly insurers ko donate karegi  
-   A. The government will directly donate premiums to insurers  
-
-B. Banks/NBFCs policyholders ko loan dekar unka premium pay karne me help karenge  
-   B. Banks/NBFCs will give loans to policyholders to help them pay their insurance premiums  
-
-C. Insurance companies banks ko refinance karengi  
-   C. Insurance companies will refinance banks  
-
-D. Premiums sirf cash me collect honge  
-   D. Premiums will be collected only in cash  
+A. The government will directly donate premiums to insurers / सरकार सीधे बीमा कंपनियों को प्रीमियम दान करेगी  
+B. Banks/NBFCs will give loans to policyholders to help them pay their insurance premiums / बैंक/NBFC पॉलिसीधारकों को प्रीमियम भरने के लिए ऋण देंगे  
+C. Insurance companies will refinance banks / बीमा कंपनियाँ बैंकों को री‑फाइनेंस करेंगी  
+D. Premiums will be collected only in cash / प्रीमियम केवल नकद में ही लिया जाएगा  
 
 **Answer:** B  
-**Explanation:** Premium financing me customer apni badi policy ka premium ek baar me dene ki jagah bank/NBFC se loan leta hai, aur EMI ke through chukata hai; yahi model Budget discussion me highlight hua.  
+**Explanation:** Premium financing me customer policy ka premium bank/NBFC ke loan se pay karta hai aur baad me EMI me chukata hai – Budget discussion me isi credit model par जोर tha.  
 
 ---
 
-### Q5. 2025 me fintech funding ke trend ke baare me kaun sa statement sahi hai?  
-### Q5. Which statement correctly describes the trend in fintech funding in 2025?
+### Q5. Which statement correctly describes the trend in fintech funding in 2025?  
+### Q5. 2025 में फिनटेक फंडिंग के रुझान को कौन‑सा कथन सही तरीके से दर्शाता है?
 
-A. Fintech sector me koi meaningful funding nahi aayi  
-   A. There was no meaningful funding in the fintech sector  
-
-B. Fintech ne lagbhag $2.5B funding li, lekin deals kam par ticket size bada tha  
-   B. Fintech raised around $2.5B, with fewer deals but larger ticket sizes  
-
-C. Fintech deals ki sankhya badhi, par total funding bahut kam thi  
-   C. The number of fintech deals increased but total funding was very low  
-
-D. Sirf government grants se fintech chal rahe the  
-   D. Fintechs were running only on government grants  
+A. There was no meaningful funding in the fintech sector / फिनटेक सेक्टर में कोई उल्लेखनीय फंडिंग नहीं हुई  
+B. Fintech raised around $2.5B with fewer deals but larger ticket sizes / फिनटेक ने लगभग $2.5 बिलियन फंडिंग कम डील्स लेकिन बड़े टिकट साइज़ के साथ जुटाई  
+C. The number of fintech deals increased but total funding was very low / फिनटेक डील्स की संख्या बढ़ी लेकिन कुल फंडिंग बहुत कम रही  
+D. Fintechs were running only on government grants / फिनटेक केवल सरकारी अनुदान पर चल रहे थे  
 
 **Answer:** B  
-**Explanation:** Reports ke mutabik 2025 me fintech ne ~120 deals me kareeb $2.5B raise kiya, jahan deal count kam raha par average/median deal size kaafi bada tha.  
+**Explanation:** 2025 me fintech funding kareeb $2.5B thi aur deals kam the lekin har deal ka average size bada tha – high‑conviction funding pattern.  
 
 ---
 
-### Q6. PLI scheme ke impact ke baare me kaun sa pair sahi match hota hai?  
-### Q6. Which pair correctly matches the impact of the PLI scheme?
+### Q6. Which pair correctly matches the impact of the PLI scheme?  
+### Q6. PLI योजना के प्रभाव के बारे में निम्न में से कौन‑सा युग्म सही मेल खाता है?
 
-A. Steel output ghata, mobile production stagnant raha  
-   A. Steel output fell and mobile production remained stagnant  
-
-B. Steel output aur mobile manufacturing dono me PLI period me tez growth dekhi gayi  
-   B. Both steel output and mobile manufacturing saw strong growth during the PLI period  
-
-C. PLI ka mobile phone manufacturing se koi sambandh nahi  
-   C. PLI has no connection with mobile phone manufacturing  
-
-D. PLI sirf agriculture ke liye hai  
-   D. PLI is only for agriculture  
+A. Steel output fell and mobile production remained stagnant / स्टील उत्पादन घटा और मोबाइल उत्पादन स्थिर रहा  
+B. Both steel output and mobile manufacturing saw strong growth during the PLI period / PLI अवधि में स्टील और मोबाइल उत्पादन दोनों में तेज वृद्धि देखी गई  
+C. PLI has no connection with mobile phone manufacturing / PLI का मोबाइल निर्माण से कोई संबंध नहीं है  
+D. PLI is only for agriculture / PLI केवल कृषि के लिए है  
 
 **Answer:** B  
-**Explanation:** Data ke mutabik steel output 100+ MT se 144 MT tak badha aur mobile manufacturing value bhi sharply grow hui, jo PLI support ke impact ko dikhata hai.  
+**Explanation:** PLI launch ke baad crude steel output 144 MT se upar gaya aur mobile manufacturing value bhi sharply uthi – dono sectors me jump dikha.  
 
 ---
 
-### Q7. IRDAI ke naye investment framework ke baare me kaun sa point bank mains answer me quote kiya ja sakta hai?  
-### Q7. Which point about IRDAI’s new investment framework can be quoted in a bank mains answer?
+### Q7. Which point about IRDAI’s new investment framework can be quoted in a bank mains answer?  
+### Q7. IRDAI के नए निवेश ढांचे के बारे में कौन‑सा बिंदु बैंक मेन्स उत्तर में उद्धृत किया जा सकता है?
 
-A. Insurers ko sirf cash aur gold me invest karne ki permission hai  
-   A. Insurers are allowed to invest only in cash and gold  
-
-B. Private limited companies me investment hamesha prohibited rahega  
-   B. Investments in private limited companies will always be prohibited  
-
-C. Repo / securities lending allow hone se insurers ki liquidity management improve ho sakti hai  
-   C. Allowing repo/securities lending can improve insurers’ liquidity management  
-
-D. Insurers ko foreign securities me invest karna completely band ho gaya  
-   D. Insurers have been completely barred from investing in foreign securities  
+A. Insurers are allowed to invest only in cash and gold / बीमा कंपनियों को केवल नकद और सोने में निवेश की अनुमति है  
+B. Investments in private limited companies will always be prohibited / प्राइवेट लिमिटेड कंपनियों में निवेश हमेशा प्रतिबंधित रहेगा  
+C. Allowing repo/securities lending can improve insurers’ liquidity management / रेपो/सिक्योरिटीज़ लेंडिंग की अनुमति से बीमा कंपनियों की लिक्विडिटी मैनेजमेंट बेहतर हो सकती है  
+D. Insurers have been completely barred from investing in foreign securities / बीमा कंपनियों को विदेशी सिक्योरिटीज़ में निवेश पूरी तरह से मना कर दिया गया है  
 
 **Answer:** C  
-**Explanation:** Naye framework me encumbrance ban ko soften karke repo/securities lending allow ki gayi hai, jisse insurers apne bond portfolio se short‑term liquidity efficiently manage kar sakte hain.  
+**Explanation:** Naye rules assets par repo/securities lending allow karte hain, jisse insurers apne bond portfolios ko collateral ke रूप me use karke short‑term liquidity le sakte hain.  
 
 ---
 
-### Q8. RBI report me unsecured retail credit ke context me kya highlight kiya gaya?  
-### Q8. What does the RBI report highlight about unsecured retail credit?
+### Q8. What does the RBI report highlight about unsecured retail credit?  
+### Q8. RBI की रिपोर्ट असुरक्षित रिटेल क्रेडिट के बारे में क्या संकेत देती है?
 
-A. Is segment me koi risk nahi, growth bilkul slow hai  
-   A. There is no risk in this segment and growth is very slow  
-
-B. Segment shrink ho raha hai aur NPAs zero ho gaye  
-   B. The segment is shrinking and NPAs have become zero  
-
-C. Rapid growth ke saath kuch pockets of vulnerability dikh rahe hain, vigilant monitoring zaroori hai  
-   C. With rapid growth, some pockets of vulnerability are visible and vigilant monitoring is necessary  
-
-D. Sirf agriculture term loans unsecured retail category me aate hain  
-   D. Only agriculture term loans come under unsecured retail category  
+A. There is no risk in this segment and growth is very slow / इस सेगमेंट में कोई जोखिम नहीं और वृद्धि बहुत धीमी है  
+B. The segment is shrinking and NPAs have become zero / सेगमेंट सिकुड़ रहा है और NPA शून्य हो गए हैं  
+C. With rapid growth, some pockets of vulnerability are visible and vigilant monitoring is necessary / तेज़ वृद्धि के साथ कुछ कमजोर हिस्से दिख रहे हैं जिनकी कड़ी निगरानी ज़रूरी है  
+D. Only agriculture term loans come under unsecured retail category / केवल कृषि टर्म लोन असुरक्षित रिटेल श्रेणी में आते हैं  
 
 **Answer:** C  
-**Explanation:** RBI FSR ne warn kiya hai ki unsecured personal loans/credit cards me fast growth ke saath kuch stress pockets dikh rahe hain, isliye lenders ko closely monitor karna hoga.  
+**Explanation:** RBI FSR ne unsecured personal loans aur credit cards me तेज़ growth ko “emerging risk” bataya hai jahan close monitoring ki ज़रूरत hai.  
 
 ---
 
-### Q9. RBI (Pre‑payment Charges on Loans) Directions, 2025 kis prakaar ke loans par primarily focus karti hain?  
-### Q9. The RBI (Pre‑payment Charges on Loans) Directions, 2025 primarily focus on which type of loans?
+### Q9. The RBI (Pre‑payment Charges on Loans) Directions, 2025 primarily focus on which type of loans?  
+### Q9. RBI (Pre‑payment Charges on Loans) Directions, 2025 मुख्य रूप से किस प्रकार के ऋणों पर केंद्रित हैं?
 
-A. Fixed‑rate large corporate term loans  
-   A. Fixed‑rate large corporate term loans  
-
-B. Fixed‑rate home loans above ₹1 crore  
-   B. Fixed‑rate home loans above ₹1 crore  
-
-C. Floating‑rate retail aur MSME loans par pre‑payment/foreclosure charges  
-   C. Pre‑payment/foreclosure charges on floating‑rate retail and MSME loans  
-
-D. Sirf export credit in foreign currency  
-   D. Only export credit in foreign currency  
+A. Fixed‑rate large corporate term loans / फिक्स्ड रेट बड़े कॉरपोरेट टर्म लोन  
+B. Fixed‑rate home loans above ₹1 crore / ₹1 करोड़ से ऊपर के फिक्स्ड रेट होम लोन  
+C. Pre‑payment/foreclosure charges on floating‑rate retail and MSME loans / फ्लोटिंग रेट रिटेल और MSME लोन पर प्री‑पेमेंट/फोरक्लोज़र चार्ज  
+D. Only export credit in foreign currency / केवल विदेशी मुद्रा में एक्सपोर्ट क्रेडिट  
 
 **Answer:** C  
-**Explanation:** Directions ka core point yahi hai ki floating‑rate retail aur MSME borrowers ko pre‑payment charges se protect kiya jaye, taaki wo bina penalty lender change ya loan pre‑pay kar saken.  
+**Explanation:** Directions floating‑rate retail & MSME borrowers ko pre‑payment penalty se बचाने ke लिए ban/limit par focus karte hain.  
 
 ---
 
-### Q10. RBI (Project Finance) Directions, 2025 kis date se effective hue?  
-### Q10. From which date did the RBI (Project Finance) Directions, 2025 become effective?
+### Q10. From which date did the RBI (Project Finance) Directions, 2025 become effective?  
+### Q10. RBI (Project Finance) Directions, 2025 किस तारीख से प्रभावी हुए?
 
-A. 1 April 2025  
-   A. 1 April 2025  
-
-B. 19 June 2025  
-   B. 19 June 2025  
-
-C. 1 October 2025  
-   C. 1 October 2025  
-
-D. 1 March 2026  
-   D. 1 March 2026  
+A. 1 April 2025 / 1 अप्रैल 2025  
+B. 19 June 2025 / 19 जून 2025  
+C. 1 October 2025 / 1 अक्टूबर 2025  
+D. 1 March 2026 / 1 मार्च 2026  
 
 **Answer:** C  
-**Explanation:** Project Finance Directions 19 June 2025 ko issue hue aur official summaries ke mutabik ye 1 October 2025 se lagu hue.  
+**Explanation:** Project Finance Directions June 2025 me issue hue aur 1 October 2025 se lagu kiye gaye.  
 
 ---
 
-### Q11. Rupee Interest Rate Derivatives (IRD) Directions, 2025 ka commencement date kya hai?  
-### Q11. What is the commencement date of the Rupee Interest Rate Derivatives (IRD) Directions, 2025?
+### Q11. What is the commencement date of the Rupee Interest Rate Derivatives (IRD) Directions, 2025?  
+### Q11. Rupee Interest Rate Derivatives (IRD) Directions, 2025 की शुरुआत किस तिथि से मानी गई है?
 
-A. 1 January 2025  
-   A. 1 January 2025  
-
-B. 1 July 2025  
-   B. 1 July 2025  
-
-C. 1 October 2025  
-   C. 1 October 2025  
-
-D. 1 March 2026  
-   D. 1 March 2026  
+A. 1 January 2025 / 1 जनवरी 2025  
+B. 1 July 2025 / 1 जुलाई 2025  
+C. 1 October 2025 / 1 अक्टूबर 2025  
+D. 1 March 2026 / 1 मार्च 2026  
 
 **Answer:** D  
-**Explanation:** Advisory summaries ke anusaar Rupee IRD Directions, 2025 ka commencement date 1 March 2026 rakha gaya hai.  
+**Explanation:** Advisory summaries ke अनुसार Rupee IRD Directions ka commencement date 1 March 2026 hai.  
 
 ---
 
-### Q12. RBI ke Pre‑payment Directions 2025 ka main objective kya hai?  
-### Q12. What is the main objective of RBI’s Pre‑payment Directions 2025?
+### Q12. What is the main objective of RBI’s Pre‑payment Directions 2025?  
+### Q12. RBI के Pre‑payment Directions 2025 का मुख्य उद्देश्य क्या है?
 
-A. Banks ko pre‑payment se extra fee income dena  
-   A. To give banks extra fee income from pre‑payment  
-
-B. Borrowers ko loan pre‑pay ya refinance karne me fair freedom dena  
-   B. To give borrowers fair freedom to pre‑pay or refinance their loans  
-
-C. Sabhi floating‑rate loans ko fixed‑rate me convert karna  
-   C. To convert all floating‑rate loans into fixed‑rate  
-
-D. Home loans par interest rate permanently freeze karna  
-   D. To permanently freeze interest rates on home loans  
+A. To give banks extra fee income from pre‑payment / बैंकों को प्री‑पेमेंट से अतिरिक्त शुल्क आय देना  
+B. To give borrowers fair freedom to pre‑pay or refinance their loans / उधारकर्ताओं को लोन प्री‑पे या री‑फाइनेंस करने की स्वतंत्रता देना  
+C. To convert all floating‑rate loans into fixed‑rate / सभी फ्लोटिंग रेट लोन को फिक्स्ड रेट में बदलना  
+D. To permanently freeze interest rates on home loans / होम लोन पर ब्याज दर को स्थायी रूप से फ्रीज़ करना  
 
 **Answer:** B  
-**Explanation:** Directions ka focus borrower protection hai, jisse wo apna floating‑rate retail/MSME loan bina heavy penalty ke pre‑pay ya balance transfer kar sake.  
+**Explanation:** Directions borrower‑centric hain, jisse woh bina heavy penalty ke apna floating‑rate loan pre‑pay ya balance transfer kar sake.  
 
 ---
 
-### Q13. 30 December 2025 ke SEBI circular ke mutabik AIF managers ke Compliance Officers ke liye kya requirement introduce hui?  
-### Q13. As per SEBI’s 30 December 2025 circular, what requirement was introduced for Compliance Officers of AIF managers?
+### Q13. As per SEBI’s 30 December 2025 circular, what requirement was introduced for Compliance Officers of AIF managers?  
+### Q13. SEBI के 30 दिसंबर 2025 के परिपत्र के अनुसार AIF प्रबंधकों के Compliance Officer के लिए कौन‑सी शर्त लागू की गई?
 
-A. Har saal foreign internship karna  
-   A. To do a foreign internship every year  
-
-B. Net worth minimum ₹10 lakh hona  
-   B. To have a minimum net worth of ₹10 lakh  
-
-C. NISM/SEBI recognised certification clear karna  
-   C. To clear a NISM/SEBI recognised certification  
-
-D. Sirf chartered accountant hona  
-   D. To necessarily be a chartered accountant  
+A. To do a foreign internship every year / हर साल विदेश में इंटर्नशिप करना  
+B. To have a minimum net worth of ₹10 lakh / न्यूनतम ₹10 लाख की नेटवर्थ होना  
+C. To clear a NISM/SEBI recognised certification / NISM/SEBI मान्यता प्राप्त सर्टिफिकेशन पास करना  
+D. To necessarily be a chartered accountant / अनिवार्य रूप से चार्टर्ड अकाउंटेंट होना  
 
 **Answer:** C  
-**Explanation:** Circular ne mandate kiya ki AIF managers ke Compliance Officers ko specified certification lena hoga, taaki compliance function professional aur accountable ho.  
+**Explanation:** Circular ne mandate kiya ki compliance officer ke paas specified certification ho, taaki wo SEBI norms ko सही तरह samajh sake.  
 
 ---
 
-### Q14. AIF ka full form kya hai (SEBI context me)?  
-### Q14. What is the full form of AIF in the SEBI context?
+### Q14. What is the full form of AIF in the SEBI context?  
+### Q14. SEBI के संदर्भ में AIF का पूर्ण रूप क्या है?
 
-A. Additional Investment Facility  
-   A. Additional Investment Facility  
-
-B. Alternative Investment Fund  
-   B. Alternative Investment Fund  
-
-C. Approved Institutional Fund  
-   C. Approved Institutional Fund  
-
-D. Asset Insurance Facility  
-   D. Asset Insurance Facility  
+A. Additional Investment Facility / एडिशनल इन्वेस्टमेंट फैसिलिटी  
+B. Alternative Investment Fund / अल्टरनेटिव इन्वेस्टमेंट फंड  
+C. Approved Institutional Fund / अप्रूव्ड इंस्टिट्यूशनल फंड  
+D. Asset Insurance Facility / एसेट इंश्योरेंस फैसिलिटी  
 
 **Answer:** B  
-**Explanation:** SEBI regulations me AIF ka matlab Alternative Investment Fund hota hai, jo PE/VC/hedge/credit jaise pooled investment vehicles ko cover karta hai.  
+**Explanation:** AIF ka matlab Alternative Investment Fund hota hai, jisme private equity, venture capital, hedge, credit funds aate hain.  
 
 ---
 
-### Q15. National Centre for Communication Security (NCCS) kis department ke under aata hai?  
-### Q15. The National Centre for Communication Security (NCCS) comes under which department?
+### Q15. The National Centre for Communication Security (NCCS) comes under which department?  
+### Q15. National Centre for Communication Security (NCCS) किस विभाग के अंतर्गत आता है?
 
-A. Department of Financial Services, Ministry of Finance  
-   A. Department of Financial Services, Ministry of Finance  
-
-B. Department of Telecommunications, Ministry of Communications  
-   B. Department of Telecommunications, Ministry of Communications  
-
-C. Department of Revenue, Ministry of Finance  
-   C. Department of Revenue, Ministry of Finance  
-
-D. Ministry of Home Affairs  
-   D. Ministry of Home Affairs  
+A. Department of Financial Services, Ministry of Finance / वित्त सेवा विभाग, वित्त मंत्रालय  
+B. Department of Telecommunications, Ministry of Communications / दूरसंचार विभाग, संचार मंत्रालय  
+C. Department of Revenue, Ministry of Finance / राजस्व विभाग, वित्त मंत्रालय  
+D. Ministry of Home Affairs / गृह मंत्रालय  
 
 **Answer:** B  
-**Explanation:** NCCS, telecom network security ke liye DoT (Department of Telecommunications), Ministry of Communications ke under ka ek specialised centre hai.  
+**Explanation:** NCCS, telecom security ke liye Department of Telecommunications (DoT) ka specialised centre hai.  
 
 ---
 
-### Q16. National Weapon Database ka primary objective kya hai?  
-### Q16. What is the primary objective of the National Weapon Database?
+### Q16. What is the primary objective of the National Weapon Database?  
+### Q16. National Weapon Database का मुख्य उद्देश्य क्या है?
 
-A. Bank branches ka geo‑tagging karna  
-   A. To geo‑tag bank branches  
-
-B. Licensed weapons ka central digital record bana kar terror aur organised crime ke khilaf ladai majboot karna  
-   B. To create a central digital record of licensed weapons to strengthen the fight against terror and organised crime  
-
-C. Railways me security cameras ka database banana  
-   C. To create a database of security cameras in railways  
-
-D. Cyber fraud complaints ko track karna  
-   D. To track cyber‑fraud complaints  
+A. To geo‑tag bank branches / बैंक शाखाओं का जियो‑टैग करना  
+B. To create a central digital record of licensed weapons to fight terror and organised crime / लाइसेंस प्राप्त हथियारों का केंद्रीय डिजिटल रिकार्ड बनाकर आतंकवाद व संगठित अपराध से लड़ाई मज़बूत करना  
+C. To create a database of railway security cameras / रेलवे सुरक्षा कैमरों का डेटाबेस बनाना  
+D. To track cyber‑fraud complaints / साइबर फ्रॉड शिकायतों को ट्रैक करना  
 
 **Answer:** B  
-**Explanation:** National Weapon Database ko “gun ka Aadhaar” bhi kaha ja sakta hai, jiska purpose desh bhar ke licensed arms ka ek central record rakhna hai.  
+**Explanation:** Ye “gun ka Aadhaar” jaisa central database hai jo licensed arms ki tracking me मदद karega.  
 
 ---
 
-### Q17. EPFO kis ministry ke under aata hai?  
-### Q17. EPFO comes under which ministry?
+### Q17. EPFO comes under which ministry?  
+### Q17. EPFO किस मंत्रालय के अंतर्गत आता है?
 
-A. Ministry of Finance  
-   A. Ministry of Finance  
-
-B. Ministry of Labour &amp; Employment  
-   B. Ministry of Labour &amp; Employment  
-
-C. Ministry of Home Affairs  
-   C. Ministry of Home Affairs  
-
-D. Ministry of Social Justice &amp; Empowerment  
-   D. Ministry of Social Justice &amp; Empowerment  
+A. Ministry of Finance / वित्त मंत्रालय  
+B. Ministry of Labour & Employment / श्रम एवं रोज़गार मंत्रालय  
+C. Ministry of Home Affairs / गृह मंत्रालय  
+D. Ministry of Social Justice & Empowerment / सामाजिक न्याय एवं अधिकारिता मंत्रालय  
 
 **Answer:** B  
-**Explanation:** Employees’ Provident Fund Organisation (EPFO) Ministry of Labour &amp; Employment ke under ka social security body hai.  
+**Explanation:** Employees’ Provident Fund Organisation Labour & Employment Ministry ke andar ek प्रमुख social security body hai.  
 
 ---
 
-### Q18. 2025 ke end tak data ke mutabik credit growth vs deposit growth ka approximate trend kya tha?  
-### Q18. By the end of 2025, what was the approximate trend in credit growth versus deposit growth?
+### Q18. By the end of 2025, what was the approximate trend in credit growth versus deposit growth?  
+### Q18. 2025 के अंत तक क्रेडिट ग्रोथ बनाम डिपॉजिट ग्रोथ का अनुमानित रुझान क्या था?
 
-A. Credit ~8%, deposit ~12% (deposit faster)  
-   A. Credit ~8%, deposits ~12% (deposits growing faster)  
-
-B. Credit ~12%, deposit ~9% (credit faster)  
-   B. Credit ~12%, deposits ~9% (credit growing faster)  
-
-C. Credit &amp; deposit dono ~5%  
-   C. Both credit and deposits at ~5%  
-
-D. Credit ~20%, deposit ~3%  
-   D. Credit ~20%, deposits ~3%  
+A. Credit ~8%, deposits ~12% (deposits faster) / क्रेडिट ~8%, डिपॉजिट ~12%  
+B. Credit ~12%, deposits ~9% (credit faster) / क्रेडिट ~12%, डिपॉजिट ~9%  
+C. Both credit and deposits at ~5% / दोनों ~5%  
+D. Credit ~20%, deposits ~3% / क्रेडिट ~20%, डिपॉजिट ~3%  
 
 **Answer:** B  
-**Explanation:** Year‑end 2025 estimates ke hisaab se bank credit growth lagbhag 12% aur deposit growth 9% ke aas‑paas thi, yani loans deposits se tez badh rahe the.  
+**Explanation:** RBI data ke हिसाब se credit growth ≈12% aur deposits ≈9% thi, yani loans deposits se tez badh rahe the.  
 
 ---
 
-### Q19. GlobalData ke Q4 2025 analysis ke mutabik, world ke top 25 banks ka combined market value approx kitna tha?  
-### Q19. According to GlobalData’s Q4 2025 analysis, what was the approximate combined market value of the world’s top 25 banks?
+### Q19. According to GlobalData’s Q4 2025 analysis, what was the approximate combined market value of the world’s top 25 banks?  
+### Q19. GlobalData के Q4 2025 विश्लेषण के अनुसार, विश्व के शीर्ष 25 बैंकों का संयुक्त मार्केट वैल्यू लगभग कितना था?
 
-A. USD 610 billion  
-   A. USD 610 billion  
-
-B. USD 1.2 trillion  
-   B. USD 1.2 trillion  
-
-C. USD 6.1 trillion  
-   C. USD 6.1 trillion  
-
-D. USD 10 trillion  
-   D. USD 10 trillion  
+A. USD 610 billion / 610 अरब डॉलर  
+B. USD 1.2 trillion / 1.2 ट्रिलियन डॉलर  
+C. USD 6.1 trillion / 6.1 ट्रिलियन डॉलर  
+D. USD 10 trillion / 10 ट्रिलियन डॉलर  
 
 **Answer:** C  
-**Explanation:** Report ne bataya ki top 25 global banks ka combined market value Q4 2025 me kareeb USD 6.1 trillion tha.  
+**Explanation:** Report ke mutabik top 25 global banks ka combined market value लगभग 6.1 ट्रिलियन अमेरिकी डॉलर tha.  
 
 ---
 
-### Q20. Q4 2025 ke data ke hisab se kaun sa Indian bank world ke top 25 banks by market value me shamil hai?  
-### Q20. As per Q4 2025 data, which Indian bank is included among the world’s top 25 banks by market value?
+### Q20. As per Q4 2025 data, which Indian bank is included among the world’s top 25 banks by market value?  
+### Q20. Q4 2025 के आंकड़ों के अनुसार, विश्व के शीर्ष 25 बैंकों (मार्केट वैल्यू के आधार पर) में कौन‑सा भारतीय बैंक शामिल है?
 
-A. State Bank of India  
-   A. State Bank of India  
-
-B. ICICI Bank  
-   B. ICICI Bank  
-
-C. HDFC Bank  
-   C. HDFC Bank  
-
-D. Bank of Baroda  
-   D. Bank of Baroda  
+A. State Bank of India / स्टेट बैंक ऑफ इंडिया  
+B. ICICI Bank / आईसीआईसीआई बैंक  
+C. HDFC Bank / एचडीएफसी बैंक  
+D. Bank of Baroda / बैंक ऑफ बड़ौदा  
 
 **Answer:** C  
-**Explanation:** GlobalData analysis ke mutabik HDFC Bank top 25 global banks ke market value club me shamil hai, lagbhag USD 170 billion ke level par.  
+**Explanation:** HDFC Bank top‑25 global banks ke market‑cap club me aa gaya, approx USD 170 billion value ke saath.  
 
 ---
 
-### Q21. RBI ka naya digital banking framework (internet banking, mobile banking, UPI etc.) kis date se effective hua?  
-### Q21. From which date did RBI’s new digital banking framework (internet banking, mobile banking, UPI etc.) become effective?
+### Q21. From which date did RBI’s new digital banking framework (internet banking, mobile banking, UPI etc.) become effective?  
+### Q21. RBI का नया डिजिटल बैंकिंग फ्रेमवर्क (इंटरनेट बैंकिंग, मोबाइल बैंकिंग, UPI आदि) किस तारीख से प्रभावी हुआ?
 
-A. 1 Jan 2024  
-   A. 1 January 2024  
-
-B. 1 Jan 2025  
-   B. 1 January 2025  
-
-C. 1 Jan 2026  
-   C. 1 January 2026  
-
-D. 1 April 2026  
-   D. 1 April 2026  
+A. 1 January 2024 / 1 जनवरी 2024  
+B. 1 January 2025 / 1 जनवरी 2025  
+C. 1 January 2026 / 1 जनवरी 2026  
+D. 1 April 2026 / 1 अप्रैल 2026  
 
 **Answer:** C  
-**Explanation:** Notes ke hisaab se digital banking framework 1 January 2026 se lagu hua, jisme internet/mobile/UPI sab covered hain.  
+**Explanation:** Notes ke अनुसार framework 1 जनवरी 2026 से लागू हुआ aur sabhi प्रमुख डिजिटल चैनल iske भीतर aate hain.  
 
 ---
 
-### Q22. CAAL mnemonic (RBI digital banking framework) me “C” ka matlab kya hai?  
-### Q22. In the CAAL mnemonic (for RBI’s digital banking framework), what does “C” stand for?
+### Q22. In the CAAL mnemonic (for RBI’s digital banking framework), what does “C” stand for?  
+### Q22. RBI के डिजिटल बैंकिंग फ्रेमवर्क के CAAL सूत्र में “C” का क्या अर्थ है?
 
-A. Capital  
-   A. Capital  
-
-B. Consent  
-   B. Consent  
-
-C. Cash  
-   C. Cash  
-
-D. Clearing  
-   D. Clearing  
+A. Capital / कैपिटल  
+B. Consent / सहमति  
+C. Cash / नकद  
+D. Clearing / क्लियरिंग  
 
 **Answer:** B  
-**Explanation:** CAAL = Consent, Alerts, Access control, Liability; yahan C ka matlab Consent hai, yani customer ki explicit permission.  
+**Explanation:** CAAL = Consent, Alerts, Access control, Liability; yahan C se मतलब Consent, yani customer ki clear permission.  
 
 ---
 
-### Q23. BSBD (Basic Savings Bank Deposit) account ke context me “4F” trick me kaun sa point included hai?  
-### Q23. In the BSBD (Basic Savings Bank Deposit) account context, which point is included in the “4F” trick?
+### Q23. In the BSBD (Basic Savings Bank Deposit) account context, which point is included in the “4F” trick?  
+### Q23. BSBD (Basic Savings Bank Deposit) खाते के संदर्भ में “4F” ट्रिक में कौन‑सा बिंदु शामिल है?
 
-A. Fixed interest rate for 5 years  
-   A. Fixed interest rate for 5 years  
-
-B. Free from minimum balance requirement  
-   B. Free from minimum balance requirement  
-
-C. Foreign currency deposits allowed  
-   C. Foreign currency deposits allowed  
-
-D. Farm loan automatic sanction  
-   D. Farm loan automatic sanction  
+A. Fixed interest rate for 5 years / 5 साल के लिए फिक्स्ड ब्याज दर  
+B. Free from minimum balance requirement / न्यूनतम बैलेंस की शर्त से मुक्त  
+C. Foreign currency deposits allowed / विदेशी मुद्रा जमा की अनुमति  
+D. Farm loan automatic sanction / स्वतः कृषि ऋण स्वीकृति  
 
 **Answer:** B  
-**Explanation:** 4F me ek F “Free from minimum balance” ko denote karta hai, yani BSBD me minimum balance ki condition nahi hoti.  
+**Explanation:** 4F me ek “Free from minimum balance” hai – BSBD account me minimum balance maintain karna जरूरी नहीं.  
 
 ---
 
-### Q24. PAN–Aadhaar link na hone par 1 Jan 2026 ke baad kaun sa risk sabse direct hai?  
-### Q24. After 1 January 2026, what is the most direct risk if PAN is not linked with Aadhaar?
+### Q24. After 1 January 2026, what is the most direct risk if PAN is not linked with Aadhaar?  
+### Q24. 1 जनवरी 2026 के बाद PAN को आधार से लिंक न करने पर सबसे सीधा जोखिम क्या है?
 
-A. Voter ID cancel ho jana  
-   A. Cancellation of Voter ID  
-
-B. Passport automatic revoke  
-   B. Automatic revocation of passport  
-
-C. PAN inoperative treat hona, tax &amp; banking me problem  
-   C. PAN being treated as inoperative, causing problems in tax and banking  
-
-D. Driving licence suspend  
-   D. Suspension of driving licence  
+A. Cancellation of Voter ID / वोटर ID रद्द होना  
+B. Automatic revocation of passport / पासपोर्ट अपने आप रद्द हो जाना  
+C. PAN being treated as inoperative, causing problems in tax and banking / PAN को निष्क्रिय माना जाना, जिससे टैक्स व बैंकिंग में परेशानी  
+D. Suspension of driving licence / ड्राइविंग लाइसेंस निलंबित होना  
 
 **Answer:** C  
-**Explanation:** PAN–Aadhaar link na hone par PAN ko inoperative treat kiya ja sakta hai, jis se ITR filing aur banking transactions me dikkat aa sakti hai.  
+**Explanation:** PAN‑Aadhaar link na hone par PAN inoperative treat ho sakta hai, jis se ITR filing, नए खाते, loan etc. me दिक्कत aayegi.  
 
 ---
 
-### Q25. New credit score update rules ke mutabik bureaus ko kam se kam kitni frequency se data update karna hoga?  
-### Q25. As per the new credit score update rules, how frequently must bureaus update data at a minimum?
+### Q25. As per the new credit score update rules, how frequently must bureaus update data at a minimum?  
+### Q25. नए क्रेडिट स्कोर अपडेट नियमों के अनुसार, न्यूनतम कितनी बार क्रेडिट ब्यूरो को डेटा अपडेट करना होगा?
 
-A. Daily  
-   A. Daily  
-
-B. Weekly  
-   B. Weekly  
-
-C. Monthly  
-   C. Monthly  
-
-D. Yearly  
-   D. Yearly  
+A. Daily / प्रतिदिन  
+B. Weekly / साप्ताहिक  
+C. Monthly / मासिक  
+D. Yearly / वार्षिक  
 
 **Answer:** B  
-**Explanation:** Naye framework me credit information companies ko kam se kam weekly basis par data update karna hai, jis se score jaldi reflect ho sake.  
+**Explanation:** Pehle लगभग 15 दिन mein update hota tha; ab rules ke तहत कम से कम हर हफ्ते data update karna ज़रूरी hai.  
 
 ---
 
-### Q26. India me standard Treasury Bills ki kaun si combination sahi hai?  
-### Q26. Which of the following is the correct combination of standard Treasury Bill maturities in India?
+### Q26. Which of the following is the correct combination of standard Treasury Bill maturities in India?  
+### Q26. भारत में ट्रेज़री बिल की मानक परिपक्वताओं का सही संयोजन कौन‑सा है?
 
-A. 14, 60, 120 din  
-   A. 14, 60, 120 days  
-
-B. 30, 60, 90 din  
-   B. 30, 60, 90 days  
-
-C. 91, 182, 364 din  
-   C. 91, 182, 364 days  
-
-D. 7, 14, 21 din  
-   D. 7, 14, 21 days  
+A. 14, 60, 120 days / 14, 60, 120 दिन  
+B. 30, 60, 90 days / 30, 60, 90 दिन  
+C. 91, 182, 364 days / 91, 182, 364 दिन  
+D. 7, 14, 21 days / 7, 14, 21 दिन  
 
 **Answer:** C  
-**Explanation:** India me T‑Bills ki standard maturities 91, 182 aur 364 din hoti hain; ye teenon short‑term government borrowing ke liye use hote hain.  
+**Explanation:** भारत में T‑Bills की सामान्य परिपक्वताएँ 91, 182 और 364 दिन हैं।  
 
 ---
 
-### Q27. Jal Jeevan Mission (JJM) ka main objective kya hai?  
-### Q27. What is the main objective of Jal Jeevan Mission (JJM)?
+### Q27. What is the main objective of Jal Jeevan Mission (JJM)?  
+### Q27. जल जीवन मिशन (JJM) का मुख्य उद्देश्य क्या है?
 
-A. Sabhi gaon me solar plant lagana  
-   A. To install solar plants in all villages  
-
-B. Sabhi rural households ko Functional Household Tap Connection (FHTC) dena  
-   B. To provide Functional Household Tap Connection (FHTC) to all rural households  
-
-C. Sabhi shehron me metro rail banana  
-   C. To build metro rail in all cities  
-
-D. Sabhi gaon me optical fibre network lagana  
-   D. To lay optical fibre in all villages  
+A. To install solar plants in all villages / सभी गाँवों में सौर संयंत्र लगाना  
+B. To provide Functional Household Tap Connection (FHTC) to all rural households / सभी ग्रामीण घरों को नल के माध्यम से पेयजल कनेक्शन (FHTC) देना  
+C. To build metro rail networks in all cities / सभी शहरों में मेट्रो रेल नेटवर्क बनाना  
+D. To lay optical fibre in all villages / सभी गाँवों में ऑप्टिकल फाइबर बिछाना  
 
 **Answer:** B  
-**Explanation:** JJM ka core goal sabhi rural gharon tak piped drinking water (FHTC) pahunchana hai, 55 LPCD service level ke saath.  
+**Explanation:** JJM का लक्ष्य है कि हर ग्रामीण परिवार के घर तक सुरक्षित पेयजल का नल कनेक्शन उपलब्ध हो।  
 
 ---
 
-### Q28. Jal Jeevan Mission kis ministry ke under hai?  
-### Q28. Jal Jeevan Mission comes under which ministry?
+### Q28. Jal Jeevan Mission comes under which ministry?  
+### Q28. जल जीवन मिशन किस मंत्रालय के अंतर्गत आता है?
 
-A. Ministry of Jal Shakti  
-   A. Ministry of Jal Shakti  
-
-B. Ministry of Rural Development  
-   B. Ministry of Rural Development  
-
-C. Ministry of Housing &amp; Urban Affairs  
-   C. Ministry of Housing &amp; Urban Affairs  
-
-D. Ministry of Environment  
-   D. Ministry of Environment  
+A. Ministry of Jal Shakti / जल शक्ति मंत्रालय  
+B. Ministry of Rural Development / ग्रामीण विकास मंत्रालय  
+C. Ministry of Housing & Urban Affairs / आवास एवं शहरी कार्य मंत्रालय  
+D. Ministry of Environment / पर्यावरण मंत्रालय  
 
 **Answer:** A  
-**Explanation:** JJM Ministry of Jal Shakti ke Department of Drinking Water &amp; Sanitation ke under implement hota hai.  
+**Explanation:** JJM को Ministry of Jal Shakti के Department of Drinking Water & Sanitation द्वारा लागू किया जाता है।  
 
 ---
 
-### Q29. Nimn me se kaun sa RBI ki subsidiary hai?  
-### Q29. Which of the following is a subsidiary of RBI?
+### Q29. Which of the following is a subsidiary of RBI?  
+### Q29. निम्न में से कौन‑सी संस्था RBI की सहायक (subsidiary) है?
 
-A. NABARD  
-   A. NABARD  
-
-B. SIDBI  
-   B. SIDBI  
-
-C. DICGC  
-   C. DICGC  
-
-D. EXIM Bank  
-   D. EXIM Bank  
+A. NABARD / नाबार्ड  
+B. SIDBI / सिडबी  
+C. DICGC / DICGC  
+D. EXIM Bank / एक्सिम बैंक  
 
 **Answer:** C  
-**Explanation:** Deposit Insurance and Credit Guarantee Corporation (DICGC) RBI ki wholly owned subsidiary hai, jo bank deposits ka insurance deti hai.  
+**Explanation:** DICGC (Deposit Insurance and Credit Guarantee Corporation) RBI की पूर्ण स्वामित्व वाली सहायक कंपनी है।  
 
 ---
 
-### Q30. 2025 ke estimates ke mutabik India ki nominal GDP ranking kya hai (Japan ko overtake karne ke baad)?  
-### Q30. As per 2025 estimates, what is India’s nominal GDP ranking after overtaking Japan?
+### Q30. As per 2025 estimates, what is India’s nominal GDP ranking after overtaking Japan?  
+### Q30. 2025 के अनुमान के अनुसार, जापान को पीछे छोड़ने के बाद भारत की नॉमिनल GDP रैंकिंग क्या है?
 
-A. 2nd  
-   A. 2nd  
-
-B. 3rd  
-   B. 3rd  
-
-C. 4th  
-   C. 4th  
-
-D. 6th  
-   D. 6th  
+A. 2nd / दूसरा  
+B. 3rd / तीसरा  
+C. 4th / चौथा  
+D. 6th / छठा  
 
 **Answer:** C  
-**Explanation:** 2025 tak India ne Japan ko piche chhodkar nominal GDP ke hisaab se 4th position hasil kar li, US–China–Germany ke baad.  
+**Explanation:** विश्व स्तर पर nominal GDP में भारत चौथे स्थान पर है – USA, China, Germany ke baad.  
 
 ---
 
-### Q31. Indian AI Research Organisation (IAIRO) kaha establish kiya ja raha hai?  
-### Q31. Where is the Indian AI Research Organisation (IAIRO) being established?
+### Q31. Where is the Indian AI Research Organisation (IAIRO) being established?  
+### Q31. Indian AI Research Organisation (IAIRO) कहाँ स्थापित की जा रही है?
 
-A. Bengaluru – Electronics City  
-   A. Bengaluru – Electronics City  
-
-B. Hyderabad – Genome Valley  
-   B. Hyderabad – Genome Valley  
-
-C. GIFT City – Gandhinagar  
-   C. GIFT City – Gandhinagar  
-
-D. Mumbai – BKC  
-   D. Mumbai – BKC  
+A. Bengaluru – Electronics City / बेंगलुरु – इलेक्ट्रॉनिक्स सिटी  
+B. Hyderabad – Genome Valley / हैदराबाद – जीनोम वैली  
+C. GIFT City – Gandhinagar / GIFT सिटी – गांधीनगर  
+D. Mumbai – BKC / मुंबई – BKC  
 
 **Answer:** C  
-**Explanation:** IAIRO ko GIFT City, Gujarat me set up kiya ja raha hai, jise AI + fintech hub ke roop me develop kiya ja raha hai.  
+**Explanation:** IAIRO को गुजरात के GIFT City में national AI research body के रूप में स्थापित किया जा रहा है।  
 
 ---
 
-### Q32. IAIRO ka primary focus kis kshetra se juda hai?  
-### Q32. IAIRO’s primary focus is related to which area?
+### Q32. IAIRO’s primary focus is related to which area?  
+### Q32. IAIRO का प्राथमिक फोकस किस क्षेत्र से जुड़ा है?
 
-A. Traditional agriculture research  
-   A. Traditional agriculture research  
-
-B. Artificial Intelligence, deep‑tech &amp; fintech applications  
-   B. Artificial Intelligence, deep‑tech and fintech applications  
-
-C. Only textile technology  
-   C. Only textile technology  
-
-D. Only railway signalling  
-   D. Only railway signalling  
+A. Traditional agriculture research / पारंपरिक कृषि अनुसंधान  
+B. Artificial Intelligence, deep‑tech & fintech applications / आर्टिफिशियल इंटेलिजेंस, डीप‑टेक और फिनटेक एप्लिकेशन  
+C. Only textile technology / केवल टेक्सटाइल टेक्नोलॉजी  
+D. Only railway signalling / केवल रेलवे सिगनलिंग  
 
 **Answer:** B  
-**Explanation:** Indian AI Research Organisation ka core area AI, deep‑tech, fintech/reg‑tech aur cyber‑security type applications ko boost karna hai.  
+**Explanation:** IAIRO का उद्देश्य AI, deep‑tech, fintech/reg‑tech, cyber‑security जैसे advanced क्षेत्रों में शोध को बढ़ावा देना है।  
 
 ---
 
-### Q33. Steel imports par safeguard / protective duty lagane ka mukhya karan kya hai?  
-### Q33. What is the main reason for imposing safeguard/protective duty on steel imports?
+### Q33. What is the main reason for imposing safeguard/protective duty on steel imports?  
+### Q33. स्टील आयात पर सेफगार्ड/संरक्षण शुल्क लगाने का मुख्य कारण क्या है?
 
-A. Steel ka import completely ban karna  
-   A. To completely ban steel imports  
-
-B. Domestic steel producers ko unfair dumping se bachana aur jobs protect karna  
-   B. To protect domestic steel producers from unfair dumping and safeguard jobs  
-
-C. Gold imports badhana  
-   C. To increase gold imports  
-
-D. IT services export ko promote karna  
-   D. To promote IT services exports  
+A. To completely ban steel imports / स्टील आयात को पूरी तरह प्रतिबंधित करना  
+B. To protect domestic steel producers from unfair dumping and safeguard jobs / घरेलू स्टील उत्पादकों को अनुचित डंपिंग से बचाना और नौकरियों की सुरक्षा करना  
+C. To increase gold imports / सोने के आयात को बढ़ाना  
+D. To promote IT services exports / IT सेवाओं के निर्यात को बढ़ावा देना  
 
 **Answer:** B  
-**Explanation:** Safeguard duty ka uddeshya cheap/dumped imports se desi steel industry ko protect karna hai, jisse capacity aur employment sustain rahe.  
+**Explanation:** Protective duty domestic steel industry ko सस्ती/dumped imports ke नुक़सान से बचाने और production व employment को बनाये रखने के लिए लगाई जाती है।  
 
 ---
 
-### Q34. SOAR (Skilling for AI Readiness) programme kis ministry se juda hai?  
-### Q34. The SOAR (Skilling for AI Readiness) programme is linked to which ministry?
+### Q34. The SOAR (Skilling for AI Readiness) programme is linked to which ministry?  
+### Q34. SOAR (Skilling for AI Readiness) कार्यक्रम किस मंत्रालय से जुड़ा है?
 
-A. Ministry of Electronics &amp; IT (MeitY)  
-   A. Ministry of Electronics &amp; IT (MeitY)  
-
-B. Ministry of Skill Development &amp; Entrepreneurship (MSDE)  
-   B. Ministry of Skill Development &amp; Entrepreneurship (MSDE)  
-
-C. Ministry of Education  
-   C. Ministry of Education  
-
-D. Ministry of Finance  
-   D. Ministry of Finance  
+A. Ministry of Electronics & IT (MeitY) / इलेक्ट्रॉनिक्स एवं IT मंत्रालय  
+B. Ministry of Skill Development & Entrepreneurship (MSDE) / कौशल विकास एवं उद्यमिता मंत्रालय  
+C. Ministry of Education / शिक्षा मंत्रालय  
+D. Ministry of Finance / वित्त मंत्रालय  
 
 **Answer:** B  
-**Explanation:** SOAR initiative Skill India framework ka hissa hai aur Ministry of Skill Development &amp; Entrepreneurship ke through implement hota hai.  
+**Explanation:** SOAR, Skill India Mission ke तहत MSDE द्वारा चलाया जा रहा AI‑skilling initiative है।  
 
 ---
 
-### Q35. Integrated e‑Bill System jo 1 Jan 2026 ko launch hua, primarily kis subsidy ke bills ke liye hai?  
-### Q35. The Integrated e‑Bill System launched on 1 January 2026 is primarily for bills of which subsidy?
+### Q35. The Integrated e‑Bill System launched on 1 January 2026 is primarily for bills of which subsidy?  
+### Q35. 1 जनवरी 2026 को शुरू की गई Integrated e‑Bill System मुख्य रूप से किस सब्सिडी के बिलों के लिए है?
 
-A. Food subsidy (PDS)  
-   A. Food subsidy (PDS)  
-
-B. Fertiliser subsidy  
-   B. Fertiliser subsidy  
-
-C. LPG subsidy  
-   C. LPG subsidy  
-
-D. Export subsidy  
-   D. Export subsidy  
+A. Food subsidy (PDS) / खाद्य सब्सिडी (PDS)  
+B. Fertiliser subsidy / उर्वरक सब्सिडी  
+C. LPG subsidy / LPG सब्सिडी  
+D. Export subsidy / निर्यात सब्सिडी  
 
 **Answer:** B  
-**Explanation:** Integrated e‑Bill System Chemicals &amp; Fertilisers ministry ke fertiliser subsidy claims ko completely digital workflow me lane ke liye launch hua.  
+**Explanation:** यह सिस्टम उर्वरक कंपनियों के subsidy claims को पूरी तरह paperless और digital बनाने के लिए launch किया गया है।  
 
 ---
 
-### Q36. Health &amp; National Security Cess kin products par lagu kiya gaya?  
-### Q36. On which products has the Health &amp; National Security Cess been imposed?
+### Q36. On which products has the Health & National Security Cess been imposed?  
+### Q36. Health & National Security Cess किन उत्पादों पर लगाया गया है?
 
-A. Essential medicines  
-   A. Essential medicines  
-
-B. School books  
-   B. School books  
-
-C. Tobacco, pan masala jaise sin goods  
-   C. Sin goods like tobacco and pan masala  
-
-D. Fertiliser  
-   D. Fertiliser  
+A. Essential medicines / आवश्यक दवाइयाँ  
+B. School books / स्कूल की पुस्तकें  
+C. Sin goods like tobacco and pan masala / तंबाकू, पान मसाला जैसे "sin goods"  
+D. Fertiliser / उर्वरक  
 
 **Answer:** C  
-**Explanation:** Sin goods par additional excise/Health &amp; National Security Cess lagaya gaya hai taaki health aur security spending ke liye targeted revenue mile.  
+**Explanation:** ये cess tobacco, pan masala आदि पर लगाया गया है ताकि स्वास्थ्य और राष्ट्रीय सुरक्षा व्ययों के लिए अतिरिक्त राजस्व मिल सके।  
 
 ---
 
-### Q37. Land Stack initiative ka main purpose kya hai?  
-### Q37. What is the main purpose of the Land Stack initiative?
+### Q37. What is the main purpose of the Land Stack initiative?  
+### Q37. Land Stack पहल का मुख्य उद्देश्य क्या है?
 
-A. Railway timetables ko digital banana  
-   A. To digitise railway timetables  
-
-B. Digital land records, maps &amp; encumbrances integrate karna secured lending ke liye  
-   B. To integrate digital land records, maps and encumbrances to support secured lending  
-
-C. Tourism sites ki mapping  
-   C. Mapping of tourism sites  
-
-D. Weather data collect karna  
-   D. Collecting weather data  
+A. To digitise railway timetables / रेलवे टाइमटेबल को डिजिटल बनाना  
+B. To integrate digital land records, maps and encumbrances to support secured lending / डिजिटल भूमि अभिलेख, नक्शे और भार (encumbrances) को जोड़कर सुरक्षित ऋण में मदद करना  
+C. Mapping of tourism sites / पर्यटन स्थलों की मैपिंग करना  
+D. Collecting weather data / मौसम संबंधी डेटा एकत्र करना  
 
 **Answer:** B  
-**Explanation:** Land Stack digital land KYC jaisa platform hai jahan se banks verified land title/encumbrance information le kar collateral‑based lending secure kar sakte hain.  
+**Explanation:** Land Stack se banks ko verified land title data milta hai, jis se collateral‑based lending me धोखाधड़ी और डबल mortgage ka risk कम होता है।  
 
 ---
 
-### Q38. Capital Conservation Buffer (CCB) kis regulatory framework ka hissa hai?  
-### Q38. Capital Conservation Buffer (CCB) is part of which regulatory framework?
+### Q38. Capital Conservation Buffer (CCB) is part of which regulatory framework?  
+### Q38. Capital Conservation Buffer (CCB) किस नियामक ढांचे का हिस्सा है?
 
-A. FEMA  
-   A. FEMA  
-
-B. Basel‑III capital norms  
-   B. Basel‑III capital norms  
-
-C. SARFAESI Act  
-   C. SARFAESI Act  
-
-D. Companies Act  
-   D. Companies Act  
+A. FEMA / फेमा  
+B. Basel‑III capital norms / बेसल‑III पूंजी मानदंड  
+C. SARFAESI Act / सारफेसी अधिनियम  
+D. Companies Act / कंपनी अधिनियम  
 
 **Answer:** B  
-**Explanation:** CCB Basel‑III ka ek additional capital layer hai jo banks ko stress ke samay losses absorb karne ke liye cushion provide karta hai.  
+**Explanation:** CCB Basel‑III ke अंतर्गत एक अतिरिक्त capital layer है जो banks ko stress समय में नुकसान absorb करने में मदद करती है।  
 
 ---
 
-### Q39. Payments Regulatory Board (PRB) ne kis purani body ko replace kiya?  
-### Q39. The Payments Regulatory Board (PRB) replaced which earlier body?
+### Q39. The Payments Regulatory Board (PRB) replaced which earlier body?  
+### Q39. Payments Regulatory Board (PRB) ने किस पूर्व निकाय को प्रतिस्थापित किया?
 
-A. FSDC  
-   A. FSDC  
-
-B. BPSS (Board for Regulation and Supervision of Payment and Settlement Systems)  
-   B. BPSS (Board for Regulation and Supervision of Payment and Settlement Systems)  
-
-C. BCSBI  
-   C. BCSBI  
-
-D. BCSL  
-   D. BCSL  
+A. FSDC / FSDC  
+B. BPSS / BPSS  
+C. BCSBI / BCSBI  
+D. BCSL / BCSL  
 
 **Answer:** B  
-**Explanation:** PSS Act amendments ke baad PRB ne RBI ke andar ke purane BPSS ko formally replace kiya.  
+**Explanation:** PSS Act संशोधन के बाद PRB ने BPSS (Board for Regulation and Supervision of Payment and Settlement Systems) को replace किया।  
 
 ---
 
-### Q40. Nutrient Based Subsidy (NBS) scheme primarily kis prakaar ke fertilisers par lagu hoti hai?  
-### Q40. The Nutrient Based Subsidy (NBS) scheme primarily applies to which type of fertilisers?
+### Q40. The Nutrient Based Subsidy (NBS) scheme primarily applies to which type of fertilisers?  
+### Q40. Nutrient Based Subsidy (NBS) योजना मुख्य रूप से किस प्रकार के उर्वरकों पर लागू होती है?
 
-A. Sirf urea  
-   A. Only urea  
-
-B. Organic manure  
-   B. Organic manure  
-
-C. Phosphatic &amp; Potassic (P&amp;K) fertilisers  
-   C. Phosphatic &amp; Potassic (P&amp;K) fertilisers  
-
-D. Sirf micronutrients  
-   D. Only micronutrients  
+A. Only urea / केवल यूरिया  
+B. Organic manure / जैविक खाद  
+C. Phosphatic & Potassic (P&K) fertilisers / फॉस्फेटिक एवं पोटाशिक (P&K) उर्वरक  
+D. Only micronutrients / केवल सूक्ष्म पोषक तत्व  
 
 **Answer:** C  
-**Explanation:** NBS 2010 se P&amp;K fertilisers ke liye nutrient content (N, P, K, S) ke basis par per‑kg subsidy fix karti hai.  
+**Explanation:** NBS 2010 से P&K fertilisers ke लिए N, P, K, S nutrient के प्रति किलोग्राम पर subsidy राशि fix karti है।  
 
 ---
 
-### Q41. ONGC–NSTFDC MoU ke tahat CSR funds se kis prakaar ke educational institutions ko support diya ja raha hai?  
-### Q41. Under the ONGC–NSTFDC MoU, CSR funds are being used to support which type of educational institutions?
+### Q41. Under the ONGC–NSTFDC MoU, CSR funds are being used to support which type of educational institutions?  
+### Q41. ONGC–NSTFDC MoU के तहत CSR धन किस प्रकार के शैक्षिक संस्थानों के लिए उपयोग किया जा रहा है?
 
-A. Kendriya Vidyalayas  
-   A. Kendriya Vidyalayas  
-
-B. Navodaya Vidyalayas  
-   B. Navodaya Vidyalayas  
-
-C. Eklavya Model Residential Schools (EMRS)  
-   C. Eklavya Model Residential Schools (EMRS)  
-
-D. IITs  
-   D. IITs  
+A. Kendriya Vidyalayas / केंद्रीय विद्यालय  
+B. Navodaya Vidyalayas / नवोदय विद्यालय  
+C. Eklavya Model Residential Schools (EMRS) / एकलव्य मॉडल आवासीय विद्यालय  
+D. IITs / आईआईटी  
 
 **Answer:** C  
-**Explanation:** MoU ke mutabik ONGC ke CSR funds se kai rajyon ke EMRS schools me infrastructure aur digital facilities improve ki ja rahi hain.  
+**Explanation:** यह MoU लगभग 144 EMRS स्कूलों में बुनियादी ढांचे और डिजिटल सुविधाओं को मजबूत करने के लिए है।  
 
 ---
 
-### Q42. Grameen Bharat Mahotsav ka mukhya uddeshya kya hai?  
-### Q42. What is the main objective of the Grameen Bharat Mahotsav?
+### Q42. What is the main objective of the Grameen Bharat Mahotsav?  
+### Q42. ग्रामीण भारत महोत्सव का मुख्य उद्देश्य क्या है?
 
-A. Defence equipment display karna  
-   A. To display defence equipment  
-
-B. Rural SHGs, FPOs aur artisans ke products ko market linkage dena  
-   B. To provide market linkage for products of rural SHGs, FPOs and artisans  
-
-C. Sirf film festival organise karna  
-   C. To organise only a film festival  
-
-D. Only start‑up pitch event karna  
-   D. To conduct only a start‑up pitch event  
+A. To display defence equipment / रक्षा उपकरण प्रदर्शित करना  
+B. To provide market linkage for products of rural SHGs, FPOs and artisans / ग्रामीण SHG, FPO और कारीगरों के उत्पादों को बाज़ार से जोड़ना  
+C. To organise only a film festival / केवल फिल्म फेस्टिवल आयोजित करना  
+D. To conduct only a start‑up pitch event / केवल स्टार्ट‑अप पिच इवेंट कराना  
 
 **Answer:** B  
-**Explanation:** Grameen Bharat Mahotsav Delhi me gaon ke products ka mela jaisa platform hai jahan SHG/FPO/artisans directly customers se connect hote hain.  
+**Explanation:** Delhi me आयोजित यह मेळा ग्रामीण उत्पादों की direct बिक्री और ब्रांडिंग के लिए platform देता है।  
 
 ---
 
-### Q43. DBT ka full form banking / schemes ke context me kya hai?  
-### Q43. What is the full form of DBT in the context of banking/schemes?
+### Q43. What is the full form of DBT in the context of banking/schemes?  
+### Q43. बैंकिंग/योजनाओं के संदर्भ में DBT का पूरा रूप क्या है?
 
-A. Direct Banking Tax  
-   A. Direct Banking Tax  
-
-B. Direct Benefit Transfer  
-   B. Direct Benefit Transfer  
-
-C. Digital Bank Transaction  
-   C. Digital Bank Transaction  
-
-D. Deposit Based Tariff  
-   D. Deposit Based Tariff  
+A. Direct Banking Tax / डायरेक्ट बैंकिंग टैक्स  
+B. Direct Benefit Transfer / डायरेक्ट बेनिफिट ट्रांसफर  
+C. Digital Bank Transaction / डिजिटल बैंक ट्रांजेक्शन  
+D. Deposit Based Tariff / डिपॉज़िट बेस्ड टैरिफ  
 
 **Answer:** B  
-**Explanation:** Government schemes me DBT ka matlab Direct Benefit Transfer hota hai, jahan subsidy ya benefit seedha bank account me aata hai.  
+**Explanation:** DBT का अर्थ है Direct Benefit Transfer – सरकारी लाभ सीधे बैंक खाते में ट्रांसफर किए जाते हैं।  
 
 ---
 
-### Q44. PM‑KISAN scheme me eligible kisaan ko saal bhar me kitna benefit milta hai?  
-### Q44. Under the PM‑KISAN scheme, how much benefit does an eligible farmer receive in a year?
+### Q44. Under the PM‑KISAN scheme, how much benefit does an eligible farmer receive in a year?  
+### Q44. PM‑KISAN योजना के तहत एक पात्र किसान को वर्ष में कितनी राशि का लाभ मिलता है?
 
-A. ₹2,000  
-   A. ₹2,000  
-
-B. ₹3,000  
-   B. ₹3,000  
-
-C. ₹6,000  
-   C. ₹6,000  
-
-D. ₹10,000  
-   D. ₹10,000  
+A. ₹2,000 / ₹2,000  
+B. ₹3,000 / ₹3,000  
+C. ₹6,000 / ₹6,000  
+D. ₹10,000 / ₹10,000  
 
 **Answer:** C  
-**Explanation:** PM‑KISAN me income support ke roop me 3 instalments × ₹2,000 = ₹6,000 per year diya jata hai.  
+**Explanation:** PM‑KISAN के तहत 3 किस्तों में ₹2,000–₹2,000–₹2,000 यानी कुल ₹6,000 प्रति वर्ष दिए जाते हैं।  
 
 ---
 
-### Q45. PM Fasal Bima Yojana (PMFBY) kis prakaar ki scheme hai?  
-### Q45. PM Fasal Bima Yojana (PMFBY) is what type of scheme?
+### Q45. PM Fasal Bima Yojana (PMFBY) is what type of scheme?  
+### Q45. प्रधानमंत्री फसल बीमा योजना (PMFBY) किस प्रकार की योजना है?
 
-A. Health insurance  
-   A. Health insurance  
-
-B. Crop insurance  
-   B. Crop insurance  
-
-C. Pension scheme  
-   C. Pension scheme  
-
-D. Housing subsidy  
-   D. Housing subsidy  
+A. Health insurance / स्वास्थ्य बीमा  
+B. Crop insurance / फसल बीमा  
+C. Pension scheme / पेंशन योजना  
+D. Housing subsidy / आवास सब्सिडी  
 
 **Answer:** B  
-**Explanation:** PMFBY ek flagship crop insurance scheme hai jo 2016 se chal rahi hai aur farmers ko natural calamities ki wajah se loss par coverage deti hai.  
+**Explanation:** PMFBY एक फसल बीमा योजना है जो प्राकृतिक आपदाओं की स्थिति में किसानों को नुकसान से बचाती है।  
 
 ---
 
-### Q46. NITI Aayog ki Trade Watch report ke mutabik FTA partner deshon ke saath trade deficit me kya trend dekha gaya (April–June 2025)?  
-### Q46. According to NITI Aayog’s Trade Watch report, what trend was seen in trade deficit with FTA partner countries (April–June 2025)?
+### Q46. According to NITI Aayog’s Trade Watch report, what trend was seen in trade deficit with FTA partner countries (April–June 2025)?  
+### Q46. NITI आयोग की Trade Watch रिपोर्ट के अनुसार, FTA साझेदार देशों के साथ व्यापार घाटे में (अप्रैल–जून 2025) क्या रुझान देखा गया?
 
-A. Deficit sharply ghata  
-   A. The deficit fell sharply  
-
-B. Deficit approx 59% YoY bada  
-   B. The deficit increased by approximately 59% year‑on‑year  
-
-C. Bilkul stable raha  
-   C. It remained completely stable  
-
-D. Surplus me convert ho gaya  
-   D. It converted into a surplus  
+A. The deficit fell sharply / घाटा तेज़ी से घट गया  
+B. The deficit increased by approximately 59% year‑on‑year / घाटा लगभग 59% वर्ष‑दर‑वर्ष बढ़ गया  
+C. It remained completely stable / यह पूरी तरह स्थिर रहा  
+D. It converted into a surplus / यह अधिशेष में बदल गया  
 
 **Answer:** B  
-**Explanation:** Report ke hisaab se FTA countries ke saath trade deficit April–June 2025 quarter me kareeb 59% YoY bada, mainly higher imports ki wajah se.  
+**Explanation:** Trade Watch ke mutabik FTA partners ke साथ trade deficit ek तिमाही में ~59% YoY बढ़ा – imports तेज़ बढ़ने ki wajah se.  
 
 ---
 
-### Q47. Payments Vision 2028 ka 4S formula kis baat ko represent karta hai?  
-### Q47. What does the 4S formula of Payments Vision 2028 represent?
+### Q47. What does the 4S formula of Payments Vision 2028 represent?  
+### Q47. Payments Vision 2028 के 4S सूत्र का क्या अर्थ है?
 
-A. Simple, Short, Sharp, Sweet  
-   A. Simple, Short, Sharp, Sweet  
-
-B. Safe, Secure, Smart, Swift payments  
-   B. Safe, Secure, Smart, Swift payments  
-
-C. Small, Soft, Slow, Silent  
-   C. Small, Soft, Slow, Silent  
-
-D. Steel, Sugar, Salt, Spice  
-   D. Steel, Sugar, Salt, Spice  
+A. Simple, Short, Sharp, Sweet / सिंपल, शॉर्ट, शार्प, स्वीट  
+B. Safe, Secure, Smart, Swift payments / सुरक्षित, संरक्षित, स्मार्ट और तेज़ भुगतान  
+C. Small, Soft, Slow, Silent / स्मॉल, सॉफ्ट, स्लो, साइलेंट  
+D. Steel, Sugar, Salt, Spice / स्टील, शुगर, साल्ट, स्पाइस  
 
 **Answer:** B  
-**Explanation:** RBI Payments Vision 2028 ka theme 4S hai – Safe, Secure, Smart, Swift digital payments for all users.  
+**Explanation:** RBI Vision 2028 का लक्ष्य है कि देश में भुगतान Safe, Secure, Smart aur Swift हों – यानी सभी के लिए आसान और सुरक्षित digital payments।  
 
 ---
 
-### Q48. Musi Riverfront Development Project ke liye kaun si multilateral agency ne loan approve kiya?  
-### Q48. Which multilateral agency approved a loan for the Musi Riverfront Development Project?
+### Q48. Which multilateral agency approved a loan for the Musi Riverfront Development Project?  
+### Q48. Musi Riverfront Development Project के लिए किस बहुपक्षीय संस्था ने ऋण को मंज़ूरी दी?
 
-A. World Bank  
-   A. World Bank  
-
-B. Asian Development Bank (ADB)  
-   B. Asian Development Bank (ADB)  
-
-C. International Monetary Fund (IMF)  
-   C. International Monetary Fund (IMF)  
-
-D. New Development Bank (NDB)  
-   D. New Development Bank (NDB)  
+A. World Bank / विश्व बैंक  
+B. Asian Development Bank (ADB) / एशियाई विकास बैंक  
+C. International Monetary Fund (IMF) / अंतर्राष्ट्रीय मुद्रा कोष  
+D. New Development Bank (NDB) / न्यू डेवलपमेंट बैंक  
 
 **Answer:** B  
-**Explanation:** Telangana ke Musi Riverfront project ke liye ADB ne kareeb USD 500 million ka loan approve kiya hai.  
+**Explanation:** Telangana ke Musi riverfront infraproject ke लिए लगभग USD 500 million का loan ADB ने sanction किया।  
 
 ---
 
-### Q49. 2025 me fintech funding ka major thematic focus kya tha?  
-### Q49. What was the major thematic focus of fintech funding in 2025?
+### Q49. What was the major thematic focus of fintech funding in 2025?  
+### Q49. 2025 में फिनटेक फंडिंग का मुख्य थीमैटिक फोकस क्या था?
 
-A. Sirf agriculture warehousing  
-   A. Only agriculture warehousing  
-
-B. Credit‑led consumption, payment infra, wealthtech &amp; insurtech  
-   B. Credit‑led consumption, payment infrastructure, wealth‑tech and insur‑tech  
-
-C. Sirf traditional branch expansion  
-   C. Only traditional branch expansion  
-
-D. Sirf cash management services  
-   D. Only cash management services  
+A. Only agriculture warehousing / केवल कृषि वेयरहाउसिंग  
+B. Credit‑led consumption, payment infra, wealth‑tech and insur‑tech / क्रेडिट आधारित खपत, पेमेंट इंफ्रा, वेल्थ‑टेक व इंश्योर‑टेक  
+C. Only traditional branch expansion / केवल पारंपरिक शाखा विस्तार  
+D. Only cash management services / केवल कैश मैनेजमेंट सेवाएँ  
 
 **Answer:** B  
-**Explanation:** Funding largely credit‑led lending apps, cards, BNPL, payment gateways aur wealth/insurance platforms par concentrated thi.  
+**Explanation:** Fintech deals zyadatar lending apps, BNPL, cards, payment gateways, wealth/insurance platforms पर केंद्रित रहीं।  
 
 ---
 
-### Q50. Production Linked Incentive (PLI) scheme ka mukhya uddeshya kya hai?  
-### Q50. What is the main objective of the Production Linked Incentive (PLI) scheme?
+### Q50. What is the main objective of the Production Linked Incentive (PLI) scheme?  
+### Q50. Production Linked Incentive (PLI) योजना का मुख्य उद्देश्य क्या है?
 
-A. Sirf taxes badhana  
-   A. Only to increase taxes  
-
-B. Manufacturing &amp; exports ko incentive ke saath boost karna  
-   B. To boost manufacturing and exports with incentives  
-
-C. Sirf agriculture land ceiling badhana  
-   C. Only to increase agriculture land ceilings  
-
-D. Sirf IT services ko promote karna  
-   D. Only to promote IT services  
+A. Only to increase taxes / केवल टैक्स बढ़ाना  
+B. To boost manufacturing and exports with incentives / प्रोत्साहन के माध्यम से मैन्युफैक्चरिंग और निर्यात को बढ़ावा देना  
+C. Only to increase agriculture land ceilings / केवल कृषि भूमि की सीमा बढ़ाना  
+D. Only to promote IT services / केवल IT सेवाओं को बढ़ावा देना  
 
 **Answer:** B  
-**Explanation:** PLI scheme firms ko incremental production/export par direct incentive de kar domestic manufacturing ko globally competitive banana chahati hai.  
+**Explanation:** PLI scheme incremental उत्पादन/निर्यात पर incentive देती है ताकि भारत global manufacturing hub बन सके।  
 
 ---
