@@ -246,4 +246,133 @@ Is short code se major milestones yaad rakho:
 - F = **Financial sector reforms (Narsimham)**  
 - D = **Digital banking era**
 
-Is file ke saath aap apne hand‑written notes, charts (timeline), tables (Acts aur years) attach karke banking history ko strong bana sakte ho.
+---
+
+## 13. Cooperative Banking Movement – Short History
+
+- **Early 20th century** me rural credit crisis ko address karne ke liye cooperative philosophy introduce hui.  
+- Cooperative credit societies ke liye important laws (jaise 1904 & 1912 ke cooperative Acts) aaye –  
+  exact year‑wise Acts aap apne legal history notes me detail me likh sakte ho.  
+- Structure gradually develop hua:
+  - village level societies,  
+  - district / central cooperative banks,  
+  - state cooperative banks.  
+- Aim:
+  - farmers, artisans, rural poor ko **mutual help** principle pe cheap credit dena.  
+- Later:
+  - Urban Cooperative Banks (UCBs) bhi aaye – small traders, salaried class ke liye.  
+- Aaj:
+  - Cooperative banks dual regulatory framework ke under aate hain (RBI + state registrars etc., time ke hisaab se framework evolve hota rehta hai).
+
+> Exam angle: “Cooperative banking movement – rural credit ko institutional form dene ka early attempt.”
+
+---
+
+## 14. Deposit Insurance & DICGC – Depositors ka Protection
+
+- 1960s ke bank failures ne dikhaya ki small depositors ko protection ki zarurat hai.  
+- Is context me ek **deposit insurance corporation** banaya gaya (DICGC) –  
+  - jiska kaam scheduled banks ke deposits ko ek certain limit tak insure karna hai.  
+- DICGC aaj **RBI ki wholly owned subsidiary** hai.  
+- Key points (exam style):
+  - All commercial banks, RRBs, eligible cooperative banks ke deposits cover hote hain (exceptions alag se).  
+  - Har depositor ko per bank ek **maximum insured amount** tak protection milta hai –  
+    exact limit exam year ke hisaab se latest official notification se verify karo.  
+
+> Yaad rakho: “Deposit insurance = DICGC, RBI ke umbrella ke andar, small depositors ki safety ke liye.”
+
+---
+
+## 15. Priority Sector Lending (PSL) & Financial Inclusion – History Snapshot
+
+- **1960s–70s:**  
+  - Realise hua ki banking credit mostly large industry tak limited hai;  
+    agriculture, MSME, weaker sections ko kam finance mil raha hai.  
+- RBI ne **Priority Sector Lending (PSL)** concept introduce kiya –  
+  - banks ko kuch sectors me **minimum % of ANBC / OBE** ke hisaab se credit dena mandatory.  
+- Major priority sectors (concept level):
+  - Agriculture, MSMEs, Export credit, Education, Housing (certain limits),  
+  - Social infrastructure, Renewable energy, Weaker sections, etc.  
+- PSL norms time ke sath revise hote rahe –  
+  - targets, sub‑targets (jaise small & marginal farmer, micro enterprise),  
+  - aur new categories add / refine ki gayi.
+
+> Exam me: PSL ka concept, major sectors, aur term “priority sector lending target” bahut important hai.
+
+---
+
+## 16. Capital Adequacy & Basel Norms – India me Adoption
+
+- 1980s ke end / 1990s se international level par **Basel Committee on Banking Supervision** ne capital standards (Basel I, II, III) issue kiye.  
+- India ne inko adopt kiya:
+  - **Basel I** – basic credit risk based capital norms.  
+  - **Basel II** – three pillars (minimum capital, supervisory review, market discipline).  
+  - **Basel III** – global financial crisis ke baad, stronger capital + liquidity standards.  
+- RBI ne phased manner me Indian banks par Basel guidelines implement karvai –  
+  - capital adequacy ratio, Tier I / Tier II capital, leverage ratio, liquidity coverage ratio, etc.
+
+> Static yaad rakhna: “Basel norms = international capital standards; India me RBI ne 1990s se phased adoption start ki.”
+
+---
+
+## 17. NPA Resolution Framework – DRT, SARFAESI, IBC (High Level)
+
+Banks ke badhte **Non‑Performing Assets (NPAs)** handle karne ke liye alag‑alag legal tools aaye:
+
+- **Debt Recovery Tribunals (DRTs):**  
+  - Special tribunals jahan banks / FIs apne large loan recovery cases faster dispose karwa sakein.  
+
+- **SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest):**  
+  - Secured creditors (banks / FIs) ko certain conditions me **court ke bina** secured asset par possession / sale ka right deta hai.  
+  - Asset Reconstruction Companies (ARCs) ka concept introduce.  
+
+- **Insolvency and Bankruptcy Code (IBC):**  
+  - Corporate borrowers ke liye **time‑bound resolution framework**.  
+  - Creditor‑driven insolvency process, insolvency professionals, committees of creditors, NCLT etc. ka system.  
+
+> Exam angle: Ye sab legal developments banking history ka part hain kyunki inhone loan recovery aur NPAs handling ka pura model change kar diya.
+
+---
+
+## 18. New Types of Banks – Payment Banks & Small Finance Banks
+
+- Financial inclusion & competition ke liye RBI ne **2010s** me new category ke banks introduce kiye:
+
+### 18.1 Payments Banks
+
+- Objective:
+  - small deposits + payments / remittance services.  
+- Features:
+  - limited deposit amount per customer,  
+  - **loans allow nahi**,  
+  - focus on payments, remittances, remittance corridors, prepaid instruments.
+
+### 18.2 Small Finance Banks (SFBs)
+
+- Objective:
+  - unserved & underserved population (small business, MSME, small & marginal farmers, unorganised sector) ko formal banking access.  
+- Features:
+  - full fledged small bank,  
+  - higher share of loans to priority & small ticket borrowers,  
+  - certain PSL norms specially stringent.
+
+> Exam me mostly: definition, objectives, basic features, examples of payments/SFBs pooche jate hain.
+
+---
+
+## 19. Microfinance & SHG–Bank Linkage – Rural Banking ka Important Chapter
+
+- Rural poor, especially women groups ke liye **Self Help Group (SHG)–Bank Linkage Programme** ek major innovation tha.  
+- NABARD ke leadership me banks ne SHGs ko:
+  - group savings,  
+  - internal lending,  
+  - phir formal bank se credit linkage ke through empower kiya.  
+- Micro‑finance institutions (MFIs) bhi later develop hue –  
+  - small loan amounts, group lending models, door‑step service.
+
+> History angle: “Formal banking + SHGs + MFIs ke mix se rural credit delivery system ka naya model bana.”
+
+---
+
+Is file ke saath aap apne hand‑written notes, charts (timeline), tables (Acts aur years),  
+aur separate detailed MD files (PSL, Basel norms, SARFAESI, IBC, co‑operative banking, microfinance etc.) attach karke banking history ko aur bhi strong bana sakte ho.
