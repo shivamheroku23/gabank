@@ -657,3 +657,653 @@
     **Explanation:** IGX भारत का पहला online natural gas trading exchange hai.  
 
 ---
+
+51. “Blue Flag” certification is given to which of the following?  
+    51. “ब्लू फ्लैग” प्रमाणन निम्न में से किसे दिया जाता है?  
+
+    A. Eco‑friendly beaches and marinas / पर्यावरण अनुकूल समुद्र तट और मरीना  
+    B. Organic farms / जैविक खेती वाले खेत  
+    C. Solar power plants / सौर ऊर्जा संयंत्र  
+    D. Tiger reserves / बाघ अभयारण्य  
+
+    **Answer:** A  
+    **Explanation:** Blue Flag अंतरराष्ट्रीय पर्यावरणीय प्रमाणन hai jo high‑standard clean beaches ke लिए दिया जाता है.  
+
+---
+
+52. “Kaziranga National Park” is famous for which animal?  
+    52. “काज़ीरंगा राष्ट्रीय उद्यान” किस जीव के लिए प्रसिद्ध है?  
+
+    A. Asiatic Lion / एशियाई सिंह  
+    B. One‑horned Rhinoceros / एक‑सींग वाला गैंडा  
+    C. Snow Leopard / हिम तेन्दुआ  
+    D. Black Buck / काला हिरण  
+
+    **Answer:** B  
+    **Explanation:** Assam स्थित Kaziranga ek‑सींग वाले भारतीय गैंडे ke लिए UNESCO World Heritage Site hai.  
+
+---
+
+53. “Loktak Lake”, famous for phumdis (floating islands), is located in which state?  
+    53. फुमदी (तैरते द्वीप) के लिए प्रसिद्ध “लोकtak झील” किस राज्य में स्थित है?  
+
+    A. Assam / असम  
+    B. Manipur / मणिपुर  
+    C. Tripura / त्रिपुरा  
+    D. Meghalaya / मेघालय  
+
+    **Answer:** B  
+    **Explanation:** Loktak Lake Manipur me स्थित hai aur floating biomass द्वीपों ke कारण प्रसिद्ध hai.  
+
+---
+
+54. The “Chipko Movement” was mainly related to which issue?  
+    54. “चिपको आंदोलन” मुख्य रूप से किस मुद्दे से संबंधित था?  
+
+    A. Women’s education / महिला शिक्षा  
+    B. Saving trees and forests / पेड़ों और वनों को बचाना  
+    C. Industrial labour rights / औद्योगिक श्रमिक अधिकार  
+    D. Tax reforms / कर सुधार  
+
+    **Answer:** B  
+    **Explanation:** Chipko andolan me गाँववाले पेड़ों se चिपककर उन्हें काटने से रोकते थे, यह वन संरक्षण का आंदोलन tha.  
+
+---
+
+55. “Project Tiger” was launched in which year?  
+    55. “प्रोजेक्ट टाइगर” किस वर्ष शुरू किया गया था?  
+
+    A. 1962 / 1962  
+    B. 1973 / 1973  
+    C. 1985 / 1985  
+    D. 1991 / 1991  
+
+    **Answer:** B  
+    **Explanation:** 1973 me Project Tiger शुरू hua ताकि भारत me घटती बाघ संख्या ko बचाया जा सके.  
+
+---
+
+56. Which city is known as the “Silicon Valley of India”?  
+    56. किस शहर को “भारत की सिलिकन वैली” कहा जाता है?  
+
+    A. Hyderabad / हैदराबाद  
+    B. Bengaluru / बेंगलुरु  
+    C. Chennai / चेन्नई  
+    D. Pune / पुणे  
+
+    **Answer:** B  
+    **Explanation:** Bengaluru IT कंपनियों ke बड़े concentration ke कारण “Silicon Valley of India” कहलाता hai.  
+
+---
+
+57. Which of the following is the largest planet in our Solar System?  
+    57. सौर परिवार में सबसे बड़ा ग्रह कौन‑सा है?  
+
+    A. Earth / पृथ्वी  
+    B. Mars / मंगल  
+    C. Jupiter / बृहस्पति  
+    D. Saturn / शनि  
+
+    **Answer:** C  
+    **Explanation:** Jupiter आकार aur mass दोनों में सौर मंडल ka सबसे बड़ा ग्रह hai.  
+
+---
+
+58. Which gas is most abundant in the Earth’s atmosphere?  
+    58. पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन‑सी गैस पाई जाती है?  
+
+    A. Oxygen / ऑक्सीजन  
+    B. Nitrogen / नाइट्रोजन  
+    C. Carbon dioxide / कार्बन डाइऑक्साइड  
+    D. Argon / आर्गन  
+
+    **Answer:** B  
+    **Explanation:** वायुमंडल me लगभग 78% Nitrogen aur केवल 21% Oxygen होती है.  
+
+---
+
+59. Who discovered the law of gravitation after observing a falling apple (as per popular story)?  
+    59. गिरते हुए सेब को देखकर गुरुत्वाकर्षण का नियम किसने खोजा (लोकप्रिय कहानी के अनुसार)?  
+
+    A. Albert Einstein / अल्बर्ट आइंस्टीन  
+    B. Isaac Newton / आइज़ैक न्यूटन  
+    C. Galileo Galilei / गैलीलियो गैलिली  
+    D. Johannes Kepler / जोहानेस केपलर  
+
+    **Answer:** B  
+    **Explanation:** Universal law of gravitation Sir Isaac Newton ne प्रतिपादित किया.  
+
+---
+
+60. What is the chemical formula of water?  
+    60. पानी का रासायनिक सूत्र क्या है?  
+
+    A. CO₂  
+    B. H₂O  
+    C. H₂SO₄  
+    D. NaCl  
+
+    **Answer:** B  
+    **Explanation:** पानी ek यौगिक hai जो दो hydrogen aur एक oxygen परमाणु se milकर बना hai – H₂O.  
+
+---
+
+61. “Constitution of India” came into effect on which date?  
+    61. “भारतीय संविधान” किस तिथि से प्रभावी हुआ?  
+
+    A. 26 January 1947 / 26 जनवरी 1947  
+    B. 26 January 1950 / 26 जनवरी 1950  
+    C. 15 August 1947 / 15 अगस्त 1947  
+    D. 26 November 1949 / 26 नवंबर 1949  
+
+    **Answer:** B  
+    **Explanation:** संविधान 26 January 1950 se लागू हुआ, isi दिन को गणतंत्र दिवस मनाते हैं.  
+
+---
+
+62. Fundamental Rights are mentioned in which Part of the Constitution?  
+    62. संविधान में मौलिक अधिकार किस भाग में उल्लिखित हैं?  
+
+    A. Part II  
+    B. Part III  
+    C. Part IV  
+    D. Part IVA  
+
+    **Answer:** B  
+    **Explanation:** Fundamental Rights Part III (Article 12–35) me वर्णित हैं.  
+
+---
+
+63. Directive Principles of State Policy (DPSP) are contained in which Part?  
+    63. राज्य के नीति निदेशक तत्व (DPSP) संविधान के किस भाग में हैं?  
+
+    A. Part II  
+    B. Part III  
+    C. Part IV  
+    D. Part VI  
+
+    **Answer:** C  
+    **Explanation:** DPSP Part IV (Article 36–51) me दिए गए हैं jo राज्य ko नीति निर्देश देते हैं.  
+
+---
+
+64. Which Article of the Constitution deals with the “Right to Constitutional Remedies”?  
+    64. संविधान का कौन‑सा अनुच्छेद “संवैधानिक उपचार का अधिकार” से संबंधित है?  
+
+    A. Article 12  
+    B. Article 19  
+    C. Article 21  
+    D. Article 32  
+
+    **Answer:** D  
+    **Explanation:** Article 32 ko Dr. Ambedkar ne संविधान ka “heart and soul” कहा था.  
+
+---
+
+65. Who was the first woman Prime Minister of India?  
+    65. भारत की पहली महिला प्रधानमंत्री कौन थीं?  
+
+    A. Sarojini Naidu / सरोजिनी नायडू  
+    B. Indira Gandhi / इंदिरा गांधी  
+    C. Pratibha Patil / प्रतिभा पाटिल  
+    D. Sushma Swaraj / सुषमा स्वराज  
+
+    **Answer:** B  
+    **Explanation:** Indira Gandhi 1966 me भारत की पहली महिला प्रधानमंत्री बनीं.  
+
+---
+
+66. Who was the first woman President of India?  
+    66. भारत की पहली महिला राष्ट्रपति कौन थीं?  
+
+    A. Indira Gandhi / इंदिरा गांधी  
+    B. Pratibha Patil / प्रतिभा पाटिल  
+    C. Sarojini Naidu / सरोजिनी नायडू  
+    D. Vijayalakshmi Pandit / विजया लक्ष्मी पंडित  
+
+    **Answer:** B  
+    **Explanation:** Pratibha Patil 2007–2012 के बीच भारत की पहली महिला राष्ट्रपति रही हैं.  
+
+---
+
+67. “Article 370” of the Indian Constitution was related to which state/UT?  
+    67. भारतीय संविधान का “अनुच्छेद 370” किस राज्य/केंद्र शासित प्रदेश से संबंधित था?  
+
+    A. Punjab / पंजाब  
+    B. Jammu & Kashmir / जम्मू और कश्मीर  
+    C. Nagaland / नगालैंड  
+    D. Sikkim / सिक्किम  
+
+    **Answer:** B  
+    **Explanation:** Article 370 जम्मू‑कश्मीर ko विशेष राज्य का दर्जा देता था, जिसे अब निरस्त किया जा चुका है.  
+
+---
+
+68. Which of the following is the largest state of India by area?  
+    68. क्षेत्रफल के आधार पर भारत का सबसे बड़ा राज्य कौन‑सा है?  
+
+    A. Maharashtra / महाराष्ट्र  
+    B. Uttar Pradesh / उत्तर प्रदेश  
+    C. Rajasthan / राजस्थान  
+    D. Madhya Pradesh / मध्य प्रदेश  
+
+    **Answer:** C  
+    **Explanation:** Rajasthan क्षेत्रफल ke आधार पर देश ka सबसे बड़ा राज्य hai.  
+
+---
+
+69. Which is the longest river in India (within Indian territory)?  
+    69. भारत की (देश के भीतर बहने वाली) सबसे लंबी नदी कौन‑सी है?  
+
+    A. Ganga / गंगा  
+    B. Godavari / गोदावरी  
+    C. Yamuna / यमुना  
+    D. Narmada / नर्मदा  
+
+    **Answer:** A  
+    **Explanation:** Ganga को भारत की सबसे लंबी नदी माना जाता hai.  
+
+---
+
+70. “Hirakud Dam” is built on which river?  
+    70. “हीराकुंड बांध” किस नदी पर बना है?  
+
+    A. Godavari / गोदावरी  
+    B. Mahanadi / महानदी  
+    C. Narmada / नर्मदा  
+    D. Krishna / कृष्णा  
+
+    **Answer:** B  
+    **Explanation:** Hirakud Dam Odisha me Mahanadi नदी पर स्थित एक बड़ा multi‑purpose dam hai.  
+
+---
+
+71. Which Indian state is the largest producer of tea?  
+    71. भारत में चाय का सबसे बड़ा उत्पादक राज्य कौन‑सा है?  
+
+    A. West Bengal / पश्चिम बंगाल  
+    B. Assam / असम  
+    C. Kerala / केरल  
+    D. Tamil Nadu / तमिलनाडु  
+
+    **Answer:** B  
+    **Explanation:** Assam चाय उत्पादन के मामले में देश ka सबसे बड़ा योगदान देता hai.  
+
+---
+
+72. Which city is known as the “Pink City” of India?  
+    72. भारत में किस शहर को “पिंक सिटी” कहा जाता है?  
+
+    A. Jaipur / जयपुर  
+    B. Jodhpur / जोधपुर  
+    C. Udaipur / उदयपुर  
+    D. Bikaner / बीकानेर  
+
+    **Answer:** A  
+    **Explanation:** Jaipur ke भवनों ke गुलाबी रंग ke कारण ise Pink City कहा जाता hai.  
+
+---
+
+73. Who is popularly known as the “Nightingale of India” (Bharat Kokila) in literature?  
+    73. साहित्य के क्षेत्र में “भारत कोकिला” के नाम से किसे जाना जाता है?  
+
+    A. Lata Mangeshkar / लता मंगेशकर  
+    B. Sarojini Naidu / सरोजिनी नायडू  
+    C. Subhadra Kumari Chauhan / सुभद्रा कुमारी चौहान  
+    D. Mahadevi Verma / महादेवी वर्मा  
+
+    **Answer:** B  
+    **Explanation:** Sarojini Naidu को उनके काव्य के लिए “Nightingale of India” कहा जाता hai.  
+
+---
+
+74. “Vande Mataram” was first sung in which session of the Indian National Congress?  
+    74. “वंदे मातरम्” गीत सर्वप्रथम भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में गाया गया था?  
+
+    A. 1885, Bombay Session / 1885, बंबई अधिवेशन  
+    B. 1896, Calcutta Session / 1896, कलकत्ता अधिवेशन  
+    C. 1916, Lucknow Session / 1916, लखनऊ अधिवेशन  
+    D. 1929, Lahore Session / 1929, लाहौर अधिवेशन  
+
+    **Answer:** B  
+    **Explanation:** 1896 ke Calcutta Session me Rabindranath Tagore ne “Vande Mataram” गाया था.  
+
+---
+
+75. “Father of Indian Constitution” is the title given to whom?  
+    75. “भारतीय संविधान के जनक” के रूप में किसे जाना जाता है?  
+
+    A. Mahatma Gandhi / महात्मा गांधी  
+    B. B. R. Ambedkar / बी. आर. अम्बेडकर  
+    C. Jawaharlal Nehru / जवाहरलाल नेहरू  
+    D. Sardar Patel / सरदार पटेल  
+
+    **Answer:** B  
+    **Explanation:** Dr. B. R. Ambedkar संविधान सभा ki Drafting Committee ke Chairman थे, isliye उन्हें संविधान के जनक कहा जाता hai.  
+
+---
+
+76. “Operation Flood” in India was related to which sector?  
+    76. भारत में “ऑपरेशन फ्लड” किस क्षेत्र से संबंधित था?  
+
+    A. Wheat production / गेहूँ उत्पादन  
+    B. Milk production / दूध उत्पादन  
+    C. Oilseeds production / तिलहन उत्पादन  
+    D. Sugar production / चीनी उत्पादन  
+
+    **Answer:** B  
+    **Explanation:** Operation Flood white revolution ka हिस्सा tha jisse भारत दूध उत्पादन me self‑sufficient bana.  
+
+---
+
+77. “Harappan Civilization” is also known by which other name?  
+    77. “हड़प्पा सभ्यता” को और किस नाम से जाना जाता है?  
+
+    A. Vedic Civilization / वैदिक सभ्यता  
+    B. Indus Valley Civilization / सिंधु घाटी सभ्यता  
+    C. Gupta Civilization / गुप्त सभ्यता  
+    D. Mauryan Civilization / मौर्य सभ्यता  
+
+    **Answer:** B  
+    **Explanation:** Harappan ya Indus Valley Civilization दुनिया ki प्राचीन urban cultures me से ek hai.  
+
+---
+
+78. The battle of Plassey (Palashi) was fought in which year?  
+    78. प्लासी का युद्ध किस वर्ष लड़ा गया था?  
+
+    A. 1757 / 1757  
+    B. 1764 / 1764  
+    C. 1857 / 1857  
+    D. 1799 / 1799  
+
+    **Answer:** A  
+    **Explanation:** 1757 ka Plassey war British rule ke प्रसार ka turning point mana जाता hai.  
+
+---
+
+79. “Battle of Buxar” (1764) was fought between the British and which combined forces?  
+    79. 1764 का “बक्सर का युद्ध” ब्रिटिशों और किन संयुक्त शक्तियों के बीच लड़ा गया था?  
+
+    A. Mir Jafar, Shah Alam II, Shuja‑ud‑Daula  
+    B. Mir Qasim, Shah Alam II, Shuja‑ud‑Daula  
+    C. Tipu Sultan and Marathas  
+    D. Ranjit Singh and Afghans  
+
+    **Answer:** B  
+    **Explanation:** Battle of Buxar me British ne Mir Qasim, Shah Alam II aur Awadh ke Nawab Shuja‑ud‑Daula ko हराया.  
+
+---
+
+80. Who was the founder of the Maurya Empire in ancient India?  
+    80. प्राचीन भारत में मौर्य साम्राज्य के संस्थापक कौन थे?  
+
+    A. Ashoka / अशोक  
+    B. Bindusara / बिंदुसार  
+    C. Chandragupta Maurya / चन्द्रगुप्त मौर्य  
+    D. Bimbisara / बिम्बिसार  
+
+    **Answer:** C  
+    **Explanation:** Chandragupta Maurya ne 4th century BCE me मौर्य साम्राज्य की स्थापना की.  
+
+---
+
+81. The river “Narmada” flows into which water body?  
+    81. “नर्मदा” नदी किस जल निकाय में जाकर गिरती है?  
+
+    A. Arabian Sea / अरब सागर  
+    B. Bay of Bengal / बंगाल की खाड़ी  
+    C. Indian Ocean / हिंद महासागर  
+    D. Chilika Lake / चिल्का झील  
+
+    **Answer:** A  
+    **Explanation:** Narmada पश्चिम की ओर बहती हुई Arabian Sea me गिरती hai.  
+
+---
+
+82. “Mawsynram” and “Cherrapunji” are famous for what?  
+    82. “मॉसिनराम” और “चेरापूंजी” किसके लिए प्रसिद्ध हैं?  
+
+    A. Highest temperature / सर्वाधिक तापमान  
+    B. Lowest temperature / न्यूनतम तापमान  
+    C. Heavy rainfall / अत्यधिक वर्षा  
+    D. Desert climate / मरुस्थलीय जलवायु  
+
+    **Answer:** C  
+    **Explanation:** ये दुनिया ke सबसे अधिक वर्षा वाले स्थानों me गिने जाते हैं.  
+
+---
+
+83. Which metal is used in making filaments of electric bulbs?  
+    83. विद्युत बल्ब के फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?  
+
+    A. Copper / ताँबा  
+    B. Aluminium / एल्यूमिनियम  
+    C. Tungsten / टंगस्टन  
+    D. Iron / लोहा  
+
+    **Answer:** C  
+    **Explanation:** Tungsten ka melting point बहुत अधिक होता hai, isliye bulb filament me use होता है.  
+
+---
+
+84. Which device is used to measure atmospheric pressure?  
+    84. वायुमंडलीय दाब मापने के लिए किस यंत्र का उपयोग होता है?  
+
+    A. Thermometer / थर्मामीटर  
+    B. Barometer / बैरोमीटर  
+    C. Hygrometer / हाइग्रोमीटर  
+    D. Ammeter / एमीटर  
+
+    **Answer:** B  
+    **Explanation:** Barometer वायुदाब मापने का उपकरण hai.  
+
+---
+
+85. Blood group discovery is credited to which scientist?  
+    85. रक्त समूहों की खोज का श्रेय किस वैज्ञानिक को जाता है?  
+
+    A. Alexander Fleming / अलेक्ज़ैंडर फ्लेमिंग  
+    B. Karl Landsteiner / कार्ल लैंडस्टाइनर  
+    C. Louis Pasteur / लुई पाश्चर  
+    D. Robert Koch / रॉबर्ट कोच  
+
+    **Answer:** B  
+    **Explanation:** Karl Landsteiner ne ABO blood group system ki खोज की thi.  
+
+---
+
+86. Which organ in the human body is primarily responsible for detoxification and bile production?  
+    86. मानव शरीर में विषहरण और पित्त निर्माण के लिए मुख्य रूप से कौन‑सा अंग जिम्मेदार है?  
+
+    A. Kidney / गुर्दा  
+    B. Liver / यकृत  
+    C. Pancreas / अग्न्याशय  
+    D. Spleen / प्लीहा  
+
+    **Answer:** B  
+    **Explanation:** Liver detoxification, पित्त निर्माण, glycogen storage आदि कई कार्य करता hai.  
+
+---
+
+87. Which one of the following is a renewable source of energy?  
+    87. निम्न में से कौन‑सा ऊर्जा का अक्षय स्रोत है?  
+
+    A. Coal / कोयला  
+    B. Petroleum / पेट्रोलियम  
+    C. Natural gas / प्राकृतिक गैस  
+    D. Solar energy / सौर ऊर्जा  
+
+    **Answer:** D  
+    **Explanation:** Solar energy निरंतर उपलब्ध hai, isliye इसे renewable माना जाता hai.  
+
+---
+
+88. “World Heritage Sites” list is maintained by which organisation?  
+    88. “विश्व धरोहर स्थलों” की सूची कौन‑सा संगठन तैयार करता है?  
+
+    A. UNESCO / यूनेस्को  
+    B. WHO / WHO  
+    C. IMF / IMF  
+    D. World Bank / विश्व बैंक  
+
+    **Answer:** A  
+    **Explanation:** UNESCO विश्व धरोहर समिति विश्व धरोहर स्थलों की सूची बनाती है.  
+
+---
+
+89. “Aravalli Range” is spread mainly in which Indian state?  
+    89. “अरावली पर्वत श्रृंखला” मुख्य रूप से किस भारतीय राज्य में फैली है?  
+
+    A. Rajasthan / राजस्थान  
+    B. Gujarat / गुजरात  
+    C. Madhya Pradesh / मध्य प्रदेश  
+    D. Maharashtra / महाराष्ट्र  
+
+    **Answer:** A  
+    **Explanation:** Aravalli श्रृंखला मुख्यतः Rajasthan me फैली hai aur कुछ भाग Haryana एवं Gujarat me भी है.  
+
+---
+
+90. “Sardar Sarovar Dam” is built on which river?  
+    90. “सरदार सरोवर बांध” किस नदी पर बना है?  
+
+    A. Godavari / गोदावरी  
+    B. Narmada / नर्मदा  
+    C. Krishna / कृष्णा  
+    D. Mahanadi / महानदी  
+
+    **Answer:** B  
+    **Explanation:** Sardar Sarovar project Narmada नदी पर Gujarat me स्थित है.  
+
+---
+
+91. Who invented the telephone?  
+    91. टेलीफोन का आविष्कार किसने किया था?  
+
+    A. Thomas Edison / थॉमस एडिसन  
+    B. Alexander Graham Bell / अलेक्ज़ैंडर ग्राहम बेल  
+    C. Nikola Tesla / निकोला टेस्ला  
+    D. Guglielmo Marconi / गुइलियल्मो मारकोनी  
+
+    **Answer:** B  
+    **Explanation:** Alexander Graham Bell ko telephone ke आविष्कार ka श्रेय दिया जाता hai.  
+
+---
+
+92. “World Water Day” is observed on which date?  
+    92. “विश्व जल दिवस” किस तिथि को मनाया जाता है?  
+
+    A. 22 March / 22 मार्च  
+    B. 5 June / 5 जून  
+    C. 1 May / 1 मई  
+    D. 10 December / 10 दिसंबर  
+
+    **Answer:** A  
+    **Explanation:** 22 March ko water conservation ke प्रति जागरूकता ke लिए World Water Day मनाया जाता है.  
+
+---
+
+93. The headquarters of the International Court of Justice (ICJ) is located at:  
+    93. अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय कहाँ स्थित है?  
+
+    A. New York / न्यूयॉर्क  
+    B. The Hague / द हेग  
+    C. Geneva / जेनेवा  
+    D. Paris / पेरिस  
+
+    **Answer:** B  
+    **Explanation:** ICJ ka मुख्यालय The Hague, Netherlands me स्थित hai.  
+
+---
+
+94. “SAARC” is a regional grouping of countries from which region?  
+    94. “सार्क” किस क्षेत्र के देशों का क्षेत्रीय समूह है?  
+
+    A. South‑East Asia / दक्षिण‑पूर्व एशिया  
+    B. South Asia / दक्षिण एशिया  
+    C. Central Asia / मध्य एशिया  
+    D. West Asia / पश्चिम एशिया  
+
+    **Answer:** B  
+    **Explanation:** SAARC South Asian Association for Regional Cooperation hai – India, Pakistan, Nepal, Bhutan, Bangladesh, Sri Lanka, Maldives, Afghanistan.  
+
+---
+
+95. “Euro” is the common currency of which group of countries?  
+    95. “यूरो” किस समूह के देशों की सामान्य मुद्रा है?  
+
+    A. ASEAN nations / आसियान देश  
+    B. SAARC nations / सार्क देश  
+    C. Eurozone nations / यूरोज़ोन देश  
+    D. OPEC nations / ओपेक देश  
+
+    **Answer:** C  
+    **Explanation:** Eurozone wo European countries hain jinhone Euro ko common मुद्रा ke रूप मे अपनाया hai.  
+
+---
+
+96. Who wrote the famous Hindi novel “Godan”?  
+    96. प्रसिद्ध हिंदी उपन्यास “गोदान” किसने लिखा?  
+
+    A. Harivansh Rai Bachchan / हरिवंश राय बच्चन  
+    B. Jaishankar Prasad / जयशंकर प्रसाद  
+    C. Munshi Premchand / मुंशी प्रेमचंद  
+    D. Ramdhari Singh Dinkar / रामधारी सिंह दिनकर  
+
+    **Answer:** C  
+    **Explanation:** “गोदान” हिंदी साहित्य ke महान उपन्यासकार Munshi Premchand ki रचना है.  
+
+---
+
+97. “Panchtantra” stories are originally written in which language?  
+    97. “पंचतंत्र” कथाएँ मूल रूप से किस भाषा में लिखी गई हैं?  
+
+    A. Hindi / हिंदी  
+    B. Sanskrit / संस्कृत  
+    C. Pali / पाली  
+    D. Prakrit / प्राकृत  
+
+    **Answer:** B  
+    **Explanation:** Panchatantra प्राचीन नीति कथाएँ हैं jo संस्कृत में लिखी गई थीं.  
+
+---
+
+98. “Rashtrapati Bhavan” (Presidential residence) is located in which city?  
+    98. “राष्ट्रपति भवन” किस शहर में स्थित है?  
+
+    A. Mumbai / मुंबई  
+    B. Kolkata / कोलकाता  
+    C. New Delhi / नई दिल्ली  
+    D. Chennai / चेन्नई  
+
+    **Answer:** C  
+    **Explanation:** Rashtrapati Bhavan भारत के राष्ट्रपति का आधिकारिक आवास hai jo New Delhi me स्थित hai.  
+
+---
+
+99. “India Gate” war memorial is located in which city?  
+    99. “इंडिया गेट” युद्ध स्मारक किस शहर में स्थित है?  
+
+    A. Mumbai / मुंबई  
+    B. New Delhi / नई दिल्ली  
+    C. Jaipur / जयपुर  
+    D. Lucknow / लखनऊ  
+
+    **Answer:** B  
+    **Explanation:** India Gate New Delhi me स्थित प्रथम विश्व युद्ध me शहीद भारतीय सैनिकों ke सम्मान में बनाया गया memorial hai.  
+
+---
+
+100. Which river is considered holy and is associated with the “Kumbh Mela” at Haridwar and Prayagraj?  
+     100. कौन‑सी नदी पवित्र मानी जाती है और हरिद्वार व प्रयागराज के “कुंभ मेले” से जुड़ी है?  
+
+     A. Narmada / नर्मदा  
+     B. Godavari / गोदावरी  
+     C. Ganga / गंगा  
+     D. Krishna / कृष्णा  
+
+     **Answer:** C  
+     **Explanation:** गंगा नदी ko हिन्दू धर्म me अत्यंत पवित्र माना जाता है aur Kumbh Mela jaisi धार्मिक घटनाओं se जुड़ी hai.  
+
+---
