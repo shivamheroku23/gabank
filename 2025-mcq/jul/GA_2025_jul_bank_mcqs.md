@@ -125,4 +125,1185 @@ D. Gold / सोना
 
 ---
 
-### Q10. In mutual fund terminology, “SIP” stands for what?  \n### Q10. म्यूचुअल फंड शब्दावली में “SIP” का पूरा रूप क्या है?\n\nA. Systematic Investment Plan / सिस्टमैटिक इन्वेस्टमेंट प्लान  \nB. Simple Interest Plan / सिंपल इंटरेस्ट प्लान  \nC. Systematic Insurance Product / सिस्टमैटिक इंश्योरेंस प्रोडक्ट  \nD. Savings Incentive Programme / सेविंग्स इंसेंटिव प्रोग्राम  \n\n**Answer:** A  \n**Explanation:** SIP ek तरीका है jisme investor नियमित अंतराल (जैसे monthly) par निश्चित राशि mutual fund scheme me invest karta hai.  \n\n---\n\n### Q11. In mutual funds, an “open‑ended scheme” means:  \n### Q11. म्यूचुअल फंड में “open‑ended scheme” से क्या तात्पर्य है?\n\nA. Units can be bought/sold only during NFO period  \nB. Units can be bought or redeemed on any business day at NAV / NAV पर किसी भी कार्य दिवस पर units खरीदी या बेची जा सकती हैं  \nC. Scheme has a fixed maturity date  \nD. Scheme is available only to institutions  \n\n**Answer:** B  \n**Explanation:** Open‑ended schemes continuous basis par खरीद‑फरोख्त की अनुमति देते हैं, inka कोई fixed maturity नहीं होती.  \n\n---\n\n### Q12. A “close‑ended” mutual fund scheme generally:  \n### Q12. “close‑ended” म्यूचुअल फंड स्कीम सामान्यतः:\n\nA. Does not have any maturity  \nB. Has fixed maturity and is listed on stock exchange / निश्चित maturity होती है और units stock exchange पर list हो सकती हैं  \nC. Can be bought/sold daily from AMC  \nD. Is only for NRIs  \n\n**Answer:** B  \n**Explanation:** Close‑ended schemes NFO ke दौरान hi खरीदी जाती हैं aur maturity तक बंद रहती हैं; liquidity listing ke ज़रिए मिलती hai.  \n\n---\n\n### Q13. “ELSS” funds are primarily known for offering:  \n### Q13. “ELSS” फंड मुख्य रूप से किस सुविधा के लिए जाने जाते हैं?\n\nA. Guaranteed returns  \nB. Tax benefit under Section 80C / धारा 80C के तहत कर लाभ  \nC. Fixed interest like FD  \nD. Only debt exposure  \n\n**Answer:** B  \n**Explanation:** Equity Linked Savings Schemes (ELSS) में लॉक‑इन रहता hai aur निवेशक को income tax Section 80C के तहत deduction मिल सकता hai (नियमों के अनुसार).  \n\n---\n\n### Q14. “Expense ratio” in a mutual fund refers to:  \n### Q14. म्यूचुअल फंड में “expense ratio” किसे दर्शाता है?\n\nA. Entry load  \nB. Annual fund management and administrative expenses as % of AUM / AUM के प्रतिशत के रूप में वार्षिक प्रबंधन व प्रशासनिक खर्च  \nC. Brokerage paid by investor  \nD. Exit load  \n\n**Answer:** B  \n**Explanation:** Expense ratio scheme ke total खर्चों ko दर्शाता hai; jitna कम हो, utna investor ke लिए बेहतर माना जाता hai (अन्य बातें समान होने पर).  \n\n---\n\n### Q15. “Entry load” on mutual funds in India is:  \n### Q15. भारत में म्यूचुअल फंड्स पर “entry load” की स्थिति क्या है?\n\nA. Mandatory on all schemes  \nB. Banned by SEBI / सेबी द्वारा समाप्त कर दिया गया  \nC. Applicable only to debt funds  \nD. Applicable only to ELSS  \n\n**Answer:** B  \n**Explanation:** SEBI ne investor protection ke लिए entry load को समाप्त कर दिया; distributors सीधे निवेशक से fee ले सकते हैं.  \n\n---\n\n### Q16. “Exit load” in a mutual fund is:  \n### Q16. म्यूचुअल फंड में “exit load” क्या होता है?\n\nA. Charge for entering scheme  \nB. Charge payable when units are redeemed before a specified period / निश्चित अवधि से पहले units बेचने पर लगाया जाने वाला शुल्क  \nC. Penalty for SIP  \nD. Tax deducted by govt  \n\n**Answer:** B  \n**Explanation:** Exit load short‑term investors ko discourage karta hai aur long‑term holding ko प्रोत्साहन देता hai.  \n\n---\n\n### Q17. “NAV” of a mutual fund on a given day is closest to:  \n### Q17. किसी दिन म्यूचुअल फंड का “NAV” लगभग किसके बराबर होता है?\n\nA. Market value of securities ÷ total units / पोर्टफोलियो का बाजार मूल्य ÷ कुल units  \nB. Face value of units  \nC. Entry load amount  \nD. Expense ratio  \n\n**Answer:** A  \n**Explanation:** NAV = (Total assets – liabilities)/units; यह प्रति यूनिट अनुमानित मूल्य होता है.  \n\n---\n\n### Q18. Which of the following is a money market instrument?  \n### Q18. निम्न में से कौन‑सा मनी मार्केट इंस्ट्रूमेंट है?\n\nA. Debenture  \nB. Equity share  \nC. Certificate of Deposit (CD) / सर्टिफिकेट ऑफ डिपॉज़िट  \nD. Preference share  \n\n**Answer:** C  \n**Explanation:** CD, Commercial Paper, Treasury Bills आदि अल्पकालिक मनी मार्केट इंस्ट्रूमेंट हैं.  \n\n---\n\n### Q19. The first development bank in India was:  \n### Q19. भारत का पहला विकास बैंक कौन‑सा था?\n\nA. NABARD  \nB. IFCI  \nC. SIDBI  \nD. EXIM Bank  \n\n**Answer:** B  \n**Explanation:** IFCI (Industrial Finance Corporation of India) 1948 में पहला विकास वित्त संस्थान बना.  \n\n---\n\n### Q20. SIDBI mainly focuses on financing:  \n### Q20. SIDBI मुख्य रूप से किसको वित्तपोषण करता है?\n\nA. Large corporates  \nB. Micro, Small and Medium Enterprises (MSMEs) / सूक्ष्म, लघु और मध्यम उद्यम  \nC. Agriculture only  \nD. Housing projects  \n\n**Answer:** B  \n**Explanation:** Small Industries Development Bank of India MSME sector ke विकास के लिए dedicated institution hai.  \n\n---\n\n### Q21. “RRB” in Indian banking stands for:  \n### Q21. भारतीय बैंकिंग में “RRB” का पूरा रूप क्या है?\n\nA. Regional Reserve Bank  \nB. Regional Rural Bank / क्षेत्रीय ग्रामीण बैंक  \nC. Rural Reserve Branch  \nD. Regional Regulatory Board  \n\n**Answer:** B  \n**Explanation:** RRBs का उद्देश्य ग्रामीण क्षेत्रों me banking और credit सुविधा बढ़ाना hai.  \n\n---\n\n### Q22. The sponsor bank of an RRB is usually a:  \n### Q22. किसी RRB का sponsor bank सामान्यतः कौन होता है?\n\nA. Private sector bank only  \nB. Public sector bank / सार्वजनिक क्षेत्र का बैंक  \nC. Foreign bank  \nD. Co‑operative bank  \n\n**Answer:** B  \n**Explanation:** अधिकांश RRBs ke sponsor PSBs हैं; ownership structure me Centre, State aur sponsor bank ka हिस्सा होता hai.  \n\n---\n\n### Q23. Insurance sold through banks is popularly known as:  \n### Q23. बैंकों के माध्यम से बेचे जाने वाले बीमा को आमतौर पर क्या कहा जाता है?\n\nA. Bankinsurance  \nB. Bancassurance  \nC. Bank guarantee  \nD. Bankcover  \n\n**Answer:** B  \n**Explanation:** Bancassurance model me bank insurance कंपनी ke products बेचकर कमीशन कमाता hai.  \n\n---\n\n### Q24. In banking history, the first bank of India is generally considered to be:  \n### Q24. भारतीय बैंकिंग इतिहास में सामान्यतः भारत का पहला बैंक कौन माना जाता है?\n\nA. Bank of Hindustan  \nB. Bank of Bengal  \nC. Bank of Bombay  \nD. Bank of Madras  \n\n**Answer:** A  \n**Explanation:** Bank of Hindustan (1770) ko अक्सर भारत का पहला बैंक माना जाता hai, हालांकि बाद में यह बंद हो गया.  \n\n---\n\n### Q25. “Social control” over banks was introduced in which decade before nationalisation?  \n### Q25. राष्ट्रीयकरण से पहले बैंकों पर “social control” किस दशक में लागू किया गया था?\n\nA. 1940s  \nB. 1950s  \nC. 1960s  \nD. 1970s  \n\n**Answer:** C  \n**Explanation:** 1960s me social control ke जरिये priority sectors ko credit बढ़ाने की कोशिश की गई, बाद में 1969 nationalisation हुआ.  \n\n---\n\n### Q26. Nationalisation of banks mainly aimed at:  \n### Q26. बैंकों के राष्ट्रीयकरण का मुख्य उद्देश्य क्या था?\n\nA. Maximising private profit  \nB. Aligning banking with socio‑economic goals like priority sector lending / बैंकिंग को प्राथमिक क्षेत्र ऋण जैसे सामाजिक‑आर्थिक लक्ष्यों से जोड़ना  \nC. Reducing government role  \nD. Encouraging only foreign trade  \n\n**Answer:** B  \n**Explanation:** Nationalisation se सरकार ने banking resources ko विकास योजनाओं और priority sectors की ओर मोड़ने का प्रयास किया.  \n\n---\n\n### Q27. “Lead Bank Scheme” was introduced for:  \n### Q27. “लीड बैंक योजना” किस उद्देश्य से शुरू की गई थी?\n\nA. Urban branch expansion only  \nB. Assigning a lead bank in each district for area‑based credit planning / प्रत्येक जिले में क्षेत्रीय ऋण योजना के लिए एक lead bank नियुक्त करना  \nC. Regulating NBFCs  \nD. Promoting stock markets  \n\n**Answer:** B  \n**Explanation:** Lead Bank Scheme se प्रत्येक ज़िले me एक मुख्य बैंक को विकास और credit planning की जिम्मेदारी दी गई.  \n\n---\n\n### Q28. “Financial inclusion” is mainly about:  \n### Q28. “वित्तीय समावेशन” मुख्य रूप से किससे संबंधित है?\n\nA. Providing high‑end products to rich only  \nB. Ensuring access to basic financial services to weaker sections / कमजोर वर्गों तक बुनियादी वित्तीय सेवाएँ पहुँचाना  \nC. Increasing bank profits only  \nD. Promoting only stock markets  \n\n**Answer:** B  \n**Explanation:** Financial inclusion का लक्ष्य है कि प्रत्येक व्यक्ति को savings, credit, insurance, pension जैसी formal सेवाओं तक पहुँचा जाए.  \n\n---\n\n### Q29. “PMJDY” is a flagship scheme related to:  \n### Q29. “प्रधानमंत्री जन‑धन योजना (PMJDY)” किससे संबंधित प्रमुख योजना है?\n\nA. Crop insurance  \nB. Universal bank account and financial inclusion / सार्वभौमिक बैंक खाता और वित्तीय समावेशन  \nC. Housing for all  \nD. Pension only  \n\n**Answer:** B  \n**Explanation:** PMJDY ke तहत basic zero‑balance accounts, RuPay card, overdraft, insurance cover आदि की सुविधा दी गई.  \n\n---\n\n### Q30. In mutual funds, “KYC” of investors is mandatory to:  \n### Q30. म्यूचुअल फंड में निवेशकों का KYC अनिवार्य क्यों है?\n\nA. Decide returns  \nB. Comply with AML norms and identify investors / AML नियमों का पालन और निवेशकों की पहचान सुनिश्चित करने के लिए  \nC. Fix NAV  \nD. Reduce expense ratio  \n\n**Answer:** B  \n**Explanation:** Mutual fund houses और distributors KYC norms follow karte हैं ताकि money laundering aur benami investments ko रोका जा सके.  \n\n---\n\n### Q31. A “growth option” in mutual funds means:  \n### Q31. म्यूचुअल फंड में “growth option” का क्या अर्थ है?\n\nA. Periodic dividend is paid  \nB. No dividend; returns reflected in NAV appreciation / कोई dividend नहीं, लाभ NAV बढ़ने में दिखता है  \nC. Guaranteed capital protection  \nD. Only debt investments  \n\n**Answer:** B  \n**Explanation:** Growth option चुनने पर scheme ke लाभ पुनर्निवेश होते हैं, investor ko payout नहीं मिलता.  \n\n---\n\n### Q32. A “dividend payout” option in mutual funds implies:  \n### Q32. म्यूचुअल फंड में “dividend payout” विकल्प का क्या अर्थ है?\n\nA. No cash paid ever  \nB. Periodic dividends paid to investors / समय‑समय पर निवेशकों को dividend दिया जाता है  \nC. Only tax benefits  \nD. Only capital loss  \n\n**Answer:** B  \n**Explanation:** Dividend payout me scheme ke लाभ का कुछ हिस्सा नकद dividend के रूप में investor ko दिया जाता hai.  \n\n---\n\n### Q33. Mutual fund “Systematic Withdrawal Plan” (SWP) allows an investor to:  \n### Q33. म्यूचुअल फंड में “Systematic Withdrawal Plan” (SWP) से निवेशक क्या कर सकता है?\n\nA. Invest fixed amount regularly  \nB. Withdraw fixed amount at regular intervals / नियमित अंतराल पर निश्चित राशि निकालना  \nC. Avoid all taxes  \nD. Switch from equity to debt automatically  \n\n**Answer:** B  \n**Explanation:** SWP retirement या regular income ke लिए उपयोग किया जाता hai, jahan units systematically redeem होते हैं.  \n\n---\n\n### Q34. “Demat account” is used for:  \n### Q34. “डिमैट अकाउंट” किसके लिए उपयोग होता है?\n\nA. Holding physical share certificates  \nB. Holding securities in electronic form / प्रतिभूतियों को इलेक्ट्रॉनिक रूप में रखने के लिए  \nC. Holding cash only  \nD. Holding fixed deposits  \n\n**Answer:** B  \n**Explanation:** Demat account me shares, bonds आदि dematerialised form me रखे जाते हैं; ये ट्रेडिंग ke लिए अनिवार्य hai.  \n\n---\n\n### Q35. Which of the following is a function of SEBI?  \n### Q35. निम्न में से कौन‑सा SEBI का कार्य है?\n\nA. Issue currency notes  \nB. Regulate stock exchanges and protect investors / स्टॉक एक्सचेंज का विनियमन और निवेशक संरक्षण  \nC. Regulate insurance sector  \nD. Manage small savings schemes  \n\n**Answer:** B  \n**Explanation:** SEBI securities market ke लिए regulator hai jo disclosure norms, listing rules, investor protection पर काम करता hai.  \n\n---\n\n### Q36. “Blue chip companies” in stock market parlance are:  \n### Q36. शेयर बाजार की भाषा में “blue chip companies” किसे कहते हैं?\n\nA. Very small start‑ups  \nB. Well‑established, financially strong companies / अच्छी तरह स्थापित और वित्तीय रूप से मजबूत कंपनियाँ  \nC. Only tech companies  \nD. Government departments  \n\n**Answer:** B  \n**Explanation:** Blue chips generally बड़ी, भरोसेमंद companies ko कहा जाता hai जिनका track record लम्बा होता है.  \n\n---\n\n### Q37. “IPO oversubscription” means:  \n### Q37. “IPO oversubscription” से क्या तात्पर्य है?\n\nA. Fewer applications than shares offered  \nB. More applications than shares offered / ऑफर की गई shares संख्या se अधिक आवेदनों का आना  \nC. Cancellation of IPO  \nD. Listing at discount  \n\n**Answer:** B  \n**Explanation:** Oversubscription me allotment proportionate basis par किया जाता hai; demand supply se ज़्यादा होती है.  \n\n---\n\n### Q38. “Rights issue” of shares is offered to:  \n### Q38. शेयरों का “rights issue” किसे ऑफर किया जाता है?\n\nA. Only new investors  \nB. Existing shareholders in proportion to their holdings / मौजूदा शेयरधारकों को उनकी हिस्सेदारी के अनुपात में  \nC. Only foreign investors  \nD. Only employees  \n\n**Answer:** B  \n**Explanation:** Rights issue se company current shareholders ko नये shares preferential price पर देती hai.  \n\n---\n\n### Q39. Which of the following is a secured loan product?  \n### Q39. निम्न में से कौन‑सा secured loan product है?\n\nA. Credit card outstanding  \nB. Personal loan without collateral  \nC. Home loan / गृह ऋण  \nD. Clean overdraft  \n\n**Answer:** C  \n**Explanation:** Home loan property mortgage ke against दिया जाता hai, isliye यह secured lending hai.  \n\n---\n\n### Q40. “Gold loans” given by banks are typically:  \n### Q40. बैंकों द्वारा दिए जाने वाले “gold loans” सामान्यतः कैसे होते हैं?\n\nA. Unsecured  \nB. Secured against pledged gold ornaments / गिरवी रखे गए सोने के आभूषणों के विरुद्ध secured  \nC. Given only to companies  \nD. Long‑term project loans  \n\n**Answer:** B  \n**Explanation:** Gold loan में borrower सोना गिरवी रखता hai; repayment न होने पर bank gold बेचकर recovery कर सकता hai.  \n\n---\n\n### Q41. “Retail banking” deals mainly with:  \n### Q41. “रिटेल बैंकिंग” मुख्यतः किससे संबंधित है?\n\nA. Large corporates  \nB. Government departments  \nC. Individual customers and small businesses / व्यक्तिगत ग्राहक और छोटे व्यवसाय  \nD. Only foreign clients  \n\n**Answer:** C  \n**Explanation:** Retail banking में savings, current, loans, cards आदि mass ग्राहकों को प्रदान किये जाते हैं.  \n\n---\n\n### Q42. “Wholesale banking” is primarily concerned with:  \n### Q42. “Wholesale banking” मुख्यतः किससे संबंधित है?\n\nA. Small retail customers  \nB. Large corporates, institutions, big ticket lending / बड़ी कंपनियाँ, संस्थाएँ और high‑value lending  \nC. Only agriculture  \nD. Only personal loans  \n\n**Answer:** B  \n**Explanation:** Wholesale banking me project finance, syndication, cash management आदि बड़े clients के लिए सेवाएँ प्रदान की जाती हैं.  \n\n---\n\n### Q43. “Priority Sector Lending” (PSL) norms are issued by:  \n### Q43. “प्राथमिक क्षेत्र ऋण” (PSL) मानदंड कौन जारी करता है?\n\nA. SEBI  \nB. RBI  \nC. IRDAI  \nD. PFRDA  \n\n**Answer:** B  \n**Explanation:** RBI PSL norms के तहत agriculture, MSME, weaker sections, education आदि को minimum credit सुनिश्चित करता hai.  \n\n---\n\n### Q44. Which of the following is NOT a priority sector (traditional exam list)?  \n### Q44. निम्न में से कौन‑सा पारंपरिक PSL सूची में प्राथमिक क्षेत्र नहीं माना जाता?\n\nA. Agriculture / कृषि  \nB. MSME  \nC. Export credit / निर्यात ऋण  \nD. Speculative stock trading / सट्टा शेयर व्यापार  \n\n**Answer:** D  \n**Explanation:** PSL विकासोन्मुख क्षेत्रों के लिए hai; speculative trading primary sector नहीं है.  \n\n---\n\n### Q45. “Self Help Group–Bank linkage programme” mainly promotes:  \n### Q45. “स्व‑सहायता समूह–बैंक लिंकेज कार्यक्रम” मुख्यतः किसको बढ़ावा देता है?\n\nA. Large corporate lending  \nB. Group‑based microcredit to rural poor, especially women / ग्रामीण गरीबों, विशेषकर महिलाओं को समूह आधारित माइक्रोक्रेडिट  \nC. Only urban housing  \nD. Forex trading  \n\n**Answer:** B  \n**Explanation:** SHG‑bank linkage se ग्रामीण गरीब महिलाओं ke छोटे‑छोटे समूहों ko formal credit मिल पाता hai.  \n\n---\n\n### Q46. In banking, “NPA” stands for:  \n### Q46. बैंकिंग में “NPA” का पूरा रूप क्या है?\n\nA. Non‑Priority Account  \nB. Non‑Performing Asset  \nC. Net Performing Asset  \nD. New Provisioning Account  \n\n**Answer:** B  \n**Explanation:** NPA वह ऋण होता hai jisme interest/principal निर्धारित समय से नहीं चुकाया जा रहा.  \n\n---\n\n### Q47. Which of the following is a parameter to classify an asset as NPA (traditional rule of thumb)?  \n### Q47. किसी परिसंपत्ति को NPA वर्गीकृत करने के लिए निम्न में से कौन‑सा मानक (पारंपरिक thumb rule) है?\n\nA. Interest overdue for 10 days  \nB. Interest/principal overdue for more than 90 days / 90 दिन से अधिक अवधि तक ब्याज/मूलधन बकाया रहना  \nC. Overdue for 30 days  \nD. Overdue for 365 days  \n\n**Answer:** B  \n**Explanation:** Term loans me 90 दिन से अधिक overdue रहने पर asset NPA मानी जाती hai.  \n\n---\n\n### Q48. “Provisioning” for NPAs means:  \n### Q48. NPA के लिए “Provisioning” से क्या तात्पर्य है?\n\nA. Reducing loan amount  \nB. Holding back a part of profit to cover expected loss / संभावित नुकसान को कवर करने हेतु लाभ का एक हिस्सा अलग रखना  \nC. Waiving the loan  \nD. Transferring loan to another bank  \n\n**Answer:** B  \n**Explanation:** Provisioning banks ki profit se किया जाता hai ताकि future में loss होने पर उसकी भरपाई हो सके.  \n\n---\n\n### Q49. “Capital Adequacy Ratio” (CAR/CRAR) measures:  \n### Q49. “Capital Adequacy Ratio” (CAR/CRAR) किसका माप है?\n\nA. Profitability  \nB. Capital as a percentage of risk‑weighted assets / जोखिम भारित परिसंपत्तियों के प्रतिशत के रूप में पूँजी  \nC. Liquidity  \nD. NPA level  \n\n**Answer:** B  \n**Explanation:** CAR se पता चलता hai ki bank के पास risk cover करने के लिए कितनी regulatory capital उपलब्ध hai.  \n\n---\n\n### Q50. Basel norms primarily relate to:  \n### Q50. Basel norms मुख्यतः किससे संबंधित हैं?\n\nA. Trade policy  \nB. Capital adequacy and risk management for banks / बैंकों की पूंजी पर्याप्तता और जोखिम प्रबंधन  \nC. Taxation of banks  \nD. Customer service  \n\n**Answer:** B  \n**Explanation:** Basel I/II/III frameworks bank capital, leverage, liquidity norms आदि निर्धारित करते हैं.  \n\n---\n\n### Q51. “Basel III” introduced which important liquidity ratios?  \n### Q51. “Basel III” में कौन‑से महत्त्वपूर्ण liquidity ratios पेश किए गए?\n\nA. CRR and SLR  \nB. LCR and NSFR / LCR तथा NSFR  \nC. CAR and NPA  \nD. RoA and RoE  \n\n**Answer:** B  \n**Explanation:** Liquidity Coverage Ratio (LCR) aur Net Stable Funding Ratio (NSFR) Basel III के key liquidity norms हैं.  \n\n---\n\n### Q52. “LCR” under Basel III stands for:  \n### Q52. Basel III के तहत “LCR” का पूरा रूप क्या है?\n\nA. Liquidity Conversion Ratio  \nB. Liquidity Coverage Ratio  \nC. Loan Conversion Ratio  \nD. Long‑term Capital Ratio  \n\n**Answer:** B  \n**Explanation:** LCR short‑term (30‑day) stressed conditions me bank ke पास पर्याप्त high‑quality liquid assets होने की requirement बताता hai.  \n\n---\n\n### Q53. “NSFR” under Basel III aims to ensure:  \n### Q53. Basel III के तहत “NSFR” किसको सुनिश्चित करने के लिए है?\n\nA. Adequate short‑term liquidity only  \nB. Stable long‑term funding profile / दीर्घकालिक स्थिर फंडिंग प्रोफ़ाइल  \nC. Higher NPA levels  \nD. More speculation  \n\n**Answer:** B  \n**Explanation:** Net Stable Funding Ratio se banks ko stable funding sources पर rely करने ke लिए प्रेरित किया जाता hai.  \n\n---\n\n### Q54. “Leverage ratio” in Basel framework primarily restricts:  \n### Q54. Basel ढांचे में “leverage ratio” मुख्य रूप से किसे सीमित करता है?\n\nA. Profit margin  \nB. Total assets relative to equity / इक्विटी के मुकाबले कुल परिसंपत्तियों का अनुपात  \nC. Number of branches  \nD. Number of employees  \n\n**Answer:** B  \n**Explanation:** Leverage ratio ensures ki bank बहुत ज़्यादा borrowed funds पर आधारित न हो; एक minimum equity support हो.  \n\n---\n\n### Q55. “CAMELS” rating used by regulators covers which aspects of banks?  \n### Q55. नियामकों द्वारा प्रयोग किए जाने वाले “CAMELS rating” में क्या‑क्या शामिल होता है?\n\nA. Capital, Asset quality, Management, Earnings, Liquidity, Sensitivity / पूँजी, परिसंपत्ति गुणवत्ता, प्रबंधन, आमदनी, तरलता, संवेदनशीलता  \nB. Only capital  \nC. Only NPA  \nD. Only profitability  \n\n**Answer:** A  \n**Explanation:** CAMELS composite supervisory rating framework है जो कई dimensions par bank की soundness को आँकता hai.  \n\n---\n\n### Q56. “Prompt Corrective Action” (PCA) framework of RBI is triggered when:  \n### Q56. RBI का “PCA फ्रेमवर्क” कब लागू होता है?\n\nA. Bank is making very high profits  \nB. Bank breaches thresholds of capital, asset quality, profitability / बैंक पूँजी, परिसंपत्ति गुणवत्ता, लाभप्रदता के निश्चित मानकों से नीचे चला जाए  \nC. Bank opens too many branches  \nD. Bank launches new products  \n\n**Answer:** B  \n**Explanation:** PCA ka उद्देश्य कमजोर बैंकों par समय रहते supervisory actions लेकर जोखिम सीमित करना hai.  \n\n---\n\n### Q57. “Differentiated banking licences” include which types of banks?  \n### Q57. “Differentiated banking licences” में किन प्रकार के बैंकों को शामिल किया जाता है?\n\nA. Only foreign banks  \nB. Small Finance Banks and Payments Banks / स्मॉल फाइनेंस बैंक और पेमेंट्स बैंक  \nC. Only RRBs  \nD. Only co‑operative banks  \n\n**Answer:** B  \n**Explanation:** RBI ने financial inclusion के लिए SFBs और Payments Banks जैसी differentiated banks को अनुमति दी hai.  \n\n---\n\n### Q58. “Small Finance Banks” are primarily set up to serve:  \n### Q58. “स्मॉल फाइनेंस बैंक” मुख्यतः किस वर्ग की सेवा के लिए स्थापित किए गए हैं?\n\nA. Large corporates  \nB. High net‑worth individuals  \nC. Small businesses, small farmers and unorganised sector / छोटे व्यवसाय, छोटे किसान और असंगठित क्षेत्र  \nD. Only government employees  \n\n**Answer:** C  \n**Explanation:** SFBs का focus छोटे ticket loans, MSME, agriculture, low‑income households पर होता hai.  \n\n---\n\n### Q59. “Payments Banks” are allowed to:  \n### Q59. “पेमेंट्स बैंक” को किस कार्य की अनुमति है?\n\nA. Give large term loans  \nB. Accept demand deposits and provide payment/remittance services / मांग जमा स्वीकार करना और payment/remittance सेवाएँ देना  \nC. Undertake complex derivatives  \nD. Issue credit cards  \n\n**Answer:** B  \n**Explanation:** Payments banks deposits, remittances, payments services दे सकते हैं, lekin loans नहीं दे सकते.  \n\n---\n\n### Q60. “Financial stability” in banking system broadly means:  \n### Q60. बैंकिंग प्रणाली में “फाइनेंशियल स्टेबिलिटी” से क्या तात्पर्य है?\n\nA. No bank ever makes losses  \nB. System can absorb shocks without collapsing / प्रणाली झटकों को सहकर भी ढहे बिना काम कर सके  \nC. Only high profits  \nD. No competition  \n\n**Answer:** B  \n**Explanation:** Stable system में shocks के बावजूद critical functions जारी रहते हैं aur contagion नहीं फैलता.  \n\n---\n\n### Q61. “Net Interest Margin” (NIM) is calculated as:  \n### Q61. “नेट इंटरेस्ट मार्जिन” (NIM) कैसे निकाला जाता है?\n\nA. Net profit ÷ total assets  \nB. Net interest income ÷ average earning assets / नेट इंटरेस्ट इनकम ÷ औसत earning assets  \nC. Deposits ÷ advances  \nD. CASA ÷ total deposits  \n\n**Answer:** B  \n**Explanation:** NIM bank की core lending business से कमाई को उसके earning assets ke अनुपात में दिखाता hai.  \n\n---\n\n### Q62. “Return on Assets” (RoA) of a bank is:  \n### Q62. किसी बैंक का “Return on Assets” (RoA) क्या दर्शाता है?\n\nA. Net profit ÷ total assets / शुद्ध लाभ ÷ कुल परिसंपत्तियाँ  \nB. Net profit ÷ equity  \nC. Interest income ÷ advances  \nD. Deposits ÷ assets  \n\n**Answer:** A  \n**Explanation:** RoA से पता चलता hai ki bank कुल assets पर कितना लाभ कमा रहा है; यह profitability का key indicator है.  \n\n---\n\n### Q63. “CASA ratio” is:  \n### Q63. “CASA ratio” क्या होता है?\n\nA. Current Account + Savings Account deposits as % of total deposits / करेंट + सेविंग्स जमा ÷ कुल जमा  \nB. Capital ÷ assets  \nC. Advances ÷ assets  \nD. Cash ÷ assets  \n\n**Answer:** A  \n**Explanation:** High CASA ratio se bank ko low‑cost funds मिलते हैं, जिससे NIM बेहतर हो सकता hai.  \n\n---\n\n### Q64. “Fee‑based income” of banks arises from:  \n### Q64. बैंकों की “fee‑based income” किससे उत्पन्न होती है?\n\nA. Interest on loans  \nB. Interest on investments  \nC. Commission and service charges / कमीशन और सेवा शुल्क  \nD. Interest on CRR balance  \n\n**Answer:** C  \n**Explanation:** Guarantees, remittances, cards, mutual fund/insurance distribution से मिलने वाली फीस fee‑based income कहलाती है.  \n\n---\n\n### Q65. “ALM” in banks stands for:  \n### Q65. बैंकों में “ALM” का पूरा रूप क्या है?\n\nA. Asset Liability Management / एसेट‑लायबिलिटी मैनेजमेंट  \nB. Asset Loss Monitoring  \nC. Average Loan Margin  \nD. Asset Ledger Maintenance  \n\n**Answer:** A  \n**Explanation:** ALM प्रक्रिया se banks maturity और interest rate mismatch risk ko manage करते हैं.  \n\n---\n\n### Q66. “Duration gap” in ALM analysis relates to:  \n### Q66. ALM विश्लेषण में “duration gap” किससे संबंधित है?\n\nA. Gap between deposit growth and loan growth  \nB. Difference between average duration of assets and liabilities / परिसंपत्तियों और देनदारियों की औसत अवधि के बीच अंतर  \nC. Gap between NIM and RoA  \nD. Gap between gross and net NPAs  \n\n**Answer:** B  \n**Explanation:** Duration gap se पता चलता hai ki interest rate changes par bank ke economic value par क्या प्रभाव पड़ेगा.  \n\n---\n\n### Q67. “Stress testing” in banks is used to:  \n### Q67. बैंकों में “stress testing” का उपयोग किसलिए किया जाता है?\n\nA. Test physical fitness of staff  \nB. Assess impact of extreme but plausible scenarios on bank’s financials / अत्यधिक किंतु संभावित परिस्थितियों का बैंक के वित्तीय स्थिति पर प्रभाव आँकना  \nC. Test only IT systems  \nD. Decide branch location  \n\n**Answer:** B  \n**Explanation:** Stress tests risk management ka महत्त्वपूर्ण हिस्सा हैं jo worst‑case scenarios के लिए तैयारी दिखाते हैं.  \n\n---\n\n### Q68. “Operational risk events” are typically recorded in:  \n### Q68. “ऑपरेशनल रिस्क इवेंट्स” सामान्यतः कहाँ दर्ज किए जाते हैं?\n\nA. KYC register  \nB. OR (Operational Risk) loss database / ऑपरेशनल रिस्क लॉस डेटाबेस  \nC. Demat account  \nD. Credit register  \n\n**Answer:** B  \n**Explanation:** Loss database se bank future में controls improve karne और capital estimate karne me मदद लेते हैं.  \n\n---\n\n### Q69. “Cyber risk” for banks mainly arises from:  \n### Q69. बैंकों के लिए “साइबर रिस्क” मुख्य रूप से किससे उत्पन्न होता है?\n\nA. Natural disasters  \nB. Failures in information systems, hacking, malware / सूचना प्रणालियों की विफलता, हैकिंग, मालवेयर  \nC. Cash shortages  \nD. Inflation  \n\n**Answer:** B  \n**Explanation:** Cyber attacks data चोरी, सेवा बाधित होने और आर्थिक नुकसान का कारण बन सकते हैं.  \n\n---\n\n### Q70. “Two‑factor authentication” (2FA) in digital transactions usually combines:  \n### Q70. डिजिटल लेन‑देन में “two‑factor authentication” (2FA) सामान्यतः किन दो चीजों का संयोजन होता है?\n\nA. Two passwords  \nB. Something you know + something you have / कुछ जो आप जानते हैं + कुछ जो आपके पास है  \nC. Two mobile numbers  \nD. Two bank accounts  \n\n**Answer:** B  \n**Explanation:** जैसे card + PIN, password + OTP; यह सुरक्षा को मजबूत बनाता hai.  \n\n---\n\n### Q71. “KYC Update” or periodic re‑KYC is required mainly to:  \n### Q71. नियमित “KYC अपडेट” या re‑KYC की आवश्यकता मुख्य रूप से किसलिए होती है?\n\nA. Change customer’s PAN  \nB. Keep customer information current and compliant / ग्राहक जानकारी को अद्यतन और नियमों के अनुरूप रखना  \nC. Increase interest rate  \nD. Close dormant accounts  \n\n**Answer:** B  \n**Explanation:** समय के साथ address, occupation आदि बदलते हैं; re‑KYC se records सही रहते हैं aur AML compliance सुधरता hai.  \n\n---\n\n### Q72. “Central KYC Registry” helps in:  \n### Q72. “Central KYC Registry” किसमें मदद करती है?\n\nA. Avoiding KYC for all customers  \nB. Sharing standardised KYC records across financial institutions / विभिन्न वित्तीय संस्थानों के बीच मानकीकृत KYC रिकॉर्ड साझा करना  \nC. Issuing credit cards  \nD. Printing cheque books  \n\n**Answer:** B  \n**Explanation:** CKYC se एक ही KYC कई संस्थानों me use की जा सकती hai, जिससे duplication कम होता hai.  \n\n---\n\n### Q73. “Customer profiling” in banks is primarily used for:  \n### Q73. बैंकों में “customer profiling” मुख्य रूप से किसलिए की जाती है?\n\nA. Designing branch architecture  \nB. Understanding normal transaction pattern for AML monitoring / AML मॉनिटरिंग हेतु ग्राहक की सामान्य लेन‑देन प्रोफ़ाइल समझने के लिए  \nC. Voting behaviour  \nD. Political analysis  \n\n**Answer:** B  \n**Explanation:** Profile ke आधार पर unusual activity को जल्दी पहचानकर suspicious transaction reporting की जा सकती hai.  \n\n---\n\n### Q74. “Suspicious Transaction Report” (STR) is filed with:  \n### Q74. “Suspicious Transaction Report” (STR) किसके पास दाखिल की जाती है?\n\nA. RBI  \nB. FIU‑IND (Financial Intelligence Unit–India) / FIU‑IND  \nC. SEBI  \nD. IRDAI  \n\n**Answer:** B  \n**Explanation:** FIU‑IND suspicious transactions ka national स्तर पर विश्लेषण करती है aur law‑enforcement agencies ke साथ जानकारी साझा करती hai.  \n\n---\n\n### Q75. “Currency chest” maintained by certain bank branches is actually:  \n### Q75. कुछ शाखाओं द्वारा संचालित “करेंसी चेस्ट” वास्तव में किसका होता है?\n\nA. Bank’s own property  \nB. Extension of RBI vaults / RBI के भंडार का विस्तार  \nC. Private locker room  \nD. Demat vault  \n\n**Answer:** B  \n**Explanation:** Currency chests RBI की ओर से cash stocking points hote हैं; इन्हें selected banks operate करते हैं.  \n\n---\n\n### Q76. “Clean notes policy” of RBI aims to:  \n### Q76. RBI की “क्लीन नोट पॉलिसी” का उद्देश्य क्या है?\n\nA. Promote only digital currency  \nB. Ensure availability of good quality notes and withdrawal of soiled notes / अच्छी गुणवत्ता वाले नोट उपलब्ध कराना और गंदे नोटों को समय‑समय पर हटाना  \nC. Reduce note circulation  \nD. Increase counterfeit notes  \n\n**Answer:** B  \n**Explanation:** Clean notes policy से जनता को साफ‑सुथरी currency उपलब्ध कराई जाती hai.  \n\n---\n\n### Q77. “Demonetisation” refers to:  \n### Q77. “Demonetisation” से क्या तात्पर्य है?\n\nA. Introducing new coins  \nB. Withdrawal of a currency’s legal tender status / किसी मुद्रा मूल्यवर्ग के वैध चलन दर्जे को समाप्त करना  \nC. Increasing taxes  \nD. Cutting interest rates  \n\n**Answer:** B  \n**Explanation:** Demonetisation me कुछ नोटों को वैध मुद्रा के रूप में स्वीकार नहीं किया जाता, और उनकी जगह नए नोट आ सकते हैं.  \n\n---\n\n### Q78. “Bank merger” primarily aims to:  \n### Q78. “बैंक मर्जर” का मुख्य उद्देश्य क्या होता है?\n\nA. Increase number of banks  \nB. Create stronger, more efficient banks with larger balance sheets / मज़बूत और अधिक कुशल बड़े बैंक बनाना  \nC. Reduce customer base  \nD. Eliminate competition  \n\n**Answer:** B  \n**Explanation:** Merger se synergy, बेहतर capital, लागत दक्षता aur network विस्तार के लक्ष्य प्राप्त किये जाते हैं.  \n\n---\n\n### Q79. “Universal banking” refers to a model where a bank:  \n### Q79. “यूनिवर्सल बैंकिंग” उस मॉडल को कहते हैं जिसमें बैंक:\n\nA. Does only one activity  \nB. Provides a wide range of services—commercial banking, investment, insurance etc. / वाणिज्यिक बैंकिंग, निवेश, बीमा आदि की व्यापक सेवाएँ प्रदान करता है  \nC. Operates only in rural areas  \nD. Operates only in one state  \n\n**Answer:** B  \n**Explanation:** Universal banks बहु‑उत्पाद और बहु‑सेगमेंट financial conglomerates ke रूप में काम कर सकते हैं.  \n\n---\n\n### Q80. “Narrow banking” concept involves:  \n### Q80. “नैरो बैंकिंग” की अवधारणा किससे जुड़ी है?\n\nA. Banks taking high risk  \nB. Banks investing mainly in safe government securities / बैंकों द्वारा मुख्यतः सुरक्षित सरकारी प्रतिभूतियों में निवेश करना  \nC. Banks focusing only on urban customers  \nD. Banks dealing only in forex  \n\n**Answer:** B  \n**Explanation:** Narrow banks deposits ko high‑risk loans की बजाय सुरक्षित securities में पार्क कर liquidity aur safety बढ़ाते हैं.  \n\n---\n\n### Q81. “Green banking” mainly refers to:  \n### Q81. “ग्रीन बैंकिंग” से मुख्य रूप से क्या तात्पर्य है?\n\nA. Lending only to agriculture  \nB. Environment‑friendly banking practices and financing green projects / पर्यावरण अनुकूल बैंकिंग और हरित परियोजनाओं को वित्तपोषण  \nC. Printing green coloured notes  \nD. Only paperless banking  \n\n**Answer:** B  \n**Explanation:** Green banking pollution‑free operations, energy efficiency aur environment friendly projects को support करता hai.  \n\n---\n\n### Q82. “Shadow banking” generally refers to:  \n### Q82. “शैडो बैंकिंग” सामान्यतः किसे दर्शाता है?\n\nA. Central banking  \nB. Non‑bank financial intermediaries performing bank‑like activities / bank‑जैसी गतिविधियाँ करने वाले गैर‑बैंक वित्तीय मध्यस्थ  \nC. Rural co‑operative banks  \nD. Offshore banking units  \n\n**Answer:** B  \n**Explanation:** Shadow banking में NBFCs, mutual funds आदि शामिल हो सकते हैं jo credit intermediation करते हैं lekin banks की तरह regulate नहीं होते.  \n\n---\n\n### Q83. “Financial literacy centres (FLCs)” are promoted by:  \n### Q83. “Financial Literacy Centres (FLCs)” को किसके द्वारा बढ़ावा दिया जाता है?\n\nA. SEBI only  \nB. Banks and RBI / बैंक एवं RBI  \nC. Telecom companies  \nD. Insurance agents  \n\n**Answer:** B  \n**Explanation:** RBI ke निर्देश पर banks FLCs चलाते हैं ताकि common people ko basic financial concepts samjाए जा सकें.  \n\n---\n\n### Q84. “Home loan teaser rates” usually mean:  \n### Q84. “Teaser rate” home loan का क्या मतलब होता है?\n\nA. Fixed low rate for entire tenure  \nB. Introductory low rate for initial period, then higher floating rate / शुरुआती कुछ वर्षों के लिए कम दर, बाद में उच्च फ्लोटिंग दर  \nC. Zero interest loan  \nD. Only for government employees  \n\n**Answer:** B  \n**Explanation:** Teaser loans initial period me आकर्षक दिखते हैं, lekin बाद में rate बढ़ सकता hai; regulator इस पर निगरानी रखता hai.  \n\n---\n\n### Q85. “Reverse mortgage” product is mainly targeted at:  \n### Q85. “रिवर्स मॉर्गेज” उत्पाद मुख्यतः किन लोगों के लिए होता है?\n\nA. Young salaried individuals  \nB. Senior citizens who own a house / घर के मालिक वरिष्ठ नागरिक  \nC. Students  \nD. Corporates  \n\n**Answer:** B  \n**Explanation:** Reverse mortgage me senior citizens apne घर ke बदले périodic income लेते हैं, loan ki वसूली बाद में घर बेचकर होती है.  \n\n---\n\n### Q86. “Education loan” is typically classified under which category for banks?  \n### Q86. “Education loan” बैंकों की किस श्रेणी में आता है?\n\nA. Priority sector – education / प्राथमिक क्षेत्र – शिक्षा  \nB. Non‑priority corporate loan  \nC. Only retail housing  \nD. Only agriculture  \n\n**Answer:** A  \n**Explanation:** PSL norms ke तहत education loans को priority sector classification दी जाती hai.  \n\n---\n\n### Q87. “MUDRA loans” are mainly for:  \n### Q87. “मुद्रा ऋण” मुख्यतः किसके लिए हैं?\n\nA. Large corporates  \nB. Micro and small non‑farm enterprises / सूक्ष्म एवं छोटे गैर‑कृषि उद्यम  \nC. Only farmers  \nD. Only salaried borrowers  \n\n**Answer:** B  \n**Explanation:** PMMY के तहत MUDRA loans छोटे व्यवसायों, दुकानों, service units आदि के लिए दिए जाते हैं.  \n\n---\n\n### Q88. “Stand‑up India” scheme focuses on:  \n### Q88. “Stand‑up India” योजना का मुख्य फोकस क्या है?\n\nA. Large infrastructure  \nB. Loans to SC/ST and women entrepreneurs / SC/ST और महिला उद्यमियों को ऋण देना  \nC. Only agriculture  \nD. Only government employees  \n\n**Answer:** B  \n**Explanation:** Stand‑up India bank शाखा प्रति कम से कम एक SC/ST और एक महिला उद्यमी को greenfield enterprise loan देने को प्रोत्साहित करती hai.  \n\n---\n\n### Q89. “Kisan Credit Card” (KCC) primarily provides:  \n### Q89. “किसान क्रेडिट कार्ड” (KCC) मुख्यतः क्या सुविधा देता है?\n\nA. Long‑term housing finance  \nB. Short‑term crop loans and working capital for farmers / फसल ऋण और किसान के कार्यशील पूँजी की सुविधा  \nC. Pension to farmers  \nD. Insurance only  \n\n**Answer:** B  \n**Explanation:** KCC se किसानों ko revolving credit limit मिलती hai jisse वे खेती से जुड़ा खर्च उठा सकें.  \n\n---\n\n### Q90. “Gold monetisation scheme” encourages:  \n### Q90. “Gold Monetisation Scheme” किसको प्रोत्साहित करती है?\n\nA. Import of more gold  \nB. Households and institutions to deposit idle gold with banks / घरों और संस्थानों ko बेकार पड़े सोने को बैंकों में जमा करने के लिए  \nC. Purchase of new jewellery  \nD. Use of gold as currency  \n\n**Answer:** B  \n**Explanation:** Scheme ka उद्देश्य है ki देश के पास जो physical gold है उसे productive use me लाया जाए.  \n\n---\n\n### Q91. “Securitisation” in banking refers to:  \n### Q91. बैंकिंग में “securitisation” से क्या तात्पर्य है?\n\nA. Giving secured loans only  \nB. Converting illiquid loan assets into tradable securities / ऋण परिसंपत्तियों के समूह को व्यापार योग्य प्रतिभूतियों में बदलना  \nC. Increasing CRR  \nD. Reducing capital  \n\n**Answer:** B  \n**Explanation:** Securitisation me loans ka pool SPV ko बेचा जाता hai jo investors ko securities issue karta hai.  \n\n---\n\n### Q92. “Factoring” services are used mainly by:  \n### Q92. “फैक्टरिंग” सेवाओं का उपयोग मुख्यतः कौन करता है?\n\nA. Large government departments  \nB. Businesses needing working capital against receivables / receivables के विरुद्ध working capital चाहने वाले व्यवसाय  \nC. Households for personal loans  \nD. Only banks  \n\n**Answer:** B  \n**Explanation:** Factoring company invoices खरीदकर तुरंत cash provide karti hai aur बाद में debtors se वसूली करती hai.  \n\n---\n\n### Q93. “Forfaiting” differs from factoring mainly in that it:  \n### Q93. “Forfaiting” फैक्टरिंग से मुख्यतः किस प्रकार अलग है?\n\nA. Is only domestic  \nB. Is used for medium‑term export receivables and usually without recourse / मध्यम अवधि के निर्यात देयकों के लिए और सामान्यतः बिना recourse  \nC. Does not involve discounting  \nD. Is only for small amounts  \n\n**Answer:** B  \n**Explanation:** Forfaiter exporter se receivables खरीदकर पूरा जोखिम ले लेता hai, खासकर medium‑term export credit me.  \n\n---\n\n### Q94. “Export credit insurance” in India is largely provided by:  \n### Q94. भारत में “export credit insurance” मुख्य रूप से कौन प्रदान करता है?\n\nA. LIC  \nB. ECGC  \nC. IRDAI  \nD. SEBI  \n\n**Answer:** B  \n**Explanation:** Export Credit Guarantee Corporation (ECGC) exporters ko commercial aur political risk cover देने ke लिए insurance प्रदान करता hai.  \n\n---\n\n### Q95. “EXIM Bank of India” mainly provides:  \n### Q95. “एक्ज़िम बैंक ऑफ इंडिया” मुख्यतः क्या प्रदान करता है?\n\nA. Retail housing loans  \nB. Export‑import finance, buyer’s credit and lines of credit / निर्यात‑आयात वित्त, buyer’s credit और line of credit  \nC. Crop loans  \nD. Education loans  \n\n**Answer:** B  \n**Explanation:** EXIM Bank international trade को support करने ke लिए specialised वित्तीय सेवाएँ देता hai.  \n\n---\n\n### Q96. “Letter of Credit” (LC) issued by a bank is a:  \n### Q96. बैंक द्वारा जारी “Letter of Credit” (LC) किस प्रकार का साधन है?\n\nA. Guarantee to pay seller subject to terms / शर्तों के पालन पर विक्रेता को भुगतान की बैंक गारंटी  \nB. Simple advice  \nC. Cash loan  \nD. Insurance policy  \n\n**Answer:** A  \n**Explanation:** LC se seller ko payment assurance मिलती hai, isse international trade में risk घटता hai.  \n\n---\n\n### Q97. “Bill of Lading” in international trade is issued by:  \n### Q97. अंतरराष्ट्रीय व्यापार में “Bill of Lading” किसके द्वारा जारी किया जाता है?\n\nA. Exporter  \nB. Importer  \nC. Shipping company / शिपिंग कंपनी  \nD. Insurance company  \n\n**Answer:** C  \n**Explanation:** Bill of Lading माल ग्रहण करने की रसीद aur title document होता hai जो shipping company जारी करती hai.  \n\n---\n\n### Q98. “Forward contract” in foreign exchange is used mainly to:  \n### Q98. विदेशी मुद्रा में “forward contract” का उपयोग मुख्यतः किसलिए किया जाता है?\n\nA. Fix interest rate  \nB. Hedge future exchange rate risk / भविष्य की विनिमय दर के जोखिम से बचाव  \nC. Avoid KYC  \nD. Increase NPA  \n\n**Answer:** B  \n**Explanation:** Exporters/importers future date ke लिए fx rate lock कर लेते हैं ताकि rate fluctuations se बचाव हो सके.  \n\n---\n\n### Q99. “Nostro account” maintained by an Indian bank is:  \n### Q99. भारतीय बैंक द्वारा रखा गया “Nostro account” क्या होता है?\n\nA. Our account with RBI  \nB. Our bank’s account with a foreign bank in foreign currency / किसी विदेशी बैंक में हमारी बैंक का विदेशी मुद्रा में खाता  \nC. Foreign bank’s account with us  \nD. Customer’s account  \n\n**Answer:** B  \n**Explanation:** Nostro = “our account with you”; यह international settlement के लिए उपयोग होता hai.  \n\n---\n\n### Q100. “Vostro account” in India refers to:  \n### Q100. भारत में “Vostro account” किसे कहा जाता है?\n\nA. Our account abroad  \nB. Foreign bank’s account with us / हमारे यहाँ किसी विदेशी बैंक का खाता  \nC. Customer’s current account  \nD. Government’s account  \n\n**Answer:** B  \n**Explanation:** Vostro = “your account with us”; यह हमारे books में foreign/local bank के खाते को दर्शाता hai.  \n\n
+### Q10. In mutual fund terminology, “SIP” stands for what?  
+### Q10. म्यूचुअल फंड शब्दावली में “SIP” का पूरा रूप क्या है?
+
+A. Systematic Investment Plan / सिस्टमैटिक इन्वेस्टमेंट प्लान  
+B. Simple Interest Plan / सिंपल इंटरेस्ट प्लान  
+C. Systematic Insurance Product / सिस्टमैटिक इंश्योरेंस प्रोडक्ट  
+D. Savings Incentive Programme / सेविंग्स इंसेंटिव प्रोग्राम  
+
+**Answer:** A  
+**Explanation:** SIP वह तरीका hai jisme investor नियमित अंतराल (जैसे monthly) पर निश्चित राशि mutual fund scheme me invest karta hai; यह rupee‑cost averaging में मदद करता hai.  
+
+---
+
+### Q11. In mutual funds, an “open‑ended scheme” means:  
+### Q11. म्यूचुअल फंड में “open‑ended scheme” से क्या तात्पर्य है?
+
+A. Units can be bought/sold only during NFO period  
+B. Units can be bought or redeemed on any business day at NAV / किसी भी कार्य दिवस पर NAV पर units खरीदी या बेची जा सकती हैं  
+C. Scheme has a fixed maturity date  
+D. Scheme is available only to institutions  
+
+**Answer:** B  
+**Explanation:** Open‑ended schemes continuous basis par purchase/redemption allow karte हैं; inka कोई fixed maturity नहीं hota.  
+
+---
+
+### Q12. A “close‑ended” mutual fund scheme generally:  
+### Q12. “Close‑ended” म्यूचुअल फंड स्कीम सामान्यतः:
+
+A. Has no maturity  
+B. Has fixed maturity and units are often listed on stock exchange / निश्चित maturity होती है और units अक्सर stock exchange पर list होती हैं  
+C. Can be bought/sold daily from AMC like open‑ended  
+D. Is allowed only for government employees  
+
+**Answer:** B  
+**Explanation:** Close‑ended funds NFO ke दौरान hi subscribe kiye जा सकते हैं; बाद में liquidity stock exchange par trading se मिलती है.  
+
+---
+
+### Q13. “ELSS” mutual funds are primarily used for which purpose?  
+### Q13. “ELSS” म्यूचुअल फंड मुख्य रूप से किस उद्देश्य के लिए उपयोग किए जाते हैं?
+
+A. Currency hedging  
+B. Tax‑saving investments under Section 80C / आयकर की धारा 80C के तहत tax‑saving निवेश  
+C. Only gold investment  
+D. Only debt investment  
+
+**Answer:** B  
+**Explanation:** Equity Linked Savings Schemes (ELSS) 3‑year lock‑in वाले equity funds hain jo Section 80C ke अंतर्गत tax deduction provide kar sakte हैं (tax rules ke अनुसार).  
+
+---
+
+### Q14. “Expense ratio” in a mutual fund refers to:  
+### Q14. म्यूचुअल फंड में “expense ratio” किसे दर्शाता है?
+
+A. Entry load charged at the time of purchase  
+B. Annual fund management and administrative expenses as % of AUM / AUM के प्रतिशत के रूप में वार्षिक प्रबंधन व प्रशासनिक खर्च  
+C. Exit load on redemption  
+D. Brokerage paid by investor to stock broker  
+
+**Answer:** B  
+**Explanation:** Expense ratio jitna कम ho, utna investor ke लिए बेहतर mana जाता hai (baaki sab समान होने पर), kyunki ज्‍यादा हिस्सा portfolio returns ka investor ko मिलता है.  
+
+---
+
+### Q15. “Exit load” in a mutual fund is:  
+### Q15. म्यूचुअल फंड में “exit load” क्या होता है?
+
+A. Fee charged at the time of buying units  
+B. Fee charged on redeeming units before a specified period / निश्चित अवधि से पहले units बेचने पर लगने वाला शुल्क  
+C. Annual platform charge  
+D. Tax deducted at source  
+
+**Answer:** B  
+**Explanation:** Exit load se short‑term investors ko discourage किया जाता hai; यह scheme‑specific hota hai aur offer document me दिया रहता है.  
+
+---
+
+### Q16. In mutual funds, “growth option” means:  
+### Q16. म्यूचुअल फंड में “growth option” का क्या अर्थ है?
+
+A. Fund guarantees principal and interest  
+B. No dividend is paid; returns are reflected in NAV appreciation / कोई dividend नहीं, सारी कमाई NAV बढ़ने में दिखती है  
+C. Only debt securities are allowed  
+D. NAV कभी नहीं बदलता  
+
+**Answer:** B  
+**Explanation:** Growth option चुनने पर fund ka लाभ reinvest होता है; investor ko payout नहीं मिलता, long‑term compounding ke लिए ये विकल्प popular hai.  
+
+---
+
+### Q17. A “dividend payout option” in mutual funds implies:  
+### Q17. म्यूचुअल फंड में “dividend payout option” का क्या मतलब है?
+
+A. Fund never pays anything  
+B. Fund periodically pays part of surplus as dividend / fund समय‑समय पर surplus ka हिस्सा dividend ke रूप में देता है  
+C. Capital guarantee at maturity  
+D. Only tax‑free returns  
+
+**Answer:** B  
+**Explanation:** Dividend payout me NAV se राशि काटकर investor ko cash diya जाता hai; yeh profit guarantee नहीं hota, market risk phir bhi रहता hai.  
+
+---
+
+### Q18. “Systematic Withdrawal Plan (SWP)” allows an investor to:  
+### Q18. “Systematic Withdrawal Plan (SWP)” से निवेशक क्या कर सकता है?
+
+A. Invest fixed amount regularly  
+B. Withdraw fixed amount at regular intervals / नियमित अंतराल पर निश्चित राशि निकालना  
+C. Switch from one fund to another automatically  
+D. Avoid all taxes  
+
+**Answer:** B  
+**Explanation:** SWP से retirement jaisi situations me regular cash‑flow mil sakta hai; isme units periodically redeem ki जाती हैं.  
+
+---
+
+### Q19. Which of the following organisations regulates mutual funds in India?  
+### Q19. भारत में म्यूचुअल फंड का विनियमन कौन‑सी संस्था करती है?
+
+A. RBI  
+B. SEBI  
+C. IRDAI  
+D. PFRDA  
+
+**Answer:** B  
+**Explanation:** Securities and Exchange Board of India (SEBI) mutual funds ke registration, disclosure norms, investor protection etc regulate करता hai.  
+
+---
+
+### Q20. “IFCI” established in 1948 was primarily set up to:  
+### Q20. 1948 में स्थापित IFCI का मुख्य उद्देश्य क्या था?
+
+A. Provide agricultural refinance only  
+B. Provide medium and long‑term industrial finance / मध्यम एवं दीर्घावधि औद्योगिक वित्त उपलब्ध कराना  
+C. Regulate mutual funds  
+D. Issue currency notes  
+
+**Answer:** B  
+**Explanation:** Industrial Finance Corporation of India (IFCI) हमारा पहला विकास वित्त संस्थान था, jo उद्योगों ko term finance देता tha.  
+
+---
+
+### Q21. “NABARD” mainly finances which sector?  
+### Q21. NABARD मुख्यतः किस क्षेत्र के लिए वित्त उपलब्ध कराता है?
+
+A. Large corporates  
+B. Agriculture and rural development / कृषि एवं ग्रामीण विकास  
+C. Urban infrastructure only  
+D. Defence projects  
+
+**Answer:** B  
+**Explanation:** National Bank for Agriculture and Rural Development (NABARD) कृषि, ग्रामीण वित्त, co‑operative banks aur RRBs ke refinancing ke लिए apex institution hai.  
+
+---
+
+### Q22. “SIDBI” focuses primarily on:  
+### Q22. SIDBI मुख्यतः किस पर ध्यान देता है?
+
+A. Housing finance  
+B. Micro, Small and Medium Enterprises (MSMEs) / सूक्ष्म, लघु एवं मध्यम उद्यम  
+C. Large infrastructure projects only  
+D. Foreign exchange management  
+
+**Answer:** B  
+**Explanation:** Small Industries Development Bank of India MSME sector ko refinance aur direct finance provide karta hai.  
+
+---
+
+### Q23. “EXIM Bank of India” is mainly associated with:  
+### Q23. भारत का EXIM Bank मुख्यतः किससे जुड़ा हुआ है?
+
+A. Retail housing loans  
+B. Export‑Import finance / निर्यात‑आयात वित्त  
+C. Agricultural credit  
+D. Personal loans  
+
+**Answer:** B  
+**Explanation:** Export‑Import Bank of India exporters, importers aur overseas projects ko term finance, buyers’ credit, line of credit आदि provide karta hai.  
+
+---
+
+### Q24. “RRB” stands for Regional Rural Bank. Their main objective is to:  
+### Q24. Regional Rural Bank (RRB) ka मुख्य उद्देश्य क्या है?
+
+A. Finance only large corporates  
+B. Provide banking and credit to rural areas and weaker sections / ग्रामीण क्षेत्रों और कमजोर वर्गों को बैंकिंग और ऋण सुविधा देना  
+C. Regulate forex markets  
+D. Run stock exchanges  
+
+**Answer:** B  
+**Explanation:** RRBs ka focus rural clientele – farmers, artisans, small entrepreneurs – par hota hai, jisse financial inclusion badhta hai.  
+
+---
+
+### Q25. Under the ownership structure of an RRB, shareholding is generally shared between:  
+### Q25. RRB के ownership structure में शेयरहोल्डिंग सामान्यतः किन‑किन के बीच बँटी होती है?
+
+A. Only Central Government  
+B. Central Government, State Government and Sponsor Bank / केंद्र सरकार, राज्य सरकार और प्रायोजक बैंक  
+C. Only private shareholders  
+D. Only RBI  
+
+**Answer:** B  
+**Explanation:** Traditional pattern me 50% Centre, 15% State, 35% sponsor bank shareholding rakhi गई hai (reforms ke बावजूद exam point se important hai).  
+
+---
+
+### Q26. “Priority Sector Lending (PSL)” norms are issued by:  
+### Q26. “प्राथमिक क्षेत्र ऋण” (PSL) मानदंड कौन जारी करता है?
+
+A. SEBI  
+B. RBI  
+C. IRDAI  
+D. NABARD  
+
+**Answer:** B  
+**Explanation:** RBI PSL norms se banks ko agriculture, MSME, education, housing, weaker sections आदि को minimum credit dene ki binding karta hai.  
+
+---
+
+### Q27. Which of the following is NOT a traditional priority sector?  
+### Q27. निम्न में से कौन‑सा पारंपरिक प्राथमिक क्षेत्र नहीं माना जाता?
+
+A. Agriculture / कृषि  
+B. MSME  
+C. Export credit / निर्यात ऋण  
+D. Speculative equity trading / सट्टा इक्विटी ट्रेडिंग  
+
+**Answer:** D  
+**Explanation:** Speculative trading development‑oriented नहीं माना जाता; PSL growth‑oriented segments ke लिए hota hai.  
+
+---
+
+### Q28. “Lead Bank Scheme” was introduced to:  
+### Q28. “Lead Bank Scheme” किस उद्देश्य से शुरू की गई थी?
+
+A. Promote only foreign banks  
+B. Assign a lead bank in each district to coordinate development and credit planning / प्रत्येक ज़िले में विकास और ऋण योजना के लिए एक lead bank नियुक्त करना  
+C. Regulate insurance companies  
+D. Run capital markets  
+
+**Answer:** B  
+**Explanation:** Lead bank ko district‑level credit plans, branch expansion aur government schemes ke coordination ki ज़िम्मेदारी di जाती hai.  
+
+---
+
+### Q29. Which of the following accounts is typically opened under financial inclusion for low‑income households with basic facilities?  
+### Q29. वित्तीय समावेशन के तहत निम्न‑आय परिवारों के लिए सामान्यतः किस प्रकार का basic खाता खोला जाता है?
+
+A. NRI account  
+B. BSBD / PMJDY account / BSBD या PMJDY खाता  
+C. EEFC account  
+D. DEMAT account  
+
+**Answer:** B  
+**Explanation:** Basic Savings Bank Deposit (BSBD) aur PMJDY accounts zero‑balance, limited charges aur basic सुविधाओं के साथ आते हैं.  
+
+---
+
+### Q30. “PMJDY” stands for:  
+### Q30. “PMJDY” का पूरा रूप क्या है?
+
+A. Pradhan Mantri Jan‑Dhan Yojana / प्रधानमंत्री जन‑धन योजना  
+B. Pradhan Mantri Jan‑Data Yojana  
+C. Public Money Jan‑Dhan Yojana  
+D. Prime Minister Joint Deposit Yojana  
+
+**Answer:** A  
+**Explanation:** PMJDY ek flagship financial‑inclusion scheme hai jisme basic accounts, RuPay card, overdraft aur insurance cover जैसी सुविधाएँ दी जाती हैं.  
+
+---
+
+### Q31. “CASA ratio” of a bank refers to:  
+### Q31. किसी बैंक का “CASA ratio” किसे दर्शाता है?
+
+A. Cash + Assets ÷ Savings + Advances  
+B. Current Account + Savings Account deposits as % of total deposits / करेंट + सेविंग्स जमा का कुल जमा में प्रतिशत  
+C. Capital ÷ Assets  
+D. Advances ÷ Assets  
+
+**Answer:** B  
+**Explanation:** High CASA ratio ka मतलब bank ke पास low‑cost deposits ज्यादा hain, jo NIM improve कर सकते हैं.  
+
+---
+
+### Q32. “Net Interest Margin (NIM)” is defined as:  
+### Q32. “Net Interest Margin (NIM)” किस प्रकार परिभाषित होता है?
+
+A. Net profit ÷ total assets  
+B. Net interest income ÷ average earning assets / नेट इंटरेस्ट इनकम ÷ औसत earning assets  
+C. Interest income ÷ deposits  
+D. Advances ÷ deposits  
+
+**Answer:** B  
+**Explanation:** NIM bank ki core lending aur investment business se कमाई ko its earning assets ke अनुपात में दिखाता hai.  
+
+---
+
+### Q33. “Return on Assets (RoA)” of a bank is:  
+### Q33. किसी बैंक का “Return on Assets (RoA)” क्या दर्शाता है?
+
+A. Net profit ÷ total assets / शुद्ध लाभ ÷ कुल परिसंपत्तियाँ  
+B. Net profit ÷ equity  
+C. Interest income ÷ advances  
+D. Deposits ÷ assets  
+
+**Answer:** A  
+**Explanation:** RoA batाता hai ki bank अपने कुल assets par कितना लाभ कमा रहा है; यह profitability ka महत्वपूर्ण सूचक hai.  
+
+---
+
+### Q34. “Capital Adequacy Ratio (CAR/CRAR)” measures:  
+### Q34. “Capital Adequacy Ratio (CAR/CRAR)” किसका माप है?
+
+A. Liquidity level  
+B. Capital as percentage of risk‑weighted assets / जोखिम भारित परिसंपत्तियों के प्रतिशत के रूप में पूँजी  
+C. NPA level  
+D. Interest spread  
+
+**Answer:** B  
+**Explanation:** CAR se पता चलता hai ki bank ke पास risk cover karne ke लिए regulator‑prescribed capital hai या नहीं.  
+
+---
+
+### Q35. Basel norms mainly relate to:  
+### Q35. Basel norms मुख्यतः किससे संबंधित हैं?
+
+A. Taxation of banks  
+B. Capital adequacy, risk management and liquidity for banks / बैंकों की पूँजी पर्याप्तता, जोखिम प्रबंधन और तरलता  
+C. Customer service benchmarks  
+D. Foreign trade policy  
+
+**Answer:** B  
+**Explanation:** Basel I/II/III frameworks bank capital, leverage ratio, liquidity coverage ratio (LCR) आदि ke लिए norms define karte हैं.  
+
+---
+
+### Q36. “NPA” in banking terminology stands for:  
+### Q36. बैंकिंग शब्दावली में “NPA” का पूरा रूप क्या है?
+
+A. Non‑Priority Account  
+B. Non‑Performing Asset  
+C. Net Performing Amount  
+D. New Provisioning Account  
+
+**Answer:** B  
+**Explanation:** NPA वह loan asset hai jisme interest/principal तय सीमा (जैसे 90 days) se ज़्यादा overdue ho chuka hai.  
+
+---
+
+### Q37. Provisioning for NPAs means:  
+### Q37. NPA के लिए provisioning का क्या अर्थ है?
+
+A. Loan amount को घटाना  
+B. Expected loss cover करने के लिए profit se राशि अलग रखना / संभावित हानि की भरपाई के लिए लाभ का हिस्सा अलग रखना  
+C. Loan waive कर देना  
+D. Loan ko दूसरे bank ko बेच देना  
+
+**Answer:** B  
+**Explanation:** Provisioning ek accounting buffer hai jo future loss absorb karne के लिए बनाया जाता है; यह सीधे borrower se वसूली नहीं hai.  
+
+---
+
+### Q38. “Call money market” deals with funds lent/borrowed for:  
+### Q38. “Call money market” में funds कितनी अवधि के लिए उधार/उधार लिए जाते हैं?
+
+A. 1–3 years  
+B. 3–5 years  
+C. Overnight to 14 days / O/N से 14 दिन तक  
+D. Above 10 years  
+
+**Answer:** C  
+**Explanation:** Call/notice money market very short‑term (overnight to 14 days) inter‑bank funds ke लिए होता hai.  
+
+---
+
+### Q39. “Money market” instruments do NOT include:  
+### Q39. “Money market” इंस्ट्रूमेंट्स में निम्न में से कौन शामिल नहीं है?
+
+A. Treasury Bills  
+B. Commercial Paper  
+C. Certificate of Deposit  
+D. Equity shares  
+
+**Answer:** D  
+**Explanation:** Equity shares capital market instruments hain; money market में short‑term debt instruments आते हैं.  
+
+---
+
+### Q40. “Commercial Paper (CP)” is generally issued by:  
+### Q40. “Commercial Paper (CP)” सामान्यतः किसके द्वारा जारी किया जाता है?
+
+A. Individuals  
+B. Corporates and financial institutions / कॉरपोरेट और वित्तीय संस्थाएँ  
+C. Only government  
+D. Only co‑operative societies  
+
+**Answer:** B  
+**Explanation:** CP unsecured short‑term promissory notes hote हैं jo अच्छी credit rating वाली कंपनियाँ short‑term funds के लिए जारी करती हैं.  
+
+---
+
+### Q41. A “Certificate of Deposit (CD)” in India is issued by:  
+### Q41. भारत में “Certificate of Deposit (CD)” किसके द्वारा जारी किया जाता है?
+
+A. Corporates  
+B. Scheduled commercial banks and select financial institutions / अनुसूचित वाणिज्यिक बैंक और कुछ वित्तीय संस्थान  
+C. Stock exchanges  
+D. RBI to public  
+
+**Answer:** B  
+**Explanation:** CDs negotiable money‑market instruments hain jo banks/FIs अपने बड़े depositors ko offer karte हैं.  
+
+---
+
+### Q42. “Negotiable Instrument” under the Negotiable Instruments Act does NOT include which of the following?  
+### Q42. नेगोशिएबल इंस्ट्रूमेंट्स एक्ट के तहत निम्न में से कौन‑सा negotiable instrument नहीं है?
+
+A. Cheque / चेक  
+B. Promissory Note / प्रतिज्ञा पत्र  
+C. Bill of Exchange / विनिमय बिल  
+D. Fixed Deposit Receipt (normally) / सामान्यतः फिक्स्ड डिपॉज़िट रसीद  
+
+**Answer:** D  
+**Explanation:** FDR को सामान्यतः negotiable नहीं माना जाता (जब तक विशेष endorsement न हो); NI Act में cheque, bill, promissory note covered hain.  
+
+---
+
+### Q43. “Crossing” of a cheque generally implies:  
+### Q43. किसी cheque को “cross” करने का सामान्य अर्थ क्या है?
+
+A. Cheque को invalid बनाना  
+B. Payment only through bank account, not cash at counter / भुगतान केवल खाते के माध्यम से, काउंटर पर नकद नहीं  
+C. Payment in foreign currency  
+D. Payment only on a fixed date  
+
+**Answer:** B  
+**Explanation:** Crossed cheque ka payment सिर्फ account credit ke रूप में किया जाता hai, जिससे security बढ़ती hai.  
+
+---
+
+### Q44. An “RTGS” transaction is best suited for:  
+### Q44. “RTGS” लेन‑देन किसके लिए सबसे उपयुक्त है?
+
+A. Small‑value retail payments  
+B. High‑value, time‑critical payments / उच्च मूल्य और समय‑संवेदी भुगतान  
+C. Only card settlements  
+D. Deposit insurance  
+
+**Answer:** B  
+**Explanation:** Real Time Gross Settlement (RTGS) में बड़े लेन‑देन real‑time settle hote हैं; minimum amount भी relatively high होती है (exam संदर्भ).  
+
+---
+
+### Q45. “NEFT” stands for:  
+### Q45. “NEFT” का पूरा रूप क्या है?
+
+A. National Electronic Funds Transfer / नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर  
+B. New Electronic Funds Technique  
+C. Net Exchange Funds Transfer  
+D. National Equity Funds Transfer  
+
+**Answer:** A  
+**Explanation:** NEFT retail electronic funds transfer system hai jo भारत में व्यापक रूप से use hota hai; अब 24x7 उपलब्ध hai (batches me).  
+
+---
+
+### Q46. In NEFT, settlement of transactions happens:  
+### Q46. NEFT में लेन‑देन का सेटलमेंट कैसे होता है?
+
+A. Real‑time, one by one  
+B. In half‑hourly batches / आधे‑आधे घंटे के batches में  
+C. Once in a month  
+D. Only at midnight  
+
+**Answer:** B  
+**Explanation:** NEFT ko near real‑time माना जाता hai क्योंकि दिन भर half‑hourly settlement batches चलते रहते हैं.  
+
+---
+
+### Q47. “IMPS” facility is operated by which organisation?  
+### Q47. “IMPS” सुविधा किस संगठन द्वारा संचालित की जाती है?
+
+A. RBI  
+B. NPCI  
+C. SEBI  
+D. IRDAI  
+
+**Answer:** B  
+**Explanation:** NPCI IMPS, UPI, RuPay आदि कई retail payment systems operate karta hai.  
+
+---
+
+### Q48. “UPI” allows fund transfer using primarily:  
+### Q48. “UPI” फंड ट्रांसफर मुख्यतः किसके माध्यम से करने की अनुमति देता है?
+
+A. Only account number  
+B. Only IFSC  
+C. Virtual Payment Address (VPA) / वर्चुअल पेमेंट एड्रेस  
+D. Only cheque  
+
+**Answer:** C  
+**Explanation:** UPI me VPA (जैसे id@bank) से बिना account details share kiye fund transfer किया जाता hai; mobile number, QR आदि भी use ho सकते हैं.  
+
+---
+
+### Q49. “Merchant Discount Rate (MDR)” is:  
+### Q49. “Merchant Discount Rate (MDR)” क्या है?
+
+A. Discount given to customer  
+B. Fee charged to merchant by acquirer/PSP on card/UPI transactions / कार्ड/UPI लेन‑देन पर acquirer/PSP द्वारा व्यापारी से ली जाने वाली फीस  
+C. Interest rate on loans  
+D. Tax rate on digital payments  
+
+**Answer:** B  
+**Explanation:** MDR वह शुल्क hai jo merchant ko payment acceptance ke बदले bank/PSP ko देना पड़ता hai; कई छोटी लेन‑देन पर सरकार ने MDR subsidise/zero भी किया hai (exam angle).  
+
+---
+
+### Q50. “KYC” in banking stands for:  
+### Q50. बैंकिंग में “KYC” का पूरा रूप क्या है?
+
+A. Know Your Capital  
+B. Know Your Customer  
+C. Keep Your Cash  
+D. Know Your Counterparty only in forex  
+
+**Answer:** B  
+**Explanation:** KYC norms customer identification, address verification aur risk profiling ke लिए बनाए जाते हैं ताकि money laundering aur terror‑financing रोकी जा सके.  
+
+---
+
+### Q51. Under KYC guidelines, which of the following documents is commonly accepted as Officially Valid Document (OVD)?  
+### Q51. KYC दिशानिर्देशों के तहत निम्न में से कौन‑सा दस्तावेज़ सामान्यतः Officially Valid Document (OVD) माना जाता है?
+
+A. Library card  
+B. Aadhaar (as per applicable rules), Passport etc. / आधार (लागू नियमों के अनुसार), पासपोर्ट आदि  
+C. College ID only  
+D. Cinema ticket  
+
+**Answer:** B  
+**Explanation:** OVD list me Aadhaar (subject to regulation), Passport, Driving licence, Voter ID, NREGA job card आदि आते हैं (exam level पर generic याद रखना पर्याप्त hai).  
+
+---
+
+### Q52. “PEP” in KYC terminology stands for:  
+### Q52. KYC शब्दावली में “PEP” का पूरा रूप क्या है?
+
+A. Personal Equity Plan  
+B. Politically Exposed Person  
+C. Primary Eligible Person  
+D. Public Employee Pensioner  
+
+**Answer:** B  
+**Explanation:** PEP ऐसे व्यक्ति होते हैं जो उच्च सार्वजनिक पदों पर हैं या रह चुके हैं; इन पर corruption risk उच्च माना जाता hai, isliye enhanced due diligence की आवश्यकता होती है.  
+
+---
+
+### Q53. An account is usually classified as “dormant” when there are:  
+### Q53. किसी खाते को आमतौर पर किस स्थिति में “dormant” (निष्क्रिय) माना जाता है?
+
+A. Daily transactions ho रहे हों  
+B. कोई customer‑initiated transaction लंबे समय तक न हुआ हो (जैसे 2 वर्ष) / लम्बे समय तक customer‑initiated लेन‑देन न होना (उदा. 2 वर्ष)  
+C. High balance maintained  
+D. Only ATM usage  
+
+**Answer:** B  
+**Explanation:** नियमानुसार bank खाता लम्बे समय तक operate न होने पर पहले inactive/inoperative aur फिर dormant class me shift kar sakta hai.  
+
+---
+
+### Q54. “Inoperative account” classification primarily helps banks in:  
+### Q54. “Inoperative account” वर्गीकरण से बैंकों को मुख्य रूप से क्या लाभ होता है?
+
+A. Profit बढ़ाने में  
+B. Risk monitoring and fraud prevention for idle accounts / निष्क्रिय खातों में risk monitoring और fraud prevention  
+C. Branch expansion  
+D. Staff promotion  
+
+**Answer:** B  
+**Explanation:** Inoperative tagging se unusual transactions par extra monitoring aur customer contact ki आवश्यकता samajh me आती है.  
+
+---
+
+### Q55. “Locker facility” provided by banks is an example of:  
+### Q55. बैंकों द्वारा दी जाने वाली “locker facility” किस प्रकार की सेवा है?
+
+A. Fund‑based service  
+B. Non‑fund based / fee‑based service  
+C. Loan product  
+D. Investment product  
+
+**Answer:** B  
+**Explanation:** Locker facility se bank security aur rental service provide karta hai; इसमें bank का पैसा deploy नहीं होता, isliye यह fee‑based non‑fund service hai.  
+
+---
+
+### Q56. “Bancassurance” refers to:  
+### Q56. “Bancassurance” किसे कहते हैं?
+
+A. Bank guarantee  
+B. Insurance sold through banks / बैंकों के माध्यम से बेचा जाने वाला बीमा  
+C. Insurance against bank failure  
+D. Only crop insurance  
+
+**Answer:** B  
+**Explanation:** Bancassurance मॉडल me bank insurance कंपनियों ke products बेचकर commission कमाता hai; यह third‑party distribution hota hai.  
+
+---
+
+### Q57. “DICGC” in India provides insurance mainly for:  
+### Q57. भारत में “DICGC” मुख्य रूप से किसके लिए बीमा प्रदान करता है?
+
+A. Life insurance  
+B. Export credit  
+C. Bank deposits (up to prescribed limit) / बैंक जमाओं के लिए (निर्धारित सीमा तक)  
+D. Health insurance  
+
+**Answer:** C  
+**Explanation:** Deposit Insurance and Credit Guarantee Corporation हर depositor ko कुल मिलाकर एक limit तक protection deta hai (exam me limit figure अलग से याद रखी जाती hai).  
+
+---
+
+### Q58. “Nomination” facility in bank accounts mainly helps in:  
+### Q58. बैंक खातों में “nomination” सुविधा से मुख्य रूप से क्या लाभ होता है?
+
+A. Tax calculation  
+B. Identifying person who will receive funds on death of depositor / जमाकर्ता की मृत्यु पर राशि प्राप्त करने वाले व्यक्ति की पहचान  
+C. Rate of interest fix karna  
+D. Branch selection  
+
+**Answer:** B  
+**Explanation:** Nominee legal heir ka substitute नहीं hai, lekin bank ko सुरक्षित तरीके से amount release karne में मदद करता hai.  
+
+---
+
+### Q59. “Kisan Credit Card (KCC)” is primarily designed to provide:  
+### Q59. “किसान क्रेडिट कार्ड (KCC)” मुख्य रूप से किसके लिए बनाया गया है?
+
+A. Long‑term housing loans to farmers  
+B. Short‑term crop loans and working capital facility / अल्पकालिक फसल ऋण और कार्यशील पूँजी सुविधा  
+C. Pension to farmers  
+D. Insurance only  
+
+**Answer:** B  
+**Explanation:** KCC ek revolving credit facility hai jisse किसान बीज, खाद, मजदूरी आदि ke खर्च पूरे कर sakte हैं.  
+
+---
+
+### Q60. “MUDRA” loans under PMMY are meant mainly for:  
+### Q60. PMMY के तहत “MUDRA” ऋण मुख्यतः किनके लिए हैं?
+
+A. Large corporates  
+B. Micro and small non‑farm enterprises / सूक्ष्म और छोटे गैर‑कृषि उद्यम  
+C. Only government employees  
+D. Only exporters  
+
+**Answer:** B  
+**Explanation:** Micro Units Development & Refinance Agency (MUDRA) छोटे व्यवसायों, दुकानदारों, service providers आदि को तीन categories – Shishu, Kishor, Tarun – me loans provide karta hai.  
+
+---
+
+### Q61. Under “Stand‑up India” scheme, banks are encouraged to give loans to:  
+### Q61. “Stand‑up India” योजना के तहत बैंकों को किसे ऋण देने के लिए प्रोत्साहित किया जाता है?
+
+A. Only big industries  
+B. At least one SC/ST and one woman entrepreneur per branch / प्रति शाखा कम से कम एक SC/ST और एक महिला उद्यमी को  
+C. Only large exporters  
+D. Only NRIs  
+
+**Answer:** B  
+**Explanation:** Stand‑up India का उद्देश्य SC/ST और महिलाओं ke बीच greenfield enterprises ko promote karna hai.  
+
+---
+
+### Q62. “Financial literacy centres (FLCs)” are primarily set up to:  
+### Q62. “Financial Literacy Centres (FLCs)” मुख्यतः किस उद्देश्य से स्थापित किए जाते हैं?
+
+A. Sell more credit cards  
+B. Educate people about savings, credit, insurance and digital payments / लोगों को बचत, ऋण, बीमा और डिजिटल भुगतान के बारे में शिक्षा देना  
+C. Train only bank staff  
+D. Promote only foreign exchange  
+
+**Answer:** B  
+**Explanation:** FLCs financial awareness badhane ke लिए चलाए जाते हैं ताकि लोग formal financial system ka सही उपयोग कर सकें.  
+
+---
+
+### Q63. “Customer Rights Charter” in banking broadly covers which of the following?  
+### Q63. बैंकिंग में “Customer Rights Charter” में सामान्यतः क्या‑किया शामिल होता है?
+
+A. Right to get any loan without assessment  
+B. Right to fair treatment, transparency, suitability and grievance redressal / निष्पक्ष व्यवहार, पारदर्शिता, suitability aur शिकायत निवारण के अधिकार  
+C. Right to dictate RBI policy  
+D. Right to fix interest rate  
+
+**Answer:** B  
+**Explanation:** RBI ne ग्राहक अधिकारों ko स्पष्ट किया hai – जैसे fair treatment, transparency, privacy, suitability और time‑bound grievance redressal.  
+
+---
+
+### Q64. “Grievance redressal mechanism” in banks typically has how many levels before approaching Ombudsman (exam perspective)?  
+### Q64. Ombudsman ke पास जाने से पहले बैंकों में grievance redressal के सामान्यतः कितने स्तर माने जाते हैं (परीक्षा दृष्टि से)?
+
+A. One level only at branch  
+B. Multi‑level – branch, regional/zonal office, nodal officer/head office / बहुस्तरीय – शाखा, क्षेत्रीय/ज़ोनल कार्यालय, नोडल अधिकारी/हेड ऑफिस  
+C. Directly Ombudsman  
+D. Only call centre  
+
+**Answer:** B  
+**Explanation:** Customer pehle branch, phir higher office/nodal officer ke पास जाता hai; unsatisfied hone par Ombudsman का विकल्प होता hai.  
+
+---
+
+### Q65. “Cheque truncation” under CTS means:  
+### Q65. CTS के तहत “cheque truncation” से क्या तात्पर्य है?
+
+A. Cutting cheque into two pieces  
+B. Stopping physical movement of cheques and using scanned images / चेक की physical movement रोककर उसकी scanned images का उपयोग  
+C. Returning all cheques unpaid  
+D. Destroying old cheques  
+
+**Answer:** B  
+**Explanation:** CTS me cheque ki image aur MICR data electronic रूप se clearing house तक जाता hai, जिससे clearing तेज और सुरक्षित होती hai.  
+
+---
+
+### Q66. Which committee’s recommendations are often cited for improving customer service in banks?  
+### Q66. बैंकों में customer service सुधारने के लिए किस समिति की सिफारिशें अक्सर उद्धृत की जाती हैं?
+
+A. Narasimham Committee  
+B. Damodaran Committee  
+C. Tarapore Committee  
+D. Shah Committee  
+
+**Answer:** B  
+**Explanation:** Damodaran Committee ne customer service, grievance redressal aur charges transparency par कई सुझाव दिए थे.  
+
+---
+
+### Q67. “Know Your Customer” guidelines are primarily issued to combat:  
+### Q67. “Know Your Customer” दिशानिर्देश मुख्य रूप से किससे निपटने के लिए जारी किए जाते हैं?
+
+A. Inflation  
+B. Money laundering and terrorist financing / मनी लॉन्ड्रिंग और आतंकी वित्तपोषण  
+C. Tax collection  
+D. Foreign trade deficit  
+
+**Answer:** B  
+**Explanation:** KYC/AML/CFT framework का मुख्य उद्देश्य financial system ko illegal धन और terror‑funding se bachana hai.  
+
+---
+
+### Q68. Under RBI rules for unauthorised electronic transactions, customer’s liability is generally “zero” when:  
+### Q68. RBI के नियमों के अनुसार अनधिकृत electronic लेन‑देन में ग्राहक की liability कब सामान्यतः “zero” हो सकती है?
+
+A. Customer knowingly shares OTP  
+B. Customer reports promptly and there is no negligence / ग्राहक तुरंत सूचना दे और उसकी कोई लापरवाही न हो  
+C. Amount बहुत बड़ा हो  
+D. Transaction विदेश में हो  
+
+**Answer:** B  
+**Explanation:** Prompt reporting aur customer की गलती न होने पर RBI norms zero‑liability protection ka प्रावधान देते हैं.  
+
+---
+
+### Q69. “Cyber security framework” circular of RBI mainly focuses on:  
+### Q69. RBI का “Cyber security framework” सर्कुलर मुख्य रूप से किस पर केंद्रित है?
+
+A. Only physical security  
+B. IT systems, cyber risk management and reporting / IT प्रणालियाँ, cyber risk management और reporting  
+C. Branch layout  
+D. HR policies  
+
+**Answer:** B  
+**Explanation:** Circular banks ko secure configuration, monitoring, incident reporting, DR/BCP plans आदि ke बारे में detailed guidance देता hai.  
+
+---
+
+### Q70. “Two‑factor authentication (2FA)” in the Indian card ecosystem became widely mandatory after RBI instructions for:  
+### Q70. भारतीय कार्ड ecosystem में two‑factor authentication (2FA) को RBI निर्देशों के बाद व्यापक रूप से किसके लिए अनिवार्य किया गया?
+
+A. Offline cash withdrawals only  
+B. Online card‑not‑present transactions / ऑनलाइन card‑not‑present लेन‑देन  
+C. Only ATM balance enquiry  
+D. Statement printing  
+
+**Answer:** B  
+**Explanation:** Online card transactions में OTP/password जैसे दूसरे factor se fraud risk substantially कम होता hai.  
+
+---
+
+### Q71. Which of the following is an example of “card‑not‑present” transaction?  
+### Q71. निम्न में से कौन‑सा “card‑not‑present” transaction का उदाहरण है?
+
+A. ATM cash withdrawal  
+B. POS purchase at shop with physical card  
+C. Online shopping website par card details डालकर payment / ऑनलाइन वेबसाइट पर कार्ड विवरण भरकर भुगतान  
+D. Cash deposit at branch  
+
+**Answer:** C  
+**Explanation:** CNP transactions me card physically present नहीं होता; security ke लिए extra authentication ज़रूरी hota hai.  
+
+---
+
+### Q72. “Tokenisation” of card data is used to:  
+### Q72. कार्ड डेटा का “tokenisation” किसलिए किया जाता है?
+
+A. Increase card limit  
+B. Replace actual card number with surrogate token at merchant systems / merchant systems पर असली कार्ड नंबर की जगह surrogate token store करना  
+C. Print card details on receipt  
+D. Remove PIN requirement  
+
+**Answer:** B  
+**Explanation:** Tokenisation se merchant ke पास original PAN नहीं रहता; breach hone पर भी real card detail सुरक्षित रहती hai.  
+
+---
+
+### Q73. “Fraud monitoring system” in banks generally analyses:  
+### Q73. बैंकों की “fraud monitoring system” सामान्यतः किसका विश्लेषण करती है?
+
+A. केवल कर्मचारियों की उपस्थिति  
+B. Transaction patterns to detect anomalies / लेन‑देन के patterns ताकि असामान्य गतिविधियाँ पकड़ी जा सकें  
+C. केवल branch layout  
+D. केवल विज्ञापन  
+
+**Answer:** B  
+**Explanation:** Rule‑based ya analytics‑based systems unusual transactions (amount, location, timing) पहचान कर alerts raise करती हैं.  
+
+---
+
+### Q74. “Customer education campaigns” such as “RBI Kehta Hai” aim to:  
+### Q74. “RBI कहता है” जैसे customer education अभियान का मुख्य उद्देश्य क्या है?
+
+A. Products बेचने के लिए विज्ञापन करना  
+B. जनता को सुरक्षित banking practices और अधिकारों की जानकारी देना / लोगों को सुरक्षित banking practices और उनके अधिकारों के बारे में जागरूक करना  
+C. केवल tax collection बढ़ाना  
+D. केवल bank branding  
+
+**Answer:** B  
+**Explanation:** ऐसे अभियान customers ko fraud से बचने, शिकायत प्रक्रिया और बेसिक अधिकारों ke बारे में बताते हैं.  
+
+---
+
+### Q75. “Know Your Customer – Update (re‑KYC)” is required mainly when:  
+### Q75. “re‑KYC” की आवश्यकता सामान्यतः कब होती है?
+
+A. Bank branch बदलने पर  
+B. नियमों के अनुसार KYC जानकारी पुरानी हो जाए या periodic review due हो / जब नियमों के अनुसार KYC जानकारी पुरानी हो जाए या periodic review due हो  
+C. Interest दर बदलने पर  
+D. Locker लेने पर हमेशा  
+
+**Answer:** B  
+**Explanation:** RBI guidelines ke तहत certain periodicity par KYC update karna होता hai, special risk categories ke लिए ज़्यादा frequent हो सकता है.  
+
+---
+
+### Q76. “Debit card” is directly linked to which type of customer account?  
+### Q76. Debit card सीधे तौर पर किस ग्राहक खाते से जुड़ा होता है?
+
+A. Only fixed deposit  
+B. Savings or current account / बचत या चालू खाता  
+C. Only loan account  
+D. Only DEMAT account  
+
+**Answer:** B  
+**Explanation:** Debit card transactions se linked savings/current account से राशि तुरंत debit हो जाती है.  
+
+---
+
+### Q77. “Credit card” outstanding is an example of which type of asset for the bank?  
+### Q77. बैंक की दृष्टि से credit card outstanding किस प्रकार की परिसंपत्ति है?
+
+A. Liability  
+B. Fund‑based advance / loan asset  
+C. Non‑fund based  
+D. Investment only  
+
+**Answer:** B  
+**Explanation:** Credit card dues bhi bank ka loan hi hain; customer repay karta hai to principal+interest bank ko मिलता है.  
+
+---
+
+### Q78. “EMI” stands for:  
+### Q78. “EMI” का पूरा रूप क्या है?
+
+A. Equal Monthly Installment / समान मासिक किस्त  
+B. Easy Monthly Interest  
+C. Equal Money Investment  
+D. Effective Monthly Interest  
+
+**Answer:** A  
+**Explanation:** EMI में principal aur interest दोनों का हिस्सा hota hai, jo har महीने समान राशि ke रूप में भुगतान किया जाता hai.  
+
+---
+
+### Q79. “Fixed interest rate loan” means:  
+### Q79. “Fixed interest rate loan” से क्या तात्पर्य है?
+
+A. Interest rate badalta rahega  
+B. Interest rate fixed for entire or agreed period / पूरे या सहमत अवधि के लिए ब्याज दर निश्चित रहती है  
+C. Loan बिना ब्याज ke होता hai  
+D. Loan foreign currency में होता hai  
+
+**Answer:** B  
+**Explanation:** Fixed rate loans me borrower ko EMI predictability रहती hai; lekin market rate गिरने par benefit सीमित होता है.  
+
+---
+
+### Q80. “Floating interest rate loan” ka अर्थ है:  
+### Q80. “Floating interest rate loan” का अर्थ क्या है?
+
+A. Interest rate kabhi नहीं बदलेगा  
+B. Interest rate kisi external/internal benchmark se जुड़ी hoti hai aur समय‑समय पर बदल सकती है / किसी बेंचमार्क से जुड़ी दर जो बदल सकती है  
+C. Loan बिना collateral  
+D. Loan sirf Alag currency में  
+
+**Answer:** B  
+**Explanation:** Floating rate loans repo‑linked lending rate (RLLR), MCLR, base rate आदि se जुड़े हो sakte हैं.  
+
+---
+
+### Q81. “Amortisation schedule” of a loan shows:  
+### Q81. किसी loan ka “amortisation schedule” क्या दर्शाता है?
+
+A. केवल processing fee  
+B. प्रत्येक EMI में principal और interest का विभाजन तथा outstanding balance / हर EMI में principal‑interest का breakup और बची हुई राशि  
+C. केवल collateral विवरण  
+D. केवल borrower ka credit score  
+
+**Answer:** B  
+**Explanation:** Amortisation schedule borrower ko poori loan अवधि ke दौरान repayment structure clearly दिखाता है.  
+
+---
+
+### Q82. “Pre‑payment penalty” or pre‑closure charge is levied when:  
+### Q82. “Pre‑payment penalty” या pre‑closure charge कब लगाया जाता है?
+
+A. Customer EMI time par दे  
+B. Customer loan tenure se पहले पूरा loan चुका दे / ग्राहक निर्धारित अवधि से पहले loan chuka दे  
+C. Customer overdue ho  
+D. Bank loan sanction करे  
+
+**Answer:** B  
+**Explanation:** Kuch loans (especially fixed rate) me early repayment par bank ko future interest loss hota hai, isliye pre‑payment charge lagाया जा सकता hai (regulatory guidelines ke अनुसार).  
+
+---
+
+### Q83. “Credit score” of an individual in India is usually provided by:  
+### Q83. भारत में किसी व्यक्ति का “credit score” सामान्यतः कौन provide करता है?
+
+A. RBI directly  
+B. Credit Information Companies like CIBIL, Experian etc. / CIBIL, Experian जैसी क्रेडिट सूचना कंपनियाँ  
+C. SEBI  
+D. Stock exchanges  
+
+**Answer:** B  
+**Explanation:** Credit bureaus अलग‑अलग lenders se डेटा लेकर borrower ka repayment behaviour aur score बनाती हैं.  
+
+---
+
+### Q84. A very low credit score for a borrower generally indicates:  
+### Q84. किसी borrower ka बहुत कम credit score सामान्यतः क्या संकेत देता है?
+
+A. उत्कृष्ट repayment history  
+B. Weak repayment history and higher default risk / कमजोर repayment इतिहास और ज़्यादा default risk  
+C. High income  
+D. Government guarantee  
+
+**Answer:** B  
+**Explanation:** Poor credit score wale borrowers ke लिए banks ko higher risk dikhta hai, isliye unko loans dena मुश्किल या महँगा ho सकता hai.  
+
+---
+
+### Q85. “Co‑applicant” in a loan application is:  
+### Q85. loan application में “co‑applicant” कौन होता है?
+
+A. केवल सलाह देने वाला व्यक्ति  
+B. Joint borrower jointly responsible for repayment / संयुक्त उधारकर्ता जो चुकौती के लिए बराबर जिम्मेदार होता है  
+C. केवल guarantor  
+D. केवल legal heir  
+
+**Answer:** B  
+**Explanation:** Co‑applicant bhi loan agreement sign karta hai; default की स्थिति में lender dono से वसूली कर सकता है.  
+
+---
+
+### Q86. “Guarantor” in a loan transaction is:  
+### Q86. loan transaction में “guarantor” कौन होता है?
+
+A. Person who promises to pay if borrower defaults / वह व्यक्ति जो borrower के चूक करने पर भुगतान का वचन देता है  
+B. Co‑borrower  
+C. Bank officer  
+D. Valuer  
+
+**Answer:** A  
+**Explanation:** Guarantee ek स्वतंत्र contract hai; default होने पर guarantor legally liable हो सकता hai.  
+
+---
+
+### Q87. “Mortgage” in banking refers to:  
+### Q87. बैंकिंग में “mortgage” से क्या तात्पर्य है?
+
+A. Pledge of movable assets  
+B. Transfer of interest in immovable property as security for a loan / किसी अचल संपत्ति में interest transfer कर उसे security बनाना  
+C. Issuance of shares  
+D. Cash deposit  
+
+**Answer:** B  
+**Explanation:** Housing loan jaise cases me property mortgage ki जाती hai, jisse default पर bank ko उस संपत्ति पर अधिकार मिलता hai (कानूनी प्रक्रिया के बाद).  
+
+---
+
+### Q88. “Hypothecation” word is generally used for:  
+### Q88. “Hypothecation” शब्द सामान्यतः किसके लिए प्रयुक्त होता है?
+
+A. Pledge of gold  
+B. Charge on movable assets (like vehicle, stock) without possession / movable assets (जैसे vehicle, stock) पर बिना कब्ज़ा लिये charge बनाना  
+C. Mortgage of land  
+D. Deposit of title deeds  
+
+**Answer:** B  
+**Explanation:** Vehicle loans, working capital against stock आदि hypothecation security ke उदाहरण हैं.  
+
+---
+
+### Q89. “Lien” in banking means:  
+### Q89. बैंकिंग में “lien” का क्या अर्थ है?
+
+A. Bank’s right to retain securities till debt is repaid / ऋण चुकता होने तक बैंक का security पर रोक रखने का अधिकार  
+B. Loan sanction letter  
+C. Only overdraft  
+D. Only guarantee  
+
+**Answer:** A  
+**Explanation:** Banker’s lien ke तहत bank अपने पास मौजूद customer ki securities ko general balance ke लिए रोककर रख सकता hai (कुछ शर्तों के साथ).  
+
+---
+
+### Q90. “Right of set‑off” allows a bank to:  
+### Q90. “Right of set‑off” se bank ko क्या करने की अनुमति मिलती है?
+
+A. Ignore all defaults  
+B. Adjust credit balance in one account against debit balance in another (same customer, as per terms) / एक खाते के credit balance को उसी ग्राहक के दूसरे खाते के debit balance से समायोजित करना  
+C. Increase interest arbitrarily  
+D. Close accounts without notice  
+
+**Answer:** B  
+**Explanation:** Contractual right of set‑off se bank borrower ke अलग‑अलग खातों के balances ko adjust kar sakta hai, lekin iske लिए terms & conditions follow karni होती हैं.  
+
+---
+
+### Q91. “Working capital loan” is generally used to finance:  
+### Q91. “Working capital loan” सामान्यतः किसके वित्तपोषण के लिए लिया जाता है?
+
+A. Purchase of long‑term fixed assets  
+B. Day‑to‑day operating expenses like raw material, wages etc. / कच्चा माल, मजदूरी आदि जैसे दैनिक परिचालन व्यय  
+C. Purchase of land and building only  
+D. Only foreign trips  
+
+**Answer:** B  
+**Explanation:** Working capital se business ko रोजमर्रा ke खर्च जैसे inventory, wages, utilities आदि पूरा करने में मदद मिलती hai.  
+
+---
+
+### Q92. “Term loan” in banking parlance refers to:  
+### Q92. बैंकिंग भाषा में “term loan” किसे कहते हैं?
+
+A. Loan without any repayment schedule  
+B. Loan granted for a fixed tenure with scheduled instalments / निश्चित अवधि के लिए दिया गया loan जिसमें किश्तों का निर्धारण होता है  
+C. Only overdraft  
+D. Only credit card loan  
+
+**Answer:** B  
+**Explanation:** Term loans fixed repayment schedule ke साथ आते हैं aur capital expenditure जैसे plant & machinery finance ke लिए use hote हैं.  
+
+---
+
+### Q93. “Cash credit (CC)” facility is generally:  
+### Q93. “Cash credit (CC)” सुविधा सामान्यतः कैसी होती है?
+
+A. One‑time term loan  
+B. Working capital limit operated like a running account / working capital limit jo running account की तरह operate होती है  
+C. Housing loan  
+D. Education loan  
+
+**Answer:** B  
+**Explanation:** CC limit me borrower जरूरत के अनुसार debit/credit कर सकता hai; interest outstanding utilisation par charge hota hai.  
+
+---
+
+### Q94. “Overdraft” facility on current/savings account allows customer to:  
+### Q94. Current/SB खाते पर “overdraft” सुविधा से ग्राहक क्या कर सकता है?
+
+A. Withdraw only upto balance  
+B. Withdraw more than balance up to sanctioned limit / बैलेंस से ज़्यादा, sanctioned सीमा तक निकासी  
+C. Block account  
+D. Close account  
+
+**Answer:** B  
+**Explanation:** OD ek प्रकार की short‑term credit line hai jo working capital ya personal needs ke लिए दी जाती hai.  
+
+---
+
+### Q95. “Clean overdraft” generally means:  
+### Q95. “Clean overdraft” से सामान्यतः क्या तात्पर्य है?
+
+A. OD without any documentation  
+B. OD without tangible security (based mainly on financial standing) / बिना tangible security के, केवल borrower ki financial strength पर आधारित OD  
+C. OD only against shares  
+D. OD only against FD  
+
+**Answer:** B  
+**Explanation:** Clean OD me bank borrower ki reputation aur cash‑flows dekhkar बिना pledge/mortgage ke limit sanction karta hai; risk ज़्यादा hota hai.  
+
+---
+
+### Q96. “Bill discounting” facility allows a business to:  
+### Q96. “Bill discounting” सुविधा से किसी व्यवसाय को क्या लाभ होता है?
+
+A. Take long‑term project loan  
+B. Get immediate funds against bills/receivables before due date / देय तिथि से पहले अपने bills/receivables के बदले तुरंत धन प्राप्त करना  
+C. Avoid all taxes  
+D. Only invest in shares  
+
+**Answer:** B  
+**Explanation:** Bank bill amount se discount काटकर बाकी राशि abhi दे देता hai aur maturity पर drawee se पूरा amount वसूलता hai.  
+
+---
+
+### Q97. “Letter of Credit (LC)” issued by a bank is primarily a:  
+### Q97. बैंक द्वारा जारी “Letter of Credit (LC)” मुख्य रूप से क्या होता है?
+
+A. Cash loan to exporter  
+B. Bank’s conditional guarantee to pay seller on fulfilment of terms / शर्तों के पालन पर विक्रेता को भुगतान की बैंक गारंटी  
+C. Insurance policy  
+D. Tax certificate  
+
+**Answer:** B  
+**Explanation:** LC international trade me seller ko payment assurance deta hai; terms पूरा होने पर issuing/confirming bank payment karta hai.  
+
+---
+
+### Q98. “Foreign currency Non‑Resident (FCNR)” deposits are:  
+### Q98. “Foreign Currency Non‑Resident (FCNR)” deposits क्या हैं?
+
+A. Rupee deposits of residents  
+B. Foreign currency term deposits of NRI/PIO / प्रवासी भारतीयों के foreign currency term deposits  
+C. Current accounts of companies  
+D. Only NRO accounts  
+
+**Answer:** B  
+**Explanation:** FCNR (B) deposits non‑resident investors ke लिए foreign currency me hote हैं; इन्हें forex risk se बचाने ke लिए design किया गया hai.  
+
+---
+
+### Q99. “Anti‑Money Laundering (AML)” procedures in banks mainly aim to:  
+### Q99. बैंकों में “Anti‑Money Laundering (AML)” प्रक्रियाओं का मुख्य लक्ष्य क्या है?
+
+A. Increase bank profits  
+B. Detect and prevent placement, layering and integration of illicit funds / अवैध धन के placement, layering और integration ko पहचानना और रोकना  
+C. Promote cash transactions  
+D. Reduce digital payments  
+
+**Answer:** B  
+**Explanation:** AML framework suspicious transaction reporting, KYC, monitoring आदि के ज़रिए illegal धन ko system me घुसने से रोकने की कोशिश करता hai.  
+
+---
+
+### Q100. “Pre‑approved personal loan” generally refers to:  
+### Q100. “Pre‑approved personal loan” से सामान्यतः क्या तात्पर्य है?
+
+A. Loan without any assessment at all  
+B. Offer given by bank to selected existing customers based on internal risk assessment / आंतरिक जोखिम मूल्यांकन के आधार पर चुने गए मौजूदा ग्राहकों को दिया गया ऑफर  
+C. Loan given only against gold  
+D. Loan given only for home purchase  
+
+**Answer:** B  
+**Explanation:** Pre‑approved offer ka मतलब hai ki bank ने पहले hi customer ki profile assess कर ली hai; फिर भी final sanction ke समय कुछ checks aur documentation ki आवश्यकता रहती है.  
+
+---
