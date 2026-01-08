@@ -1,174 +1,216 @@
 # Date: 07-01-2026  
-**Exam Focus:** SSC (CGL/CHSL/CPO – Mixed GA + Economy + Governance)
+**Exam Focus:** SSC (CGL/CHSL/CPO – Mixed GA + Economy + Defence + Environment)
 
 ---
 
 ## Aaj ke TOP SSC Current Affairs Topics (7 Jan 2026)
 
-1. **Payments Regulatory Board (PRB)** – नयी payments नियामक body  
-2. **NBS Rabi 2025‑26** – fertiliser subsidy per‑kg rates  
-3. **ONGC–NSTFDC CSR MoU** – EMRS schools ke लिये support  
-4. **FTA trade deficit & forex reserves** – external sector snapshot  
-5. **Payments Vision 2028** – digital payment policy दिशा
+1. **Ind‑Ra** – India ki GDP growth forecast (FY27) 6.9%  
+2. **Indian Army – ‘Bhairav’ modern warfare force + Suryastra rocket launch system**  
+3. **ONGC in news** – MoTA ke साथ EMRS support & MOL ke साथ ethane shipping JV  
+4. **Calamaria mizoramensis** – नई reed snake species + Dnyanganga Wildlife Sanctuary  
+5. **MIB – Live Entertainment Development Council (LEDC)**  
 
 ---
 
-## TOPIC 1: Payments Regulatory Board (PRB)
+## TOPIC 1: Ind‑Ra – India ki GDP Growth Forecast 6.9% (FY27)
 
 ### Kya hua?
 
-- 2025 me Parliament ne **Payment and Settlement Systems Act, 2007** me संशोधन karke  
-  RBI ke अंदर ek नयी नियामक body **Payments Regulatory Board (PRB)** बनाने ka प्रावधान किया.  
-- यह संशोधन **9 May 2025** se लागू हुआ aur PRB ne पुरानी body  
-  **BPSS – Board for Regulation and Supervision of Payment and Settlement Systems** ko replace kar diya.  
-- इसके बाद **5 January 2026** ko Mumbai me PRB ki **पहली meeting** hui:  
-  - बैठक की अध्यक्षता RBI Governor ne की.  
-  - Board ne RBI ke **Department of Payment & Settlement Systems (DPSS)** ke काम,  
-    चल रही payment schemes (UPI, NEFT/RTGS, card networks, PPIs) aur risk areas ka review किया.  
-  - Draft **“Payments Vision 2028”** par चर्चा hui – kis तरह se digital payments ko  
-    और सुरक्षित, तेज़ aur inclusive banaya जाए.  
-  - RBI ke हाल ke **Survey on Digital Payments** ke मुख्य findings भी members ke साथ share kiya गया.
+- **India Ratings & Research (Ind‑Ra)** ne report जारी ki,  
+  jisme **FY27 (2026‑27)** ke लिये India ki GDP growth **6.9%** forecast ki gayi hai.  
+- FY26 ke लिये ye growth estimate 7.4% hai – यानी FY27 me थोड़ा moderation expect kiya gaya.  
+- वजह:
 
-### SSC exam points:
+  - high base effect,  
+  - global headwinds (slow demand, geopolitical risks),  
+  - लेकिन domestic reforms aur infra spending se growth support milega.
 
-- PRB किसको replace karta hai? → **BPSS.**  
-- PRB किस Act से जुड़ा hai? → **Payment and Settlement Systems Act, 2007 (amended).**  
-- First meeting कब hui? → **5 January 2026, Mumbai** (RBI HQ context).
+### SSC exam points
 
-**Memory Trick – “PRB – Payments Rules Board”**
+- “Ind‑Ra” ek **credit rating agency** hai (Fitch group से जुड़ी).  
+- Forecast: **India GDP ~6.9% in FY27** (CA context).
 
-> बस याद: **“PRB = Payments Rules Board”** – jo सारे digital payments ke rules देखता hai.
+**Memory Trick – “6 ka family – 6.9, 7.4”**
+
+> FY26 – 7.4, FY27 – 6.9 →  
+> yaad line: **“पहले 7.4, फिर 6.9 – growth अभी bhi fine.”**
 
 ---
 
-## TOPIC 2: Nutrient Based Subsidy (NBS) – Rabi 2025‑26
+## TOPIC 2: Indian Army – ‘Bhairav’ Force & Suryastra Rocket Launch System
 
-- Government ne **Rabi 2025‑26** (Oct–Mar) ke लिये  
-  P&K fertilisers ke लिये **Nutrient Based Subsidy (NBS)** rates approve kiye:  
-  - N – ₹43.02/kg, P – ₹47.96/kg, K – ₹2.38/kg, S – ₹2.87/kg (approx).  
-- Scheme 2010 se लागू – fertiliser companies ko subsidy nutrient content ke हिसाब se दी जाती है.
+### Kya hua?
 
-**SSC exam points:**
+- Indian Army ne ek **modern warfare force ‘Bhairav’** create ki –  
+  jisme **1 lakh se ज़्यादा drone operatives** honge,  
+  focus: **drone & counter‑drone warfare**.  
+- साथ hi Army ne लगभग **₹293 crore** ka contract sign kiya  
+  **NIBE Limited** ke साथ **‘Suryastra’ rocket launch system** ke लिये.  
+- उद्देश्य:
 
-- NBS – किसके लिये? → **Phosphatic & Potassic (P&K) fertilisers.**  
-- Aim – **balanced fertiliser use**, urea पर निर्भरता कम.
+  - artillery & rocket forces ko modernise karna,  
+  - indigenous defence industry ko boost dena.
 
-**Memory Trick – “NBS = Nutrient Budgeting System”**
+### SSC exam points
 
-> Naam याद: **“Nutrient Budgeting System”** – सरकार हर kg N‑P‑K‑S ka budget तय karti hai.
+- **‘Bhairav’** – Indian Army ka modern warfare force (drones/counter‑drones).  
+- **‘Suryastra’ rocket launch system** – contract NIBE Limited ke साथ.
 
----
+**Memory Trick – “Bhairav = Bharat ka drone warrior”**
 
-## TOPIC 3: ONGC–NSTFDC CSR MoU – EMRS Support
-
-- **ONGC** ne **NSTFDC (National Scheduled Tribes Finance & Development Corporation)** ke साथ  
-  approx **₹28 crore** ka CSR MoU sign kiya:  
-  - 11 States/UTs ke **144 Eklavya Model Residential Schools (EMRS)** ke लिये  
-    infrastructure & digital facilities improve karne ke लिये.  
-
-**SSC exam points:**
-
-- NSTFDC – Ministry of Tribal Affairs ke अंतर्गत PSU – STs ke लिये financial support.  
-- EMRS – tribal students ke लिये residential school system.
-
-**Memory Trick – “ONGC ka तेल – EMRS ka मेल”**
-
-> ONGC ke तेल se कमाए पैसे ka **मेल** EMRS schools ke साथ – NSTFDC ke माध्यम se.
+> Bhairav force = **B**harat ka **drone warrior** group –  
+> aur **Suryastra** = सूर्य ki तरह तेज़ rocket launch system.
 
 ---
 
-## TOPIC 4: Trade Deficit with FTA Partners & Forex Reserves
+## TOPIC 3: ONGC in News – MoTA MoU & Ethane Shipping JV
 
-- NITI Aayog ki **Trade Watch** रिपोर्ट के अनुसार  
-  **April–June 2025** me **FTA partner देशों** ke साथ  
-  India ka trade deficit approx **59%** बढ़ा (YoY).  
-- RBI ke अनुसार week ended **26 Dec 2025** me  
-  forex reserves me ~**US$ 3.3 bn** ka increase.
+### Kya hua?
 
-**SSC exam points:**
+- **ONGC + MoTA (Ministry of Tribal Affairs)**:
 
-- Trade deficit = imports > exports (value terms).  
-- Forex reserves – RBI manage karta hai.
+  - ONGC ne Ministry of Tribal Affairs ke साथ MoU sign kiya  
+    **Eklavya Model Residential Schools (EMRS)** ke tribal students ko  
+    education & infra support dene ke लिये (CSR framework).  
 
-**Memory Trick – “FTA se gate, deficit bhi साथ me”**
+- **ONGC + MOL (Mitsui O.S.K. Lines)**:
 
-> Free trade agreements se gate खुलता hai –  
-> agar exports कमजोर हों to **deficit** saath me aa jata hai.
+  - ONGC ne Japanese shipping company **MOL** ke साथ  
+    **ethane shipping business** me do joint ventures banane ka फैसला kiya,  
+  - Ethane ko feedstock ke रूप me petrochemical projects tak लाने me मदद milegi.
+
+### SSC exam points
+
+- ONGC – Maharatna PSU (oil & gas).  
+- MoTA – Ministry of Tribal Affairs; EMRS – tribal residential schools.  
+- MOL – Japan ki बड़ी shipping company.
+
+**Memory Trick – “ONGC ka double role – EMRS & Ethane”**
+
+> ONGC ek साथ **education (EMRS)** aur **energy (ethane shipping)** dono me active hai.
 
 ---
 
-## TOPIC 5: Payments Vision 2028 – 4S Payments
+## TOPIC 4: Calamaria mizoramensis & Dnyanganga Wildlife Sanctuary
 
-- RBI ka **Payments Vision 2028** document digital payments ecosystem ke लिये दिशा तय karta है.  
-- Goal: **4S** – **Safe, Secure, Smart, Swift** payments.  
+### Kya hua?
 
-**SSC exam points:**
+- Scientists ne **Mizoram** me ek नयी reed snake species discover ki –  
+  naam: **Calamaria mizoramensis**.  
+- Features:
 
-- UPI, RuPay, IMPS, NEFT/RTGS, offline payment आदि is vision framework se जुड़े हैं।
+  - छोटी, ground‑dwelling snake,  
+  - forest floor leaf‑litter me milti hai,  
+  - Northeast India ki जैव‑विविधता ke लिये important discovery.
 
-**Memory Trick – “4S – चार S ka संकल्प”**
+- Current affairs quiz me साथ me पूछा gaya **Dnyanganga Wildlife Sanctuary**:
 
-> Safe, Secure, Smart, Swift –  
-> चार S = Bharat ke digital payments ka संकल्प.
+  - स्थित: **Maharashtra (Buldhana district)**,  
+  - known for deciduous forests & wildlife.
+
+### SSC exam points
+
+- Calamaria mizoramensis – **नई reed snake species**, स्थान: **Mizoram**.  
+- Dnyanganga Wildlife Sanctuary – **Maharashtra** me hai.
+
+**Memory Trick – “Mizo snake, Maha sanctuary”**
+
+> Mizo = Mizoram ki नयी snake,  
+> Dnyanganga = Maharashtra ka sanctuary –  
+> dono ko साथ याद रखो.
+
+---
+
+## TOPIC 5: MIB – Live Entertainment Development Council (LEDC)
+
+### Kya hua?
+
+- **Ministry of Information & Broadcasting (MIB)** ne  
+  ek नयी body बनाने का निर्णय लिया – **Live Entertainment Development Council (LEDC)**.  
+- उद्देश्य:
+
+  - India ke **concerts, music festivals, live shows** jaise  
+    **live entertainment economy** ko formalise aur promote karna,  
+  - jobs, tourism, urban services, event management sector ko support.
+
+### SSC exam points
+
+- LEDC – किस ministry ke तहत? → **Ministry of Information & Broadcasting (MIB)**.  
+- Theme: services sector, creative economy, entertainment industry.
+
+**Memory Trick – “LEDC = Live Entertainment Development Council”**
+
+> Naam hi pura batata hai – **Live Entertainment** ke विकास ke लिये council.
 
 ---
 
 ## Super Short 1-Liner Revision – SSC (07-01-2026)
 
-1. PRB – new payments regulatory board under PSS Act, 2007; BPSS replace.  
-2. NBS – P&K fertilisers के लिये per‑kg subsidy; balanced fertiliser use.  
-3. ONGC–NSTFDC – ₹28 cr CSR for 144 EMRS schools.  
-4. FTA partners ke साथ trade deficit बढ़ा; forex reserves me 3.3 bn increase.  
-5. Payments Vision 2028 – 4S digital payments goal.
+1. **Ind‑Ra** – India GDP growth forecast FY27 ke लिये ~6.9%.  
+2. Indian Army – **‘Bhairav’** drone force + **‘Suryastra’** rocket launch system contract NIBE ke साथ.  
+3. **ONGC** – MoTA ke साथ EMRS support MoU; MOL ke साथ ethane shipping JV.  
+4. **Calamaria mizoramensis** – नई reed snake, Mizoram; **Dnyanganga WLS** – Maharashtra.  
+5. **LEDC** – Live Entertainment Development Council, Ministry of I&B.
 
 ---
 
 ## MCQs – SSC (07-01-2026)
 
-1. PRB ने किस body ko replace kiya?  
-   A. FSDC  
-   B. BPSS  
-   C. SEBI Board  
-   D. IBA  
-
-   **Answer:** B  
-
----
-
-2. NBS mainly kis प्रकार ke fertilisers ke लिये लागू hai?  
-   A. Urea  
-   B. Phosphatic & Potassic (P&K)  
-   C. Organic manure  
-   D. Micronutrients  
-
-   **Answer:** B  
-
----
-
-3. NSTFDC किस वर्ग के लिये काम karta hai?  
-   A. SCs  
-   B. STs  
-   C. OBCs  
-   D. Minorities  
-
-   **Answer:** B  
-
----
-
-4. Forex reserves ko कौन manage karta hai?  
-   A. Ministry of Commerce  
-   B. SEBI  
-   C. RBI  
-   D. NABARD  
+1. India Ratings & Research (Ind‑Ra) ne FY27 ke लिये India ki GDP growth approx kitni forecast ki hai?  
+   A. 5.5%  
+   B. 6.0%  
+   C. 6.9%  
+   D. 7.8%  
 
    **Answer:** C  
 
 ---
 
-5. Payments Vision 2028 ka 4S formula kya hai?  
-   A. Safe, Secure, Smart, Swift  
-   B. Simple, Short, Straight, Strong  
-   C. Small, Soft, Slow, Silent  
-   D. Steel, Sugar, Salt, Spice  
+2. ‘Bhairav’ force, jo drone aur counter‑drone warfare par focus karti hai, kis से संबंधित hai?  
+   A. Indian Navy  
+   B. Indian Army  
+   C. Indian Air Force  
+   D. Coast Guard  
 
-   **Answer:** A
+   **Answer:** B  
+
+---
+
+3. ONGC–MoTA MoU ka मुख्य लाभार्थी kaun hain?  
+   A. Defence pensioners  
+   B. Urban homeless  
+   C. Eklavya Model Residential Schools (EMRS) ke tribal students  
+   D. Railway employees  
+
+   **Answer:** C  
+
+---
+
+4. Calamaria mizoramensis kya hai?  
+   A. एक नई butterfly species  
+   B. एक नई reed snake species  
+   C. एक नई fish species  
+   D. एक नई frog species  
+
+   **Answer:** B  
+
+---
+
+5. Dnyanganga Wildlife Sanctuary kis राज्य me स्थित hai?  
+   A. Gujarat  
+   B. Maharashtra  
+   C. Rajasthan  
+   D. Assam  
+
+   **Answer:** B  
+
+---
+
+6. Live Entertainment Development Council (LEDC) kis ministry se संबंधित hai?  
+   A. Ministry of Tourism  
+   B. Ministry of Culture  
+   C. Ministry of Information & Broadcasting  
+   D. Ministry of Home Affairs  
+
+   **Answer:** C

@@ -1,231 +1,213 @@
 # Date: 07-01-2026  
-**Exam Focus:** Bank (GA + Payments + Subsidy + External Sector)
+**Exam Focus:** Bank (GA + Economy + Exports + Digital + Defence/Corp)
 
 ---
 
 ## Aaj ke TOP GA Topics (Bank Point of View se)
 
-1. **Payments Regulatory Board (PRB)** – नयी payments governance body + पहली बैठक का follow‑up  
-2. **Nutrient Based Subsidy (NBS)** – Rabi 2025‑26 ke लिये fertiliser subsidy का ढांचा  
-3. **ONGC–NSTFDC MoU** – CSR के ज़रिये tribal शिक्षा (EMRS) ko support  
-4. External / trade – **FTA partner देशों के साथ trade deficit + forex reserves update**  
-5. Digital payments – RBI का draft **Payments Vision 2028** (4S payments)
+1. **India Ratings & Research (Ind‑Ra)** – FY27 ke लिये India GDP growth forecast 6.9%  
+2. **Market Access Support (MAS) scheme – ₹4,531 crore** export promotion package  
+3. **FSS – ISO/IEC 42001 (AI Management) certification** – पहला payments company  
+4. **IDFC FIRST Bank – ‘Zero‑Forex Diamond Reserve Credit Card’ launch**  
+5. **ONGC–MoTA MoU** – EMRS tribal students ke लिये support (सरकारी ministry ke through)
 
 ---
 
-## TOPIC 1: PRB – Payments Governance ka नया ढांचा
+## TOPIC 1: Ind‑Ra – India GDP Growth Forecast 6.9% (FY27)
 
 ### Kya hua?
 
-- Parliament ne 2025 me **Payment and Settlement Systems Act, 2007** me संशोधन karke  
-  RBI ke भीतर नयी body **Payments Regulatory Board (PRB)** बनाने ka प्रावधान किया.  
-- यह संशोधन **9 May 2025** se लागू हुआ और PRB ne पुरानी body  
-  **BPSS – Board for Regulation and Supervision of Payment and Settlement Systems** ko formally replace kar diya.  
-- इसके बाद **5 January 2026** ko Mumbai me PRB की **पहली बैठक** हुई:  
-  - बैठक की अध्यक्षता RBI Governor **Sanjay Malhotra** ne की.  
-  - Board ne RBI ke **Department of Payment & Settlement Systems (DPSS)** की  
-    जिम्मेदारियों, चल रहे projects और risk areas ka detailed review किया.  
-  - Domestic और global payment systems (UPI, card networks, cross‑border systems)  
-    ke trends, competition aur cyber‑risk पर presentation दिया गया.  
-  - RBI ke draft **Payments Vision 2028** par सदस्योंने inputs दिए –  
-    खासकर financial inclusion, fraud‑management, और cross‑border UPI जैसे विषयों par.  
-  - RBI ke हाल ke **Survey on Digital Payments** ke findings भी Board ke सामने रखे गये  
-    ताकि आगे ki policy data‑based हो सके.
+- **India Ratings & Research (Ind‑Ra)** ne estimate kiya ki  
+  **FY27 (2026‑27)** me India ki real GDP growth **6.9%** rahegi,  
+  jo **FY26 ke 7.4%** se thodi कम hai (high base + global headwinds के कारण).  
+- Ind‑Ra ke अनुसार growth ke मुख्य drivers:
+
+  - ongoing **reforms** (income‑tax rationalisation, GST simplification),  
+  - infra capex (roads, rail, power),  
+  - stable domestic consumption.  
+- Report ne warn bhi kiya ki agar global demand weak रही  
+  ya crude/commodity prices sharply बढ़े, to growth पर दबाव aa sakta hai.
 
 ### Bank exam ke liye kyun important?
 
-- PRB ab **India ke payment systems ka मुख्य regulator/supervisor** hai –  
-  UPI, cards, NEFT/RTGS, PPIs sab is umbrella ke under आते हैं.  
-- MCQ topics:  
-  - PRB kis Act se जुड़ा hai? → **Payment and Settlement Systems Act, 2007 (amended)**.  
-  - Kis body ko replace kiya? → **BPSS**.  
-  - Chairperson kaun? → **RBI Governor**.
+- GDP forecast se जुड़ी facts Banking + SSC दोनों exams me पूछा जाता hai.  
+- Growth 6.9% hone ka मतलब:
 
-### Memory Trick – “PRB + PV28 = Payments ka Remote + Vision”
+  - credit demand moderate लेकिन positive,  
+  - NPAs में बड़ी उछाल की संभावना कम,  
+  - लेकिन global shock se rupee/bond market पर दबाव रह सकता hai.
 
-> Socho **PRB remote** hai aur **Payments Vision 2028** TV screen –  
-> dono मिलकर भारत ke payments की पूरी picture dikhाते हैं.
+### Memory Trick – “7.4 se 6.9 – थोड़ासा slide”
+
+> FY26: **7.4%**, FY27: **6.9%** –  
+> line yaad: **“7.4 se 6.9 – growth thodi slide, par high hi.”**
 
 ---
 
-## TOPIC 2: NBS – Rabi 2025‑26 (Subsidy ka ढांचा)
+## TOPIC 2: Market Access Support (MAS) Scheme – ₹4,531 Crore Export Push
 
 ### Kya hua?
 
-- सरकार ने **Rabi 2025‑26 (1 Oct 2025 – 31 Mar 2026)** season के लिये  
-  **Phosphatic & Potassic (P&K) fertilisers** par लागू **Nutrient Based Subsidy (NBS)** ke  
-  naye rates approve kiye (official notification/PIB सार के आधार पर):  
-  - **Nitrogen (N): ₹43.02/kg**  
-  - **Phosphorus (P): ₹47.96/kg**  
-  - **Potassium (K): ₹2.38/kg**  
-  - **Sulphur (S): ₹2.87/kg**  
-- Scheme 2010 se चल रही है – fertiliser companies ko subsidy  
-  unke product me मौजूद nutrients (N, P, K, S) ke हिसाब se दी जाती है,  
-  taaki किसानों ke लिये कीमत reasonable रहे.  
-- Rabi 2025‑26 ke लिये अनुमानित subsidy bill लगभग **₹37,952 crore** hai  
-  जो Kharif 2025 se ~₹736 crore ज़्यादा है – इसका मतलब सरकार global fertiliser prices  
-  ke बावजूद किसान par burden नहीं डालना चाहती।
+- सरकार ने ek नयी export promotion scheme **Market Access Support (MAS)**  
+  ko FY **2025‑26 se 2030‑31** tak ke लिये approve kiya.  
+- कुल layout लगभग **₹4,531 crore** ka hai.  
+- उद्देश्य:
 
-### Bank/Eco angle
+  - Indian exporters ko **global trade fairs, B2B events, exhibitions** me हिस्सा लेने me मदद,  
+  - branding, marketing, buyer‑seller meets ke लिए support,  
+  - खासकर **MSME exporters** ko foreign buyers tak पहुँच dilana.  
+- Scheme की शर्त: supported events me कम से कम **35% hissedari MSME exporters ki** honi चाहिये.
 
-- Fertiliser companies ke subsidy receivables aur working capital financing me  
-  **Public sector banks aur large private banks** ka बड़ा रोल रहता hai.  
-- इतना बड़ा subsidy bill → **fiscal deficit** aur inflation expectations par असर,  
-  jo exam me macro‑economy ke सवालों me directly use hota hai.
+### Bank exam ke liye kyun important?
 
-### Memory Trick – “NBS RATE card – N, P, K, S”
+- Export promotion se **foreign exchange earnings** बढ़ते hain → external stability strong.  
+- MSME‑focused scheme hone se **export finance, packing credit, bill discounting** jaise products ki माँग बढ़ सकती hai.  
 
-> बस yaad: **NBS** = Govt ka **RATE card** for N‑P‑K‑S –  
-> हर kg nutrient par kitna ₹ support milega.
+### Memory Trick – “MAS = Market Access Support, MSME ke साथ”
+
+> बस याद: **MAS** – **Market Access Support** –  
+> खासकर **MSME exporters** ko global बाजार ka access dilane ke लिये.
 
 ---
 
-## TOPIC 3: ONGC–NSTFDC Model – Tribal CSR & Education
+## TOPIC 3: FSS – ISO/IEC 42001 (AI Management) Certification
+
+### Kya hua?
+
+- **Financial Software and Systems (FSS)** – ek प्रमुख payments technology company –  
+  **ISO/IEC 42001** certification प्राप्त karne wali  
+  **India, Middle East, APAC & South Africa region ki पहली payments company** बनी.  
+- ISO/IEC 42001 kya hai?
+
+  - यह **AI Management System** ke लिये international standard hai,  
+  - AI आधारित systems ke design, development, deployment, monitoring,  
+    transparency aur risk‑management ke लिये framework deta hai.
+
+### Bank exam ke liye kyun important?
+
+- Payments companies UPI, card switches, merchant acquiring, etc. me core role निभाती हैं.  
+- AI‑based fraud detection, risk scoring, routing algorithms – sab ke लिये  
+  **responsible AI** ka standard होना ज़रूरी hai; isi liye 42001 relevant hai.  
+
+### Memory Trick – “FSS = First Smart Standard (42001)”
+
+> **FSS** ko yaad rakho: **First Smart Standard** (ISO 42001) लेने wali payments company.
+
+---
+
+## TOPIC 4: IDFC FIRST Bank – ‘Zero‑Forex Diamond Reserve Credit Card’
+
+### Kya hua?
+
+- **IDFC FIRST Bank** ne ek premium credit card launch kiya –  
+  **‘Zero‑Forex Diamond Reserve Credit Card’**.  
+- मुख्य features (CA sources ke हिसाब से):
+
+  - **Zero forex mark‑up** on international spends – yani foreign transactions par  
+    सामान्य 2–3.5% charges नहीं,  
+  - high reward structure, travel/lifestyle benefits,  
+  - affluent customers ko target karta hai jo ज़्यादा foreign spending करते hain.
+
+### Bank exam ke liye kyun important?
+
+- Product launches bank marketing ke typical exam सवाल hote hain:
+
+  - “Zero‑Forex Diamond Reserve Credit Card” किस bank ka hai? → **IDFC FIRST Bank**.  
+- Forex charges waive karna → foreign spending aur card usage बढ़ाने ki strategy.
+
+### Memory Trick – “Diamond card, Forex zero”
+
+> Line: **“IDFC FIRST ka Diamond card – Forex mark‑up zero, दुनिया भर me swagat.”**
+
+---
+
+## TOPIC 5: ONGC–MoTA MoU – EMRS Tribal Students ke लिये Support
 
 ### Kya hua?
 
 - **Oil & Natural Gas Corporation (ONGC)** ne  
-  **National Scheduled Tribes Finance & Development Corporation (NSTFDC)** ke साथ  
-  ek **Corporate Social Responsibility (CSR) MoU** sign kiya.  
-- इस समझौते के तहत ONGC लगभग **₹28 crore** ke CSR funds provide karega:  
-  - ये धनराशि **11 States/UTs** me स्थित करीब **144 Eklavya Model Residential Schools (EMRS)** ke लिये  
-    classrooms, hostels, computer labs, smart‑class equipment, solar power, internet connectivity  
-    jaise infrastructure upgrade me use hogi.  
-- लक्ष्य: लगभग **35,000 tribal students** ko बेहतर residential शिक्षा सुविधा देना,  
-  taaki वे higher education aur competitive exams ke लिये तैयार हो सकें.
+  सीधे **Ministry of Tribal Affairs (MoTA)** ke साथ  
+  ek MoU sign kiya jiska उद्देश्य **Eklavya Model Residential Schools (EMRS)** ke students ko empower karna hai.  
+- इस समझौते के तहत:
+
+  - ONGC apne CSR funds se EMRS छात्रों ke लिये  
+    education support, digital infrastructure, sports & co‑curricular facilities par kharch karega,  
+  - यह MoU ministry‑level framework deta hai (NSTFDC wale CSR MoU se अलग).
 
 ### Bank exam ke liye kyun important?
 
-- यह example dikhाता hai ki **large PSUs ki CSR spending** ko  
-  **education + inclusion** ke साथ जोड़ कर use किया जा रहा hai –  
-  mains me case‑study ya example के रूप में लिखने ke लिये perfect point.  
-- Tribal areas me educated youth → भविष्य ke **MSME borrowers, SHG members, agri‑entrepreneurs**,  
-  jisse banks ke लिये नया market तैयार होता hai.
+- दिखाता hai ki **PSU + Line Ministry** मिलकर long‑term social sector projects fund कर रहे hain.  
+- Mains me example के रूप me use:  
+  - “Explain how CSR funds of PSUs are aligned with government social sector priorities.”
 
-### Memory Trick – “ONGC तेल se, EMRS खेल se”
+### Memory Trick – “MoTA + ONGC = EMRS ke do सहारा”
 
-> **ONGC ka तेल** se आये paise ko  
-> **EMRS ke स्कूलों ke खेल‑कूद + पढ़ाई** ke लिये use kiya जा रहा hai.
-
----
-
-## TOPIC 4: FTA Partners ke साथ Trade Deficit & Forex
-
-### Kya hua?
-
-- NITI Aayog ki **Trade Watch** रिपोर्ट ke अनुसार  
-  **April–June 2025** quarter me जिन देशों ke साथ India ka **Free Trade Agreement (FTA)** hai,  
-  unke साथ **trade deficit lagbhag 59% YoY बढ़ गया**:  
-  - कुछ sectors (electronics, chemicals, high‑value intermediate goods) me imports तेज़ी से बढ़े,  
-  - जबकि exports ki growth उतनी तेज़ nahi रही.  
-- इसी period ke आसपास RBI ke डेटा ke अनुसार  
-  week ended **26 Dec 2025** me India ke **forex reserves** me  
-  लगभग **US$ 3.3 billion** की बढ़ोतरी hui –  
-  यानी external buffers मजबूत bane rahe.
-
-### Bank/Eco angle
-
-- FTA‑driven trade deficit → **Current Account Deficit (CAD)** par दबाव,  
-  jo rupee exchange rate, bond yields, aur विदेशी investor sentiment ko affect karta hai.  
-- Forex reserves ke बढ़ने se CAD ka pressure kuch had tak absorb kiya ja sakta hai –  
-  isliye दोनों numbers ko साथ‑साथ dekhna ज़रूरी hai.
-
-### Memory Trick – “FTA se gate – deficit & forex ke mate”
-
-> Gate खुला (FTA), import तेज़ → **deficit** बढ़ा;  
-> अच्छी बात ye hai ki **forex reserves** bhi साथ ke साथ बढ़कर rupee ko support करते रहे.
-
----
-
-## TOPIC 5: Payments Vision 2028 – 4S Payments
-
-### Kya hua?
-
-- RBI ne ek draft policy document **“Payments Vision 2028”** जारी किया hai  
-  jo 2025–2028 ke liye भारत ke digital payments ecosystem ki दिशा set karta hai.  
-- मुख्य लक्ष्य:  
-  - हर नागरिक ke लिये **Safe, Secure, Smart, Swift** payment अनुभव,  
-  - **24×7, सस्ता, तेज़** digital instruments (UPI, RuPay, IMPS, NEFT/RTGS, offline solutions),  
-  - **fraud management & cyber‑security** को मजबूत करना,  
-  - छोटे शहरों/गांवों me feature‑phone / offline UPI options को बढ़ाना,  
-  - **cross‑border remittances** ko सस्ता और तेज़ बनाना,  
-  - payment data governance (consent, privacy, data‑localisation) ko aur स्पष्ट करना.  
-
-### Bank exam ke liye kyun important?
-
-- UPI, RuPay, NEFT/RTGS, BBPS, digital rupee – sab ka future direction इसी document se जुड़ेगा.  
-- Banking mains / interview me question aa sakta hai:  
-  - “RBI Payments Vision 2028 ke मुख्य pillars kya hain?”  
-  - “How does Payments Vision 2028 support financial inclusion?”
-
-### Memory Trick – “4S formula”
-
-> Payments Vision 2028 = **4S** –  
-> **Safe, Secure, Smart, Swift** payments for sabhi users.
+> पहले **ONGC–NSTFDC** ke through EMRS support,  
+> ab **ONGC–MoTA** – socho EMRS ke paas **दो सहारा** ho गये.
 
 ---
 
 ## Super Short 3-Line Revision – 07-01-2026 (Bank)
 
-1. **PRB** – amended PSS Act, 2007 ke तहत बनी नयी body; BPSS ko replace kiya; पहली बैठक 5 Jan 2026, Mumbai.  
-2. **NBS Rabi 2025‑26** – P&K fertilisers ke लिये N‑P‑K‑S per‑kg subsidy RATE card; subsidy bill ~₹37,952 cr.  
-3. **ONGC–NSTFDC** – ₹28 cr CSR; 11 States/UTs ke 144 EMRS schools; ~35k tribal students ko benefit.  
-4. **FTA deficit + forex** – FTA partners ke साथ deficit ~59% बढ़ा; forex reserves me ~US$ 3.3 bn वृद्धि.  
-5. **Payments Vision 2028** – RBI ka 4S लक्ष्य: Safe, Secure, Smart, Swift digital payments.
+1. **Ind‑Ra** – FY27 GDP growth forecast **6.9%** (FY26: 7.4%).  
+2. **MAS scheme** – ₹4,531 cr, export market access support; MSME participation ≥35%.  
+3. **FSS** – ISO/IEC 42001 AI management certification पाने वाली पहली payments company.  
+4. **IDFC FIRST – Zero‑Forex Diamond Reserve** credit card – zero forex mark‑up.  
+5. **ONGC–MoTA MoU** – EMRS tribal students ko education/digital infra se empower.
 
 ---
 
 ## MCQs – Bank (07-01-2026)
 
-### Q1. PRB किस Act se जुड़ा hai?
+### Q1. India Ratings & Research (Ind‑Ra) ne FY27 ke लिये India ki GDP growth kitni project ki hai?
 
-A. RBI Act, 1934  
-B. Banking Regulation Act, 1949  
-C. Payment and Settlement Systems Act, 2007  
-D. Companies Act, 2013  
-
-**Answer:** C  
-
----
-
-### Q2. NBS scheme किस प्रकार ke fertilisers ke लिये hai?
-
-A. केवल urea  
-B. केवल organic manure  
-C. P&K (Phosphatic & Potassic) fertilisers  
-D. केवल micronutrients  
+A. 5.9%  
+B. 6.5%  
+C. 6.9%  
+D. 7.4%  
 
 **Answer:** C  
 
 ---
 
-### Q3. ONGC–NSTFDC MoU में किस प्रकार ke institutions ko support diya ja रहा hai?
+### Q2. Market Access Support (MAS) scheme का मुख्य उद्देश्य kya hai?
 
-A. IITs  
-B. Kendriya Vidyalayas  
-C. Eklavya Model Residential Schools (EMRS)  
-D. Navodaya Vidyalayas  
-
-**Answer:** C  
-
----
-
-### Q4. NITI Trade Watch report kis ke साथ trade deficit बढ़ने par जोर देती hai?
-
-A. SAARC देशों  
-B. FTA partners  
-C. केवल USA  
-D. केवल China  
+A. केवल किसानों ko fertiliser subsidy dena  
+B. Indian exporters ko global trade fairs/events me भाग लेने ke लिये support dena  
+C. केवल domestic tourism ko बढ़ावा dena  
+D. केवल urban housing projects fund karna  
 
 **Answer:** B  
 
 ---
 
-### Q5. Payments Vision 2028 ka 4S formula kya represent karta hai?
+### Q3. ISO/IEC 42001 certification किस प्रकार ke management system se जुड़ा hai?
 
-A. Safe, Secure, Smart, Swift  
-B. Simple, Short, Sharp, Sweet  
-C. Slow, Steady, Stable, Sure  
-D. Silver, Steel, Sugar, Salt  
+A. Quality management (QMS)  
+B. Environmental management  
+C. AI management system  
+D. Information security management  
 
-**Answer:** A
+**Answer:** C  
+
+---
+
+### Q4. ‘Zero‑Forex Diamond Reserve Credit Card’ kis bank ka product hai?
+
+A. HDFC Bank  
+B. IDFC FIRST Bank  
+C. Axis Bank  
+D. SBI  
+
+**Answer:** B  
+
+---
+
+### Q5. ONGC–MoTA MoU ka मुख्य focus kis समूह ke लिये है?
+
+A. Urban poor in metro cities  
+B. Senior citizens in PSBs  
+C. Eklavya Model Residential Schools (EMRS) ke tribal students  
+D. Defence pensioners  
+
+**Answer:** C
