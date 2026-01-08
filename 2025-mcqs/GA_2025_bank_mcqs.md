@@ -5,12 +5,20 @@
 
 ## MCQs – Bank (2025 Practice Set)
 
-### Q1. RBI ke latest data ke mutabik scheduled commercial banks ka gross NPA ratio approx kis range me aa gaya hai (multi‑year low)?
+### Q1. RBI ke latest data ke mutabik scheduled commercial banks ka gross NPA ratio approx kis range me aa gaya hai (multi‑year low)?  
+### (According to RBI’s latest data, the gross NPA ratio of scheduled commercial banks has fallen to approximately which range – a multi‑year low?)
 
 A. 0.5–0.7%  
+A. 0.5–0.7% (shunya‑point‑paanch se shunya‑point‑saat pratishat)  
+
 B. 1.0–1.2%  
+B. 1.0–1.2% (ek se ek‑point‑do pratishat)  
+
 C. 2.1–2.2%  
+C. 2.1–2.2% (do‑point‑ek se do‑point‑do pratishat)  
+
 D. 5.0–6.0%  
+D. 5.0–6.0% (paanch se chhe pratishat)  
 
 **Answer:** C  
 
