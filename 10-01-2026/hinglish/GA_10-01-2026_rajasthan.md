@@ -1,316 +1,317 @@
 # Date: 10-01-2026
-
-**Exam Focus:** Rajasthan Exams (RAS, REET, Police SI/Constable, Patwari, LDC, RSMSSB, CET etc. – Heavy Rajasthan-specific)
-
----
-
-## Aaj ke TOP Current Affairs Topics (Rajasthan Exams ke Point of View se)
-
-1. Jaipur mein Rajasthan Police ke 8,000+ naye constable join hue; Union Home Minister Amit Shah ne appointment letter ceremony mein paper-leak free recruitment, zyada mahila bharti aur Bhajan Lal sarkar ke daur mein crime kam hone par zor diya. (Official: PIB – https://pib.gov.in/PressReleasePage.aspx?PRID=2213303) [Rajasthan Specific Current Affairs]
-
-2. Rajasthan ke mid-day meal dry ration scheme (2020–23) mein lagbhag ₹2,000 crore ke ghotale ke aarop par ED money laundering case register karne ki taiyari mein, ACB ne CONFED ke purv adhikaarion aur private suppliers sahit 21 aaropiyon par FIR ki. (Reputed: Business Standard – https://www.business-standard.com/india-news/ed-to-file-money-laundering-case-in-2-000-cr-rajasthan-mid-day-meal-scam-126011000549_1.html) [Rajasthan Specific Current Affairs]
-
-3. Jaipur ke Patrakar Colony, Kharabas Circle ke paas tez raftaar Audi car ne lagbhag 16 logon ko takkar maari; 1 vyakti ki maut, kai gambhir roop se gail, CCTV mein gaadi thele–stalls aur pedestrians ko roudti hui dikhi. (Reputed: NDTV – https://www.ndtv.com/india-news/1-dead-15-injured-as-drunk-speeding-audi-driver-runs-over-them-in-jaipur-rajasthan-10585018) [Rajasthan Specific Current Affairs]
-
-4. Kadaki ki thand aur ghane kohre ke chalte Jaipur, Jalore sahit kai jilon mein junior classes (mainly Class 5 tak) ke liye school ki chhuttiyan 10 January 2026 tak badhaai gayi; staff ko school aana hai aur pariksha schedule ke mutabik chal rahi hain. (Reputed: India Today – https://www.indiatoday.in/education-today/news/story/schools-closed-due-to-cold-wave-state-wise-list-after-january-9-2849466-2026-01-09) [Rajasthan Specific Current Affairs]
-
-5. Khelo India Beach Games 2026 (Ghoghla Beach, Diu) ke beach kabaddi tournament mein Rajasthan ki men’s aur women’s dono teams final mein pahunchi; men ne Uttar Pradesh ko 57–22 aur women ne Maharashtra ko 56–28 se hara diya. (Reputed: TOI – https://timesofindia.indiatimes.com/city/jaipur/rajasthan-mens-and-womens-teams-storm-into-the-finals-of-khelo-india-beach-kabaddi-tournament/articleshow/126421541.cms) [Sports]
-
-6. Rajasthan ka AVGC‑XR portal aur iStart Learning Management System (LMS) state ki AI & innovation push ka hissa hai, jisse animation, gaming, extended reality aur startup skilling ko Rajasthan AVGC‑XR Policy 2024 ke tahat boost diya ja raha hai. (Reputed: TechObserver – https://techobserver.in/news/egov/rajasthan-unveils-ai-policy-ahead-of-india-ai-impact-summit-319858/) [Science & Technology]
-
-7. 10 January 2026 ko World Hindi Day manaya gaya, jo 1975 mein Nagpur mein hue first World Hindi Conference ki yaad mein Hindi ko global language ke roop mein promote karne ke liye observe kiya jata hai. (Reputed: NDTV – https://www.ndtv.com/india-news/world-hindi-day-2026-history-significance-and-global-presence-of-the-language-10590903) [International Current Affairs]
-
-8. NSO ke First Advance Estimates ke mutabik FY26 mein India ki real GDP growth 7.4% rehne ka estimate hai; UN‑DESA ne 2026 ke liye 6.6% aur SBI Research ne FY26 ke liye 7.5% growth project ki hai – India fastest-growing major economy bana hua hai. (Reputed: AffairsCloud – https://affairscloud.com/current-affairs-10-january-2026/) [National Current Affairs]
-
-9. “Kantara: A Legend – Chapter 1”, “Tanvi The Great”, “Mahavatar Narsimha”, “Tourist Family” aur “Sister Midnight” sahit 5 Indian films 98th Academy Awards (Oscars 2026) ke Best Picture eligibility list mein shamil hui hain. (Reputed: AffairsCloud – https://affairscloud.com/current-affairs-10-january-2026/) [Awards & Honours]
-
-10. Justice Manoj Kumar Gupta ko Uttarakhand High Court ka Chief Justice niyukt kiya gaya, jo state aur national level judiciary-based questions ke liye important appointment hai. (Reputed: AffairsCloud – https://affairscloud.com/current-affairs-10-january-2026/) [Important Appointments / Persons in News]
+**Exam Focus:** Rajasthan Exams (RAS, REET, Police, Patwari, RSMSSB, CET etc.)
 
 ---
 
-### TOPIC 1: Rajasthan Police mein 8,000+ naye constable (Jaipur)
+## Aaj ke TOP Current Affairs Topics – Rajasthan Exams (10 January 2026)
 
-### Kya Hua?
-
-- 10 January 2026 ko Union Home Minister aur Cooperation Minister Amit Shah ne Jaipur mein Rajasthan Police ke naye constables ki appointment letter ceremony address ki.
-- Is batch mein 8,000 se adhik yuva Rajasthan Police mein constable ke roop mein shamil hue, jinmein 2,500+ mahila constables hain – lagbhag one-third hissa.
-- Same event mein Multipurpose Indoor Hall ka virtual inauguration hua aur Churu jile ke Ratannagar Police Station ko Rajasthan ka “best police station” samman mila.
-- Amit Shah ne zor diya ki puri bharti bina rishwat–sifarish, sirf merit aur technology-based transparent process se hui hai.
-- Unhone bataya ki Bhajan Lal Sharma sarkar ne pichhli sarkar ke daur mein chali aa rahi paper leak culture ko police recruitment se khatam kar diya hai.
-- Home Minister ne yaad dilaya ki March 1949 mein bani Rajasthan Police aaj bhi kathin bhaugolik paristhitiyon – Pakistan border, Chambal ke behed, Thar desert aur bade tourist circuits – mein kaam karti hai.
-- Unhone naye jawano ko training ko gambhirta se lene aur naye criminal law framework ke tahat “secure Rajasthan” banane mein yogdan dene ki appeal ki.
-- (Official: PIB – https://pib.gov.in/PressReleasePage.aspx?PRID=2213303)
-
-### Rajasthan Exams ke liye Important Kyun?
-
-- Rajasthan Police recruitment RAS, SI/Constable, CET sabhi mein favourite topic hai – sawal year of formation (1949), kitne constable, mahila ka share, paper-leak free recruitment jaise points par aa sakte hain.
-- Crime data – kul aparadh ~14% kam, serious crime ~19% kam, murder 25% kam, mahilaon ke khilaf aparadh 10% kam – law & order wale mains answers mein example ke roop mein use kiye ja sakte hain.
-- Naam yaad rakhen: CM Bhajan Lal Sharma, Union Home Minister Amit Shah, Ratannagar Police Station (best police station in Rajasthan).
-- Transparent, merit-based bharti, Abhay Command Centre, CCTNS integration, cyber helpline – yeh sab good governance & e-governance ke under points ban sakte hain.
-- Bharatiya Nyaya Sanhita ke baad Rajasthan Police ka pehla batch – naye criminal laws par questions ke saath isko connect kiya ja sakta hai.
-
-### Memory Trick – “8000 shields, 2500 shakti”
-
-> “Socho: Jaipur parade se nikli 8,000 ‘shields’ aur 2,500 ‘shakti’ – Rajasthan ki nayi suraksha deewar.”
+1. Jaipur mein Rajasthan Regional AI Impact Conference 2026 – yahan Rajasthan AI-ML Policy 2026, state AI portal, “YUVA AI for All”, iStart LMS aur AVGC‑XR portal launch / highlight hue. (Official: PIB – https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2212007)
+2. Rajasthan Green Credit Voucher Initiative‑2025 – green projects par investment karne wali companies/ULBs ko tradeable “green credit vouchers” (₹2.5 crore tak) dene ki nayi niti. (Reputed: DD News/Free Press Journal – “Rajasthan to give Green Credit Vouchers…”)
+3. “Nagauri Ashwagandha” ko Geographical Indication (GI) tag mila – Nagaur (Marwar) ki famous aushadhi fasal ko ab legal protection aur branding support. (Reputed: GKToday – https://www.gktoday.in/centre-grants-gi-tag-to-nagauri-ashwagandha/)
+4. Rajasthan sarkar ka illegal mining par kada action – sirf ek hafte mein 552 raids/actions, 76 FIR, 17 giraftari aur ₹2.88 crore se zyada penalty recover. (Reputed: TOI – https://timesofindia.indiatimes.com/city/jaipur/state-intensifies-crackdown-on-illegal-mining-and-recovers-over-rs2-88cr-in-a-week/articleshow/126360574.cms)
+5. Mid-day meal dry ration scheme (2020–23) mein lagbhag ₹2,000 crore ke alleged scam par Rajasthan ACB ki FIR ke baad ED naye PMLA case ki taiyari mein. (Reputed: Business Standard – https://www.business-standard.com/india-news/ed-to-file-money-laundering-case-in-2-000-cr-rajasthan-mid-day-meal-scam-126011000549_1.html)
+6. Rajasthan Police constable appointment ceremony, Jaipur – Amit Shah ne 10,000 naye constables ko appointment letters diye, “paper leak culture khatam” hone aur crime rate girne ka claim. (Reputed: ThePrint/PTI – https://theprint.in/india/bhajanlal-govt-ended-paper-leak-culture-started-during-congress-rule-shah/2823880/)
+7. PM‑KUSUM yojana se Phalodi (Jodhpur) ki Papu/Pappu Devi ne apni zameen par solar plant laga kar stable income aur mahila empowerment ka naya example diya. (Reputed: NDTV feature – https://www.ndtv.com/feature/how-a-government-scheme-helped-this-rajasthan-woman-power-her-future-10595478)
+8. NSO ke First Advance Estimates ke hisaab se FY26 mein India ki real GDP growth 7.4% rehne ka estimate – India abhi bhi fastest-growing major economy. (Reputed: Deccan Herald/Forbes India – NSO GDP 7.4% coverage; exact numbers MOSPI ke official release se dekhna)
 
 ---
 
-### TOPIC 2: Rajasthan mid-day meal scheme mein ₹2,000 crore ka alleged scam – ED ki entry
+## TOPIC 1: Rajasthan Regional AI Impact Conference & AI‑ML Policy 2026 (Jaipur)
 
-### Kya Hua?
+### Kya hua?
 
-- 10 January 2026 ki reports ke mutabik Enforcement Directorate (ED) Rajasthan ke mid-day meal dry ration scheme mein irregularities par money laundering case register karne wali hai.
-- Ye case 7 January 2026 ko Rajasthan Anti-Corruption Bureau (ACB) dwara darj 22-page FIR par aadhaarit hai.
-- FIR mein Rajasthan Cooperative Consumer Federation Ltd (CONFED) ke retired adhikaarion, kuch private vyaktiyon aur firms sahit kul 21 logon ko aaropi banaya gaya hai.
-- Aarop hai ki 2020–2023 ke beech Class 1–8 ke vidyarthiyon ke liye pulses, cooking oil, spices wale dry ration packets ki supply mein kai gadbadiyan hui.
-- ACB FIR ke mutabik 5 phases mein 3 crore se adhik bacchon ko packets milne the, jiske liye Rajasthan sarkar ne lagbhag ₹2,023.91 crore kharch kiye.
-- FIR mein kaha gaya hai ki rate badha kar, supply delay karke, quality control ke bina aur delivery ke bina payment karke lagbhag ₹2,000 crore ka nuksaan rajya ko pahunchaya gaya.
-- ED ne 2023 mein PMLA ke tahat ECIR register kiya tha, lekin state case band hone par PMLA case bhi close ho gaya; baad mein ED ne 2024 mein apne saboot PMLA dhara 66(2) ke tahat ACB ko bheje jisse ab FIR aur naye money laundering case ki raah bani.
-- (Reputed sources: Business Standard, PTI copy – https://www.business-standard.com/india-news/ed-to-file-money-laundering-case-in-2-000-cr-rajasthan-mid-day-meal-scam-126011000549_1.html)
+- 6 January 2026 ko Jaipur mein “Rajasthan Regional AI Impact Conference” hua, jo IndiaAI Mission ke under national “India AI Impact Summit 2026” ka regional precursor tha.
+- Yahin par CM Bhajan Lal Sharma ne **Rajasthan Artificial Intelligence–Machine Learning Policy 2026** launch ki, jiska focus ethical, transparent aur practical AI use par hai.
+- Conference mein **Rajasthan AI portal**, **iStart Learning Management System (LMS)** aur **Rajasthan AVGC‑XR Portal** ko bhi showcase kiya gaya.
+- IndiaAI Mission ke under **“YUVA AI for All – National AI Literacy Programme”** announce hua, jiska target 10 lakh (1 million) yuvaon ko basic AI skills dena hai.
+- Conference mein Google, IIT Delhi, NLU Jodhpur aur Wadhwani Foundation ke saath MoUs sign hue – research, skilling, legal framework aur startup ecosystem ko support karne ke liye.
+- Sessions ka main theme tha “inclusive, responsible aur safe AI” – governance, infrastructure, innovation, employment sab par AI ke impact par baat hui.
+- (Official source: PIB – https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2212007, Photo often via same PIB page/DD News gallery)
 
-### Rajasthan Exams ke liye Important Kyun?
+### Rajasthan exams ke liye kyun important?
 
-- Mid-day meal ya school nutrition schemes RAS, REET, Patwari, Junior Accountant jaise exams mein baar-baar puchhe jaate hain.
-- Yeh case cooperative federation (CONFED), bhrashtachar roktham (ACB, ED) aur welfare schemes ke implementation gap – teeno concepts ko jodta hai.
-- Important numbers: lagbhag ₹2,000 crore ka alleged scam, 2020–23 ka period, 5 phases, 3+ crore students, 21 aaropi.
-- Mains mein “kalyaan yojnaon mein leakages”, “public procurement problems” ya “PMLA ka role” jaise topics par likhte waqt yeh case strong Rajasthan-specific example ban sakta hai.
-- PMLA dhara 66(2) ke zariye ED ka state ACB ko inputs dena – governance & federal cooperation ke questions mein point ban sakta hai.
+- “Rajasthan AI‑ML Policy 2026” naam, year, objectives – RAS prelims, mains aur IT/CS optional ke liye direct sawal ban sakta hai.
+- Keywords: ethical AI, transparency, accountability, AI nodal officer, AI centre of excellence, iStart LMS, AVGC‑XR – matching/one‑liner format mein aa sakte hain.
+- Essay/Descriptive mein “Digital Rajasthan”, “AI in governance”, “Innovation-led growth” jaise topics ke liye yeh fresh case study hai.
+- IndiaAI Mission + state AI‑ML policy ka link – federal digital policy ke examples mein Rajasthan ka strong point ban sakta hai.
 
-### Memory Trick – “3 crore bacche, 2 hazaar crore ka sawal”
+**Memory Trick – “AI ke 3 A: Jaipur ka AI‑ML–AVGC”**
 
-> “Line yaad rakho: 3 crore bacchon ka bhojan, par 2,000 crore par sawal – CONFED + dry ration pe ED–ACB ka dhyaan.”
+> “Yaad rakho: Jaipur conference se 3 A ko jodo – **AI‑ML Policy**, **AI portal** aur **AVGC‑XR portal**; teesra A = ‘All youth ke liye AI literacy’.”
 
 ---
 
-### TOPIC 3: Jaipur Audi crash – road safety spotlight mein
+## TOPIC 2: Green Credit Voucher Initiative‑2025 – Rajasthan ka green incentive model
 
-### Kya Hua?
+### Kya hua?
 
-- 9–10 January ki raat Jaipur ke Patrakar Colony ke Kharabas Circle ke paas ek high-speed Audi car ka bhayankar accident hua.
-- CCTV video mein dikhta hai ki gaadi pehle divider se takrati hai, phir lagbhag 30 meter tak road ke kinaare lage thele, stalls aur pedestrians ko roudti hui aage badhti hai.
-- Lagbhag 16 log is crash ki chhapet mein aaye; ek vyakti ki maut ho gayi, 14–15 log gail hue jinmein se kai ko SMS Hospital aur Jaipuria Hospital mein admit karaya gaya.
-- Report ke mutabik car mein 4 log baithe the; kuch log bhaagne ki koshish kar rahe the lekin ek occupant ko sthaniya logon ne pakad kar police ke hawale kiya.
-- Driver ka naam media reports mein businessman Dinesh Rinwa/Ranwa bataya gaya hai, jiske baare mein kaha gaya ki woh allegedly nashe ki halat mein tha aur gaadi kisi doosri car se race kar rahi thi.
-- Police ne Audi ko jabt kar liya, gaadi se mobiles baramad kiye aur CCTV footage apne kabze mein li; overspeeding aur drunk driving mukhya जांच ka angle hai.
-- Ghatna ke baad mukhya mantri ne kathor karवाई aur sabhi gail logon ke uchit upchar ke nirdesh diye; sadak suraksha par bhi debate tej ho gayi.
-- (Reputed sources: NDTV, India Today, Times of India – e.g. https://www.ndtv.com/india-news/1-dead-15-injured-as-drunk-speeding-audi-driver-runs-over-them-in-jaipur-rajasthan-10585018)
+- Rajasthan cabinet ne **Green Credit Voucher Initiative‑2025** approve kiya, jo “Rajasthan Green Credit Policy” ka hissa hai.
+- Iske tahat jo companies ya urban local bodies (ULBs) Rajasthan mein eligible green projects mein invest karengi, unko **tradeable green credit vouchers** milenge.
+- Green projects mein solar/wind, waste‑to‑energy, water conservation, pollution control, sustainable agriculture, green buildings jaise sectors include kiye gaye hain.
+- Voucher ki value generally project ke green investment ke percentage par based hogi – kuch slabs mein 5% se 10% tak, maximum benefit lagbhag **₹2.5 crore** per investor/project tak limit hai.
+- Ye vouchers **tradable** (dusri company ko bech sakte hain) aur **redeemable** (future projects mein state incentives ko adjust karne ke kaam aa sakte hain) honge – kuch had tak “carbon credit” jaise.
+- Initiative “Rajasthan Investment Promotion Scheme 2024 (RIPS‑2024)” ke green incentives ke upar ek extra layer deta hai.
+- (Reputed source: DD News – Rajasthan cabinet green vouchers coverage; Free Press Journal – https://www.freepressjournal.in/india/rajasthan-to-give-green-credit-vouchers-for-investment-in-environmental-protection)
 
-### Rajasthan Exams ke liye Important Kyun?
+### Rajasthan exams ke liye kyun important?
 
-- Location-based sawal – Patrakar Colony, Kharabas Circle, SMS Hospital, Jaipuria Hospital – constable, SI aur CET papers mein puchhe ja sakte hain.
-- Motor Vehicles Act ke sections (overspeeding, drunk driving, hit-and-run) ka practical example – police exams aur RAS mains ke liye useful.
-- Essay/answer points: “urbanisation aur road safety”, “responsible driving”, “CCTV ka role in investigation” jaise topics mein is case ka zikr kiya ja sakta hai.
-- Aane wale samay mein Jaipur traffic police ke naye drives/initiatives bhi exam point ban sakte hain, jinka background yahi case hai.
+- State schemes/policies section mein “Green Credit Voucher Initiative‑2025” ek fresh naam hai – RAS prelims aur mains dono mein expected.
+- Yeh example “green budget”, “climate change”, “sustainable development” wale answers ke liye bahut useful hai.
+- MCQ points: max voucher limit (₹2.5 crore), kis type ke projects eligible, vouchers tradable + redeemable, RIPS‑2024 se link.
+- Rajasthan ko 2070 tak carbon‑neutral banane ki long‑term soch ke context mein bhi yeh initiative yaad rakha ja sakta hai.
 
-### Memory Trick – “Patrakar Colony ka painful video”
+**Memory Trick – “Green paisa, double fayda”**
 
-> “Mind picture banao: Patrakar Colony, Audi ka viral video – ek incident ne road safety ko exam ka hot topic bana diya.”
-
----
-
-### TOPIC 4: Thand–kohre se Rajasthan mein school holidays extend
-
-### Kya Hua?
-
-- January 2026 ki shuruaat mein Rajasthan ke kai jilon mein severe cold wave aur dense to very dense fog ka prabhav dekha ja raha hai.
-- National education news ke mutabik Jaipur district ne Class 5 tak ke bachchon ke liye school ki chhutti 10 January 2026 tak bada di.
-- Jaipur mein Class 6–8 ke liye 8 January tak chhutti rahi, lekin teachers aur non-teaching staff ko school aana hota hai aur pariksha schedule ke mutabik hi ho rahi hain.
-- Jalore jile mein pre-primary se lekar Class 5 tak ke liye 10 January tak chhuttiyon ka nirdesh diya gaya.
-- Reports ke hisaab se 20–25 jile – jaise Jaipur, Bikaner, Jodhpur aadi – mein junior classes ke liye aisi hi extended winter breaks chal rahi hain; kuch jilon mein Makar Sankranti tak extend karne par bhi vichar ho raha hai.
-- State-level winter vacation 25 December 2025 se 5 January 2026 tak tha; uske baad extensions district collectors ne local weather situation dekhkar diye.
-- Abhibhavakon ko advice diya gaya hai ki ve apne district administration ya school ki official notice par final dates check karein.
-- (Reputed sources: India Today, Times of India, News18 – e.g. https://www.indiatoday.in/education-today/news/story/schools-closed-due-to-cold-wave-state-wise-list-after-january-9-2849466-2026-01-09)
-
-### Rajasthan Exams ke liye Important Kyun?
-
-- REET, शिक्षक भर्ती, school lecturer, Grade-III teacher jaise exams mein “current session ki winter vacation policy” par direct sawal aa sakta hai.
-- Yeh example dikhata hai ki district collector extreme weather mein bacchon ki suraksha ke liye kaise administrative powers ka use karte hain (governance + disaster management).
-- Jaipur–Jalore ke liye “Class 5 tak chhutti 10 January tak” jaise fact-based questions objective papers mein aasani se aa sakte hain.
-- RAS mains mein “climate change/seasonal extremes ka shiksha par prabhav” likhte waqt Rajasthan-specific case study ke roop mein use kiya ja sakta hai.
-
-### Memory Trick – “Class 5 tak thand ki chhutti, par teachers ki full duty”
-
-> “Line yaad rakho: Jaipur–Jalore mein Class 5 tak chhutti 10 January tak, lekin staff ke liye ‘no holiday’ – yahi exam point story hai.”
+> “Line yaad rakho: Rajasthan kahe – jo environment me invest karega, use milega **green credit voucher** – ek baar profit project se, doosri baar voucher se.”
 
 ---
 
-### TOPIC 5: Khelo India Beach Kabaddi mein Rajasthan ka dum (Diu)
+## TOPIC 3: “Nagauri Ashwagandha” ko GI tag – Marwar ki aushadhi pehchaan
 
-### Kya Hua?
+### Kya hua?
 
-- Khelo India Beach Games 2026 Ghoghla Beach, Diu mein ho rahe hain jahan beach kabaddi event mein Rajasthan ki men’s aur women’s dono teams final tak pahunch gayi.
-- Men’s semi-final mein Rajasthan ne Uttar Pradesh ko 57–22 ke bade antar se hara kar ek tarfa jeet haasil ki.
-- Women’s semi-final mein Rajasthan ne Maharashtra ko 56–28 se haraya; half-time se hi Rajasthan ki team comfortable lead mein thi aur second half mein bhi dominance bana raha.
-- Beach Games mein desh bhar se 2,000 se adhik athletes kai naye coastal sports events mein hissa le rahe hain.
-- Men’s aur women’s dono categories mein Rajasthan ka final tak pahunchna state ke kabaddi strength ko highlight karta hai, sirf indoor format hi nahi balki beach version mein bhi.
-- Ye performance Khelo India University Games aur doosre rashtriya tournaments mein Rajasthan ke overall sports image ko aur majboot banata hai.
-- (Reputed: Times of India – https://timesofindia.indiatimes.com/city/jaipur/rajasthan-mens-and-womens-teams-storm-into-the-finals-of-khelo-india-beach-kabaddi-tournament/articleshow/126421541.cms)
+- Centre ne **“Nagauri Ashwagandha”** ko **Geographical Indication (GI) tag** diya, jo Rajasthan ke Nagaur (Marwar) kshetra ki famous aushadhi fasal hai.
+- Nagaur ka dry climate aur retile mitti Ashwagandha ke liye ideal maani jati hai, isliye yahan ke roots lambi, moti aur medicinal alkaloids se rich paayi jati hain.
+- GI status ka matlab hai ki “Nagauri Ashwagandha” naam ka istemal sirf authorised Nagaur region ke producers hi kar sakenge.
+- Iss tag se Nagaur ko global medicinal crop map par distinct identity milti hai, aur adulterated/duplicate products ke khilaf legal protection milta hai.
+- Reports ke hisaab se yeh Rajasthan ke selected GI products (Sojat Mehendi, Bikaneri Bhujia, Makrana Marble, Kota Doria etc.) ke group mein ek aur important naam jodta hai.
+- (Reputed sources: GKToday – https://www.gktoday.in/centre-grants-gi-tag-to-nagauri-ashwagandha/; UNI India – https://www.uniindia.com/news/north/ashwagandha-gi-tag/3700204.html)
 
-### Rajasthan Exams ke liye Important Kyun?
+### Rajasthan exams ke liye kyun important?
 
-- Rajasthan se judi sports achievements RAS prelims, Police/Constable aur CET ke GK sections ka regular hissa hoti hain.
-- Possible MCQs: venue – Ghoghla Beach, Diu; sport – beach kabaddi; opponents – men vs Uttar Pradesh, women vs Maharashtra; scorelines – 57–22, 56–28.
-- Essays/mains mein “Sports promotion, Khelo India scheme, Rajasthan ka yogdan” jaise topics mein yeh example khas kaam aayega.
-- Beach sports + tourism integration jaise points ko bhi Rajasthan ke perspective se highlight karne ke liye yeh case perfect hai.
+- RAS/RPSC exams mein “GI tag – product vs state/district” bahut favourite topic hai; “Nagauri Ashwagandha – Rajasthan – Nagaur – medicinal crop” ek classic one‑liner ban sakta hai.
+- Geography + Economy + Culture teenon angles cover hote hain: Marwar region, dryland agriculture, Ayurvedic value.
+- Static GK me “Rajasthan ke GI products” list banate waqt isko Sojat Mehendi, Bikaneri Bhujia ke saath zaroor jodna chahiye.
 
-### Memory Trick – “Diu ki ret, Rajasthan ka game set”
+**Memory Trick – “Nagaur ki nindan, Ashwagandha ka brand”**
 
-> “Yaad rakho: Diu ka beach + Rajasthan ki kabaddi – ‘ret par jeet’, men ne UP ko, women ne Maharashtra ko hara kar final set kiya.”
+> “Picture banao: Marwar ki sukhi mitti se nikli taakat ki jad – naam ‘Nagauri Ashwagandha’, jise GI tag ne official brand bana diya.”
 
 ---
 
-### TOPIC 6: Rajasthan AVGC‑XR portal & iStart LMS – naya tech ecosystem
+## TOPIC 4: Rajasthan ka illegal mining crackdown – 552 actions, ₹2.88 crore recovery
 
-### Kya Hua?
+### Kya hua?
 
-- Rajasthan ne AVGC‑XR (Animation, VFX, Gaming, Comics, Extended Reality) Policy 2024 adopt ki hai jiska aim state mein creative aur immersive tech ecosystem banana hai.
-- Policy ke tahat AVGC‑XR Talent Connect Portal banane ki baat hai jo studios, professionals aur learners ke liye digital marketplace karega.
-- Yeh portal jobs, projects, talent profiles list karega aur AVGC‑XR companies ke liye incentives, subsidies, grants ke single-window system ke roop mein kaam karega.
-- Saath hi iStart Learning Management System (LMS) ke through startups, students aur professionals ko AI, ML aur emerging tech se judi structured courses provide kiye ja rahe hain.
-- In initiatives ko Regional AI Impact Conference jaise events mein showcase kiya ja raha hai, jo India AI Impact Summit se linked hai.
-- Target yeh hai ki Rajasthan ko AVGC‑XR aur AI-driven content creation ka strong hub banaya jaye, jise iStart jaise existing startup programmes se joda gaya hai.
-- (Reputed sources: Rajasthan AVGC‑XR draft policy, TechObserver – e.g. https://techobserver.in/news/egov/rajasthan-unveils-ai-policy-ahead-of-india-ai-impact-summit-319858/; https://istart.rajasthan.gov.in/public/pdf/Draft%20AVGC-XR%20Policy-%20Rajasthan%20V9.pdf)
+- Aravalli belt aur doosre mining zones mein illegal mining ke khilaf Rajasthan sarkar ne ek week ka intensive drive chalaya.
+- Times of India report ke mutabik sirf 7 din mein **552 enforcement actions** kiye gaye.
+- Is dauran **76 FIR** darj hui, **17 log giraftar** hue aur **500 se zyada vehicles/equipment** (JCB, excavators, trucks, tractors) jabt kiye gaye.
+- State treasury mein **₹2.88 crore se adhik penalty** deposit hui; sirf Jaipur district mein hi 65+ actions, 2 excavators aur dozens vehicles seize hue aur ₹50 lakh+ fine collect hua.
+- Bhilwara, Ajmer, Pali, Udaipur, Tonk, Nagaur, Bharatpur, Alwar jaise districts mein bhi illegal mining par joint teams ne action liya.
+- Official statement ke mutabik illegal mining par “zero tolerance” policy continue rahegi; kisi bhi adhikari ki laaparvahi bardasht nahi ki jayegi.
+- (Reputed source: TOI – https://timesofindia.indiatimes.com/city/jaipur/state-intensifies-crackdown-on-illegal-mining-and-recovers-over-rs2-88cr-in-a-week/articleshow/126360574.cms)
 
-### Rajasthan Exams ke liye Important Kyun?
+### Rajasthan exams ke liye kyun important?
 
-- Rajasthan AVGC‑XR Policy 2024 jaise state policies RAS prelims/mains mein “innovation, rojgaar aur digital Rajasthan” waale topics ke liye bahut important hain.
-- Keywords: AVGC‑XR, Talent Connect Portal, iStart LMS, AI literacy – inhe direct one-liner ya matching type questions mein pucha ja sakta hai.
-- “Creative economy”, “new-age jobs” aur “startup ecosystem in Rajasthan” jaise essays mein yeh initiatives strong, recent examples ke roop mein quote kiye ja sakte hain.
-- Yeh bhi dikhata hai ki Rajasthan IndiaAI jaise national missions ke saath align ho kar sector-specific digital infra bana raha hai.
+- Rajasthan geography + environment wale questions mein Aravalli protection, illegal mining, sand mining etc. regular topic hai.
+- Yahan se one‑liners aa sakte hain: ek week mein 552 actions, 2.88 crore penalty, sabse zyada action kahaan – Jaipur.
+- Mains ke answers mein “environmental governance”, “ecology vs development” aur “resource regulation” ke example ke roop mein use kiya ja sakta hai.
 
-### Memory Trick – “AVGC‑XR + iStart = Smart Rajasthan Start”
+**Memory Trick – “500 gaadi band, Aravalli ka bandobast”**
 
-> “Formula yaad rakho: AVGC‑XR portal (creative jobs) + iStart LMS (learning) = Smart & Creative Rajasthan ki ‘start’.”
+> “Yaad rakho: ek hafte ka formula – 552 actions, 500+ gaadiyan jabt, 2.88 crore fine; Aravalli bachao, mining pe kadak hath.”
 
 ---
 
-### TOPIC 7: World Hindi Day 2026 – Hindi ka global celebration
+## TOPIC 5: Rajasthan mid-day meal dry ration case – ₹2,000 crore ka alleged scam
 
-### Kya Hua?
+### Kya hua?
 
-- World Hindi Day har saal 10 January ko manaya jata hai jiska uddeshya Hindi ko antar-rashtriya star par badhava dena hai.
-- Yeh din 10 January 1975 ko Nagpur, Maharashtra mein hui pehli World Hindi Conference ki yaad mein choose kiya gaya.
-- 2006 se is din ko official roop se World Hindi Day ke naam se manaya ja raha hai, jab us samay ke Pradhan Mantri Manmohan Singh ne isko announce kiya.
-- Is din Bharat ki embassies, consulates aur cultural centres videsh mein Hindi par seminars, competitions, kavyapath, cultural programmes aadi organise karte hain.
-- 2026 ki coverage mein Hindi ki presence global education, digital platforms, cinema aur diaspora communities mein special highlight ki gayi.
-- World Hindi Day ko Hindi Diwas se alag rakhna zaroori hai – Hindi Diwas 14 September ko manaya jata hai jab 1949 mein Hindi (Devanagari lipi) ko Bharat ki rajbhasha ke roop mein apnaya gaya tha.
-- (Reputed sources: NDTV, India Today – e.g. https://www.ndtv.com/india-news/world-hindi-day-2026-history-significance-and-global-presence-of-the-language-10590903)
+- Rajasthan Anti‑Corruption Bureau (ACB) ne 7 January 2026 ko ek detailed FIR darj ki, jisme mid‑day meal dry ration scheme (2020–23) mein bade level par irregularities ka aarop hai.
+- FIR mein Rajasthan Cooperative Consumer Federation (CONFED) ke retired officials, private suppliers etc. mila kar **21 aaropi** banaye gaye.
+- Allegation hai ki Class 1–8 ke bachchon ko pulses, oil, masale wale dry ration packets ki supply mein rates inflate karke, delivery delay karke, quality check ke bina aur kuch cases mein bina delivery ke hi payment kar diya gaya.
+- Sarkar ne is scheme par lagbhag **₹2,023.91 crore** kharch kiye; ACB ke hisaab se ismein se kareeb **₹2,000 crore** ka paisa misuse / loss ke scope mein aata hai.
+- Is FIR ko PMLA ke under “scheduled offence” maan kar **Enforcement Directorate (ED)** naya money laundering case register karne ki taiyari mein hai.
+- (Reputed source: Business Standard/PTI – https://www.business-standard.com/india-news/ed-to-file-money-laundering-case-in-2-000-cr-rajasthan-mid-day-meal-scam-126011000549_1.html)
 
-### Rajasthan Exams ke liye Important Kyun?
+### Rajasthan exams ke liye kyun important?
 
-- Days & themes har level ki Rajasthan exams (REET, RSMSSB, Police constable, RAS) mein puchhe jaate hain.
-- “Hindi aur Rajasthani bhasha” par likhne wale descriptive answers mein World Hindi Day ke factual points ka use kiya ja sakta hai.
-- World Hindi Day (10 January) vs Hindi Diwas (14 September) ka difference khud ek expected one-liner MCQ hai.
+- Mid‑day meal ya school nutrition schemes RAS, REET, 3rd grade teacher, Junior Accountant, Patwari exams ka regular topic hain.
+- Important figures: 2020–23 period, 21 aaropi, ~₹2,000 crore, 5 phases, 3 crore+ bacche – ye sab factual MCQ ka base ban sakte hain.
+- Mains mein “welfare schemes mein leakages”, “public procurement & corruption” ke answers ke liye Rajasthan‑specific strong example mil jata hai.
+- PMLA + ACB coordination, Section 66(2) type provisions polity/governance ke perspective se bhi useful hain.
 
-### Memory Trick – “Nagpur se shuru, duniya tak pahuncha sur”
+**Memory Trick – “3 crore bacche, 2 hazaar crore ka sawaal”**
 
-> “Line yaad rakho: 10 January – Nagpur ki pehli Hindi Conference ki yaad; wahi se World Hindi Day bana – Hindi ka sur duniya tak pahuncha.”
+> “Link bana lo: school ke tiffin ke saath 3 crore bacche, par dry ration mein 2,000 crore ka doubt – isiliye ACB + ED dono ki nazar yahan.”
+
+---
+
+## TOPIC 6: Rajasthan Police constable bharti – 10,000 appointment letters & paper leak debate
+
+### Kya hua?
+
+- Jaipur ke Rajasthan Police Academy mein ek bade ceremony mein **10,000 naye constables** ko appointment letters diye gaye.
+- Programme ko Union Home Minister Amit Shah, CM Bhajan Lal Sharma, aur anya netaon ne address kiya.
+- Amit Shah ne claim kiya ki Bhajan Lal sarkar ne Rajasthan ko “**paper leak culture**” se mukt kar diya hai, jo pichhli sarkar ke daur mein shuru hua tha.
+- Unhone data diya ki pichle do saalon mein overall crime lagbhag **14% kam**, serious crimes ~19% kam, murders ~25% kam, women against crime ~10% kam hue hain.
+- CM taraf se yeh bhi kaha gaya ki unke tenure mein 200+ recruitment exams bina kisi paper leak ke successfully karaye gaye.
+- (Reputed sources: ThePrint, PTI, local media – https://theprint.in/india/bhajanlal-govt-ended-paper-leak-culture-started-during-congress-rule-shah/2823880/)
+
+### Rajasthan exams ke liye kyun important?
+
+- Police, CET, RAS sabhi exams ke liye Rajasthan Police recruitment & law‑and‑order ek evergreen topic hai.
+- One‑liners: kitne naye constables (10,000), kis shahar/academy mein ceremony, kaun chief guest tha, paper leak culture phrase kisne use kiya.
+- Paper‑leak free recruitment + digital monitoring future exam reforms ke context mein likhne ke liye fresh point hai.
+
+**Memory Trick – “10 hazaar uniform, zero leak platform”**
+
+> “Socho: ek taraf 10,000 nayi uniform wali line, doosri taraf ‘paper leak zero’ ka board – isi image se exam ka point yaad rahega.”
+
+---
+
+## TOPIC 7: PM‑KUSUM se Phalodi ki Papu Devi – solar se badla jeevan
+
+### Kya hua?
+
+- Rajasthan ke Jodhpur division ke Phalodi (gaon Khara) ki **Papu/Pappu Devi** ka case national media mein highlight hua.
+- Unhone **PM‑KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)** scheme ke tahat apni zameen par solar plant lagaya.
+- Is solar plant se milne wale regular payment ne unki parivaar ki aay ko stable aur predictable bana diya – kheti se alag ek naya income source.
+- IAS officer Arti Dogra ne social media par likha ki pehle woh Papu Devi se Banswara mein PM ki visit ke dauran mili thi, tab Papu Devi scheme ka anubhav share kar rahi thi.
+- Ab dubara milne par Papu Devi load, grid sub‑station (GSS), tripping jaise technical shabdon par confidently baat kar rahi thi – yeh rural mahilaon ki tech literacy ka symbolic example bana.
+- (Reputed source: NDTV feature – https://www.ndtv.com/feature/how-a-government-scheme-helped-this-rajasthan-woman-power-her-future-10595478; First India success story)
+
+### Rajasthan exams ke liye kyun important?
+
+- PM‑KUSUM central scheme hai lekin Rajasthan (especially desert districts) iske implementation ka major state hai – RAS/REET/Patwari exams ke liye relevant.
+- Women empowerment, renewable energy, decentralised solar, farmer income diversification – yeh sab mains ke answers ke liye strong keywords hain.
+- Factual sawal bhi aa sakta hai: Papu Devi ka district (Jodhpur/Phalodi), scheme ka naam, kis prakaar ka plant (solar).
+
+**Memory Trick – “Khara ki kiran, Papu Devi ka power station”**
+
+> “Image banao: Thar ki ret par khadi ek mahila, peeche solar panels – naam yaad: Papu Devi, scheme: PM‑KUSUM.”
+
+---
+
+## TOPIC 8: NSO ke First Advance Estimates – FY26 GDP growth 7.4%
+
+### Kya hua?
+
+- National Statistical Office (NSO) ne FY 2025‑26 (FY26) ke liye **First Advance Estimates of National Income** release kiye.
+- Inke mutabik India ki **real GDP growth 7.4%** rehne ka estimate hai, jo pichle saal ke ~6.5% se upar hai.
+- Services sector lagbhag 9% ke aas‑paas, manufacturing & construction ~7%, agriculture ~3% ke aas‑paas grow karne ka projection hai.
+- Is growth ke saath India “**world’s fastest‑growing major economy**” wali position banaye rakhta hai.
+- (Reputed sources: Deccan Herald, Forbes India – First Advance Estimates reporting; precise numbers ke liye MOSPI/NSO ka official press note dekhna zaroori hai. Agar alag sources mein halka difference mile to exam mein MOSPI ke figure ko hi final maanenge.)
+
+### Rajasthan exams ke liye kyun important?
+
+- Har state exam (RAS, Rajasthan banking, Police, REET) mein “India GDP growth/FY estimates” waale sawal regularly aate hain.
+- Economic survey, budget, growth‑inflation ke concepts revise karne ke liye yeh ek anchor figure hai.
+
+**Memory Trick – “6.5 se badhkar 7.4 – India ka growth score”**
+
+> “Short line: FY25 ~6.5%, FY26 estimate 7.4 – yaad rakho 6 → 7.4 ka jump, India fastest‑growing economy.”
+
+---
+
+## Super Short 1-Liner Revision – Rajasthan (10-01-2026)
+
+1. Jaipur ne Regional AI Impact Conference host karke Rajasthan AI‑ML Policy 2026, AI portal, iStart LMS aur AVGC‑XR portal ko launch/highlight kiya.
+2. Green Credit Voucher Initiative‑2025 mein green projects par investment karne wali companies/ULBs ko tradeable vouchers (max ~₹2.5 crore) milenge.
+3. “Nagauri Ashwagandha” ko GI tag mila – Nagaur (Marwar) ki medicinal fasal ko national/international brand protection.
+4. Illegal mining crackdown mein ek week ke andar 552 actions, 500+ gaadiyan jabt aur ₹2.88 crore se zyada penalty recover hui.
+5. Mid‑day meal dry ration scheme (2020–23) mein lagbhag ₹2,000 crore ke alleged scam par ACB FIR, ab ED money laundering case ki taiyari mein.
+6. Jaipur ke Rajasthan Police Academy mein 10,000 naye constables ko appointment letters mile, paper‑leak free recruitment par zor.
+7. Phalodi ki Papu Devi ka PM‑KUSUM solar plant example rural mahila empowerment + renewable energy dono ko highlight karta hai.
+8. NSO ke First Advance Estimates ke mutabik FY26 mein India ki real GDP growth 7.4% project ki gayi hai.
+9. Rajasthan ke GI products list mein ab Nagauri Ashwagandha bhi Sojat Mehendi, Bikaneri Bhujia, Makrana Marble ke saath jud gaya.
+10. Green vouchers + AI‑ML policy milkar Rajasthan ko future‑ready digital & green economy state banane ki direction dikhate hain.
 
 ---
 
 ## MCQs – Rajasthan Exams (10-01-2026)
 
-### Q1. 10 January 2026 ko Jaipur mein Amit Shah dwara address ki gayi ceremony mein lagbhag kitne yuva Rajasthan Police mein naye constable ke roop mein shamil hue?
+### Q1. Rajasthan Regional AI Impact Conference 2026 kis shehar mein organise ki gayi, jahan Rajasthan AI‑ML Policy 2026 launch hui?
 
-A. Lagbhag 3,000  
-B. Lagbhag 5,000  
-C. Lagbhag 8,000  
-D. Lagbhag 12,000  
+A. Udaipur  
+B. Jaipur  
+C. Jodhpur  
+D. Ajmer  
 
-**Answer:** C  
+**Answer:** B  
 ---
 
-### Q2. PIB press release ke mutabik naye Rajasthan Police constables mein mahilaon ka lagbhag kitna anupaat hai?
+### Q2. “YUVA AI for All” programme ka main objective kya hai?
 
-A. Lagbhag ek-dasva (1/10)  
-B. Lagbhag ek-chautha (1/4)  
-C. Lagbhag ek-teeha (1/3)  
-D. Lagbhag aadha (1/2)  
+A. Har district mein AI labs ke liye grant dena  
+B. 10 lakh yuvaon ko basic AI literacy dena  
+C. Sirf engineering students ko AI scholarships dena  
+D. Private companies ke liye AI tax rebate dena  
 
-**Answer:** C  
+**Answer:** B  
 ---
 
-### Q3. Amit Shah dwara diye gaye aankadon ke mutabik Bhajan Lal sarkar banne ke baad Rajasthan mein murders lagbhag kitne pratishat ghat gaye?
+### Q3. Rajasthan ke Green Credit Voucher Initiative‑2025 ke sambandh mein nimn likhit mein se kaun sa vikalp sahi hai?
 
-A. 10%  
-B. 15%  
-C. 25%  
-D. 40%  
+A. Sirf agriculture loans par interest rebate deta hai  
+B. Green projects ke liye tradable vouchers deta hai, jo ₹2.5 crore tak ho sakte hain  
+C. Sirf individual farmers ko diya jata hai  
+D. Ye sirf transport department ki scheme hai  
 
-**Answer:** C  
+**Answer:** B  
 ---
 
-### Q4. Rajasthan ke mid-day meal case mein ED jis alleged irregularity ki jaanch kar raha hai, uski andazit rashi kitni batayi ja rahi hai?
+### Q4. “Nagauri Ashwagandha” ka GI tag kis state aur kis type ke product se sambandhit hai?
+
+A. Gujarat – textile product  
+B. Rajasthan – medicinal/agricultural product  
+C. Madhya Pradesh – industrial product  
+D. Haryana – dairy product  
+
+**Answer:** B  
+---
+
+### Q5. Rajasthan ke illegal mining crackdown ke recent drive ke baare mein kaun sa pair sahi joda hai?
+
+A. Actions – 200 se kam, Penalty – ₹50 lakh se kam  
+B. Actions – 552 ke aas‑paas, Penalty – ₹2.88 crore se zyada  
+C. Actions – 1000+, Penalty – ₹10 crore se zyada  
+D. Actions – 50, Penalty – sirf ₹5 lakh  
+
+**Answer:** B  
+---
+
+### Q6. Rajasthan mid‑day meal dry ration case mein lagbhag kitni rashi ka alleged scam report hua hai?
 
 A. ₹200 crore  
 B. ₹500 crore  
 C. ₹1,000 crore  
-D. ₹2,000 crore  
+D. ₹2,000 crore ke aas‑paas  
 
 **Answer:** D  
 ---
 
-### Q5. Rajasthan mid-day meal case kis mudde se sambandhit hai?
+### Q7. Mid‑day meal dry ration case mein ED kis kanoon ke tahat money laundering case register karne ki taiyari mein hai?
 
-A. School kitchens mein paka hua bhojan supply se  
-B. Vidyarthiyon ko pulses, oil, masale wale dry ration packets ki supply se  
-C. Naye school buildings ke nirman se  
-D. School uniforms ki kharid se  
+A. Prevention of Corruption Act  
+B. PMLA (Prevention of Money Laundering Act)  
+C. Companies Act, 2013  
+D. FCRA Act  
 
 **Answer:** B  
 ---
 
-### Q6. Jaipur Audi crash, jismein ek vyakti ki maut aur kai log gail hue, kis sthaan ke paas hua?
+### Q8. Jaipur ke Rajasthan Police Academy mein huye ceremony mein lagbhag kitne naye constables ko appointment letters diye gaye?
 
-A. MI Road, Jaipur  
-B. C-Scheme, Jaipur  
-C. Patrakar Colony, Kharabas Circle ke paas  
-D. Vaishali Nagar, Jaipur  
+A. 3,000  
+B. 5,000  
+C. 10,000  
+D. 20,000  
 
 **Answer:** C  
 ---
 
-### Q7. 10 January 2026 ko report hue Jaipur Audi accident case mein kitni maut ki suchna di gayi?
+### Q9. Papu/Pappu Devi (Phalodi, Rajasthan) kis scheme ke tahat apni zameen par solar plant chala kar income kama rahi hain?
 
-A. 0  
-B. 1  
-C. 3  
-D. 5  
+A. PM‑KISAN  
+B. PM‑Awas Yojana (Gramin)  
+C. PM‑KUSUM  
+D. Deendayal Upadhyaya Gram Jyoti Yojana  
 
-**Answer:** B  
+**Answer:** C  
 ---
 
-### Q8. Khelo India Beach Kabaddi tournament ke semi-final mein Rajasthan men’s team ne final mein pahunchne ke liye kis rajya ko haraya?
-
-A. Maharashtra  
-B. Uttar Pradesh  
-C. Gujarat  
-D. Haryana  
-
-**Answer:** B  
----
-
-### Q9. Rajasthan women’s team ne Khelo India Beach Kabaddi semi-final mein final ticket ke liye kis rajya ko haraaya?
-
-A. Maharashtra  
-B. Uttar Pradesh  
-C. Tamil Nadu  
-D. Delhi  
-
-**Answer:** A  
----
-
-### Q10. World Hindi Day har saal kis tareekh ko manaya jata hai?
-
-A. 9 January  
-B. 10 January  
-C. 14 September  
-D. 26 January  
-
-**Answer:** B  
----
-
-### Q11. NSO ke First Advance Estimates (FY26) ke anusar India ki real GDP growth lagbhag kitni project ki gayi hai?
+### Q10. NSO ke First Advance Estimates ke mutabik FY 2025‑26 (FY26) ke liye India ki real GDP growth lagbhag kitni project ki gayi hai?
 
 A. 5.4%  
 B. 6.0%  
@@ -320,12 +321,22 @@ D. 8.5%
 **Answer:** C  
 ---
 
-### Q12. Justice Manoj Kumar Gupta ko haal hi mein kis High Court ka Chief Justice niyukt kiya gaya? (10 January 2026 ke current affairs ke anusaar)
+### Q11. “Nagauri Ashwagandha” ka GI tag kis district se primarily linked hai?
 
-A. Rajasthan High Court  
-B. Delhi High Court  
-C. Uttarakhand High Court  
-D. Allahabad High Court  
+A. Jaisalmer  
+B. Nagaur  
+C. Churu  
+D. Bikaner  
 
-**Answer:** C  
+**Answer:** B  
+---
+
+### Q12. Illegal mining ke khilaf haal hi ke crackdown mein sabse zyada enforcement actions kis district mein report huye?
+
+A. Kota  
+B. Jaipur  
+C. Bharatpur  
+D. Udaipur  
+
+**Answer:** B  
 ---
