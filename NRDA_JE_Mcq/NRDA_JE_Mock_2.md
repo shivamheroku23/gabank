@@ -309,9 +309,7 @@ D. [As] is false, but [R] is true.
 
 ---
 
-## HIGH-LEVEL MATHS & REASONING (Q21–Q30)
 
----
 
 ### Q21. Two partners A and B start a business. A invests ₹75,000 for 12 months, while B invests ₹X for 9 months. At the end of the year, the ratio of their profits is 5 : 3 (A : B). What is the value of X?  
 ### Q21. दो भागीदार A और B व्यापार शुरू करते हैं। A ₹75,000 को 12 माह के लिए और B ₹X को 9 माह के लिए निवेश करता है। वर्ष अंत में लाभ का अनुपात A : B = 5 : 3 है। X का मान क्या है?
