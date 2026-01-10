@@ -410,10 +410,6 @@ D. IV / IV
 **Answer:** B  
 **Explanation:** II में सभी सम संख्याएँ हैं, बाकी में odd या समान difference वाला पैटर्न है।  
 
----
-
-## SECTION B – CIVIL ENGINEERING  
-*(70 Questions, 70 Marks)*
 
 ---
 
