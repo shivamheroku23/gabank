@@ -42,7 +42,8 @@ B. Udaipur
 C. Jodhpur  
 D. Kota  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Conference ka venue official reports me Jaipur mention hai, isliye correct option Jaipur hi hai.
 
 ---
 
@@ -53,7 +54,8 @@ B. Digital India Summit 2026
 C. Rising Rajasthan Global Investment Summit 2026  
 D. Confederation of AI Startups Summit 2026  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye regional meet national level ke India AI Impact Summit 2026 ki pehle se tayyari ke roop me rakhi gayi thi, isliye A sahi hai.
 
 ---
 
@@ -64,7 +66,8 @@ B. Jitin Prasada
 C. CM Bhajan Lal Sharma  
 D. Arvind Kejriwal  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** News coverage me Ashwini Vaishnaw, Jitin Prasada aur CM Bhajan Lal Sharma ka naam aata hai, Arvind Kejriwal ka nahi, isliye D correct hai.
 
 ---
 
@@ -75,7 +78,8 @@ B. Sirf AI hardware design aur semiconductor fabrication
 C. Kheti ke liye AI‑based tractors ka mechanisation  
 D. Schools me teachers ko robots se replace karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Conference agenda AI ko governance, ethics, jobs, startups aur digital twins jaisi fields me responsibly use karne par centred tha.
 
 ---
 
@@ -86,7 +90,8 @@ B. Agriculture extension services
 C. School education curriculum reform  
 D. Tourism promotion  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** e‑Swasthya Samvad health department, medical colleges aur hospitals ke beech VC based review platform hai, isliye yeh health/medical education se linked hai.
 
 ---
 
@@ -97,7 +102,8 @@ B. Mahine me ek baar offline meeting ke roop me
 C. Rozana hospitals ka physical inspection  
 D. Saal me sirf ek baar Health Summit ke dauran  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Guidelines ke hisaab se ye VC review meetings week me do din hoti hain, isliye option A sahi hai.
 
 ---
 
@@ -108,7 +114,8 @@ B. 48 ghante
 C. 72 ghante  
 D. 96 ghante  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Departments ko meeting ke baad maximum 72 hours ke andar ATR bhejna hota hai, isliye C correct hai.
 
 ---
 
@@ -119,7 +126,8 @@ B. National parks me wildlife tourism badhana
 C. Private coaching centres ko regulate karna  
 D. Registani kshetron me irrigation manage karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Platform ka purpose health institutions ki problems ko fast track par review karke transparency aur coordination ko better karna hai.
 
 ---
 
@@ -130,7 +138,8 @@ B. Jodhpur
 C. Ajmer  
 D. Bikaner  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Pravasi Rajasthani Diwas ka main event state capital Jaipur me organise hua, isliye A sahi answer hai.
 
 ---
 
@@ -141,7 +150,8 @@ B. Teacher recruitment exam conduct karna
 C. Rajasthan cricket team ke players select karna  
 D. Sirf folk dance competitions karwana  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Is din ka focus NR Rajasthanis ko culture se jodne ke saath‑saath unke through state me investment lana hai.
 
 ---
 
@@ -152,7 +162,8 @@ B. Lagbhag ₹25,000 crore
 C. Lagbhag ₹1 lakh crore  
 D. Lagbhag ₹5 lakh crore  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Sarkari statements ke mutabik kareeb ₹1 lakh crore ke proposals/priorities show kiye gaye, isliye option C correct hai.
 
 ---
 
@@ -163,7 +174,8 @@ B. Rajnath Singh
 C. Nirmala Sitharaman  
 D. Hardeep Singh Puri  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Commerce &amp; Industry Minister Piyush Goyal ne CM ke saath milkar session address kiya, isliye A sahi hai.
 
 ---
 
@@ -174,7 +186,8 @@ B. EVM machines
 C. Polling booth buildings  
 D. Voter ID printing presses  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Achievement specifically electoral rolls ke full digitisation ka hai, EVM ya booths ka nahi, isliye option A correct hai।
 
 ---
 
@@ -185,7 +198,8 @@ B. National Voters’ Day campaign
 C. Gram Sabha Abhiyan  
 D. Project Udaan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye kaam Election Commission ki Special Intensive Revision exercise ke through kiya gaya tha, isliye A sahi hai.
 
 ---
 
@@ -196,7 +210,8 @@ B. 90%
 C. 97%  
 D. 100%  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Official figures ke mutabik voter mapping kareeb 97% tak pahunch gayi, jo option C se match karti hai.
 
 ---
 
@@ -207,7 +222,8 @@ B. Kareeb 50
 C. Kareeb 100  
 D. Kareeb 200  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Data clean hone ke baad ab average sirf lagbhag 30 voters per booth ke documents hi check karne padte hain.
 
 ---
 
@@ -218,7 +234,8 @@ B. Pushkar Lake, Ajmer
 C. Fateh Sagar Lake, Udaipur  
 D. Sambhar Lake, Jaipur district  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Namo Van Alwar ke Pratap Bandh par develop hua hai, isliye A correct answer hai.
 
 ---
 
@@ -229,7 +246,8 @@ B. Nitin Gadkari
 C. Amit Shah  
 D. Pralhad Joshi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Environment Minister Bhupender Yadav ne is biodiversity park ka udghatan kiya, isliye option A sahi hai.
 
 ---
 
@@ -240,7 +258,8 @@ B. Naya limestone mining hub banna
 C. Nuclear power generation plant banana  
 D. Sirf amusement park ke roop me kaam karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Park ko shehar ka “green lung” bola ja raha hai jo ped‑paudhon se hawa ko saaf banata hai, isliye A correct hai.
 
 ---
 
@@ -251,7 +270,8 @@ B. Urban green cover badhana
 C. Ecological balance restore karna  
 D. IAS officers ko civil services training dena  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** Park ka focus environment aur ecology par hai, IAS training se koi relation nahi, isliye D odd option hai.
 
 ---
 
@@ -262,7 +282,8 @@ B. ₹10,000 crore
 C. ₹50,000 crore  
 D. ₹5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Announcement me Rajasthan ke liye total package lagbhag ₹1.22 lakh crore bataya gaya, isliye A sahi hai.
 
 ---
 
@@ -273,7 +294,8 @@ B. Jaipur
 C. Jaisalmer  
 D. Barmer  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye package tribal‑dominant Banswara district ki rally se launch hua, isliye option A correct hai.
 
 ---
 
@@ -284,7 +306,8 @@ B. Bhakra Nangal Project
 C. Sardar Sarovar Project  
 D. Polavaram Project  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Package me Rajasthan ke Mahi Banswara atomic power project ko include kiya gaya, jo option A me diya hai.
 
 ---
 
@@ -295,7 +318,8 @@ B. Kareeb ₹4,200 crore
 C. Kareeb ₹30,000 crore  
 D. Kareeb ₹90,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Details ke mutabik transmission network strengthen karne ke liye lagbhag ₹13,180 crore allocate kiye gaye.
 
 ---
 
@@ -306,7 +330,8 @@ B. CM Bhajan Lal Sharma
 C. Former CM Ashok Gehlot  
 D. Governor Kalraj Mishra  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** 2025–26 ka Green Budget Deputy CM cum Finance Minister Diya Kumari ne Assembly me pesh kiya.
 
 ---
 
@@ -317,7 +342,8 @@ B. ₹1 lakh crore
 C. ₹10 lakh crore  
 D. ₹2.5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Budget speech me total outlay kareeb ₹5.37 lakh crore bataya gaya, isliye A correct figure hai.
 
 ---
 
@@ -328,7 +354,8 @@ B. ₹60,000 crore
 C. ₹13,180 crore  
 D. ₹9,300 crore  
 
-**Answer:** B
+**Answer:** B  
+**Explanation:** Green Budget ne 9 greenfield expressways ke liye kareeb ₹60,000 crore reserve kiye, jo option B se match karta hai।
 
 ---
 
@@ -339,7 +366,8 @@ B. 500
 C. 5,000  
 D. 50,000  
 
-**Answer:** B
+**Answer:** B  
+**Explanation:** Budget me women‑friendly public toilets ke roop me around 500 pink toilets ka target rakha gaya.
 
 ---
 
@@ -350,7 +378,8 @@ B. Jaipur
 C. Kota  
 D. Jodhpur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye national level kinnar meet Ajmer city me organise hui, isliye A sahi answer hai.
 
 ---
 
@@ -361,7 +390,8 @@ B. Kareeb 500
 C. Kareeb 2,000  
 D. Kareeb 20,000  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Reports ke mutabik all‑India se kareeb 2,000 participants conference me shamil hue, jo option C hai।
 
 ---
 
@@ -372,7 +402,8 @@ B. Gauri Sawant
 C. Laxmi Narayan Tripathi  
 D. Inme se koi nahi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Sammelan ko community ke pramukh vyakti Anita Bai ki yaad me dedicate kiya gaya tha.
 
 ---
 
@@ -383,7 +414,8 @@ B. Durga
 C. Saraswati  
 D. Lakshmi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Kinnar samudaay paramparagat roop se Bahuchara Mata ki aradhana karta hai, isi liye yahan bhi vishesh pooja hui.
 
 ---
 
@@ -394,7 +426,8 @@ B. Suraj Sagar
 C. Ajmer Sarovar  
 D. Maharana Sagar  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Colonial naam Foy Sagar ko change karke ab Varun Sagar rakha gaya hai, jo jal devta Varun se juda hai.
 
 ---
 
@@ -405,7 +438,8 @@ B. Subhash Chandra Bhawan
 C. Lokmanya Tilak Smarak  
 D. Swami Vivekananda Complex  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Bhawan ka naam ab Maharishi Dayanand Vishrant Grih kar diya gaya hai, isliye option A sahi hai।
 
 ---
 
@@ -416,7 +450,8 @@ B. Foreign tourists ko attract karna
 C. Heritage buildings par property tax kam karna  
 D. Unhe private malls me convert karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Policy ka focus decolonisation hai—angrezi hukmaranon ke naam hata kar desi icons ko respect dena।
 
 ---
 
@@ -427,7 +462,8 @@ B. Jaipur Municipal Corporation
 C. Jodhpur Development Authority  
 D. Rajasthan Housing Board  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official resolution Ajmer Municipal Corporation ne pass kiya, jo naming change ka adhikar rakhta hai।
 
 ---
 
@@ -438,7 +474,8 @@ B. Gujarat
 C. Uttar Pradesh  
 D. Bihar  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Imran Khan Mewati Rajasthan ke teacher hain, unka kaam isi state ke rural schools se juda hai, isliye A sahi hai।
 
 ---
 
@@ -449,7 +486,8 @@ B. USD 100,000
 C. USD 10 million  
 D. USD 50,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Global Teacher Prize ki award amount 1 million US dollars hai, jo option A me diya gaya hai।
 
 ---
 
@@ -460,7 +498,8 @@ B. Classical dance &amp; music
 C. National level sports coaching  
 D. Metro rail projects design karne ke liye  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Unhone rural government schools me digital content aur apps se padhai ko easy banaya, isliye unki पहचान ed‑tech innovation se hai।
 
 ---
 
@@ -471,7 +510,8 @@ B. Teachers ko digital tools ka training dena
 C. Students me environmental stewardship badhana  
 D. Badi cities me metro rail projects design karna  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** Unka kaam education aur environment awareness tak seemit hai; metro rail design se unka koi direct role nahi।
 
 ---
 
@@ -482,7 +522,8 @@ B. Sirf ₹11,000 crore
 C. ₹1.22 lakh crore  
 D. Kareeb ₹5,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ₹11,000 crore ke 9 projects + ₹35,300 crore ke 15 projects mila kar roughly ₹46,300 crore bante hain।
 
 ---
 
@@ -493,7 +534,8 @@ B. Sardar Sarovar Project
 C. Rihand Dam  
 D. Hirakud Dam  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM announcements me specifically Ramgarh aur Mahalpur barrage par dhyan diya gaya, jo Rajasthan ke paani se jude projects hain।
 
 ---
 
@@ -504,7 +546,8 @@ B. World’s largest offshore wind farm
 C. Tidal power plant construction  
 D. Nuclear fusion research reactor  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Package me Rajasthan me 2,000 MW capacity ka bada solar park propose hua, isliye option A correct hai।
 
 ---
 
@@ -515,7 +558,8 @@ B. Sabhi private houses par
 C. Sirf school buildings par  
 D. Sirf religious places par  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Focus government offices ki छतों par solar lagakar bijli kharch aur carbon footprint dono kam karne par hai।
 
 ---
 
@@ -526,7 +570,8 @@ B. Kareeb ₹6,346 crore
 C. Kareeb ₹1 lakh crore  
 D. Kareeb ₹90,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official figure ke mutabik Mines &amp; Petroleum MoUs ki total value lagbhag ₹63,463 crore thi, jo A hai।
 
 ---
 
@@ -537,7 +582,8 @@ B. Sirf desert areas me agriculture research karna
 C. School education reforms discuss karna  
 D. Wildlife tourism ka promotional event karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rising Rajasthan ek investment summit brand hai jiska core target naye industries aur jobs lana hai।
 
 ---
 
@@ -548,7 +594,8 @@ B. Industries Minister Col. Rajyavardhan Singh Rathore
 C. Ex‑CM Ashok Gehlot  
 D. Governor Kalraj Mishra  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** CM ne khud investors ko main summit me aane aur projects ko ground par lane ka invite diya, isliye A correct hai।
 
 ---
 
@@ -559,7 +606,8 @@ B. Pravasi Rajasthani Diwas
 C. Desert Festival, Jaisalmer  
 D. Pushkar Fair, Ajmer  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye MoUs investment summit ke pre‑events, yani Rising Rajasthan Pre‑Summit me sign huye।
 
 ---
 
@@ -570,7 +618,8 @@ B. Jodhpur
 C. Kota  
 D. Udaipur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aandhi village Jaipur district me located hai aur zero‑waste model ke liye case‑study ban raha hai।
 
 ---
 
@@ -581,7 +630,8 @@ B. 50 kg
 C. 1 tonne  
 D. 10 kg  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** School campus me lagaya gaya organic waste plant daily approx 100 kg kachra process kar sakta hai।
 
 ---
 
@@ -592,7 +642,8 @@ B. Sirf thermal incineration
 C. Sirf open dumping landfill  
 D. Nuclear waste processing  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Model me khaas taur par organic waste se gas ke liye bio‑methanation aur pani ke treatment ke liye vermifiltration/constructed wetlands use hote hain।
 
 ---
 
@@ -603,7 +654,8 @@ B. Sirf electronic waste
 C. Sirf plastic waste  
 D. Sirf crop residue  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Yahan food, kheti, hospital aur waste‑water sabko alag‑alag tech se energy, compost ya clean water me badla ja raha hai।
 
 ---
 
@@ -614,18 +666,20 @@ B. Rajasthan Integrated Power Scheme 2024
 C. Rural Infrastructure Promotion Scheme 2024  
 D. Rajasthan Industrial Policy Scheme 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official naam Rajasthan Investment Promotion Scheme 2024 hai, jo option A me diya gaya hai।
 
 ---
 
-### Q54. RIPS 2024 ko kis major event se pehle launch kiya gaya?
+### Q54. RIPS 2024 ko kis major event se pehle launch kiya गया?
 
 A. Rising Rajasthan Global Investment Summit 2024  
 B. Pravasi Bharatiya Diwas 2024  
 C. Kumbh Mela 2025  
 D. Vibrant Gujarat Summit 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme ko specifically Rising Rajasthan summit se pehle investors ko attract karne ke liye notify kiya gaya।
 
 ---
 
@@ -636,7 +690,8 @@ B. Sirf agriculture &amp; dairy
 C. Sirf defence manufacturing  
 D. Sirf textile &amp; handicrafts  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Policy documents me manufacturing, services, tourism, IT/ITeS jaise sectors ko sunrise/thrust bataya gaya hai।
 
 ---
 
@@ -647,7 +702,8 @@ B. IT/ITeS companies
 C. Women‑led startups  
 D. Coal mining projects  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** RIPS ka focus clean aur future‑oriented sectors par hai; coal mining ko special incentive list me nahi rakha gaya।
 
 ---
 
@@ -658,7 +714,8 @@ B. Banswara
 C. Barmer  
 D. Bharatpur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** RTI movement ki janmabhoomi Beawar ko hi RTI Museum ke location ke liye choose kiya gaya, isliye A correct hai।
 
 ---
 
@@ -669,7 +726,8 @@ B. Chipko movement
 C. Swadeshi movement  
 D. Narmada Bachao Andolan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** RTI ke shuruaati andolan aur jan sunwaaiyaan Beawar se hi start huyi thi, isi liye yeh RTI movement ka birthplace maana jata hai।
 
 ---
 
@@ -680,7 +738,8 @@ B. Tribal areas me schools ki kami
 C. Cities me electricity tariff badhna  
 D. National caste census ki demand  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Speakers ne bataya ki digital problems ki wajah se lagbhag 13.5 lakh pensioners ki pension ruki, jo digital exclusion ka example hai।
 
 ---
 
@@ -691,7 +750,8 @@ B. Athletes ke liye sports training centre banna
 C. Bollywood films ka museum banna  
 D. Textile designs ka archive banna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Museum ka aim RTI ke itihaas, mahatvapurn cases aur jan‑andolanon ko document karke ek learning centre banana hai।
 
 ---
 
@@ -702,7 +762,8 @@ B. ₹10,000 crore
 C. ₹50,000 crore  
 D. ₹5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Vedanta group ne Rajasthan me combined investment figure 1 lakh crore rupaye se jyada batayi hai, isliye option A sahi hai।
 
 ---
 
@@ -713,7 +774,8 @@ B. Kareeb ₹3,000 crore
 C. Kareeb ₹13,180 crore  
 D. Kareeb ₹63,463 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Breakdown ke mutabik Hindustan Zinc ka share around ₹30,000 crore hai, jo capacity expand aur naya fertiliser plant banane ke liye hai।
 
 ---
 
@@ -724,7 +786,8 @@ B. Kareeb ₹5,000 crore
 C. Kareeb ₹90,000 crore  
 D. Kareeb ₹42,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan blocks me oil‑gas production ko expand karne ke liye Cairn ka proposed investment kareeb ₹35,000 crore hai।
 
 ---
 
@@ -735,7 +798,8 @@ B. 50
 C. 5,000  
 D. 100  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official estimates ke hisaab se core projects ke around 500+ downstream units develop ho sakti hain, isliye A correct hai।
 
 ---
 
@@ -746,7 +810,8 @@ B. NTPC Limited
 C. Adani Green Energy  
 D. Tata Power  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Tariff‑based competitive bidding me ye project Apraava Energy ko award hua, jo option A me diya hai।
 
 ---
 
@@ -757,7 +822,8 @@ B. 2,000 km ke aas‑paas
 C. 20 km ke aas‑paas  
 D. 50 km ke aas‑paas  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Project document me line length roughly 200 km likhi gai hai, isliye A sahi hai।
 
 ---
 
@@ -768,7 +834,8 @@ B. Coal‑based thermal plants
 C. Nuclear power plants  
 D. Hydropower reservoirs  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Yeh line khas taur par solar‑wind RE zones se 5.5 GW green power national grid tak le jane ke liye hai।
 
 ---
 
@@ -779,7 +846,8 @@ B. Jaipur
 C. New Delhi  
 D. Bengaluru  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Company ka corporate headquarter Mumbai city me registered hai, isliye option A correct hai।
 
 ---
 
@@ -790,7 +858,8 @@ B. Udaipur
 C. Mumbai  
 D. Abu Dhabi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Silver jubilee IIFA edition ke liye Pink City Jaipur ko host city choose kiya gaya hai।
 
 ---
 
@@ -801,7 +870,8 @@ B. January 2025
 C. December 2025  
 D. June 2025  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Plan ke mutabik main awards function March 2025 me organise hone wala hai, isliye A sahi hai।
 
 ---
 
@@ -812,7 +882,8 @@ B. Education Department
 C. Power Department  
 D. Rural Development Department  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** MoU Rajasthan Tourism Department ne sign kiya, taaki film tourism ko boost diya ja sake।
 
 ---
 
@@ -823,7 +894,8 @@ B. IIFA Climate Action Awards
 C. IIFA Heritage Awards  
 D. IIFA Tribal Arts Awards  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Is edition me OTT/digital content ko honour karne ke liye naya IIFA Digital Awards segment add kiya ja raha hai।
 
 ---
 
@@ -834,7 +906,8 @@ B. London
 C. Singapore  
 D. New York  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** State ne Gulf investors ko target karne ke liye Dubai me investment promotion meet organise ki।
 
 ---
 
@@ -845,7 +918,8 @@ B. Diya Kumari
 C. Piyush Goyal  
 D. Vasundhara Raje  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Emirates roadshow me Rajasthan delegation ka netritva Industries Minister Col. Rajyavardhan Singh Rathore ne kiya।
 
 ---
 
@@ -856,7 +930,8 @@ B. Defence cooperation agreements sign karna
 C. Farmers ke liye MSP decide karna  
 D. International sports events host karna  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Roadshow ka core agenda tha investors ko batana ki Rajasthan me policies, cost aur infra investment‑friendly hain।
 
 ---
 
@@ -867,7 +942,8 @@ B. Pravasi Rajasthani Diwas
 C. Desert Festival, Jaisalmer  
 D. Pushkar Fair  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye meet main Rising Rajasthan Global Investment Summit ke liye ek pre‑event/curtain raiser ke roop me rakhi gayi।
 
 ---
 
@@ -878,7 +954,8 @@ B. SMS Medical College, Jaipur aur Jhalawar Medical College
 C. Kota Medical College aur Udaipur Medical College  
 D. Bikaner Medical College aur Alwar Medical College  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Hindi medium MBBS ki shuruaat pehle Jodhpur ke SPMC aur Barmer Medical College me ki gayi।
 
 ---
 
@@ -889,7 +966,8 @@ B. Rajasthan University of Health Sciences
 C. AIIMS Jodhpur  
 D. Jawaharlal Nehru University  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Dono colleges Marwar Medical University ke under affiliated hain, isliye option A correct hai।
 
 ---
 
@@ -900,7 +978,8 @@ B. 2023–24
 C. 2022–23  
 D. 2025–26  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** State ne Hindi medium MBBS options academic session 2024–25 se launch kiye।
 
 ---
 
@@ -911,7 +990,8 @@ B. Sirf foreign students
 C. Sirf private medical college students  
 D. Sirf urban CBSE‑board students  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Policy un students ko advantage dene ke liye hai jo school level par Hindi medium me padhkar aate hain, khaaskar rural background wale।
 
 ---
 
@@ -922,7 +1002,8 @@ B. Chandrayaan‑2
 C. Luna‑25  
 D. Artemis I  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISRO ka Chandrayaan‑3 mission hi south polar area ke paas successful soft‑landing ka credit rakhta hai।
 
 ---
 
@@ -933,7 +1014,8 @@ B. Pragyan
 C. Bharati  
 D. Aditya  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mission architecture me lander ka naam Vikram aur rover ka naam Pragyan rakha gaya tha।
 
 ---
 
@@ -944,7 +1026,8 @@ B. Moon
 C. Mars  
 D. Jupiter  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aditya‑L1 India ka first dedicated solar observatory mission hai, jo Surya ka observation karega।
 
 ---
 
@@ -955,7 +1038,8 @@ B. L2
 C. L3  
 D. L4  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Spacecraft ko Sun‑Earth system ke L1 point ke around halo orbit me rakha jayega jahan se continuous solar view milta hai।
 
 ---
 
@@ -966,7 +1050,8 @@ B. 2021
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** New Delhi G20 Summit 2023 India ke presidency year me hua, isliye A correct hai।
 
 ---
 
@@ -977,7 +1062,8 @@ B. “Sabka Saath, Sabka Vikas, Sabka Vishwas”
 C. “Minimum Government, Maximum Governance”  
 D. “Digital India, Skill India”  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Logo aur documents par yahi theme use hua: Vasudhaiva Kutumbakam – One Earth, One Family, One Future।
 
 ---
 
@@ -988,7 +1074,8 @@ B. 2020
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** New Parliament building 2023 me inaugurate hui, jo Central Vista project ka part hai।
 
 ---
 
@@ -999,7 +1086,8 @@ B. Smart Cities Mission
 C. Sagarmala Programme  
 D. Bharatmala Pariyojana  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Sansad bhavan ka naya complex Central Vista Redevelopment ka key component hai, isliye A sahi hai।
 
 ---
 
@@ -1010,7 +1098,8 @@ B. Bade corporate industrial houses
 C. Sirf government employees  
 D. Sirf farmers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme carpenters, blacksmiths, goldsmiths, potters jaise paramparagat kisan‑karigar communities ko support karti hai।
 
 ---
 
@@ -1021,7 +1110,8 @@ B. Free laptops aur smartphones
 C. Free cars aur bungalows  
 D. Free agricultural land  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Isme identity card, training, toolkit aur sasti byaj dar par loan diya jata hai, na ki free luxury items।
 
 ---
 
@@ -1032,7 +1122,8 @@ B. Large industrial factories
 C. Public sector bank employees  
 D. Defence personnel  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM Street Vendor’s AtmaNirbhar Nidhi specifically urban street/hawker vendors ke liye working capital support deta hai।
 
 ---
 
@@ -1043,7 +1134,8 @@ B. Farmers ko crop insurance
 C. Old-age citizens ko pension  
 D. Engineering students ko scholarships  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme ka core benefit small ticket, collateral‑free working capital loan hai jo vendors ko daily business ke liye milta hai।
 
 ---
 
@@ -1054,7 +1146,8 @@ B. ₹10,000
 C. ₹2,000  
 D. ₹12,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑KISAN ke tahat 3 instalments me ₹2,000‑₹2,000‑₹2,000 dekar total ₹6,000 per year diya jata hai।
 
 ---
 
@@ -1065,7 +1158,8 @@ B. 100% household electrification karna
 C. Universal health insurance provide karna  
 D. Sabhi urban poor ko pakka ghar dena  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mission ka tagline hi “Har Ghar Jal” hai, yani har rural ghar me nalkoop se paani pahunchana।
 
 ---
 
@@ -1076,7 +1170,8 @@ B. 10 + 2
 C. 7 + 5  
 D. 6 + 4 + 2  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 ne formal schooling ko 5+3+3+4 structure me reorganise karne ka proposal diya hai।
 
 ---
 
@@ -1087,7 +1182,8 @@ B. 2010
 C. 2018  
 D. 2020  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital India 2015 me launch hua, jiska aim digital infrastructure aur e‑governance ko strong banana hai।
 
 ---
 
@@ -1098,7 +1194,8 @@ B. Jaipur
 C. Bengaluru  
 D. Ahmedabad  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Desertification conference COP14 Greater Noida me hui, isliye option A correct hai।
 
 ---
 
@@ -1109,7 +1206,8 @@ B. Reserve Bank of India (RBI)
 C. Securities and Exchange Board of India (SEBI)  
 D. State Bank of India (SBI)  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Retail inflation ka official index CPI NSO compile aur publish karta hai, RBI sirf policy decisions me use karta hai।
 
 ---
 
@@ -1120,7 +1218,8 @@ B. United States of America
 C. United Kingdom  
 D. Germany  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA ko India aur France ne jointly shuru kiya, jisme solar resource‑rich deshon ko jodna objective hai।
 
 ---
 
@@ -1131,6 +1230,7 @@ B. Jaipur, Rajasthan
 C. Geneva, Switzerland  
 D. New York, USA  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA ka permanent secretariat Gurugram (Haryana) me hai, isliye option A bilkul sahi hai।
 
 ---

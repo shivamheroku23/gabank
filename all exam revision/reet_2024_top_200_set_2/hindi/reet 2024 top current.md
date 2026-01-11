@@ -27,7 +27,8 @@ B. Space Exploration
 C. Nuclear Fusion Research  
 D. पारम्परिक Textiles Weaving  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Conference ka naam hi AI par based tha aur poora agenda Artificial Intelligence ke applications par tha, isliye A सही है।
 
 ---
 
@@ -38,7 +39,8 @@ B. Vibrant Gujarat Summit
 C. India Mobile Congress  
 D. World Economic Forum – India Chapter  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye conference Rajasthan DigiFest aur TiE Global Summit ke saath joint format me hui thi, isliye option A सही उत्तर है।
 
 ---
 
@@ -49,7 +51,8 @@ B. Ethics व Responsible Use
 C. Jobs व Start‑ups  
 D. Cricket Umpiring Rules  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** Conference me governance, ethics, jobs aur startups par focus tha; cricket umpiring rules discuss nahi hue, isliye D अपवाद है।
 
 ---
 
@@ -60,7 +63,8 @@ B. इसमें Governance और Jobs में AI के उपयोग �
 C. दोनों A और B सही हैं।  
 D. न A सही, न B सही।  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Conference January 2026 me Jaipur me hui aur iska major focus governance aur jobs me AI ke use par tha, dono statements सही हैं।
 
 ---
 
@@ -71,7 +75,8 @@ B. किसानों को Krishi Vigyan Kendra से
 C. पर्यटकों को Tourism Officers से  
 D. School Students को Sports Coaches से  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** e‑Swasthya Samvad health sector ka VC platform hai jo medical colleges/hospitals ko state officials se जोड़ता है।
 
 ---
 
@@ -82,7 +87,8 @@ B. 72 घंटे के अंदर ATR (Action‑Taken Report) की अन
 C. Medical Staff व Students के साथ नियमित संवाद  
 D. उपरोक्त सभी  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** Isme regular VC reviews, 72 घंटे ke ATR aur medical staff/students ke saath संवाद—all तीनों शामिल हैं, isliye D सही है।
 
 ---
 
@@ -93,7 +99,8 @@ B. केवल Engineering Colleges
 C. पंचायत के Primary Schools  
 D. Kota की Coaching Institutes  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Platform ka target group sarkari medical colleges aur teaching hospitals hain jahan par quality monitoring zaroori hai।
 
 ---
 
@@ -104,7 +111,8 @@ B. किलों व महलों में पर्यटकों की
 C. नहर क्षेत्रों में सिंचाई व्यवस्था सुधारना  
 D. मार्बल व ग्रेनाइट के निर्यात को बढ़ाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Regular review aur ATR ke through medical education aur hospitals ki समस्याओं ko जल्दी resolve karna hi main उद्देश्य है।
 
 ---
 
@@ -115,7 +123,8 @@ B. केवल Rajasthan आने वाले विदेशी पर्य
 C. केवल Rajasthan के विश्वविद्यालयों के छात्र  
 D. केवल सेवानिवृत्त सरकारी कर्मचारी  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Pravasi Rajasthani Diwas ka focus NR Rajasthanis ko state ke विकास aur branding se जोड़ना है।
 
 ---
 
@@ -126,7 +135,8 @@ B. केवल NRIs के लिए Sports Tournament
 C. केवल Government Job Recruitment Fair  
 D. केवल Folk Music Festival  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Is event me ek taraf सांस्कृतिक कार्यक्रम hote hain, doosri taraf investment sessions, isliye A सही description है।
 
 ---
 
@@ -137,7 +147,8 @@ B. राजस्थान की नई राजधानी शहर की
 C. सभी शहरों में Property Tax समाप्त करना  
 D. राजस्थान का पड़ोसी राज्यों में विलय  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Sarkari आंकड़ों ke mutabik lagbhag ₹1 lakh crore ke projects/proposals event ke दौरान present kiye gaye।
 
 ---
 
@@ -148,7 +159,8 @@ B. राज्य विधानसभा चुनाव लड़ना
 C. Contract पर सरकारी नौकरी लेना  
 D. ज़िलों में स्थानीय अधिकारियों की जगह लेना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Government ne NR Rajasthanis se state me project, industry aur tourism me invest karne ki appeal ki।
 
 ---
 
@@ -159,7 +171,8 @@ B. EVM Machines की कमी
 C. Booth Capturing की घटनाएँ  
 D. कम Voter Turnout  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digitisation ke baad duplicate entries kam hui aur documents baar‑baar जमा/verify karne ki जरूरत bahut reduce ho gayi।
 
 ---
 
@@ -170,7 +183,8 @@ B. Pension की Direct Benefit Transfer
 C. व्यापारियों से GST संग्रह  
 D. Polling Staff की भर्ती  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital rolls se voter registration ka data clear, transparent aur तेजी se update hone lagta hai।
 
 ---
 
@@ -181,7 +195,8 @@ B. IAS Probationers
 C. Police Constables  
 D. School Teachers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Booth Level Officers ne ground par ghar‑ghar jaakar mapping aur data collection kiya, isliye unka role highlight hua।
 
 ---
 
@@ -192,7 +207,8 @@ B. Namo Udyan
 C. Gaurav Van  
 D. Smriti Van  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye park आम बोलचाल me Namo Van ke naam se जाना जाता है, jo option A hai।
 
 ---
 
@@ -203,7 +219,8 @@ B. सड़क परिवहन व राजमार्ग मंत्र�
 C. गृह मंत्रालय  
 D. कोयला व खनन मंत्रालय  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Is park ka उद्घाटन Environment, Forest &amp; Climate Change Minister Bhupender Yadav ne kiya।
 
 ---
 
@@ -214,7 +231,8 @@ B. किसानों को ग्रामीण ऋण उपलब्ध 
 C. स्कूल बच्चों को Digital Education देना  
 D. Heavy Industries बढ़ाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Park ka aim शहर ke liye हरित फेफड़े (green lung) तैयार karna aur biodiversity ko restore karna hai।
 
 ---
 
@@ -225,7 +243,8 @@ B. केवल जयपुर Metro Rail Projects
 C. केवल Sports Stadiums व Cricket Academies  
 D. केवल Udaipur व Kota में IT Parks  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Package me nuclear/solar projects, tribal क्षेत्र, सड़के aur welfare योजनाएँ sab शामिल thiं, jo A se match karti हैं।
 
 ---
 
@@ -236,7 +255,8 @@ B. Thermal (Coal‑Based) Power
 C. Hydroelectric Power  
 D. Wind Power  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mahi Banswara ek nuclear power project hai, isliye yeh nuclear energy se जुड़ा hai।
 
 ---
 
@@ -247,7 +267,8 @@ B. कोहिमा
 C. ईटानगर  
 D. आइज़वाल  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan ke solar hubs me se ek Jaisalmer ko naye solar projects ke liye चुना gaya।
 
 ---
 
@@ -258,7 +279,8 @@ B. 2023–24
 C. 2024–25  
 D. 2026–27  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** 2025–26 ka budget hi state ka first official Green Budget maana gaya।
 
 ---
 
@@ -269,7 +291,8 @@ B. केवल Defence व Internal Security
 C. केवल Film व Entertainment Industry  
 D. केवल Space Exploration  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Budget me energy, expressways aur sanitation tino ko environment‑friendly projects ke roop me push diya gaya।
 
 ---
 
@@ -280,7 +303,8 @@ B. Bullet Train Corridor
 C. New State Capital Project  
 D. Desert Safari Circuit  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ram Jal Setu Link project ke liye kareeb ₹9,300 crore ka provision announcement me diya gaya।
 
 ---
 
@@ -291,7 +315,8 @@ B. 2 दिन
 C. 5 दिन  
 D. 30 दिन  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Samachar anusaar yeh kinnar mahasammelan lagbhag 10 din tak chala, isliye A सही hai।
 
 ---
 
@@ -302,18 +327,20 @@ B. केवल Jewellery व Fashion Stalls
 C. केवल Cinema Ticket Counters  
 D. केवल Food Courts  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Government departments ne stalls ke through health check‑up, banking aur social security jaise समर्थन diye।
 
 ---
 
-### Q27. Ajmer का All India Kinnar Mahasammelan किसके स्मरण में आयोजित किया गया?
+### Q27. Ajmer का All India Kinnar Mahasammेलन किसके स्मरण में आयोजित किया गया?
 
 A. अनीता बाई  
 B. गौरी सावंत  
 C. लक्ष्मी नारायण त्रिपाठी  
 D. उपरोक्त में से कोई नहीं  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye mahasammelan samudaay ki senior neta अनीता बाई ki स्मृति me organise kiya gaya।
 
 ---
 
@@ -324,7 +351,8 @@ B. सभी Heritage Buildings का Privatisation
 C. झीलों को Industrial Zones में बदलना  
 D. British Companies का Nationalisation  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** British era ke naam hata kar desi नाम dena public spaces ke decolonisation ka हिस्सा hai।
 
 ---
 
@@ -335,7 +363,8 @@ B. इंद्र – वर्षा व गर्जन के देवत�
 C. अग्नि – अग्नि के देवता  
 D. वायु – वायु के देवता  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Varun Sagar naam directly Varun dev se inspired hai jo jal/samudra ke देवता माने जाते हैं।
 
 ---
 
@@ -346,7 +375,8 @@ B. Metro Station का निर्माण
 C. Shopping Mall की स्थापना  
 D. IT Park का निर्माण  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** योजना ke mutabik Varun dev ki मूर्ति aur ghat construct karke is sthaan ko dharmik‑tourist point banaya jayega।
 
 ---
 
@@ -357,7 +387,8 @@ B. Abel Prize
 C. Booker Prize  
 D. Ramon Magsaysay Award  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Unhe GEMS/Varkey Foundation ke Global Teacher Prize ke final shortlist me शामिल kiya gaya hai।
 
 ---
 
@@ -368,7 +399,8 @@ B. शहरी अकादमियों में Classical Music Training
 C. महानगरों में IAS Aspirants की Coaching  
 D. Aviation Engineering का Curriculum बनाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Unka innovation rural schools me apps, digital content aur smart teaching ke zariye learning quality badhana hai।
 
 ---
 
@@ -379,7 +411,8 @@ B. बड़े Shopping Malls डिजाइन करना
 C. पेट्रोल पंप की श्रृंखला चलाना  
 D. केवल Online Gaming को बढ़ावा देना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Wo छात्रों ko पेड़ lagane, plastic kam use karne jaise पर्यावरण अनुकूल steps ke liye motivate karte hain।
 
 ---
 
@@ -390,7 +423,8 @@ B. 7 परियोजनाएँ
 C. 15 परियोजनाएँ  
 D. 25 परियोजनाएँ  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Package ka pehla हिस्सा 9 projects ka inauguration tha jinka कुल मूल्य around ₹11,000 crore tha।
 
 ---
 
@@ -401,7 +435,8 @@ B. 9 परियोजनाएँ
 C. 7 परियोजनाएँ  
 D. 20 परियोजनाएँ  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Doosre हिस्से me लगभग ₹35,300 crore ki 15 नई projects ke foundation stone rakhe gaye।
 
 ---
 
@@ -412,7 +447,8 @@ B. कोयला खनन विस्तार
 C. Digital Education Centres  
 D. National Highway Toll Collection  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye dono projects Jaipur region ke liye pani aur सिंचाई व्यवस्था को बेहतर banane ke liye hain।
 
 ---
 
@@ -423,7 +459,8 @@ B. केवल College Sports Infrastructure विकसित करना
 C. केवल Primary School Buildings बनाना  
 D. केवल शहरों में Cinema Halls बनाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mines &amp; Petroleum MoUs se nayi industries, refining, processing units aa kar रोजगार aur GDP dono badhega।
 
 ---
 
@@ -434,7 +471,8 @@ B. International Sports Championship
 C. साहित्यिक उत्सव (Literary Festival)  
 D. धार्मिक सम्मेलन  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rising Rajasthan ek international level ka business/investment summit hai, na ki sports ya religious meet।
 
 ---
 
@@ -445,7 +483,8 @@ B. Primary School Textbook Printing
 C. Clothing Boutiques  
 D. Beauty Parlours  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** MoUs ka focus mineral extraction, oil‑gas aur unke downstream industries par hai, isliye A direct beneficiary hai।
 
 ---
 
@@ -456,7 +495,8 @@ B. Nuclear Fuel Rods
 C. Crude Oil से Diesel  
 D. Wind Energy  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Plant school ke organic waste ko gas me convert karta hai, jo cooking ya बिजली ke liye use ho sakti hai।
 
 ---
 
@@ -467,7 +507,8 @@ B. केवल Open Dumping व Landfilling
 C. केवल Incineration of Waste  
 D. केवल Plastic Shredding  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Model multi‑tech approach hai jisme solid waste ke liye bio‑methanation aur wastewater ke liye vermifiltration/wetlands शामिल हैं।
 
 ---
 
@@ -478,7 +519,8 @@ B. गाँव वालों पर Income Tax बढ़ाना
 C. Urban Slum Clearance  
 D. Automobile Exports  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Kachre ko resource banakar zero‑waste aur circular economy jaisi soch ground level par लागू ki ja rahi है।
 
 ---
 
@@ -489,7 +531,8 @@ B. गुजरात
 C. महाराष्ट्र  
 D. मध्य प्रदेश  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan Investment Promotion Scheme 2024 specifically Rajasthan sarkar ki nayi investment policy hai।
 
 ---
 
@@ -500,7 +543,8 @@ B. केवल बड़े Public Sector Undertakings
 C. केवल Defence PSUs  
 D. केवल Foreign Banks  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme women‑led units, tourism projects jaise segments ko extra benefits dekar inclusive growth ko push karti है।
 
 ---
 
@@ -511,7 +555,8 @@ B. केवल Agriculture, और कोई Sector नहीं
 C. केवल Film व Entertainment Industry  
 D. केवल Defence Manufacturing  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Document me sunrise (jaise renewables, IT/ITeS) aur thrust sectors ko key focus areas bataya gaya hai।
 
 ---
 
@@ -522,7 +567,8 @@ B. Right to Education (RTE) Act
 C. Right to Food Act  
 D. Land Acquisition व Rehabilitation Act  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Museum RTI andolan, RTI Act ke cases aur जानकारी ke अधिकार ke विकास ko showcase karega।
 
 ---
 
@@ -533,7 +579,8 @@ B. जोधपुर ज़िला
 C. कोटा ज़िला  
 D. भरतपुर ज़िला  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Beawar, Ajmer district ka town hai jise RTI movement ki janmbhoomi maana jata hai।
 
 ---
 
@@ -544,7 +591,8 @@ B. लगभग 1.35 लाख लोग
 C. लगभग 1,350 लोग  
 D. लगभग 13,500 लोग  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** भाषणों me bataya gaya ki lagbhag 13.5 lakh pensioners ki pension digital problems ki wajah se ruk gayi thi।
 
 ---
 
@@ -555,7 +603,8 @@ B. लगभग 20,000 नौकरियाँ
 C. लगभग 2,000 नौकरियाँ  
 D. लगभग 20 लाख नौकरियाँ  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Company estimate ke mutabik core aur downstream industries milakar kareeb 2 lakh jobs generate ho sakti hain।
 
 ---
 
@@ -566,7 +615,8 @@ B. सभी Mining Operations बंद करना
 C. अपना Headquarters विदेश शिफ्ट करना  
 D. केवल Jewellery Retail Stores खोलना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** HZL apni zinc capacity badhakar aur ek fertiliser plant lagakar value chain ko expand karega।
 
 ---
 
@@ -577,7 +627,8 @@ B. Textile Mills लगाना
 C. Metro Rail Network बनाना  
 D. Engineering Colleges खोलना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Cairn ka focus Rajasthan ke oil‑gas fields me production enhance karne par hai, textile ya metro par nahi।
 
 ---
 
@@ -588,7 +639,8 @@ B. कोलकाता व चेन्नई
 C. पुणे व नागपुर  
 D. हैदराबाद व विशाखापट्टनम  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Project Jaisalmer aur Barmer ke renewable energy zones se 5.5 GW green power grid tak laane ke liye hai।
 
 ---
 
@@ -599,7 +651,8 @@ B. Nuclear Energy
 C. Thermal (Coal‑Based) Energy  
 D. Diesel Generator‑Based Energy  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Yahan thermal nahi balki solar‑wind jaisi renewable energy ko transmit kiya jayega, isliye A सही है।
 
 ---
 
@@ -610,7 +663,8 @@ B. State Government की Direct Nomination
 C. Lottery System  
 D. Foreign Direct Investment Treaty  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Project ko national TBCB (tariff‑based competitive bidding) process ke through award kiya gaya।
 
 ---
 
@@ -621,7 +675,8 @@ B. IIFA का पहला Edition
 C. IIFA का 100वाँ Edition  
 D. केवल Rajasthan क्षेत्रीय Edition  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** 25th edition ko hi silver jubilee mana jata hai, isliye option A correct hai।
 
 ---
 
@@ -632,7 +687,8 @@ B. IIFA Climate Awards
 C. IIFA Heritage Awards  
 D. IIFA Tribal Arts Awards  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Jaipur IIFA me digital/OTT content ke liye alag IIFA Digital Awards introduce kiye ja rahe hain।
 
 ---
 
@@ -643,7 +699,8 @@ B. Home Department
 C. Finance Department  
 D. Agriculture Department  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan Tourism Department ne IIFA ke saath MoU sign kiya, jisse film tourism ko बढ़ावा milega।
 
 ---
 
@@ -654,7 +711,8 @@ B. दिया कुमारी
 C. पीयूष गोयल  
 D. वसुंधरा राजे  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Dubai roadshow me state delegation ka नेतृत्व Industries Minister Col. Rajyavardhan Singh Rathore ne kiya।
 
 ---
 
@@ -665,7 +723,8 @@ B. सभी Foreign Investment पर प्रतिबंध
 C. केवल Free Tourism Visa Scheme  
 D. Industries की Compulsory Relocation  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Presentation me policy reforms aur cost competitiveness ko highlight kiya gaya, jo investors ke liye key points hote hain।
 
 ---
 
@@ -676,7 +735,8 @@ B. केवल Make in India Programme
 C. केवल Start‑up India Campaign  
 D. केवल Swachh Bharat Mission  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 clearly कहता hai ki higher/professional education me Bharatiya bhashao ka use badhana chahiye, MBBS Hindi iska उदाहरण है।
 
 ---
 
@@ -687,7 +747,8 @@ B. सभी Urban Poor को Free Housing
 C. किसानों को Interest‑Free Loans  
 D. केवल IT Professionals के लिए Skill Training  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑JAY ek health insurance scheme hai jo गरीब परिवारon ko 5 lakh rupaye tak ka cashless इलाज cover deti hai।
 
 ---
 
@@ -698,7 +759,8 @@ B. LPG Connection पर Aadhaar Seeding
 C. नवीनतम चुनाव की Voter List  
 D. Income‑Tax Payers की List  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Beneficiary selection SECC‑2011 data ke deprivation/occupation criteria par based hai।
 
 ---
 
@@ -709,7 +771,8 @@ B. सभी ग्रामीणों को Free Smartphone देना
 C. केवल National Highways बनाना  
 D. हर ज़िले में Airports बनाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SBM‑Grameen ka core लक्ष्य ODF status aur better sanitation infrastructure ensure karna hai।
 
 ---
 
@@ -720,7 +783,8 @@ B. बड़े Corporate CEOs
 C. केवल Central Government Officers  
 D. सरकारी स्कूलों के छात्र  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** APY unorganised workers ko old‑age me निश्चित pension dene ke liye डिजाइन ki gayi है।
 
 ---
 
@@ -731,7 +795,8 @@ B. जीवन भर Free Electricity
 C. जीवन भर Free Ration  
 D. विदेश में Free Higher Education  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme me alag‑alag slabs ke hisaab se guaranteed pension (₹1,000–₹5,000) milti hai।
 
 ---
 
@@ -742,7 +807,8 @@ B. केवल बड़े Public Sector Companies
 C. Foreign Corporations  
 D. केवल Agriculture Co‑operatives  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Stand‑Up India me har bank branch ko कम se कम ek SC/ST aur ek mahila entrepreneur ko greenfield loan dena होता hai।
 
 ---
 
@@ -753,7 +819,8 @@ B. गिरता Crop Production
 C. Textiles Export में कमी  
 D. Bank Branches की कमी  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** BBBP ka main लक्ष्य betiyon ka जन्म, अस्तित्व aur शिक्षा तीनों ko मजबूत karna hai।
 
 ---
 
@@ -764,7 +831,8 @@ B. हर शहर में IT Parks बनाना
 C. केवल IPL के लिए Cricket Stadium बनाना  
 D. केवल Army Personnel को ट्रेनिंग देना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Khelo India talash karta hai ki देश ke कोने‑कोने se युवा players ko पहचानकर unhe systematic training mile।
 
 ---
 
@@ -775,7 +843,8 @@ B. Free Cooking Gas Connections देना
 C. PMGSY के तहत Rural Roads बनाना  
 D. Engineering Students को Scholarships देना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PMJDY ka लक्ष्य har परिवार tak basic bank account pahunchana aur banking services universal banana hai।
 
 ---
 
@@ -786,7 +855,8 @@ B. सभी किसानों को Free Solar Panels
 C. सभी कॉलेज छात्रों को Free Laptops  
 D. सभी गाँवों को Free Internet Connection  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ujjwala Yojana garib mahilaon ko free/सब्सिडी LGP connection dekar unhe धुएँ se bachati hai।
 
 ---
 
@@ -797,7 +867,8 @@ B. Chandrayaan‑2
 C. Luna‑25  
 D. Artemis I  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye historic soft‑landing ISRO ke Chandrayaan‑3 mission ke lander Vikram ne ki।
 
 ---
 
@@ -808,7 +879,8 @@ B. विक्रम (Vikram)
 C. भारती (Bharati)  
 D. आदित्य (Aditya)  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mission me Vikram lander aur Pragyan rover ke naam officially declare kiye gaye the।
 
 ---
 
@@ -819,7 +891,8 @@ B. चंद्रमा
 C. मंगल  
 D. बृहस्पति  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aditya‑L1 Bharatiya solar observatory mission hai jo Surya ki corona, solar wind etc. study karega।
 
 ---
 
@@ -830,7 +903,8 @@ B. L2
 C. L3  
 D. L4  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Spacecraft ko Sun‑Earth system ke L1 point ke aas‑paas halo orbit me rakha jayega, jahan se लगातार सूर्य दिखता hai।
 
 ---
 
@@ -841,7 +915,8 @@ B. 2021
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** 2023 me New Delhi Summit ke saath India ne G20 presidency ka year complete kiya।
 
 ---
 
@@ -852,7 +927,8 @@ B. “सबका साथ, सबका विकास, सबका वि�
 C. “Minimum Government, Maximum Governance”  
 D. “Digital India, Skill India”  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** G20 documents aur logo par yahi theme likha gaya—Vasudhaiva Kutumbakam।
 
 ---
 
@@ -863,7 +939,8 @@ B. 2020
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** New Parliament building ka inauguration May 2023 me hua, isliye A सही है।
 
 ---
 
@@ -874,7 +951,8 @@ B. Smart Cities Mission
 C. Sagarmala Programme  
 D. Bharatmala Pariyojana  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ye पूरी तरह se Central Vista Redevelopment ke तहत बन रही नई सरकारी इमारतों ka हिस्सा hai।
 
 ---
 
@@ -885,7 +963,8 @@ B. बड़े Corporate Houses के लिए
 C. केवल Government Servants के लिए  
 D. केवल Farmers के लिए  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme traditional artisans jaise badhai, lohar, sunaar, kumhaar आदि ko formal economy se जोड़ne ke liye hai।
 
 ---
 
@@ -896,7 +975,8 @@ B. Free Luxury Cars
 C. Free Foreign Tours  
 D. Free Urban Apartments  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Beneficiaries ko Vishwakarma ID, skill upgradation training, toolkit aur sasti ब्याज दर par loan milta hai।
 
 ---
 
@@ -907,7 +987,8 @@ B. Large Industrial Factories
 C. Public Sector Bank Employees  
 D. Defence Personnel  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM Street Vendor’s AtmaNirbhar Nidhi shahar ke रेहड़ी‑पटरी/फेरी वाले vyapariyon ke liye design ki gayi है।
 
 ---
 
@@ -918,7 +999,8 @@ B. Farmers को Crop Insurance
 C. Senior Citizens को Pension  
 D. Engineering Students को Scholarships  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Scheme unko chhota, collateral‑free working capital loan deti hai taaki ve apna business chalaye rakh saken।
 
 ---
 
@@ -929,7 +1011,8 @@ B. ₹10,000
 C. ₹2,000  
 D. ₹12,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑KISAN ke तहत 3 किस्तों me ₹2,000 karke कुल ₹6,000 rupaye pratyek साल diye jate hain।
 
 ---
 
@@ -940,7 +1023,8 @@ B. 100% Household Electrification करना
 C. Universal Health Insurance देना  
 D. सभी Urban Poor को पक्का घर देना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mission ka नारा hi “Har Ghar Jal” hai, matlab har ग्रामीण घर me नल se पीने ka पानी।
 
 ---
 
@@ -951,7 +1035,8 @@ B. 10 + 2
 C. 7 + 5  
 D. 6 + 4 + 2  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 school system ko foundational (5), preparatory (3), middle (3) aur secondary (4) segments me बांटता hai।
 
 ---
 
@@ -962,7 +1047,8 @@ B. 2010
 C. 2018  
 D. 2020  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital India 2015 me launch hua tha, jiska उद्देश्य डिजिटल infrastructure aur online सेवाओं ko बढ़ाना hai।
 
 ---
 
@@ -973,7 +1059,8 @@ B. Jaipur
 C. Bengaluru  
 D. Ahmedabad  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** COP14 ka आयोजन NCR ke Greater Noida me hua, jahan desertification par global चर्चाएँ हुईं।
 
 ---
 
@@ -984,7 +1071,8 @@ B. Reserve Bank of India (RBI)
 C. Securities and Exchange Board of India (SEBI)  
 D. State Bank of India (SBI)  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NSO hi official CPI series compile aur publish karta hai; RBI ise monetary policy ke liye उपयोग karta है।
 
 ---
 
@@ -995,7 +1083,8 @@ B. संयुक्त राज्य अमेरिका
 C. यूनाइटेड किंगडम  
 D. जर्मनी  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA ko India aur France ne joint initiative ke रूप में launch kiya tha taaki solar‑rich deshon ko ek मंच mile।
 
 ---
 
@@ -1006,7 +1095,8 @@ B. जयपुर, राजस्थान
 C. जेनेवा, स्विट्ज़रलैंड  
 D. न्यूयॉर्क, USA  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA ka permanent headquarter Gurugram (Haryana) me स्थापित hai, isliye A सही विकल्प है।
 
 ---
 
@@ -1017,7 +1107,8 @@ B. सभी शहरों में Free Wi‑Fi देना
 C. हर ज़िले में Cricket Stadium बनाना  
 D. नए Railway Zones बनाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SBM‑Urban ka major जोर kachre ki uchit collection, segregation aur scientific processing par hai।
 
 ---
 
@@ -1028,7 +1119,8 @@ B. केवल Online Mode से Tax Payment अनिवार्य कर�
 C. केवल Electric Cars खरीदने को बढ़ावा देना  
 D. केवल Digital Banking को बढ़ावा देना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Fit India ek जन‑आंदोलन hai jo rozana व्यायाम aur स्वस्थ स्वभाव ko प्रोत्साहित karta hai।
 
 ---
 
@@ -1039,7 +1131,8 @@ B. न्यूयॉर्क, USA
 C. पेरिस, फ्रांस  
 D. विएना, ऑस्ट्रिया  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** WHO ke global head office Geneva (Switzerland) me स्थित hain, jo option A hai।
 
 ---
 
@@ -1050,7 +1143,8 @@ B. जेनेवा, स्विट्ज़रलैंड
 C. पेरिस, फ्रांस  
 D. रोम, इटली  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** संयुक्त राष्ट्र का मुख्य मुख्यालय New York City, USA me स्थित hai।
 
 ---
 
@@ -1061,7 +1155,8 @@ B. लंदन, यूनाइटेड किंगडम
 C. बर्लिन, जर्मनी  
 D. टोक्यो, जापान  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** UNESCO (शिक्षा, विज्ञान, संस्कृति संगठन) ka HQ Paris me hai, isliye A सही hai।
 
 ---
 
@@ -1072,7 +1167,8 @@ B. विश्व व्यापार का नियमन
 C. अंतरराष्ट्रीय परमाणु ऊर्जा मानकों का निर्धारण  
 D. वैश्विक Civil Aviation का नियमन  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** UNICEF duniya bhar me बच्चों ke स्वास्थ्य, पोषण, शिक्षा aur संरक्षण ke लिए काम karta hai।
 
 ---
 
@@ -1083,7 +1179,8 @@ B. Military Alliances व Defence Treaties चलाना
 C. International Postal Services चलाना  
 D. Global Sports Regulations बनाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** World Bank development lending aur technical support ke through गरीब/mid‑income देशों ki मदद karta hai।
 
 ---
 
@@ -1094,7 +1191,8 @@ B. International Cricket Tournaments आयोजित करना
 C. Intellectual Property Rights को Regulate करना  
 D. Global Postal Services चलाना  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** IMF exchange‑rate stability, balance of payments support aur global financial system ki निगरानी karta hai।
 
 ---
 
@@ -1105,7 +1203,8 @@ B. 5
 C. 10  
 D. 12  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SAARC ki स्थापना 7 देशों—India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan, Maldives—ke saath hui thi।
 
 ---
 
@@ -1116,6 +1215,7 @@ B. भारत
 C. पाकिस्तान  
 D. श्रीलंका  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** China SAARC ka member hi nahi hai, jabकि India, Pakistan aur Sri Lanka founding members me शामिल hain।
 
 ---

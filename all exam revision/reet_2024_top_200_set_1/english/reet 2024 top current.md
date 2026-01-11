@@ -6,7 +6,7 @@
 ## Aaj ke TOP Current Affairs Topics – Rajasthan Exams (REET 2024 Top 200 – Set 1)
 
 1. [Rajasthan Specific Current Affairs] Rajasthan’s first Green Budget 2025 and major infrastructure, energy and sanitation announcements.
-2. [Rajasthan Specific Current Affairs] Rising Rajasthan investment initiatives – Mines & Petroleum MoUs, RIPS 2024 and Dubai roadshow.
+2. [Rajasthan Specific Current Affairs] Rising Rajasthan investment initiatives – Mines &amp; Petroleum MoUs, RIPS 2024 and Dubai roadshow.
 3. [Rajasthan Specific Current Affairs] Digital governance push – 100% digitised voter rolls, RTI Museum at Beawar, zero‑waste village Aandhi.
 4. [Rajasthan Specific Current Affairs] New policies and schemes – Hindi medium in medical education, e‑Swasthya Samvad platform.
 5. [Rajasthan Specific Current Affairs] Major summits and events – Regional AI Impact Conference 2026, Pravasi Rajasthani Diwas, IIFA Awards in Jaipur.
@@ -14,7 +14,7 @@
 7. [Rajasthan Specific Current Affairs] Social inclusion and culture – All India Kinnar Mahasammelan, renaming of Ajmer landmarks.
 8. [National Current Affairs] Space missions – Chandrayaan‑3, Aditya‑L1 and India’s G20 Presidency.
 9. [National Current Affairs] National flagship schemes – PM Vishwakarma, PM SVANidhi, PM‑Kisan, Jal Jeevan Mission.
-10. [National / International Current Affairs] Renewable energy, climate and multilateral initiatives – ISA, Digital India, COP & CPI related basics.
+10. [National / International Current Affairs] Renewable energy, climate and multilateral initiatives – ISA, Digital India, COP &amp; CPI related basics.
 
 > Coverage focus: Rajasthan‑centric current affairs from late 2024 to end‑2025 + high‑importance national events (Chandrayaan‑3, G20 etc.), following REET Mains trend of ~10–12 months coverage with heavy weight on recent 6–8 months and Rajasthan‑specific issues.
 
@@ -24,8 +24,8 @@
 
 1. Rajasthan presented its first **Green Budget 2025** (₹5.37 lakh crore) with big push to green expressways, power and sanitation.
 2. Rajasthan became India’s **first state to fully digitise voter rolls**, achieving about **97% voter mapping**.
-3. The state launched **RIPS 2024** and signed MoUs worth about **₹63,463 crore** in Mines & Petroleum at the Rising Rajasthan pre‑summit.
-4. **Vedanta** announced plans to invest over **₹1 lakh crore** in Rajasthan across zinc, oil & gas and renewable energy.
+3. The state launched **RIPS 2024** and signed MoUs worth about **₹63,463 crore** in Mines &amp; Petroleum at the Rising Rajasthan pre‑summit.
+4. **Vedanta** announced plans to invest over **₹1 lakh crore** in Rajasthan across zinc, oil &amp; gas and renewable energy.
 5. **Aandhi village (Jaipur)** is moving towards a **zero‑waste model** using bio‑methanation, vermifiltration and constructed wetlands.
 6. Rajasthan introduced **Hindi medium MBBS** at Dr. Sampurnanand Medical College (Jodhpur) and Barmer Medical College under **Marwar Medical University**.
 7. Jaipur will host the **25th IIFA Awards 2025**, including the new **IIFA Digital Awards** category.
@@ -44,7 +44,8 @@ B. Udaipur
 C. Jodhpur  
 D. Kota  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official reports on the Regional AI Impact Conference 2026 clearly mention Jaipur as the host city, so option A is correct.
 
 ---
 
@@ -55,7 +56,8 @@ B. Digital India Summit 2026
 C. Rising Rajasthan Global Investment Summit 2026  
 D. Confederation of AI Startups Summit 2026  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The conference was positioned as a build‑up event for the India AI Impact Summit 2026, hence option A is right.
 
 ---
 
@@ -66,7 +68,8 @@ B. Jitin Prasada
 C. Bhajan Lal Sharma  
 D. Arvind Kejriwal  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** News coverage lists Ashwini Vaishnaw, Jitin Prasada and CM Bhajan Lal Sharma among participants; Arvind Kejriwal was not part of the event.
 
 ---
 
@@ -77,7 +80,8 @@ B. Only AI hardware design and semiconductor fabrication
 C. Agriculture mechanisation using AI-driven tractors  
 D. Replacing teachers with robots in schools  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The agenda focused on how AI can support governance, ethical use, employment and digital twins, so option A best summarises the theme.
 
 ---
 
@@ -88,7 +92,8 @@ B. Agriculture extension services
 C. School education curriculum reform  
 D. Tourism promotion  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** e‑Swasthya Samvad connects health officials, medical colleges and hospitals via VC for reviews, so it belongs to the health and medical education sector.
 
 ---
 
@@ -99,7 +104,8 @@ B. Once a month through physical meetings
 C. Daily physical inspection of hospitals  
 D. Once a year during Health Summit  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The platform schedules video‑conferencing review meetings twice a week, making option A correct.
 
 ---
 
@@ -110,7 +116,8 @@ B. 48 hours
 C. 72 hours  
 D. 96 hours  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Departments are required to file ATRs within 72 hours of each meeting, so the right answer is 72 hours.
 
 ---
 
@@ -121,7 +128,8 @@ B. Promote wildlife tourism in national parks
 C. Regulate private coaching centres  
 D. Manage irrigation projects in desert areas  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The platform is designed to quickly monitor issues and actions in medical colleges and hospitals, strengthening transparency and coordination.
 
 ---
 
@@ -132,7 +140,8 @@ B. Jodhpur
 C. Ajmer  
 D. Bikaner  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Pravasi Rajasthani Diwas 2025 was hosted in the state capital Jaipur, hence option A is correct.
 
 ---
 
@@ -143,7 +152,8 @@ B. Conducting a recruitment exam for teachers
 C. Selecting players for Rajasthan’s state cricket team  
 D. Organising only folk dance competitions  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The event combines cultural outreach with an effort to bring NR Rajasthanis’ investment and networks into the state.
 
 ---
 
@@ -154,7 +164,8 @@ B. About ₹25,000 crore
 C. About ₹1 lakh crore  
 D. About ₹5 lakh crore  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Government statements mention that projects/proposals worth around ₹1 lakh crore were showcased, so option C is right.
 
 ---
 
@@ -165,7 +176,8 @@ B. Rajnath Singh
 C. Nirmala Sitharaman  
 D. Hardeep Singh Puri  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Commerce and Industry Minister Piyush Goyal joined the CM on the dais, therefore option A is correct.
 
 ---
 
@@ -176,7 +188,8 @@ B. EVM machines
 C. Polling booths  
 D. Voter ID printing presses  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan’s achievement was specifically about fully digitised electoral rolls, not EVMs or booths.
 
 ---
 
@@ -187,7 +200,8 @@ B. National Voters’ Day campaign
 C. Gram Sabha Abhiyan  
 D. Project Udaan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Election Commission carried out the digitisation through a Special Intensive Revision of rolls, so A is correct.
 
 ---
 
@@ -198,7 +212,8 @@ B. 90%
 C. 97%  
 D. 100%  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Officials highlighted about 97% mapping accuracy at the time, making option C the correct figure.
 
 ---
 
@@ -209,7 +224,8 @@ B. Around 50
 C. Around 100  
 D. Around 200  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Because most entries were cleaned up digitally, only about 30 voters per booth typically needed document verification.
 
 ---
 
@@ -220,7 +236,8 @@ B. Pushkar Lake, Ajmer
 C. Fateh Sagar Lake, Udaipur  
 D. Sambhar Lake, Jaipur district  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The park has been developed at Pratap Bandh in Alwar, so option A is correct.
 
 ---
 
@@ -231,7 +248,8 @@ B. Nitin Gadkari
 C. Amit Shah  
 D. Pralhad Joshi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Union Environment Minister Bhupender Yadav inaugurated the Namo Van, hence A is right.
 
 ---
 
@@ -242,7 +260,8 @@ B. Acting as a new mining hub for limestone
 C. Providing a site for nuclear power generation  
 D. Functioning only as an amusement park  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It is described as a “green lung” that increases greenery and improves air quality, so option A matches.
 
 ---
 
@@ -253,7 +272,8 @@ B. Enhancing urban green cover
 C. Restoring ecological balance  
 D. Training IAS officers in civil services  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** The park’s goals are ecological and environmental; IAS training is unrelated, making D the odd one out.
 
 ---
 
@@ -264,7 +284,8 @@ B. ₹10,000 crore
 C. ₹50,000 crore  
 D. ₹5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The announced figure for the multi‑sector package was about ₹1.22 lakh crore, hence A is correct.
 
 ---
 
@@ -275,7 +296,8 @@ B. Jaipur
 C. Jaisalmer  
 D. Barmer  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The package was launched from a rally in the tribal‑dominated Banswara district, so option A is right.
 
 ---
 
@@ -286,7 +308,8 @@ B. Bhakra Nangal Dam
 C. Sardar Sarovar Project  
 D. Polavaram Project  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The package included the Mahi Banswara atomic power project located in Rajasthan, making A correct.
 
 ---
 
@@ -297,7 +320,8 @@ B. About ₹4,200 crore
 C. About ₹30,000 crore  
 D. About ₹90,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Around ₹13,180 crore was allocated for strengthening the state’s power transmission network.
 
 ---
 
@@ -308,7 +332,8 @@ B. Bhajan Lal Sharma
 C. Ashok Gehlot  
 D. Kalraj Mishra  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Deputy CM and Finance Minister Diya Kumari presented the Green Budget in the Assembly.
 
 ---
 
@@ -319,7 +344,8 @@ B. ₹1 lakh crore
 C. ₹10 lakh crore  
 D. ₹2.5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Budget documents put the total outlay at about ₹5.37 lakh crore, so option A is right.
 
 ---
 
@@ -330,7 +356,8 @@ B. ₹60,000 crore
 C. ₹13,180 crore  
 D. ₹9,300 crore  
 
-**Answer:** B
+**Answer:** B  
+**Explanation:** The Green Budget allocated roughly ₹60,000 crore for nine greenfield expressway projects.
 
 ---
 
@@ -341,7 +368,8 @@ B. 500
 C. 5,000  
 D. 50,000  
 
-**Answer:** B
+**Answer:** B  
+**Explanation:** Provisions were made for around 500 “pink toilets” to improve women‑friendly public sanitation facilities.
 
 ---
 
@@ -352,7 +380,8 @@ B. Jaipur
 C. Kota  
 D. Jodhpur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The large national‑level Kinnar Mahasammelan was organised in Ajmer, thus A is correct.
 
 ---
 
@@ -363,7 +392,8 @@ B. About 500
 C. About 2,000  
 D. About 20,000  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** Reports mention around 2,000 participants from the transgender community, matching option C.
 
 ---
 
@@ -374,7 +404,8 @@ B. Gauri Sawant
 C. Laxmi Narayan Tripathi  
 D. None of the above  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The event was dedicated to the memory of Anita Bai, a respected figure in the community.
 
 ---
 
@@ -385,7 +416,8 @@ B. Durga
 C. Saraswati  
 D. Lakshmi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Devotees at the Mahasammelan especially worshipped Bahuchara Mata, associated with the Kinnar community.
 
 ---
 
@@ -396,7 +428,8 @@ B. Suraj Sagar
 C. Ajmer Sarovar  
 D. Maharana Sagar  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The colonial‑era name Foy Sagar was changed to Varun Sagar, after the Vedic water deity.
 
 ---
 
@@ -407,7 +440,8 @@ B. Subhash Chandra Bhawan
 C. Lokmanya Tilak Smarak  
 D. Swami Vivekananda Complex  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** As part of decolonisation, King Edward Memorial Bhawan now carries the name Maharishi Dayanand Vishrant Grih.
 
 ---
 
@@ -418,7 +452,8 @@ B. Attract more foreign tourists
 C. Reduce property tax on heritage buildings  
 D. Convert them into private malls  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The stated objective is to shed colonial names and honour Indian icons, hence option A is correct.
 
 ---
 
@@ -429,7 +464,8 @@ B. Jaipur Municipal Corporation
 C. Jodhpur Development Authority  
 D. Rajasthan Housing Board  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The renaming orders were passed by the Ajmer Municipal Corporation, so A is right.
 
 ---
 
@@ -440,7 +476,8 @@ B. Gujarat
 C. Uttar Pradesh  
 D. Bihar  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Imran Khan Mewati is a school teacher from Rajasthan, making option A correct.
 
 ---
 
@@ -451,7 +488,8 @@ B. USD 100,000
 C. USD 10 million  
 D. USD 50,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Global Teacher Prize carries an award of 1 million US dollars, matching option A.
 
 ---
 
@@ -462,7 +500,8 @@ B. Classical dance and music
 C. Sports coaching at national level  
 D. Designing metro rail projects  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** He is known for creating digital content and tech‑based solutions for rural government schools, so A is right.
 
 ---
 
@@ -473,7 +512,8 @@ B. Training teachers in digital tools
 C. Promoting environmental stewardship among students  
 D. Designing metro rail projects in big cities  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** His work is in school education and environment awareness, not in metro rail project design; thus D is the incorrect association.
 
 ---
 
@@ -484,7 +524,8 @@ B. ₹11,000 crore
 C. ₹1.22 lakh crore  
 D. ₹5,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The package combined about ₹11,000 crore of inaugurated works and ₹35,300 crore of new projects, totalling roughly ₹46,300 crore.
 
 ---
 
@@ -495,7 +536,8 @@ B. Sardar Sarovar Project
 C. Rihand Dam  
 D. Hirakud Dam  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The announcements particularly highlighted the Ramgarh and Mahalpur barrage projects for water supply and irrigation.
 
 ---
 
@@ -506,7 +548,8 @@ B. World’s largest offshore wind farm
 C. Construction of a tidal power plant  
 D. Building a nuclear fusion research reactor  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** A 2,000 MW solar park project in Rajasthan was part of the green energy push, so option A is correct.
 
 ---
 
@@ -517,7 +560,8 @@ B. All private houses
 C. Only school buildings  
 D. Only religious places  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The plan emphasised installing rooftop solar systems on government office buildings to cut power bills and emissions.
 
 ---
 
@@ -528,7 +572,8 @@ B. About ₹6,346 crore
 C. About ₹1 lakh crore  
 D. About ₹90,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Official figures put the value of Mines &amp; Petroleum MoUs at roughly ₹63,463 crore, hence A is right.
 
 ---
 
@@ -539,7 +584,8 @@ B. Only agricultural research in desert areas
 C. School education reforms  
 D. Wildlife tourism in sanctuaries  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rising Rajasthan is positioned as a global investment platform to boost industry and growth, so option A is correct.
 
 ---
 
@@ -550,7 +596,8 @@ B. Industries Minister Col. Rajyavardhan Singh Rathore
 C. Former Chief Minister Ashok Gehlot  
 D. Governor Kalraj Mishra  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** CM Bhajan Lal Sharma personally invited investors to join the main summit, making A the right answer.
 
 ---
 
@@ -561,7 +608,8 @@ B. Pravasi Rajasthani Diwas
 C. Desert Festival, Jaisalmer  
 D. Pushkar Fair, Ajmer  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** These MoUs were concluded in the pre‑summit events of Rising Rajasthan, not at cultural fairs or other meets.
 
 ---
 
@@ -572,7 +620,8 @@ B. Jodhpur
 C. Kota  
 D. Udaipur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aandhi is a village in Jaipur district being showcased as a zero‑waste model, so option A is correct.
 
 ---
 
@@ -583,7 +632,8 @@ B. 50 kg
 C. 1 tonne  
 D. 10 kg  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The school’s organic waste bio‑methanation plant is designed for about 100 kg of waste per day.
 
 ---
 
@@ -594,7 +644,8 @@ B. Only thermal incineration of waste
 C. Open dumping in landfills  
 D. Nuclear processing of municipal waste  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The model combines bio‑methanation for organic waste and vermifiltration/constructed wetlands for wastewater.
 
 ---
 
@@ -605,7 +656,8 @@ B. Only electronic waste
 C. Only plastic waste  
 D. Only crop residue  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The initiative treats multiple waste streams—food, agricultural, hospital and wastewater—to recover energy and resources.
 
 ---
 
@@ -616,7 +668,8 @@ B. Rajasthan Integrated Power Scheme 2024
 C. Rural Infrastructure Promotion Scheme 2024  
 D. Rajasthan Industrial Policy Scheme 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The notification clearly expands RIPS 2024 as Rajasthan Investment Promotion Scheme 2024.
 
 ---
 
@@ -627,7 +680,8 @@ B. Pravasi Bharatiya Divas 2024
 C. Kumbh Mela 2025  
 D. Vibrant Gujarat Summit 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme was timed as a policy support before the Rising Rajasthan Global Investment Summit.
 
 ---
 
@@ -638,7 +692,8 @@ B. Only agriculture and dairy
 C. Only defence manufacturing  
 D. Only textile and handicrafts  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The policy lists manufacturing, services, tourism and IT/ITeS among the key sunrise and thrust sectors.
 
 ---
 
@@ -649,7 +704,8 @@ B. IT/ITeS companies
 C. Women‑led startups  
 D. Coal mining projects  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** The focus is on clean, high‑value sectors; coal mining is not a thrust area in the incentive list.
 
 ---
 
@@ -660,7 +716,8 @@ B. Banswara
 C. Barmer  
 D. Bharatpur  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Beawar in Ajmer district, known for the RTI movement, was chosen for the first RTI Museum.
 
 ---
 
@@ -671,7 +728,8 @@ B. Chipko movement
 C. Swadeshi movement  
 D. Narmada Bachao Andolan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The early RTI struggles and campaigns started from Beawar, making it the cradle of the RTI movement.
 
 ---
 
@@ -682,7 +740,8 @@ B. Shortage of schools in tribal areas
 C. Rising electricity tariffs in cities  
 D. Need for a national caste census  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Speakers pointed out that lakhs of pensioners lost benefits due to digital glitches, illustrating digital exclusion.
 
 ---
 
@@ -693,7 +752,8 @@ B. A sports training centre for athletes
 C. A film museum for Bollywood movies  
 D. A textile design archive  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The museum will document RTI struggles, landmark cases and citizen campaigns, serving as a resource hub.
 
 ---
 
@@ -704,7 +764,8 @@ B. ₹10,000 crore
 C. ₹50,000 crore  
 D. ₹5 lakh crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Vedanta’s combined plan for Hindustan Zinc and Cairn Oil &amp; Gas in Rajasthan exceeds ₹1 lakh crore.
 
 ---
 
@@ -715,7 +776,8 @@ B. ₹3,000 crore
 C. ₹13,180 crore  
 D. ₹63,463 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** HZL’s share of the investment is about ₹30,000 crore for capacity expansion and a fertiliser plant.
 
 ---
 
@@ -726,7 +788,8 @@ B. ₹5,000 crore
 C. ₹90,000 crore  
 D. ₹42,000 crore  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Cairn’s planned investment in Rajasthan blocks is around ₹35,000 crore, matching option A.
 
 ---
 
@@ -737,7 +800,8 @@ B. 50
 C. 5,000  
 D. 100  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Projections suggest more than 500 downstream units could emerge around the core investments.
 
 ---
 
@@ -748,7 +812,8 @@ B. NTPC Limited
 C. Adani Green Energy  
 D. Tata Power  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Apraava Energy secured the bid for the 5.5 GW RE evacuation project, hence A is correct.
 
 ---
 
@@ -759,7 +824,8 @@ B. About 2,000 km
 C. About 20 km  
 D. About 50 km  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Project details mention a line length of roughly 200 km, so option A is right.
 
 ---
 
@@ -770,7 +836,8 @@ B. Coal‑based thermal power plants
 C. Nuclear power stations  
 D. Large hydropower reservoirs  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The project is specifically meant to evacuate solar and wind power from renewable energy zones.
 
 ---
 
@@ -781,7 +848,8 @@ B. Jaipur
 C. New Delhi  
 D. Bengaluru  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Apraava Energy’s corporate headquarters are in Mumbai, making A correct.
 
 ---
 
@@ -792,7 +860,8 @@ B. Udaipur
 C. Mumbai  
 D. Abu Dhabi  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The silver jubilee (25th) IIFA ceremony is planned in Jaipur, the Pink City.
 
 ---
 
@@ -803,7 +872,8 @@ B. January 2025
 C. December 2025  
 D. June 2025  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The event has been tentatively scheduled for March 2025, so option A is right.
 
 ---
 
@@ -814,7 +884,8 @@ B. Education Department
 C. Power Department  
 D. Rural Development Department  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The MoU was signed between IIFA and the Tourism Department to promote film tourism.
 
 ---
 
@@ -825,7 +896,8 @@ B. IIFA Climate Action Awards
 C. IIFA Heritage Awards  
 D. IIFA Tribal Arts Awards  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** A new IIFA Digital Awards segment will recognise OTT and digital entertainment content.
 
 ---
 
@@ -836,7 +908,8 @@ B. London
 C. Singapore  
 D. New York  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The state organised an investment promotion roadshow in Dubai before the Rising Rajasthan summit.
 
 ---
 
@@ -847,7 +920,8 @@ B. Diya Kumari
 C. Piyush Goyal  
 D. Vasundhara Raje  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Industries Minister Col. Rajyavardhan Singh Rathore headed the delegation, so option A is correct.
 
 ---
 
@@ -858,7 +932,8 @@ B. Signing defence cooperation agreements
 C. Negotiating agricultural MSP for farmers  
 D. Hosting international sports events  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The roadshow aimed to highlight Rajasthan’s EoDB reforms and sectoral opportunities to global investors.
 
 ---
 
@@ -869,7 +944,8 @@ B. Pravasi Rajasthani Diwas
 C. Desert Festival, Jaisalmer  
 D. Pushkar Fair  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It served as a curtain‑raiser for the upcoming Rising Rajasthan Global Investment Summit.
 
 ---
 
@@ -880,7 +956,8 @@ B. SMS Medical College, Jaipur and Jhalawar Medical College
 C. Kota Medical College and Udaipur Medical College  
 D. Bikaner Medical College and Alwar Medical College  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Hindi‑medium MBBS batches were first offered at SPMC Jodhpur and Barmer Medical College.
 
 ---
 
@@ -891,7 +968,8 @@ B. Rajasthan University of Health Sciences
 C. AIIMS Jodhpur  
 D. Jawaharlal Nehru University  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Both colleges are affiliated to the newly formed Marwar Medical University, so A is correct.
 
 ---
 
@@ -902,7 +980,8 @@ B. 2023–24
 C. 2022–23  
 D. 2025–26  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The option for Hindi‑medium MBBS was introduced from the 2024–25 academic session.
 
 ---
 
@@ -913,7 +992,8 @@ B. Only foreign students
 C. Only private medical college students  
 D. Only urban CBSE‑board students  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The move is intended to support students who studied in Hindi or rural schools and face language barriers.
 
 ---
 
@@ -924,7 +1004,8 @@ B. Chandrayaan‑2
 C. Luna‑25  
 D. Artemis I  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISRO’s Chandrayaan‑3 achieved the historic soft‑landing near the Moon’s south pole on that date.
 
 ---
 
@@ -935,7 +1016,8 @@ B. Pragyan
 C. Bharati  
 D. Aditya  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The lander of Chandrayaan‑3 is called Vikram, while Pragyan is the rover.
 
 ---
 
@@ -946,7 +1028,8 @@ B. The Moon
 C. Mars  
 D. Jupiter  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aditya‑L1 is India’s first dedicated solar observatory mission, focused on the Sun.
 
 ---
 
@@ -957,7 +1040,8 @@ B. L2
 C. L3  
 D. L4  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The spacecraft will orbit around the Sun–Earth L1 Lagrange point for continuous solar observations.
 
 ---
 
@@ -968,7 +1052,8 @@ B. 2021
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** India was the G20 President for the year 2023, hosting the New Delhi Leaders’ Summit.
 
 ---
 
@@ -979,7 +1064,8 @@ B. “Sabka Saath, Sabka Vikas, Sabka Vishwas”
 C. “Minimum Government, Maximum Governance”  
 D. “Digital India, Skill India”  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Sanskrit motto “Vasudhaiva Kutumbakam” with the subtitle “One Earth, One Family, One Future” was adopted as the theme.
 
 ---
 
@@ -990,7 +1076,8 @@ B. 2020
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The new Parliament building was inaugurated in May 2023, so A is correct.
 
 ---
 
@@ -1001,7 +1088,8 @@ B. Smart Cities Mission
 C. Sagarmala Programme  
 D. Bharatmala Pariyojana  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It is a key component of the Central Vista Redevelopment Project in the national capital.
 
 ---
 
@@ -1012,7 +1100,8 @@ B. Large corporate industrial houses
 C. Only government employees  
 D. Only farmers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM Vishwakarma is targeted at traditional artisans and crafts, such as carpenters, blacksmiths, potters and others.
 
 ---
 
@@ -1023,7 +1112,8 @@ B. Free laptops and smartphones
 C. Free cars and bungalows  
 D. Free agricultural land  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme provides Vishwakarma IDs, training, toolkits and concessional loans, not free luxury goods.
 
 ---
 
@@ -1034,7 +1124,8 @@ B. Large industrial factories
 C. Public sector bank employees  
 D. Defence personnel  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM SVANidhi focuses on small urban street vendors and hawkers, offering them working capital support.
 
 ---
 
@@ -1045,7 +1136,8 @@ B. Crop insurance to farmers
 C. Pension to old‑age citizens  
 D. Scholarships to engineering students  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The core component is small, collateral‑free working‑capital loans for street vendors.
 
 ---
 
@@ -1056,7 +1148,8 @@ B. ₹10,000
 C. ₹2,000  
 D. ₹12,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑KISAN provides ₹6,000 per year in three instalments of ₹2,000 each to eligible farmers.
 
 ---
 
@@ -1067,7 +1160,8 @@ B. 100% household electrification
 C. Universal health insurance  
 D. Houses for all urban poor  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The mission’s slogan “Har Ghar Jal” clearly states the goal of tap water in every rural home.
 
 ---
 
@@ -1078,7 +1172,8 @@ B. 10 + 2
 C. 7 + 5  
 D. 6 + 4 + 2  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 replaces the old 10+2 with a 5+3+3+4 curricular and pedagogical structure.
 
 ---
 
@@ -1089,7 +1184,8 @@ B. 2010
 C. 2018  
 D. 2020  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital India was launched in 2015 to transform India into a digitally empowered society and knowledge economy.
 
 ---
 
@@ -1100,7 +1196,8 @@ B. Jaipur
 C. Bengaluru  
 D. Ahmedabad  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** India hosted UNCCD COP14 at Greater Noida in 2019, so option A is right.
 
 ---
 
@@ -1111,7 +1208,8 @@ B. Reserve Bank of India (RBI)
 C. Securities and Exchange Board of India (SEBI)  
 D. State Bank of India (SBI)  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NSO under the Ministry of Statistics compiles and publishes the CPI series for India.
 
 ---
 
@@ -1122,7 +1220,8 @@ B. United States of America
 C. United Kingdom  
 D. Germany  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA is a joint initiative of India and France to promote solar energy cooperation among sun‑rich countries.
 
 ---
 
@@ -1133,6 +1232,7 @@ B. Jaipur, Rajasthan
 C. Geneva, Switzerland  
 D. New York, USA  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA’s permanent headquarters are in Gurugram, Haryana, making A the correct answer.
 
 ---

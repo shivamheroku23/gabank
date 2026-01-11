@@ -27,7 +27,8 @@ B. Space exploration
 C. Nuclear fusion research  
 D. Traditional textile weaving  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The event title and agenda both clearly centre on Artificial Intelligence applications, so option A is correct.
 
 ---
 
@@ -38,7 +39,8 @@ B. Vibrant Gujarat Summit
 C. India Mobile Congress  
 D. World Economic Forum India Chapter  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The conference was clubbed with Rajasthan DigiFest in partnership with TiE Global Summit, hence A is right.
 
 ---
 
@@ -49,7 +51,8 @@ B. Ethics and responsible use
 C. Jobs and start‑ups  
 D. Cricket umpiring rules  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** Discussions focused on policy and economy issues; cricket umpiring rules were not part of the AI agenda.
 
 ---
 
@@ -60,7 +63,8 @@ B. It focused on AI applications in governance and jobs.
 C. Both A and B  
 D. Neither A nor B  
 
-**Answer:** C
+**Answer:** C  
+**Explanation:** The conference took place in Jaipur in January 2026 and highlighted AI in governance and employment, so both statements are true.
 
 ---
 
@@ -71,7 +75,8 @@ B. Farmers with Krishi Vigyan Kendras
 C. Tourists with Rajasthan Tourism officers  
 D. School students with sports coaches  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** e‑Swasthya Samvad is a health‑sector VC platform connecting medical colleges and hospital staff with government officials.
 
 ---
 
@@ -82,7 +87,8 @@ B. ATR (Action‑Taken Report) to be sent within 72 hours
 C. Regular interaction with medical staff and students  
 D. All of the above  
 
-**Answer:** D
+**Answer:** D  
+**Explanation:** The initiative combines regular VC reviews, ATR deadlines and ongoing interactions, so all given features apply.
 
 ---
 
@@ -93,7 +99,8 @@ B. Engineering colleges only
 C. Panchayat primary schools  
 D. Coaching centres in Kota  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The tool is designed mainly for state medical colleges and teaching hospitals to monitor issues and improvements.
 
 ---
 
@@ -104,7 +111,8 @@ B. Higher tourist footfall in forts and palaces
 C. Better irrigation facilities in canal command areas  
 D. Increased export of marble and granite  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** By tracking decisions and ATRs, the platform aims to speed up problem‑solving in health and medical education.
 
 ---
 
@@ -115,7 +123,8 @@ B. Only foreign tourists visiting Rajasthan
 C. Only students studying in Rajasthan’s universities  
 D. Only retired government employees  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The event focuses on engaging Non‑Resident Rajasthanis as investors and ambassadors for the state.
 
 ---
 
@@ -126,7 +135,8 @@ B. Only a sports tournament for NRIs
 C. Only a government job recruitment fair  
 D. Only a folk music festival  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It blends cultural programmes with investment meetings, so A best describes its dual nature.
 
 ---
 
@@ -137,7 +147,8 @@ B. Declaration of a new capital city for Rajasthan
 C. Abolition of property tax in all cities  
 D. Merger of Rajasthan with neighbouring states  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The state highlighted around ₹1 lakh crore worth of projects and proposals linked to NR Rajasthanis.
 
 ---
 
@@ -148,7 +159,8 @@ B. Contest in state assembly elections
 C. Take up government jobs on contract  
 D. Replace local officials in districts  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NR Rajasthanis were urged to bring capital, ideas and goodwill back to their home state.
 
 ---
 
@@ -159,7 +171,8 @@ B. Shortage of EVM machines
 C. Booth capturing incidents  
 D. Low voter turnout  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** With voter data available digitally, most duplication errors were removed and repeated document checks dropped sharply.
 
 ---
 
@@ -170,7 +183,8 @@ B. Direct benefit transfer of pensions
 C. GST collection from traders  
 D. Recruitment of polling staff  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital rolls make additions, deletions and corrections more transparent and efficient.
 
 ---
 
@@ -181,7 +195,8 @@ B. IAS probationers
 C. Police constables  
 D. School teachers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** BLOs worked door‑to‑door for mapping and documentation, so their contribution was specifically recognised.
 
 ---
 
@@ -192,7 +207,8 @@ B. Namo Udyan
 C. Gaurav Van  
 D. Smriti Van  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The site is commonly referred to as Namo Van, the local name for the biodiversity park.
 
 ---
 
@@ -203,7 +219,8 @@ B. Road Transport and Highways
 C. Home Affairs  
 D. Coal and Mines  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Environment Minister Bhupender Yadav inaugurated the park, so the Environment Ministry is correct.
 
 ---
 
@@ -214,7 +231,8 @@ B. Providing rural credit to farmers
 C. Digital education for school children  
 D. Promoting heavy industries  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The project aims to restore ecology and act as a “green lung” in an urban region.
 
 ---
 
@@ -225,7 +243,8 @@ B. Only metro rail projects in Jaipur
 C. Only sports stadiums and cricket academies  
 D. Only IT parks in Udaipur and Kota  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The package combined energy, roads, tribal areas and welfare initiatives, in line with option A.
 
 ---
 
@@ -236,7 +255,8 @@ B. Thermal coal‑based power
 C. Hydroelectric power  
 D. Wind power  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Mahi Banswara is a nuclear power project, not dam or wind‑based, so A is correct.
 
 ---
 
@@ -247,7 +267,8 @@ B. Kohima
 C. Itanagar  
 D. Aizawl  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Jaisalmer, with its high solar potential, was named for further solar power capacity additions.
 
 ---
 
@@ -258,7 +279,8 @@ B. 2023–24
 C. 2024–25  
 D. 2026–27  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The 2025–26 budget was framed as Rajasthan’s first Green Budget.
 
 ---
 
@@ -269,7 +291,8 @@ B. Only defence and internal security
 C. Only film and entertainment industry  
 D. Only space exploration  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Green allocations clustered around power, expressways and sanitation projects.
 
 ---
 
@@ -280,7 +303,8 @@ B. Bullet train corridor
 C. New state capital project  
 D. Desert safari circuit  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Ram Jal Setu Link received a sizeable allocation of about ₹9,300 crore.
 
 ---
 
@@ -291,7 +315,8 @@ B. 2 days
 C. 5 days  
 D. 30 days  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Reports describe it as a 10‑day long national‑level gathering, hence A is correct.
 
 ---
 
@@ -302,7 +327,8 @@ B. Only jewellery and fashion stalls
 C. Only cinema ticket counters  
 D. Only food courts  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Government departments and banks set up stalls to offer health, banking and welfare support to participants.
 
 ---
 
@@ -313,7 +339,8 @@ B. Gauri Sawant
 C. Laxmi Narayan Tripathi  
 D. None of the above  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Mahasammelan commemorated Anita Bai, a respected figure in the Kinnar community.
 
 ---
 
@@ -324,7 +351,8 @@ B. Privatisation of all heritage buildings
 C. Conversion of lakes into industrial zones  
 D. Nationalisation of British companies  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Changing colonial names to Indian ones is part of the decolonisation and heritage revival process.
 
 ---
 
@@ -335,7 +363,8 @@ B. Indra – god of rain and thunder
 C. Agni – god of fire  
 D. Vayu – god of wind  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The lake is now named after Varun, the Vedic deity of waters, making A correct.
 
 ---
 
@@ -346,7 +375,8 @@ B. Building of a metro station
 C. Setting up a shopping mall  
 D. Construction of an IT park  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Plans include a ghat and a statue of Lord Varun to match the new name and cultural theme.
 
 ---
 
@@ -357,7 +387,8 @@ B. Abel Prize
 C. Booker Prize  
 D. Ramon Magsaysay Award  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** He is among the finalists for the Global Teacher Prize run by GEMS Education and Varkey Foundation.
 
 ---
 
@@ -368,7 +399,8 @@ B. Training classical musicians in urban academies
 C. Providing coaching for IAS aspirants in metros  
 D. Developing curriculum for aviation engineering  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** His recognition comes from his use of apps and digital content to transform learning in rural schools.
 
 ---
 
@@ -379,7 +411,8 @@ B. Designing large shopping malls in cities
 C. Running a chain of petrol pumps  
 D. Promoting only online gaming  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Along with academics and tech, he encourages eco‑friendly habits like tree‑plantation among students.
 
 ---
 
@@ -390,7 +423,8 @@ B. 7 projects
 C. 15 projects  
 D. 25 projects  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The first component featured inauguration of 9 completed projects worth about ₹11,000 crore.
 
 ---
 
@@ -401,7 +435,8 @@ B. 9 projects
 C. 7 projects  
 D. 20 projects  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** An additional 15 projects with a value of around ₹35,300 crore had their foundation stones laid.
 
 ---
 
@@ -412,7 +447,8 @@ B. Coal mining expansion
 C. Digital education centres  
 D. National highway toll collection  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Both barrages are designed to augment water supply and irrigation, particularly around Jaipur.
 
 ---
 
@@ -423,7 +459,8 @@ B. Only college sports infrastructure
 C. Only primary school buildings  
 D. Only cinema halls in cities  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** These MoUs focus on bringing in investment in mining and energy, feeding into broader economic growth.
 
 ---
 
@@ -434,7 +471,8 @@ B. An international sports championship
 C. A literary festival for authors  
 D. A religious congregation  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rising Rajasthan is the state’s flagship business and investment summit, not a sports or religious event.
 
 ---
 
@@ -445,7 +483,8 @@ B. Primary school textbooks printing
 C. Clothing boutiques  
 D. Beauty parlours  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The signed MoUs concern mining blocks, oil &amp; gas, and related downstream units.
 
 ---
 
@@ -456,7 +495,8 @@ B. Nuclear fuel rods
 C. Diesel from crude oil  
 D. Wind energy  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Organic waste from the school is processed to generate biogas and possibly electricity/heat.
 
 ---
 
@@ -467,7 +507,8 @@ B. Only open dumping and landfilling
 C. Only incineration of all waste  
 D. Only plastic shredding  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The model integrates bio‑methanation for solid waste and natural treatment systems for wastewater.
 
 ---
 
@@ -478,7 +519,8 @@ B. Higher income tax on villagers
 C. Urban slum clearance  
 D. Automobile exports  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The project tries to see waste as a resource, a classic example of circular economy and waste minimisation.
 
 ---
 
@@ -489,7 +531,8 @@ B. Gujarat
 C. Maharashtra  
 D. Madhya Pradesh  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Rajasthan issued RIPS 2024 as its key investment promotion scheme.
 
 ---
 
@@ -500,7 +543,8 @@ B. Only large public sector undertakings
 C. Only defence PSUs  
 D. Only foreign banks  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme emphasises incentives for women‑led enterprises and tourism units to promote inclusivity.
 
 ---
 
@@ -511,7 +555,8 @@ B. Only agriculture with no other sector
 C. Only film and entertainment industry  
 D. Only defence manufacturing  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Policy documents list “sunrise” and “thrust” sectors as the main focus of incentives.
 
 ---
 
@@ -522,7 +567,8 @@ B. Right to Education (RTE) Act
 C. Right to Food Act  
 D. Right to Fair Compensation Act  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The museum will focus on India’s RTI movement and cases, so the RTI Act is central.
 
 ---
 
@@ -533,7 +579,8 @@ B. Jodhpur district
 C. Kota district  
 D. Bharatpur district  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Beawar is a town in Ajmer district, known historically for RTI activism.
 
 ---
 
@@ -544,7 +591,8 @@ B. Around 1.35 lakh people
 C. Around 1,350 people  
 D. Around 13,500 people  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Activists pointed out that roughly 13.5 lakh pensioners lost benefits temporarily due to digital issues.
 
 ---
 
@@ -555,7 +603,8 @@ B. About 20,000 jobs
 C. About 2,000 jobs  
 D. About 20 lakh jobs  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Company projections mention around two lakh direct and indirect jobs from the investment.
 
 ---
 
@@ -566,7 +615,8 @@ B. Shut down all mining operations
 C. Shift its headquarters outside India  
 D. Open only retail jewellery stores  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** HZL’s plan includes doubling zinc output and establishing a fertiliser plant, not closing operations.
 
 ---
 
@@ -577,7 +627,8 @@ B. Setting up textile mills
 C. Building metro rail networks  
 D. Opening engineering colleges  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Cairn’s proposals are aimed at enhancing oil and gas production in Rajasthan’s fields.
 
 ---
 
@@ -588,7 +639,8 @@ B. Kolkata and Chennai
 C. Pune and Nagpur  
 D. Hyderabad and Visakhapatnam  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The 5.5 GW project evacuates solar and wind power from RE zones in Jaisalmer and Barmer.
 
 ---
 
@@ -599,7 +651,8 @@ B. Nuclear energy
 C. Thermal coal‑based energy  
 D. Diesel generator‑based energy  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The line is specifically for solar‑ and wind‑generated electricity, i.e., renewable energy.
 
 ---
 
@@ -610,7 +663,8 @@ B. Direct nomination by the state
 C. Lottery system  
 D. Foreign direct investment treaty  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The project was awarded via a tariff‑based competitive bidding process, as per normal practice.
 
 ---
 
@@ -621,7 +675,8 @@ B. First ever IIFA ceremony
 C. Centenary edition of IIFA  
 D. Only regional edition for Rajasthan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The 25th edition is the silver jubilee celebration of the IIFA Awards.
 
 ---
 
@@ -632,7 +687,8 @@ B. IIFA Climate Awards
 C. IIFA Heritage Awards  
 D. IIFA Tribal Arts Awards  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** A special IIFA Digital Awards segment will honour work on OTT and digital platforms.
 
 ---
 
@@ -643,7 +699,8 @@ B. Home Department
 C. Finance Department  
 D. Agriculture Department  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The Rajasthan Tourism Department partnered with IIFA to bring the awards to Jaipur.
 
 ---
 
@@ -654,7 +711,8 @@ B. Diya Kumari
 C. Piyush Goyal  
 D. Vasundhara Raje  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Industries Minister Col. Rathore led the state delegation during the Dubai roadshow.
 
 ---
 
@@ -665,7 +723,8 @@ B. Ban on all foreign investment
 C. Only free tourism visa scheme  
 D. Compulsory relocation of industries  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Presentations in Dubai stressed simplified procedures and lower operating costs in Rajasthan.
 
 ---
 
@@ -676,7 +735,8 @@ B. Only Make in India programme
 C. Only Start‑up India campaign  
 D. Only Swachh Bharat Mission  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 strongly encourages the use of Indian languages in professional and higher education, matching this step.
 
 ---
 
@@ -687,7 +747,8 @@ B. Free housing to all urban poor
 C. Interest‑free loans to farmers  
 D. Skill training for IT professionals only  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑JAY is India’s flagship public health insurance scheme, offering ₹5 lakh cover per family per year.
 
 ---
 
@@ -698,7 +759,8 @@ B. Aadhaar seeding of LPG connections
 C. Voter list of the latest election  
 D. List of income‑tax payers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme relies on SECC‑based deprivation and occupation criteria for rural and urban families.
 
 ---
 
@@ -709,7 +771,8 @@ B. Providing free smartphones to all villagers
 C. Building only national highways  
 D. Constructing airports in every district  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SBM‑Gramin’s focus is ODF and improved sanitation infrastructure in rural India.
 
 ---
 
@@ -720,7 +783,8 @@ B. Large corporate CEOs
 C. Central government officers only  
 D. Students in government schools  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** APY is a pension scheme for unorganised sector workers, with co‑contribution for eligible subscribers.
 
 ---
 
@@ -731,7 +795,8 @@ B. Free electricity for life
 C. Free ration for life  
 D. Free higher education abroad  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** APY assures a predefined minimum pension amount after age 60, depending on contributions.
 
 ---
 
@@ -742,7 +807,8 @@ B. Only large public sector companies
 C. Foreign corporations  
 D. Only agriculture co‑operatives  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Stand‑Up India targets SC/ST and women for greenfield enterprise loans between ₹10 lakh and ₹1 crore.
 
 ---
 
@@ -753,7 +819,8 @@ B. Falling crop production
 C. Low exports of textiles  
 D. Shortage of bank branches  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme responds to adverse child sex ratio and aims to improve survival and education of girls.
 
 ---
 
@@ -764,7 +831,8 @@ B. Setting up IT parks in all cities
 C. Only building cricket stadiums for IPL  
 D. Training only army personnel  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Khelo India finances sports infrastructure and scouts young athletes at the grassroots level.
 
 ---
 
@@ -775,7 +843,8 @@ B. Providing free cooking gas connections
 C. Building rural roads under PMGSY  
 D. Giving scholarships for engineering students  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PMJDY’s core objective is to bring every household into the formal banking system with basic accounts.
 
 ---
 
@@ -786,7 +855,8 @@ B. Free solar panels to all farmers
 C. Free laptops to college students  
 D. Free internet connections in all villages  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Ujjwala offers subsidised LPG connections to poor women to reduce dependence on biomass cooking.
 
 ---
 
@@ -797,7 +867,8 @@ B. Chandrayaan‑2
 C. Luna‑25  
 D. Artemis I  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Chandrayaan‑3’s Vikram lander achieved the historic south‑polar region touchdown on that date.
 
 ---
 
@@ -808,7 +879,8 @@ B. Vikram
 C. Bharati  
 D. Aditya  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** In the mission, Vikram is the lander and Pragyan is the rover exploring the lunar surface.
 
 ---
 
@@ -819,7 +891,8 @@ B. The Moon
 C. Mars  
 D. Jupiter  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Aditya‑L1 is India’s solar mission, dedicated to observing the Sun’s corona and solar wind.
 
 ---
 
@@ -830,7 +903,8 @@ B. L2
 C. L3  
 D. L4  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It will orbit the Sun–Earth L1 point, giving a continuous, unobstructed view of the Sun.
 
 ---
 
@@ -841,7 +915,8 @@ B. 2021
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** India was the G20 President in 2023, culminating in the New Delhi summit.
 
 ---
 
@@ -852,7 +927,8 @@ B. “Sabka Saath, Sabka Vikas, Sabka Vishwas”
 C. “Minimum Government, Maximum Governance”  
 D. “Digital India, Skill India”  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The theme emphasised global unity and sustainability under the phrase “Vasudhaiva Kutumbakam.”
 
 ---
 
@@ -863,7 +939,8 @@ B. 2020
 C. 2022  
 D. 2024  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The new Parliament building opened in 2023 as part of the Central Vista revamp.
 
 ---
 
@@ -874,7 +951,8 @@ B. Smart Cities Mission
 C. Sagarmala Programme  
 D. Bharatmala Pariyojana  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It is one of the flagship structures under the Central Vista Redevelopment Project.
 
 ---
 
@@ -885,7 +963,8 @@ B. Large corporate houses
 C. Only government servants  
 D. Only farmers  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The scheme targets traditional craftsmen like carpenters, barbers, goldsmiths, potters and other Vishwakarma communities.
 
 ---
 
@@ -896,7 +975,8 @@ B. Free luxury cars
 C. Free foreign tours  
 D. Free urban apartments  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** It offers Vishwakarma ID, skill upgrading, toolkits and subsidised credit rather than free consumer goods.
 
 ---
 
@@ -907,7 +987,8 @@ B. Large industrial factories
 C. Public sector bank employees  
 D. Defence personnel  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM SVANidhi provides small loans to urban street vendors for working capital.
 
 ---
 
@@ -918,7 +999,8 @@ B. Crop insurance to farmers
 C. Pension to senior citizens  
 D. Scholarships to engineering students  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Its core benefit is a collateral‑free working capital loan, often starting at ₹10,000.
 
 ---
 
@@ -929,7 +1011,8 @@ B. ₹10,000
 C. ₹2,000  
 D. ₹12,000  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** PM‑KISAN provides ₹6,000 per year in three equal instalments to farmer families.
 
 ---
 
@@ -940,7 +1023,8 @@ B. 100% household electrification
 C. Universal health insurance  
 D. Houses for all urban poor  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The mission’s goal is “Har Ghar Jal”—tap water in every rural household.
 
 ---
 
@@ -951,7 +1035,8 @@ B. 10 + 2
 C. 7 + 5  
 D. 6 + 4 + 2  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NEP 2020 restructures schooling into foundational, preparatory, middle and secondary stages: 5+3+3+4.
 
 ---
 
@@ -962,7 +1047,8 @@ B. 2010
 C. 2018  
 D. 2020  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Digital India was launched in 2015 to expand digital infrastructure and online services.
 
 ---
 
@@ -973,7 +1059,8 @@ B. Jaipur
 C. Bengaluru  
 D. Ahmedabad  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** India hosted UNCCD COP14 at Greater Noida in 2019, so option A is correct.
 
 ---
 
@@ -984,7 +1071,8 @@ B. Reserve Bank of India (RBI)
 C. Securities and Exchange Board of India (SEBI)  
 D. State Bank of India (SBI)  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** NSO under the Statistics Ministry compiles and publishes CPI data; RBI only uses it for policy.
 
 ---
 
@@ -995,7 +1083,8 @@ B. United States of America
 C. United Kingdom  
 D. Germany  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** India and France together initiated the ISA to mobilise solar‑rich countries.
 
 ---
 
@@ -1006,7 +1095,8 @@ B. Jaipur, Rajasthan
 C. Geneva, Switzerland  
 D. New York, USA  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** ISA’s permanent secretariat is based in Gurugram in the National Capital Region.
 
 ---
 
@@ -1017,7 +1107,8 @@ B. Providing free Wi‑Fi in all cities
 C. Building cricket stadiums in every district  
 D. Constructing new railway zones  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SBM‑Urban emphasises waste collection, segregation and scientific disposal in cities.
 
 ---
 
@@ -1028,7 +1119,8 @@ B. Only tax payment through online mode
 C. Only purchase of electric cars  
 D. Only digital banking  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** Fit India is a behavioural campaign to motivate regular exercise and fitness among people.
 
 ---
 
@@ -1039,7 +1131,8 @@ B. New York, USA
 C. Paris, France  
 D. Vienna, Austria  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** WHO’s global headquarters are in Geneva, Switzerland, so A is correct.
 
 ---
 
@@ -1050,7 +1143,8 @@ B. Geneva, Switzerland
 C. Paris, France  
 D. Rome, Italy  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The main UN headquarters complex is in New York City, USA.
 
 ---
 
@@ -1061,7 +1155,8 @@ B. London, United Kingdom
 C. Berlin, Germany  
 D. Tokyo, Japan  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** UNESCO (education, science and culture) is headquartered in Paris.
 
 ---
 
@@ -1072,7 +1167,8 @@ B. Regulation of world trade
 C. International atomic energy standards  
 D. Global civil aviation  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** UNICEF works for child health, nutrition, education and protection worldwide.
 
 ---
 
@@ -1083,7 +1179,8 @@ B. Military alliances and defence treaties
 C. International postal services  
 D. Global sports regulations  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The World Bank supports development through loans, grants and expert advice.
 
 ---
 
@@ -1094,7 +1191,8 @@ B. Run international cricket tournaments
 C. Regulate intellectual property rights  
 D. Manage global postal services  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** The IMF focuses on exchange‑rate stability, balance‑of‑payments support and global financial stability.
 
 ---
 
@@ -1105,7 +1203,8 @@ B. 5
 C. 10  
 D. 12  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** SAARC began with seven members—India, Pakistan, Bangladesh, Sri Lanka, Nepal, Bhutan and Maldives.
 
 ---
 
@@ -1116,6 +1215,7 @@ B. India
 C. Pakistan  
 D. Sri Lanka  
 
-**Answer:** A
+**Answer:** A  
+**Explanation:** China is not a SAARC member; all other listed countries are founding members.
 
 ---
